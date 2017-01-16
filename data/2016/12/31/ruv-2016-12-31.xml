@@ -1,0 +1,1093 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-01-16 12:37" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="1" service-name="RÚV" date="2016-12-31">
+    <event event-id="4785248" serie-id="" start-time="2016-12-31 07:00:00" duration="04:00:00" mark="no">
+      <title>KrakkaRÚV</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4785248" title="KrakkaRÚV" />
+    </event>
+    <event event-id="4888405" serie-id="22401" start-time="2016-12-31 07:01:00" duration="00:07:00" mark="yes">
+      <title>Kioka</title>
+      <original-title>Kioka</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="7" number-of-episodes="78" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="22401" material="022401-0007" title="Kioka" />
+      <credits />
+    </event>
+    <event event-id="4888558" serie-id="16860" start-time="2016-12-31 07:07:00" duration="00:05:11" mark="yes">
+      <title>Ævintýri Berta og Árna</title>
+      <original-title>Bert&amp; Ernie&apos;s Great Adventures</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="5" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/16860/</more-info>
+      <reference group="16860" material="016860-0005" title="Ævintýri Berta og Árna" />
+      <details id="16860">
+        <series-title>Ævintýri Berta og Árna</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4888610" serie-id="20644" start-time="2016-12-31 07:12:00" duration="00:07:05" mark="yes">
+      <title>Lundaklettur</title>
+      <original-title>Puffin Rock</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="5" number-of-episodes="39" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/20644/</more-info>
+      <reference group="20644" material="020644-0005" title="Lundaklettur" />
+      <details id="20644">
+        <series-title>Lundaklettur</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4887855" serie-id="16256" start-time="2016-12-31 07:20:00" duration="00:07:09" mark="yes">
+      <title>Sara og önd</title>
+      <original-title>Sara &amp; Duck</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="9" number-of-episodes="17" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/16256/</more-info>
+      <reference group="16256" material="016256-0032" title="Sara og Önd" />
+      <details id="16256">
+        <series-title>Sara og Önd</series-title>
+        <series-original-title>Sarah &amp; Duck</series-original-title>
+        <series-description>
+          <p>Ýkt skemmtilegur þáttur. Önd er tveggja ára og sefur í baðkari og Sara er vinkona hennar. Fullorðin rödd leiðir þau áfram í atburði dagsins.</p>
+          <p>Þættirnir eru í sjónvarpinu í Morgunstuninni á sunnudögum og aðgengilegir á vefnum í viku.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4888505" serie-id="18932" start-time="2016-12-31 07:27:00" duration="00:10:33" mark="yes">
+      <title>Ólivía</title>
+      <original-title>Olivia</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="3" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="18932" material="018932-0003" title="Ólivía" />
+      <credits />
+    </event>
+    <event event-id="4888326" serie-id="18988" start-time="2016-12-31 07:37:00" duration="00:12:23" mark="yes">
+      <title>Vinabær Danna tígurs</title>
+      <original-title>Daniel Tiger&apos;s Neighbourhood</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="7" number-of-episodes="13" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/18988/</more-info>
+      <reference group="18988" material="018988-0034" title="Vinabær Danna tígurs" />
+      <details id="18988">
+        <series-title>Vinabær Danna tígurs</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Danni tígur er þáttaröð sem kennir börnum að túlka tilfinningar sínar. Hvenær upplifa þau sorg, reiði og hvenær eru þau þakklát. Danni notar tónlist og syngur um það sem hann upplifir sem leyfir börnum að tileinka sér það frekar. Þátturinn er ætlaður leikskólabörnum og kennir tilfinningagrein og sjálfsvirðingu sem og virðingu fyrir öðrum. Vinabær Danna tígurs er aðgengilegt í Sarpinum í viku í senn.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4888231" serie-id="20631" start-time="2016-12-31 07:49:00" duration="00:11:02" mark="yes">
+      <title>Elías</title>
+      <original-title>Elias and the Rescue Team</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="7" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/20631/</more-info>
+      <reference group="20631" material="020631-0007" title="Elías" />
+      <details id="20631">
+        <series-title>Elías</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4858209" serie-id="21494" start-time="2016-12-31 08:00:00" duration="00:06:00" mark="yes">
+      <title>Póló</title>
+      <original-title>Polo</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="52" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="21494" material="021494-0052" title="Póló" />
+      <credits />
+    </event>
+    <event event-id="4888307" serie-id="20438" start-time="2016-12-31 08:06:00" duration="00:23:04" mark="yes">
+      <title>Snillingarnir</title>
+      <original-title>Disney&apos;s Little Einsteins</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="8" number-of-episodes="9" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="20438" material="020438-0021" title="Snillingarnir" />
+      <credits />
+    </event>
+    <event event-id="4887626" serie-id="21812" start-time="2016-12-31 08:30:00" duration="00:26:21" mark="yes">
+      <title>Úmísúmí</title>
+      <original-title>Team Umizoomi, Season IV</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="13" number-of-episodes="19" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="21812" material="021812-0014" title="Úmísúmí" />
+      <credits />
+    </event>
+    <event event-id="4852094" serie-id="18008" start-time="2016-12-31 08:53:00" duration="00:21:43" mark="yes">
+      <title>Tré Fú Tom</title>
+      <original-title>Tree Fu Tom</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="20" number-of-episodes="26" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/18008/</more-info>
+      <reference group="18008" material="018008-0020" title="Tré-Fú Tom" />
+      <details id="18008">
+        <series-title>Tré-Fú Tom</series-title>
+        <series-original-title>Tree Fu Tom</series-original-title>
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4894893" serie-id="20431" start-time="2016-12-31 09:15:00" duration="00:21:10" mark="yes">
+      <title>Kata og Mummi</title>
+      <original-title>Kate and Mim-Mim</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/20431/</more-info>
+      <reference group="20431" material="020431-0029" title="Kata og Mummi" />
+      <details id="20431">
+        <series-title>Kata og Mummi</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4851245" serie-id="21489" start-time="2016-12-31 09:38:00" duration="00:11:40" mark="yes">
+      <title>Uss-Uss!</title>
+      <original-title>Zip Zip</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="30" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="21489" material="021489-0031" title="Uss-Uss!" />
+      <credits />
+    </event>
+    <event event-id="4888369" serie-id="22392" start-time="2016-12-31 09:50:00" duration="00:12:02" mark="yes">
+      <title>Hrói Höttur</title>
+      <original-title>Robin Hood</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="23" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="22392" material="022392-0023" title="Hrói Höttur" />
+      <credits />
+    </event>
+    <event event-id="4887680" serie-id="22394" start-time="2016-12-31 10:02:00" duration="00:11:12" mark="yes">
+      <title>Alvinn og íkornarnir</title>
+      <original-title>Alvinnn!!! &amp; The Chipmunks</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="25" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="22394" material="022394-0125" title="Alvinn og íkornarnir" />
+      <credits />
+    </event>
+    <event event-id="4891319" serie-id="17452" start-time="2016-12-31 10:15:00" duration="00:43:32" mark="yes">
+      <title>Franklín og ævintýri undirdjúpanna</title>
+      <original-title>Frankin and Friends: A Deep Sea Voyage</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="17452" material="017452-0001" title="Franklín og ævintýri undirdjúpanna" />
+      <credits />
+    </event>
+    <event event-id="4894229" serie-id="22565" start-time="2016-12-31 11:00:00" duration="01:24:07" mark="no">
+      <title>Ísöld 4: Heimsálfuhopp</title>
+      <original-title>Ice Age: Continental Drift</original-title>
+      <description><![CDATA[Sprengihlægileg teiknimynd í Ísaldar-röðinni. Manny Diego og Sid snúa aftur þegar heimsálfa þeirra fer á flot. Þeir ferðast um á ísjaka og kanna nýjan heim þar sem þeir hitta fyrir sjávardýr og berjast við sjóræningja. Leikstjóri: Steve Martino og Mike Thurmeier.Myndin er með íslensku tali. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="7">Kvikmyndir</category>
+      <more-info>http://dagskra.ruv.is/nanar/22565/</more-info>
+      <reference group="22565" material="022565-0001" title="Ísöld 4: Heimsálfuhopp" />
+      <details id="22565">
+        <series-title>Ísöld 4: Heimsálfuhopp</series-title>
+        <series-original-title>Ice Age: Continental Drift</series-original-title>
+        <series-description>
+          <p>Sprengihlægileg teiknimynd í Ísaldar-röðinni. Manny Diego og Sid snúa aftur þegar heimsálfa þeirra fer á flot. Þeir ferðast um á ísjaka og kanna nýjan heim þar sem þeir hitta fyrir sjávardýr og berjast við sjóræningja. Leikstjóri: Steve Martino og Mike Thurmeier.Myndin er með íslensku tali.</p>
+        </series-description>
+        <series-short-description>
+          <p>Sprengihlægileg teiknimynd í Ísaldar-röðinni. Manny Diego og Sid snúa aftur þegar heimsálfa þeirra fer á flot.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4853901" serie-id="21499" start-time="2016-12-31 12:30:00" duration="00:06:13" mark="no">
+      <title>Táknmálsfréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="21499" material="021499-0551" title="Táknmálsfréttir" />
+      <credits />
+    </event>
+    <event event-id="4858340" serie-id="23489" start-time="2016-12-31 12:40:00" duration="00:15:00" mark="no">
+      <title>Krakkafréttir vikunnar</title>
+      <original-title />
+      <description><![CDATA[Fréttaþáttur fyrir börn á aldrinum 8-12 ára þar sem litið er yfir það helsta í fréttum liðinnar viku.]]></description>
+      <short-description />
+      <rating />
+      <episode number="17" number-of-episodes="40" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/23489/</more-info>
+      <reference group="23489" material="023489-0017" title="Krakkafréttir vikunnar" />
+      <details id="23489">
+        <series-title>Krakkafréttir vikunnar</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Fréttaþáttur fyrir börn á aldrinum 8-12 ára þar sem litið er yfir það helsta í fréttum liðinnar viku.  Umsjón: Birkir Blær Ingólfsson og Ísgerður Elfa Gunnarsdóttir.</p>
+        </series-description>
+        <series-short-description>
+          <p>Fréttaþáttur fyrir börn á aldrinum 8-12 ára þar sem litið er yfir það helsta í fréttum liðinnar viku.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4877471" serie-id="21177" start-time="2016-12-31 13:00:00" duration="00:23:00" mark="no">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="21177" material="021177-0363" title="Fréttir" />
+      <credits />
+    </event>
+    <event event-id="4894196" serie-id="21179" start-time="2016-12-31 13:20:00" duration="00:02:57" mark="no">
+      <title>Veður</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="21179" material="021179-0485" title="Veður" />
+      <credits />
+    </event>
+    <event event-id="4890999" serie-id="21671" start-time="2016-12-31 13:25:00" duration="00:03:00" mark="no">
+      <title>Lottó</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="71" number-of-episodes="71" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="6">Íslenskir þættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/21671/</more-info>
+      <reference group="21671" material="021671-0070" title="Lottó" />
+      <details id="21671">
+        <series-title>Lottó</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4889275" serie-id="20755" start-time="2016-12-31 13:30:00" duration="01:14:54" mark="no">
+      <title>Sjónvarpið - staður stórra drauma</title>
+      <original-title />
+      <description><![CDATA[Siðari hluti sjónvarpsþáttar sem gerður var í tilefni 50 ára afmælis RÚV sem sýnir brot  úr dagskrárgerð af margvíslegu tagi í hálfa öld.  Einnig er brugðið upp myndum af minnisstæðum atburðum í fréttum úr íslensku þjóðlífi á þessu tímabili. Dagskrárefnið er úr safni RÚV. Umsjón og dagskrárgerð: Andrés Indriðason.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="6">Íslenskir þættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/20755/</more-info>
+      <reference group="20755" material="020755-0002" title="Sjónvarpið - staður stórra drauma" />
+      <details id="20755">
+        <series-title>Sjónvarpið - staður stórra drauma</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Siðari hluti sjónvarpsþáttar sem gerður var í tilefni 50 ára afmælis RÚV sem sýnir brot  úr dagskrárgerð af margvíslegu tagi í hálfa öld.  Einnig er brugðið upp myndum af minnisstæðum atburðum í fréttum úr íslensku þjóðlífi á þessu tímabili. Dagskrárefnið er úr safni RÚV. Umsjón og dagskrárgerð: Andrés Indriðason.</p>
+        </series-description>
+        <series-short-description>
+          <p>Siðari hluti sjónvarpsþáttar sem gerður var í tilefni 50 ára afmælis RÚV sem sýnir brot  úr dagskrárgerð af margvíslegu tagi í hálfa öld.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4894198" serie-id="24562" start-time="2016-12-31 14:45:00" duration="01:40:58" mark="no">
+      <title>Áramótagleði RÚV</title>
+      <original-title>Kastljósið og Vikan með Gísla Marteini</original-title>
+      <description><![CDATA[Kastljós og Gísli Marteinn rifja upp árið með góðum gestum í sjónvarpssal.  Umsjónarmenn: Þóra Arnórsdóttir, Helgi Seljan, Helga Arnardóttir, Baldvin Þór Bergsson, Bergsteinn Sigurðsson, Halla Oddný Magnúsdóttir og Gísli Marteinn Baldursson.  e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="24562" material="024562-0001" title="Áramótagleði RÚV" />
+      <credits />
+    </event>
+    <event event-id="4890404" serie-id="22952" start-time="2016-12-31 16:20:00" duration="01:34:17" mark="no">
+      <title>The Princess Bride</title>
+      <original-title>Konungborin brúður</original-title>
+      <description><![CDATA[Ævintýraleg gamanmynd eftir samnefndri bók William Goldman. Meðan Fred liggur rúmfastur les afi hans fyrir hann sögu sem segir frá sveitastrák og leit hans að hinni einu sönnu ást. Leikstjóri: Rob Reiner. Leikarar: Cary Elwes, Mandy Patinkin og Robin Wright. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="7">Kvikmyndir</category>
+      <more-info>http://dagskra.ruv.is/nanar/22952/</more-info>
+      <reference group="22952" material="022952-0001" title="The Princess Bride" />
+      <details id="22952">
+        <series-title>The Princess Bride</series-title>
+        <series-original-title>Konungborin brúður</series-original-title>
+        <series-description>
+          <p>Ævintýraleg gamanmynd eftir samnefndri bók William Goldman.  Meðan Fred liggur rúmfastur les afi hans fyrir hann sögu sem segir frá sveitastrák sem háir langa og stranga baráttu til að vinna ástina. Leikstjóri: Rob Reiner. Leikarar: Cary Elwes, Mandy Patinkin og Robin Wright.</p>
+        </series-description>
+        <series-short-description>
+          <p>Ævintýraleg gamanmynd eftir samnefndri bók William Goldman.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4889124" serie-id="21584" start-time="2016-12-31 17:55:00" duration="01:00:07" mark="no">
+      <title>Sirkus Íslands - Heima er best</title>
+      <original-title />
+      <description><![CDATA[Upptaka frá sýningu hins rammíslenska Sirkuss Íslands.  Ævintýraleg blanda af trúðslátum, kollhnísum, listum og loftfimleikum.Boltafimi, jafnvægislistir á einhjóli og bretti og margt fleira. Heima er best er íslensk sirkussýning fyrir alla fjölskylduna. Dagskrárgerð: Benedikt Nikulás Anes Ketilsson. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="6">Íslenskir þættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/21584/</more-info>
+      <reference group="21584" material="021584-0001" title="Sirkus Íslands - Heima er best" />
+      <details id="21584">
+        <series-title>Sirkus Íslands - Heima er best</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Upptaka frá sýningu hins rammíslenska Sirkuss Íslands.  Ævintýraleg blanda af trúðslátum, kollhnísum, listum og loftfimleikum.Boltafimi, jafnvægislistir á einhjóli og bretti og margt fleira. Heima er best er íslensk sirkussýning fyrir alla fjölskylduna.</p>
+          <p>Dagskrárgerð: Benedikt Nikulás Anes Ketilsson.</p>
+        </series-description>
+        <series-short-description>
+          <p>Upptaka frá sýningu hins rammíslenska Sirkuss Íslands.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4889923" serie-id="24296" start-time="2016-12-31 19:00:00" duration="00:31:33" mark="no">
+      <title>Krakkafréttaannáll</title>
+      <original-title />
+      <description><![CDATA[Panamaskjölin, EM í fótbolta, hundur á hjólabretti og nýr forseti er meðal þess sem setti svip á árið. En gerðist eitthvað fleira markvert í lífi barna? Í Krakkafréttaannálnum fara þau Ísgerður og Birkir Blær yfir tíðindi ársins eins og þeim einum er lagið. #krakkargeta]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/24296/</more-info>
+      <reference group="24296" material="024296-0001" title="Krakkafréttaannáll" />
+      <details id="24296">
+        <series-title>Krakkafréttaannáll</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Panamaskjölin, EM í fótbolta, Krakkakosningar og nýr forseti er meðal þess sem setti svip á árið. En gerðist eitthvað fleira markvert í lífi barna? Í Krakkafréttaannálnum fara þau Ísgerður og Birkir Blær yfir tíðindi ársins eins og þeim einum er lagið. #krakkargeta</p>
+        </series-description>
+        <series-short-description>
+          <p>Panamaskjölin, EM í fótbolta, Krakkakosningar og nýr forseti er meðal þess sem setti svip á árið.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4889924" serie-id="24297" start-time="2016-12-31 19:30:00" duration="00:21:32" mark="no">
+      <title>Krakkaskaup</title>
+      <original-title />
+      <description><![CDATA[Það hafa allir krakkar lent í því að skilja ekki brandarana sem eru í Áramótaskaupinu. Þar er allt svo fullorðins. Í Krakkaskaupinu breytum við því. Þar sjá krakkar sjálfir um að segja okkur hvað þeim fannst skemmtilegast, áhugaverðast og fyndnast á árinu. Öll framleiðsla og hugmyndavinna er í höndum snjallra krakka út um allt land. #krakkargeta]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/24297/</more-info>
+      <reference group="24297" material="024297-0001" title="Krakkaskaup" />
+      <details id="24297">
+        <series-title>Krakkaskaup</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Það hafa allir krakkar lent í því að skilja ekki brandarana sem eru í Áramótaskaupinu. Þar er allt svo fullorðins. Í Krakkaskaupinu breytum við því. Þar sjá krakkar sjálfir um að segja okkur hvað þeim fannst skemmtilegast, áhugaverðast og fyndnast á árinu. Öll framleiðsla og hugmyndavinna er í höndum snjallra krakka út um allt land. #krakkargeta</p>
+        </series-description>
+        <series-short-description>
+          <p>Það hafa allir krakkar lent í því að skilja ekki brandarana sem eru í Áramótaskaupinu.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4889126" serie-id="24106" start-time="2016-12-31 20:00:00" duration="00:15:20" mark="no">
+      <title>Ávarp forsætisráðherra</title>
+      <original-title />
+      <description><![CDATA[Ávarp forsætisráðherra, Sigurðar Inga Jóhannssonar.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="3">Fréttatengt</category>
+      <more-info>http://dagskra.ruv.is/nanar/24106/</more-info>
+      <reference group="24106" material="024106-0001" title="Ávarp forsætisráðherra" />
+      <details id="24106">
+        <series-title>Ávarp forsætisráðherra</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Ávarp forsætisráðherra, Sigurðar Inga Jóhannssonar.</p>
+        </series-description>
+        <series-short-description>
+          <p>Ávarp forsætisráðherra, Sigurðar Inga Jóhannssonar.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4889127" serie-id="9490" start-time="2016-12-31 20:20:00" duration="00:50:00" mark="no">
+      <title>Íþróttaannáll 2016</title>
+      <original-title />
+      <description><![CDATA[Viðburðarríkt íþróttaár að baki bæði hér heima og erlendis. Í þættinum er farið yfir helstu íþróttaafrek Íslendinga á árinu 2016.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="5">Íþróttir</category>
+      <more-info>http://dagskra.ruv.is/nanar/9490/</more-info>
+      <reference group="9490" material="009490-0013" title="Íþróttaannáll 2016" />
+      <details id="9490">
+        <series-title>Íþróttaannáll 2016</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Íþróttafréttamenn fjalla um viðburði ársins 2016.</p>
+        </series-description>
+        <series-short-description>
+          <p>Íþróttafréttamenn fjalla um viðburði ársins 2016.</p>
+        </series-short-description>
+        <episode-description>
+          <p>Viðburðarríkt íþróttaár að baki bæði hér heima og erlendis. Í þættinum er farið yfir helstu íþróttaafrek Íslendinga á árinu 2016..</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4889128" serie-id="24141" start-time="2016-12-31 21:20:00" duration="01:03:47" mark="no">
+      <title>Fréttaannáll 2016</title>
+      <original-title />
+      <description><![CDATA[Panamaskjölin, kosningar hér heima og í Bandaríkjunum, hryðjuverk, ferðamenn og ævintýri karlalandsliðsins á Evrópumótinu í fótbolta, settu svip sinn á árið 2016. Fréttastofa RÚV gerir innlendum og erlendum viðburðum ársins að venju skil í fjölbreyttum þætti á gamlárskvöld. Umsjónarmenn: Valgeir Örn Ragnarsson og Birta Björnsdóttir. Dagskrárgerð: Stefán Drengsson.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="3">Fréttatengt</category>
+      <more-info>http://dagskra.ruv.is/nanar/24141/</more-info>
+      <reference group="24141" material="024141-0001" title="Fréttaannáll 2016" />
+      <details id="24141">
+        <series-title>Fréttaannáll 2016</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Panamaskjölin, kosningar hér heima og í Bandaríkjunum, hryðjuverk, ferðamenn og ævintýri karlalandsliðsins á Evrópumótinu í fótbolta, settu svip sinn á árið 2016. Fréttastofa RÚV gerir innlendum og erlendum viðburðum ársins að venju skil í fjölbreyttum þætti á gamlárskvöld. Umsjónarmenn: Valgeir Örn Ragnarsson og Birta Björnsdóttir. Dagskrárgerð: Stefán Drengsson.</p>
+        </series-description>
+        <series-short-description>
+          <p>Fréttastofa RÚV gerir innlendum og erlendum viðburðum ársins að venju skil í fjölbreyttum þætti á gamlárskvöld.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4889129" serie-id="23852" start-time="2016-12-31 22:30:00" duration="00:48:11" mark="no">
+      <title>Áramótaskaup 2016</title>
+      <original-title />
+      <description><![CDATA[Ómissandi endapunktur sjónvarpsársins. Að þessu sinni eru það Fóstbræður sem færa þjóðinni skaupið. Grínsveitin alræmda rýnir í fréttir, viðburði og uppákomur ársins á sinn einstaka hátt. Leikstjóri: Jón Gnarr. Handrit: Jóna Gnarro og Sigurjón Kjartansson. Framleiðsla: Reykjavik Studios.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="11">Afþreying</category>
+      <more-info>http://dagskra.ruv.is/nanar/23852/</more-info>
+      <reference group="23852" material="023852-0001" title="Áramótaskaup 2016" />
+      <details id="23852">
+        <series-title>Áramótaskaup 2016</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Ómissandi endapunktur sjónvarpsársins. Að þessu sinni eru það Fóstbræður sem færa þjóðinni skaupið. Grínsveitin alræmda rýnir í fréttir, viðburði og uppákomur ársins á sinn einstaka hátt. Leikstjóri: Jón Gnarr. Handrit: Jóna Gnarro og Sigurjón Kjartansson. Framleiðsla: Reykjavik Studios.</p>
+        </series-description>
+        <series-short-description>
+          <p>Ómissandi endapunktur sjónvarpsársins. Að þessu sinni eru það Fóstbræður sem færa þjóðinni skaupið. Grínsveitin alræmda rýnir í fréttir, viðburði og uppákomur ársins á sinn einstaka hátt. Leikstjóri: Jón Gnarr. Handrit: Jóna Gnarro og Sigurjón Kjartansson. Framleiðsla: Reykjavik Studios.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4889131" serie-id="24298" start-time="2016-12-31 23:30:00" duration="00:40:00" mark="no">
+      <title>Nú árið er liðið</title>
+      <original-title>Flugeldasýning</original-title>
+      <description><![CDATA[Bein útsending frá flugeldaveislunni á landinu og útvarpstjóri, Magnús Geir Þórðarson flytur kveðju RÚV.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="11">Afþreying</category>
+      <more-info>http://dagskra.ruv.is/nanar/24298/</more-info>
+      <reference group="24298" material="024298-0001" title="Nú árið er liðið" />
+      <details id="24298">
+        <series-title>Nú árið er liðið</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Bein útsending frá flugeldaveislunni.</p>
+        </series-description>
+        <series-short-description>
+          <p>Bein útsending frá flugeldaveislunni.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4889132" serie-id="20168" start-time="2017-01-01 00:15:00" duration="01:47:24" mark="no">
+      <title>Pitch Perfect</title>
+      <original-title>Fullkominn tónn</original-title>
+      <description><![CDATA[Bráðfyndin gamanmynd frá 2013 um Becu sem er nýbyrjuð í háskóla í Bandaríkjunum, hún hefur mikinn áhuga á tónlist og gengur strax í stúlknakórinn. Ýmislegt gengur á enda er markmiðið að vinna á landsmóti háskólakóra í Bandaríkjunum. Aðalhlutverk: Anna Kendrick, Brittany Snow, Rebel Wilson. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="7">Kvikmyndir</category>
+      <more-info>http://dagskra.ruv.is/nanar/20168/</more-info>
+      <reference group="20168" material="020168-0001" title="Pitch Perfect" />
+      <details id="20168">
+        <series-title>Pitch Perfect</series-title>
+        <series-original-title>Fullkominn tónn</series-original-title>
+        <series-description>
+          <p>Bráðfyndin gamanmynd frá 2013 um Becu sem er nýbyrjuð í háskóla í Bandaríkjunum, hún hefur mikinn áhuga á tónlist og gengur strax í stúlknakórinn. Ýmislegt gengur á enda er markmiðið að vinna á landsmóti háskólakóra í Bandaríkjunum. Aðalhlutverk: Anna Kendrick, Brittany Snow, Rebel Wilson. e.</p>
+        </series-description>
+        <series-short-description>
+          <p>Bráðfyndin gamanmynd frá 2013 um Becu sem er nýbyrjuð í háskóla í Bandaríkjunum, hefur mikinn áhuga á tónlist fer í stúlknakórinn.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4889133" serie-id="21230" start-time="2017-01-01 02:05:00" duration="01:53:55" mark="no">
+      <title>Tónaflóð - Menningarnæturtónleikar 2016</title>
+      <original-title />
+      <description><![CDATA[Upptaka frá stórtónleikum Rásar 2 á Menningarnótt í Reykjavík. Fram koma Glowie, Emmsjé Gauti, Úlfur Úlfur, Bubbi Morthens og Ljósvíkingar að vestan. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="9">Tónlist</category>
+      <more-info>http://dagskra.ruv.is/nanar/21230/</more-info>
+      <reference group="21230" material="021230-0001" title="Tónaflóð - Menningarnæturtónleikar 2016" />
+      <details id="21230">
+        <series-title>Tónaflóð - Menningarnæturtónleikar 2016</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Upptaka frá stórtónleikum Rásar 2 á Menningarnótt í Reykjavík. Fram koma Glowie, Emmsjé Gauti, Úlfur Úlfur, Bubbi Morthens og Ljósvíkingar að vestan.</p>
+        </series-description>
+        <series-short-description>
+          <p>Upptaka frá stórtónleikum Rásar 2 á Menningarnótt í Reykjavík. Fram koma Glowie, Emmsjé Gauti, Úlfur Úlfur, Bubbi Morthens og Ljósvíkingar að vestan.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4831069" serie-id="" start-time="2017-01-01 05:05:00" duration="00:03:00" mark="no">
+      <title>Útvarpsfréttir í dagskrárlok</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4831069" title="Útvarpsfréttir í dagskrárlok" />
+    </event>
+  </service>
+</schedule>

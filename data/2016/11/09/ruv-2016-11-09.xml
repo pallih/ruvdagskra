@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-01-16 12:41" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="1" service-name="RÚV" date="2016-11-09">
+    <event event-id="4889513" serie-id="24251" start-time="2016-11-09 12:00:00" duration="00:15:00" mark="no">
+      <title>Aukafréttatími</title>
+      <original-title>Úrslit forsetakosninga í Bandaríkjunum</original-title>
+      <description><![CDATA[Aukafréttatími vegna forsetakosninga í Bandaríkjunum.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>yes</closed>
+      </subtitles>
+      <reference group="24251" material="024251-0001" title="Aukafréttatími" />
+      <credits />
+    </event>
+    <event event-id="4856103" serie-id="13071" start-time="2016-11-09 17:15:00" duration="00:26:51" mark="no">
+      <title>Framandi og freistandi II</title>
+      <original-title />
+      <description><![CDATA[Í þessum þáttum fylgjumst við með Yesmine Olsson að störfum í eldhúsinu. Dagskrárgerð: Helgi Jóhannesson. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="7" number-of-episodes="9" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="6">Íslenskir þættir</category>
+      <more-info>http://www.ruv.is/framandi-og-freistandi-med-yesmine-olsson</more-info>
+      <reference group="13071" material="013071-0007" title="Framandi og freistandi með Yesmine Olsson" />
+      <details id="13071">
+        <series-title>Framandi og freistandi með Yesmine Olsson</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Í þessum þáttum fylgjumst við með Yesmine Olsson að störfum í eldhúsinu. Dagskrárgerð: Helgi Jóhannesson.</p>
+        </series-description>
+        <series-short-description>
+          <p>Í þessum þáttum fylgjumst við með Yesmine Olsson að störfum í eldhúsinu. Dagskrárgerð: Helgi Jóhannesson. e.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4853849" serie-id="21499" start-time="2016-11-09 17:45:00" duration="00:07:56" mark="no">
+      <title>Táknmálsfréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="21499" material="021499-0499" title="Táknmálsfréttir" />
+      <credits />
+    </event>
+    <event event-id="4887884" serie-id="" start-time="2016-11-09 17:55:00" duration="00:55:00" mark="no">
+      <title>Disneystundin</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="9" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4887884" title="Disneystundin" />
+    </event>
+    <event event-id="4887803" serie-id="22311" start-time="2016-11-09 17:56:00" duration="00:21:41" mark="yes">
+      <title>Finnbogi og Felix</title>
+      <original-title>Disney Phineas and Ferb</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="6" number-of-episodes="13" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="22311" material="022311-0006" title="Finnbogi og Felix" />
+      <credits />
+    </event>
+    <event event-id="4887816" serie-id="22630" start-time="2016-11-09 18:18:00" duration="00:07:38" mark="yes">
+      <title>Sígildar teiknimyndir</title>
+      <original-title>Classic Cartoon</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="4" number-of-episodes="30" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="22630" material="022630-0004" title="Sígildar teiknimyndir" />
+      <credits />
+    </event>
+    <event event-id="4837932" serie-id="22313" start-time="2016-11-09 18:25:00" duration="00:21:58" mark="yes">
+      <title>Gló magnaða</title>
+      <original-title>Disney&apos;s Kim Possible</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="31" number-of-episodes="35" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="22313" material="022313-0054" title="Gló magnaða" />
+      <credits />
+    </event>
+    <event event-id="4855455" serie-id="23578" start-time="2016-11-09 18:50:00" duration="00:03:43" mark="no">
+      <title>Krakkafréttir</title>
+      <original-title>9. nóvember 2016</original-title>
+      <description><![CDATA[Fréttaþáttur fyrir börn á aldrinum 8-12 ára. Umsjón: Birkir Blær Ingólfsson og Ísgerður Elfa Gunnarsdóttir.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/23578/</more-info>
+      <reference group="23578" material="023578-0039" title="Krakkafréttir" />
+      <details id="23578">
+        <series-title>Krakkafréttir</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Fréttaþáttur fyrir börn á aldrinum 8-12 ára. Umsjón: Birkir Blær Ingólfsson og Ísgerður Elfa Gunnarsdóttir.</p>
+        </series-description>
+        <series-short-description>
+          <p>Fréttaþáttur fyrir börn á aldrinum 8-12 ára. Umsjón: Birkir Blær Ingólfsson og Ísgerður Elfa Gunnarsdóttir.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4849793" serie-id="21672" start-time="2016-11-09 18:54:00" duration="00:03:00" mark="no">
+      <title>Víkingalottó</title>
+      <original-title />
+      <description><![CDATA[Samstarf Noregs, Danmerkur, Svíþjóðar, Finnlands, Eistlands, Lettlands, Litháen og Íslands þar sem tugir milljóna eru dregnar út í viku hverri.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <more-info>http://dagskra.ruv.is/nanar/21672/</more-info>
+      <reference group="21672" material="021672-0063" title="Víkingalottó" />
+      <details id="21672">
+        <series-title>Víkingalottó</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Samstarf Noregs, Danmerkur, Svíþjóðar, Finnlands, Eistlands, Lettlands, Litháen og Íslands þar sem tugir milljóna eru dregnar út í viku hverri.</p>
+        </series-description>
+        <series-short-description>
+          <p>Samstarf Noregs, Danmerkur, Svíþjóðar, Finnlands, Eistlands, Lettlands, Litháen og Íslands þar sem tugir milljóna eru dregnar út í viku hverri.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4849009" serie-id="21177" start-time="2016-11-09 19:00:00" duration="00:23:00" mark="no">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="21177" material="021177-0438" title="Fréttir" />
+      <credits />
+    </event>
+    <event event-id="4849715" serie-id="21171" start-time="2016-11-09 19:25:00" duration="00:05:00" mark="no">
+      <title>Íþróttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="21171" material="021171-0302" title="Íþróttir" />
+      <credits />
+    </event>
+    <event event-id="4849154" serie-id="21179" start-time="2016-11-09 19:30:00" duration="00:03:26" mark="no">
+      <title>Veður</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="21179" material="021179-0434" title="Veður" />
+      <credits />
+    </event>
+    <event event-id="4853591" serie-id="21181" start-time="2016-11-09 19:35:00" duration="00:25:00" mark="no">
+      <title>Kastljós</title>
+      <original-title />
+      <description><![CDATA[Beittur, fréttatengdur þáttur um málefni líðandi stundar, menningu og dægurmál hvers konar. Umsjónarmenn: Þóra Arnórsdóttir, Helgi Seljan, Helga Arnardóttir, Baldvin Þór Bergsson, Bergsteinn Sigurðsson og Halla Oddný Magnúsdóttir.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttatengt</category>
+      <more-info>http://dagskra.ruv.is/nanar/21181/</more-info>
+      <reference group="21181" material="021181-0350" title="Kastljós" />
+      <details id="21181">
+        <series-title>Kastljós</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Beittur, fréttatengdur þáttur um málefni líðandi stundar, menningu og dægurmál hvers konar. Umsjónarmenn: Þóra Arnórsdóttir, Helgi Seljan, Helga Arnardóttir, Baldvin Þór Bergsson, Bergsteinn Sigurðsson og Halla Oddný Magnúsdóttir.</p>
+        </series-description>
+        <series-short-description>
+          <p>Beittur, fréttatengdur þáttur um málefni líðandi stundar, menningu og dægurmál hvers konar.</p>
+        </series-short-description>
+        <episode-description>
+          <p>Kastljós kvöldsins beinir spjótum sínum að stærsta máli dagsins: Kjöri Donalds Trump sem næsta forseta Bandaríkjanna. Við fáum góða gesti til að ræða hvers vegna niðurstaðan varð þessi - og hvaða áhrif það muni hafa á Bandaríkin og heiminn allan. Verður múrinn reistur, milljónum vísað úr landi, múslimum bannað að koma, fríverslunarsamningum rift, Hillary stungið í steininn - eða verður forsetinn Trump allur annar en frambjóðandinn Trump? Við skoðum líka hvað fór úrskeiðis í skoðanakönnunum, sem fram á síðustu stundu gáfu til kynna ranga niðurstöðu.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4888080" serie-id="23436" start-time="2016-11-09 20:05:00" duration="00:05:07" mark="no">
+      <title>Bítlarnir að eilífu - Here Comes the Sun</title>
+      <original-title>Beatles Forever</original-title>
+      <description><![CDATA[Rúm fimmtíu ár eru liðin síðan fyrsta Bítlaplatan kom út en af því tilefni kryfja nokkrir tónlistarmenn ódauðleg Bítlalög en hver þáttur fjallar um eitt tiltekið lag. Hvernig urðu slagararnir til sem við flest þekkjum og virðumst ekki fá nóg af?]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/23436/</more-info>
+      <reference group="23436" material="023436-0001" title="Bítlarnir að eilífu" />
+      <details id="23436">
+        <series-title>Bítlarnir að eilífu</series-title>
+        <series-original-title>Beatles Forever</series-original-title>
+        <series-description>
+          <p>Rúm fimmtíu ár eru liðin síðan fyrsta Bítlaplatan kom út en af því tilefni kryfja nokkrir tónlistarmenn ódauðleg Bítlalög en hver þáttur fjallar um eitt tiltekið lag. Hvernig urðu slagararnir til sem við flest þekkjum og virðumst ekki fá nóg af?</p>
+        </series-description>
+        <series-short-description>
+          <p>Rúm fimmtíu ár eru liðin síðan fyrsta Bítlaplatan kom út en af því tilefni kryfja nokkrir tónlistarmenn ódauðleg Bítlalög en hver þáttur fjallar um eitt tiltekið lag.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4853733" serie-id="23472" start-time="2016-11-09 20:15:00" duration="00:41:52" mark="no">
+      <title>Kiljan</title>
+      <original-title />
+      <description><![CDATA[Þáttur sem er löngu orðinn ómissandi í bókmenntaumræðunni í landinu. Kiljan verður á sínum stað tíunda veturinn í röð. Egill og bókelskir félagar hans fjalla sem fyrr um forvitnilegar bækur af ýmsum toga og úr öllum áttum. Umsjón: Egill Helgason. Dagskrárgerð: Sigurður Jakobsson.]]></description>
+      <short-description />
+      <rating />
+      <episode number="6" number-of-episodes="12" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/23472/</more-info>
+      <reference group="23472" material="023472-0006" title="Kiljan" />
+      <details id="23472">
+        <series-title>Kiljan</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Þáttur sem er löngu orðinn ómissandi í bókmenntaumræðunni í landinu. Kiljan verður á sínum stað tíunda veturinn í röð. Egill og bókelskir félagar hans fjalla sem fyrr um forvitnilegar bækur af ýmsum toga og úr öllum áttum. Umsjón: Egill Helgason. Dagskrárgerð: Sigurður Jakobsson.</p>
+        </series-description>
+        <series-short-description>
+          <p>Þáttur sem er löngu orðinn ómissandi í bókmenntaumræðunni í landinu. Kiljan verður á sínum stað tíunda veturinn í röð.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4877935" serie-id="19344" start-time="2016-11-09 21:00:00" duration="00:52:00" mark="no">
+      <title>Á sama báti</title>
+      <original-title>In The Club</original-title>
+      <description><![CDATA[Bresk þáttaröð um hóp verðandi foreldra sem vingast á fæðingarnámskeiði. Við kynnumst því hvað drífur á daga þeirra áður en barn kemur í heiminn. Leikarar: Katherine Parkinson, Hermione Norris og Christine Bottomley.]]></description>
+      <short-description />
+      <rating />
+      <episode number="3" number-of-episodes="6" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/19344/</more-info>
+      <reference group="19344" material="019344-0003" title="Á sama báti" />
+      <details id="19344">
+        <series-title>Á sama báti</series-title>
+        <series-original-title>In the Club</series-original-title>
+        <series-description>
+          <p>Bresk þáttaröð um hóp verðandi foreldra sem vingast á fæðingarnámskeiði. Við kynnumst því hvað drífur á daga þeirra áður en barn kemur í heiminn. Leikarar: Katherine Parkinson, Hermione Norris og Christine Bottomley.</p>
+        </series-description>
+        <series-short-description>
+          <p>Bresk þáttaröð um hóp verðandi foreldra sem vingast á fæðingarnámskeiði.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4849249" serie-id="21178" start-time="2016-11-09 22:00:00" duration="00:15:00" mark="no">
+      <title>Tíufréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="21178" material="021178-0241" title="Tíufréttir" />
+      <credits />
+    </event>
+    <event event-id="4849350" serie-id="21180" start-time="2016-11-09 22:15:00" duration="00:04:16" mark="no">
+      <title>Veðurfréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="21180" material="021180-0241" title="Veðurfréttir" />
+      <credits />
+    </event>
+    <event event-id="4877525" serie-id="22361" start-time="2016-11-09 22:20:00" duration="01:26:25" mark="no">
+      <title>Sweet Micky til forseta</title>
+      <original-title>Sweet Micky for President</original-title>
+      <description><![CDATA[Heimildarmynd um Pras Michel rappara úr frægu hljómsveitinni The Fugees. Honum blöskrar aðgerðaleysi stjórnvalda á Haítí eftir jarðskjálftann 2010 og hefur kosningabaráttu fyrir Sweet Micky, poppstjörnu og sérvitring þar í landi. Þegar fyrrum hljómsveitarfélagi Pras, Wyclef Jean, býður sig einnig fram færist fjör í leikinn.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="4">Fræðsla</category>
+      <more-info>http://dagskra.ruv.is/nanar/22361/</more-info>
+      <reference group="22361" material="022361-0001" title="Sweet Micky til forseta" />
+      <details id="22361">
+        <series-title>Sweet Micky til forseta</series-title>
+        <series-original-title>Sweet Micky for President</series-original-title>
+        <series-description>
+          <p>Heimildarmynd um Pras Michel rappara úr frægu hljómsveitinni The Fugees. Honum blöskrar aðgerðaleysi stjórnvalda á Haítí eftir jarðskjálftann 2010 og hefur kosningabaráttu fyrir Sweet Micky, poppstjörnu og sérvitring þar í landi. Þegar fyrrum hljómsveitarfélagi Pras, Wyclef Jean, býður sig einnig fram færist fjör í leikinn.</p>
+        </series-description>
+        <series-short-description>
+          <p>Heimildarmynd um Pras Michel rappara úr frægu hljómsveitinni The Fugees. Honum blöskrar aðgerðaleysi stjórnvalda á Haítí eftir jarðskjálftann 2010 og hefur kosningabaráttu fyrir Sweet Micky, poppstjörnu og sérvitring þar í landi. Þegar fyrrum hljómsveitarfélagi Pras, Wyclef Jean, býður sig einnig fram færist fjör í leikinn.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4853668" serie-id="21181" start-time="2016-11-09 23:45:00" duration="00:25:58" mark="no">
+      <title>Kastljós</title>
+      <original-title />
+      <description><![CDATA[Beittur, fréttatengdur þáttur um málefni líðandi stundar, menningu og dægurmál hvers konar. Umsjónarmenn: Þóra Arnórsdóttir, Helgi Seljan, Helga Arnardóttir, Baldvin Þór Bergsson, Bergsteinn Sigurðsson og Halla Oddný Magnúsdóttir. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttatengt</category>
+      <more-info>http://dagskra.ruv.is/nanar/21181/</more-info>
+      <reference group="21181" material="021181-0350" title="Kastljós" />
+      <details id="21181">
+        <series-title>Kastljós</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Beittur, fréttatengdur þáttur um málefni líðandi stundar, menningu og dægurmál hvers konar. Umsjónarmenn: Þóra Arnórsdóttir, Helgi Seljan, Helga Arnardóttir, Baldvin Þór Bergsson, Bergsteinn Sigurðsson og Halla Oddný Magnúsdóttir.</p>
+        </series-description>
+        <series-short-description>
+          <p>Beittur, fréttatengdur þáttur um málefni líðandi stundar, menningu og dægurmál hvers konar.</p>
+        </series-short-description>
+        <episode-description>
+          <p>Kastljós kvöldsins beinir spjótum sínum að stærsta máli dagsins: Kjöri Donalds Trump sem næsta forseta Bandaríkjanna. Við fáum góða gesti til að ræða hvers vegna niðurstaðan varð þessi - og hvaða áhrif það muni hafa á Bandaríkin og heiminn allan. Verður múrinn reistur, milljónum vísað úr landi, múslimum bannað að koma, fríverslunarsamningum rift, Hillary stungið í steininn - eða verður forsetinn Trump allur annar en frambjóðandinn Trump? Við skoðum líka hvað fór úrskeiðis í skoðanakönnunum, sem fram á síðustu stundu gáfu til kynna ranga niðurstöðu.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4850658" serie-id="" start-time="2016-11-10 00:10:00" duration="00:00:10" mark="no">
+      <title>Dagskrárlok</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="47" number-of-episodes="400" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4850658" title="Dagskrárlok" />
+    </event>
+  </service>
+</schedule>

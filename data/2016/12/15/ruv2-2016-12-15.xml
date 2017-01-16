@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-01-16 12:38" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2016-12-15">
+    <event event-id="4892660" serie-id="23580" start-time="2016-12-15 19:20:00" duration="01:50:00" mark="no">
+      <title>FH - Haukar</title>
+      <original-title>Olísdeild karla í handbolta</original-title>
+      <description><![CDATA[Bein útsending frá leik FH og Hauka í Olísdeild karla í handbolta.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23580" material="023580-0012" title="FH - Haukar" />
+      <credits />
+    </event>
+  </service>
+</schedule>

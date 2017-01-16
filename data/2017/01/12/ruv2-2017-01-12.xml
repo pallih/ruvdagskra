@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-01-16 12:36" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2017-01-12">
+    <event event-id="4892672" serie-id="" start-time="2017-01-12 18:00:00" duration="00:00:00" mark="no">
+      <title>KrakkaRÚV</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4892672" title="KrakkaRÚV" />
+    </event>
+    <event event-id="4892673" serie-id="69862" start-time="2017-01-12 18:01:00" duration="00:15:25" mark="yes">
+      <title>Danskeppnin</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <more-info>http://dagskra.ruv.is/nanar/69862/</more-info>
+      <reference group="69862" material="069862-0001" title="Danskeppnin 888" />
+      <details id="69862">
+        <series-title>Danskeppnin 888</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Mynd eftir Egil Eðvarðsson. Lísa og Magga voru einu sinni bestu vinkonur. En ekki lengur. Því eftir að Magga svindlaði í danskeppninni í fyrra og vann hafa þær ekki talast við. Nú ári síðar er aftur komið að hinni árlegu danskeppni og í þetta sinn fær ekkert stöðvað Lísu. Hún ætlar sér svo sannarlega að vinna. Í aðalhlutverki er Bryndís Thelma Jónasdóttir. Danshöfundur er Jóhann Örn Ólafsson. Tónlist er eftir Gunnar Þórðarson. Myndin var tilnefnd til Edduverðlauna. Textað á síðu 888 í Textavarpi. e.</p>
+        </series-description>
+        <series-short-description>
+          <p>Lísa og Magga voru einu sinni bestu vinkonur. En ekki lengur. Því eftir að Magga svindlaði í danskeppninni í fyrra og vann hafa þær ekki talast við. Nú ári síðar er aftur komið að hinni árlegu danskeppni og í þetta sinn fær ekkert stöðvað Lísu.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits>
+        <director>Egill Eðvarðsson</director>
+        <actor>Bryndís Thelma Jónasdóttir</actor>
+      </credits>
+    </event>
+    <event event-id="4892674" serie-id="17724" start-time="2017-01-12 18:18:00" duration="00:07:00" mark="yes">
+      <title>Hrúturinn Hreinn</title>
+      <original-title>Shaun the Sheep</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/17724/</more-info>
+      <reference group="17724" material="017724-0001" title="Hrúturinn Hreinn" />
+      <details id="17724">
+        <series-title>Hrúturinn Hreinn</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4892675" serie-id="16230" start-time="2017-01-12 18:25:00" duration="00:23:12" mark="yes">
+      <title>Littli prinsinn</title>
+      <original-title>Little Prince III</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="2" number-of-episodes="18" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="16230" material="016230-0010" title="Littli prinsinn" />
+      <credits />
+    </event>
+  </service>
+</schedule>

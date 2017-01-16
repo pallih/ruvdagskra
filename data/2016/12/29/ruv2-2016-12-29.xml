@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-01-16 12:37" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2016-12-29">
+    <event event-id="4893067" serie-id="4711" start-time="2016-12-29 18:00:00" duration="01:00:00" mark="no">
+      <title>Íþróttamaður ársins 2016</title>
+      <original-title />
+      <description><![CDATA[Bein útsending frá vali íþróttamanns ársins 2016 auk þess sem farið er yfir eftirminnilegustu íþróttaatvik ársins.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="5">Íþróttir</category>
+      <more-info>http://dagskra.ruv.is/nanar/4711/</more-info>
+      <reference group="4711" material="004711-0011" title="Íþróttamaður ársins 2016" />
+      <details id="4711">
+        <series-title>Íþróttamaður ársins 2016</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Bein útsending frá vali íþróttamanns ársins 2016 auk þess sem farið eru yfir eftirminnilegustu íþróttaatvik ársins.</p>
+        </series-description>
+        <series-short-description>
+          <p>Bein útsending frá vali íþróttamanns ársins 2016 auk þess sem farið eru yfir eftirminnilegustu íþróttaatvik ársins.</p>
+        </series-short-description>
+        <episode-description>
+          <p>Bein útsending frá vali íþróttamanns ársins 2016 auk þess sem farið er yfir eftirminnilegustu íþróttaatvik ársins.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+  </service>
+</schedule>

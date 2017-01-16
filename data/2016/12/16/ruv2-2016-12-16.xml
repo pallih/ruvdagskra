@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-01-16 12:38" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2016-12-16">
+    <event event-id="4888907" serie-id="18377" start-time="2016-12-16 17:05:00" duration="01:50:00" mark="no">
+      <title>Holland - Danmörk</title>
+      <original-title>4-liða úrslit</original-title>
+      <description><![CDATA[Bein útsending frá leik í undanúrslitum á EM kvenna í handbolta.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="18377" material="018377-0007" title="Holland - Danmörk" />
+      <credits />
+    </event>
+    <event event-id="4891318" serie-id="18377" start-time="2016-12-16 19:35:00" duration="02:00:00" mark="no">
+      <title>Frakkland - Noregur</title>
+      <original-title>4-liða úrslit</original-title>
+      <description><![CDATA[Bein útsending frá leik í undanúrslitum á EM kvenna í handbolta.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="18377" material="018377-0008" title="Frakkland - Noregur" />
+      <credits />
+    </event>
+  </service>
+</schedule>

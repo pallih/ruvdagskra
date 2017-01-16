@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-01-16 12:38" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="14" service-name="RÚV HD" date="2016-12-23" opt-out-of="RÚV">
+    <event event-id="4785238" serie-id="" start-time="2016-12-23 08:00:00" duration="02:10:00" mark="no">
+      <title>KrakkaRÚV</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4785238" title="KrakkaRÚV" />
+    </event>
+    <event event-id="4890667" serie-id="16862" start-time="2016-12-23 08:01:00" duration="00:07:01" mark="yes">
+      <title>Ofur Groddi</title>
+      <original-title>Super Grover</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="3" number-of-episodes="13" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <more-info>http://dagskra.ruv.is/nanar/16862/</more-info>
+      <reference group="16862" material="016862-0003" title="Ofur Groddi" />
+      <details id="16862">
+        <series-title>Ofur Groddi</series-title>
+        <series-original-title>Super Grover 2.0</series-original-title>
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4890674" serie-id="23582" start-time="2016-12-23 08:06:00" duration="00:07:00" mark="yes">
+      <title>Froskur og vinir hans</title>
+      <original-title>Frog and Friends</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="3" number-of-episodes="13" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23582" material="023582-0003" title="Froskur og vinir hans" />
+      <credits />
+    </event>
+    <event event-id="4890681" serie-id="18991" start-time="2016-12-23 08:15:00" duration="00:11:19" mark="yes">
+      <title>Veistu hvað ég elska þig mikið</title>
+      <original-title>Guess How Much I Love You</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="3" number-of-episodes="13" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/18991/</more-info>
+      <reference group="18991" material="018991-0003" title="Veistu hvað ég elska þig mikið?" />
+      <details id="18991">
+        <series-title>Veistu hvað ég elska þig mikið?</series-title>
+        <series-original-title>Guess how much I love you</series-original-title>
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4890688" serie-id="18988" start-time="2016-12-23 08:26:00" duration="00:12:23" mark="yes">
+      <title>Vinabær Danna Tígurs</title>
+      <original-title>Daniel Tiger&apos;s Neighbourhood</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="3" number-of-episodes="13" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/18988/</more-info>
+      <reference group="18988" material="018988-0003" title="Vinabær Danna tígurs" />
+      <details id="18988">
+        <series-title>Vinabær Danna tígurs</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Danni tígur er þáttaröð sem kennir börnum að túlka tilfinningar sínar. Hvenær upplifa þau sorg, reiði og hvenær eru þau þakklát. Danni notar tónlist og syngur um það sem hann upplifir sem leyfir börnum að tileinka sér það frekar. Þátturinn er ætlaður leikskólabörnum og kennir tilfinningagrein og sjálfsvirðingu sem og virðingu fyrir öðrum. Vinabær Danna tígurs er aðgengilegt í Sarpinum í viku í senn.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4890695" serie-id="18932" start-time="2016-12-23 08:39:00" duration="00:10:33" mark="yes">
+      <title>Ólivía</title>
+      <original-title>Olivia</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="3" number-of-episodes="13" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="18932" material="018932-0003" title="Ólivía" />
+      <credits />
+    </event>
+    <event event-id="4890702" serie-id="22307" start-time="2016-12-23 08:50:00" duration="00:23:07" mark="yes">
+      <title>Dóta læknir</title>
+      <original-title>Disney Doc McStuffins</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="3" number-of-episodes="11" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="22307" material="022307-0016" title="Dóta læknir" />
+      <credits />
+    </event>
+    <event event-id="4890710" serie-id="21810" start-time="2016-12-23 09:12:00" duration="00:23:15" mark="yes">
+      <title>Hvolpasveitin</title>
+      <original-title>Paw Patrol,II</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="3" number-of-episodes="13" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="21810" material="021810-0003" title="Hvolpasveitin" />
+      <credits />
+    </event>
+    <event event-id="4890968" serie-id="16256" start-time="2016-12-23 09:35:00" duration="00:07:03" mark="yes">
+      <title>Sara og önd</title>
+      <original-title>Sarah &amp; Duck</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="3" number-of-episodes="13" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/16256/</more-info>
+      <reference group="16256" material="016256-0003" title="Sara og Önd" />
+      <details id="16256">
+        <series-title>Sara og Önd</series-title>
+        <series-original-title>Sarah &amp; Duck</series-original-title>
+        <series-description>
+          <p>Ýkt skemmtilegur þáttur. Önd er tveggja ára og sefur í baðkari og Sara er vinkona hennar. Fullorðin rödd leiðir þau áfram í atburði dagsins.</p>
+          <p>Þættirnir eru í sjónvarpinu í Morgunstuninni á sunnudögum og aðgengilegir á vefnum í viku.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4891007" serie-id="17871" start-time="2016-12-23 09:42:00" duration="00:19:44" mark="yes">
+      <title>Jólasveinarnir í Dimmuborgum</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="3" number-of-episodes="5" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <more-info>http://dagskra.ruv.is/nanar/17871/</more-info>
+      <reference group="17871" material="017871-0003" title="Jólasveinarnir í Dimmuborgum" />
+      <details id="17871">
+        <series-title>Jólasveinarnir í Dimmuborgum</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Leiknir íslenskir þættir um þrettán magnaða gaura í Dimmuborgum norður í landi.</p>
+        </series-description>
+        <series-short-description>
+          <p>Leiknir íslenskir þættir um þrettán magnaða gaura í Dimmuborgum norður í landi.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4891310" serie-id="17714" start-time="2016-12-23 10:03:00" duration="00:10:44" mark="yes">
+      <title>Jólastundarkorn - Jólasveinaskólinn</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="17714" material="017714-0008" title="Jólastundarkorn - Jólasveinaskólinn" />
+      <credits />
+    </event>
+    <event event-id="4893120" serie-id="24367" start-time="2016-12-23 10:10:00" duration="00:04:16" mark="no">
+      <title>Góð jól</title>
+      <original-title />
+      <description><![CDATA[Í desember ætlar KrakkaRÚV að hvetja alla landsmenn til að gera góðverk! Á hverjum degi frá 11. desember kynnir Björgvin Franz Gíslason góðverk dagsins og hvetur fólk, fjölskyldur og fyrirtæki til að gefa af sér svo að sem flestir geti átt góð jól. e.
+#góðjól]]></description>
+      <short-description />
+      <rating />
+      <episode number="11" number-of-episodes="13" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/24367/</more-info>
+      <reference group="24367" material="024367-0011" title="Góð jól" />
+      <details id="24367">
+        <series-title>Góð jól</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Í desember ætlar KrakkaRÚV að hvetja alla landsmenn til að gera góðverk! Á hverjum degi frá 12. desember kynnir Björgvin Franz Gíslason góðverk dagsins og hvetur fólk, fjölskyldur og fyrirtæki til að gefa af sér svo að sem flestir geti átt góð jól.</p>
+          <p>#góðjól</p>
+        </series-description>
+        <series-short-description>
+          <p>Í desember ætlar KrakkaRÚV að hvetja alla landsmenn til að gera góðverk!</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4887275" serie-id="16247" start-time="2016-12-23 10:15:00" duration="00:52:03" mark="no">
+      <title>Snjókríli</title>
+      <original-title>Snow Babies</original-title>
+      <description><![CDATA[Ljúf heimildarmynd frá BBC þar sem ferðast er til hrjóstrugustu og köldustu staða heims og fylgst með lífsafkomu yngstu íbúa þar. Fylgst er með mörgæsaungum, snjóöpum, hvítabjarnarhúnum, yrðlingum o.fl. og kannað hvað ungarnir þurfa til að lifa af fyrsta ár ævinnar. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="4">Fræðsla</category>
+      <more-info>http://dagskra.ruv.is/nanar/16247/</more-info>
+      <reference group="16247" material="016247-0001" title="Snjókríli" />
+      <details id="16247">
+        <series-title>Snjókríli</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Ljúf heimildarmynd frá BBC þar sem ferðast er til hrjóstrugustu og köldustu staða heims og fylgst með lífsafkomu yngstu íbúa þar. Fylgst er með mörgæsaungum, snjóöpum, hvítabjarnarhúnum, yrðlingum o.fl. og kannað hvað ungarnir þurfa til að lifa af fyrsta ár ævinnar.</p>
+        </series-description>
+        <series-short-description>
+          <p>Ljúf heimildarmynd frá BBC þar sem ferðast er til hrjóstrugustu og köldustu staða heims og fylgst með lífsafkomu yngstu íbúa þar.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4887274" serie-id="20815" start-time="2016-12-23 11:10:00" duration="01:13:45" mark="no">
+      <title>Blái fílinn</title>
+      <original-title>Blue Elephant</original-title>
+      <description><![CDATA[Falleg teiknimynd fyrir alla fjölskylduna. Bláa fílinn dreymir um að verða hetja. Þegar hann verður viðskila við hjörðina leitar hann aðstoðar nýrra vina og þarf að sýna mikið hugrekki. Leikraddir: Björgvin Franz Gíslason, Örn Árnason, Sigurður Sigurjónsson o.fl.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/20815/</more-info>
+      <reference group="20815" material="020815-0001" title="Blái fíllinn" />
+      <details id="20815">
+        <series-title>Blái fíllinn</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Falleg teiknimynd fyrir alla fjölskylduna. Bláa fílinn dreymir um að verða hetja. Þegar hann verður viðskila við hjörðina leitar hann aðstoðar nýrra vina og þarf að sýna mikið hugrekki. Leikraddir: Björgvin Franz Gíslason, Örn Árnason, Sigurður Sigurjónsson o.fl.</p>
+        </series-description>
+        <series-short-description>
+          <p>Falleg teiknimynd fyrir alla fjölskylduna.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4887273" serie-id="22562" start-time="2016-12-23 12:25:00" duration="01:38:32" mark="no">
+      <title>Home Alone</title>
+      <original-title>Aleinn heima</original-title>
+      <description><![CDATA[Sígild gamanmynd með barnastjörnunni Macaulay Culkin í aðalhlutverki. Þegar átta ára grallari er skilinn eftir heima fyrir mistök á jólunum koma tveir innbrotsþjófar í heimsókn. Nú eru góð ráð dýr fyrir en stráksi deyr ekki ráðalaus. Önnur hlutverk: Joe Pesci og Daniel Stern. Leikstjóri: Chris Columbus. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="7">Kvikmyndir</category>
+      <more-info>http://dagskra.ruv.is/nanar/22562/</more-info>
+      <reference group="22562" material="022562-0001" title="Home Alone" />
+      <details id="22562">
+        <series-title>Home Alone</series-title>
+        <series-original-title>Aleinn heima</series-original-title>
+        <series-description>
+          <p>Sígild gamanmynd með barnastjörnunni Macaulay Culkin í aðalhlutverki. Þegar átta ára grallari er skilinn eftir heima fyrir mistök á jólunum koma tveir innbrotsþjófar í heimsókn. Nú eru góð ráð dýr fyrir en stráksi deyr ekki ráðalaus. Önnur hlutverk: Joe Pesci og Daniel Stern. Leikstjóri: Chris Columbus.</p>
+        </series-description>
+        <series-short-description>
+          <p>Sígild gamanmynd með barnastjörnunni Macaulay Culkin í aðalhlutverki.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4887276" serie-id="22344" start-time="2016-12-23 14:05:00" duration="01:03:13" mark="no">
+      <title>Adele</title>
+      <original-title>Adele: Live at the BBC</original-title>
+      <description><![CDATA[Hin geysivinsæla Adele flytur gömul lög sín og ný fyrir áhorfendur í sal. Í þættinum segir Adele segir frá ferli sínum og fortíð auk þess sem slegið er á létta strengi með heitustu aðdáendum hennar. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="9">Tónlist</category>
+      <more-info>http://dagskra.ruv.is/nanar/22344/</more-info>
+      <reference group="22344" material="022344-0001" title="Adele" />
+      <details id="22344">
+        <series-title>Adele</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Glænýr tónlistarþáttur frá BBC. Hin geysivinsæla Adele flytur gömul lög sín og ný fyrir áhorfendur í sal. Í þættinum segir Adele segir frá ferli sínum og fortíð auk þess sem slegið er á létta strengi með heitustu aðdáendum hennar.</p>
+        </series-description>
+        <series-short-description>
+          <p>Glænýr tónlistarþáttur frá BBC. Hin geysivinsæla Adele flytur gömul lög sín og ný fyrir áhorfendur í sal.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4887277" serie-id="20309" start-time="2016-12-23 15:10:00" duration="01:23:16" mark="no">
+      <title>12 Dates of Christmas</title>
+      <original-title>Tólf jólastefnumót</original-title>
+      <description><![CDATA[Rómantísk gamanmynd um Kate sem virðist föst í tilverunni. Jóladagur rennur upp hjá henni aftur og aftur og í hvert skipti fær hún nýtt tækifæri til að sannfæra manninn sem hún elskar um að hann sé sá eini rétti. Aðalhlutverk: Amy Smart og Mark-Paul Gosselaar. Leikstjóri: James Hayman. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="20309" material="020309-0001" title="12 Dates of Christmas" />
+      <credits />
+    </event>
+    <event event-id="4892033" serie-id="21523" start-time="2016-12-23 16:35:00" duration="00:59:13" mark="no">
+      <title>Lorraine Pascale: Jólamatur með lítilli fyrirhöfn</title>
+      <original-title>Lorraine&apos;s Last Minute Christmas</original-title>
+      <description><![CDATA[Lorraine Pascale útbýr ómótstæðilegar kræsingar á jólaborðið ásamt ýmsu góðgæti sem má setja í jólapakkann. Allt eru þetta fljótlegar uppskriftir sem má töfra fram á síðustu stundu rétt áður en jólin ganga í garð. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/21523/</more-info>
+      <reference group="21523" material="021523-0001" title="Lorraine Pascale: Jólamatur með lítilli fyrirhöfn" />
+      <details id="21523">
+        <series-title>Lorraine Pascale: Jólamatur með lítilli fyrirhöfn</series-title>
+        <series-original-title>Lorraine&apos;s Last Minute Christmas</series-original-title>
+        <series-description>
+          <p>Lorraine Pascale útbýr ómótstæðilegar kræsingar á jólaborðið ásamt ýmsu góðgæti sem má setja í jólapakkann. Allt eru þetta fljótlegar uppskriftir sem má töfra fram á síðustu stundu rétt áður en jólin ganga í garð.</p>
+        </series-description>
+        <series-short-description>
+          <p>Lorraine Pascale útbýr ómótstæðilegar kræsingar á jólaborðið ásamt ýmsu góðgæti sem má setja í jólapakkann.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4853893" serie-id="21499" start-time="2016-12-23 17:40:00" duration="00:06:23" mark="no">
+      <title>Táknmálsfréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="21499" material="021499-0543" title="Táknmálsfréttir" />
+      <credits />
+    </event>
+    <event event-id="4833207" serie-id="" start-time="2016-12-23 17:50:00" duration="00:55:00" mark="no">
+      <title>KrakkaRÚV</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="206" number-of-episodes="386" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4833207" title="KrakkaRÚV" />
+    </event>
+    <event event-id="4889014" serie-id="24134" start-time="2016-12-23 17:51:00" duration="00:24:14" mark="yes">
+      <title>Jóladagatalið - Sáttmálinn</title>
+      <original-title>Pagten</original-title>
+      <description><![CDATA[Danskt ævintýri um tólf ára strák og jafnöldru hans af álfaættum, leit þeirra að leynilegum sáttmála og glímu þeirra við ísnornina ógurlegu. Þættirnir eru talsettir á íslensku.]]></description>
+      <short-description />
+      <rating />
+      <episode number="23" number-of-episodes="24" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/24134/</more-info>
+      <reference group="24134" material="024134-0023" title="Sáttmálinn" />
+      <details id="24134">
+        <series-title>Sáttmálinn</series-title>
+        <series-original-title>Pagten</series-original-title>
+        <series-description>
+          <p>Danskt ævintýri um tólf ára strák og jafnöldru hans af álfaættum, leit þeirra að leynilegum sáttmála og glímu þeirra við ísnornina ógurlegu. Þættirnir eru talsettir á íslensku.</p>
+        </series-description>
+        <series-short-description>
+          <p>Danskt ævintýri um tólf ára strák og jafnöldru hans af álfaættum, leit þeirra að leynilegum sáttmála og glímu þeirra við ísnornina ógurlegu. Þættirnir eru talsettir á íslensku.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4889038" serie-id="24136" start-time="2016-12-23 18:15:00" duration="00:26:04" mark="yes">
+      <title>Jóladagatalið - Leyndarmál Absalons</title>
+      <original-title>Absalons Hemmelighed</original-title>
+      <description><![CDATA[Jóladagatal um Cecilie sem er tólf ára gömul og býr með fjölskyldu sinni fyrir ofan stórverslun í Kaupmannahöfn. Þegar grafin eru göng fyrir neðan verslunina finnur hún ævafornan garð og kemst á snoðir um leyndarmál sem gæti bjargað hjartveikri systur hennar. Hún kynnist líka stráknum Húbert sem kemur líkt og af himnum ofan og gegnir mikilvægu hlutverki í leitinni að leyndarmálinu.]]></description>
+      <short-description />
+      <rating />
+      <episode number="23" number-of-episodes="24" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/24136/</more-info>
+      <reference group="24136" material="024136-0023" title="Leyndarmál Absalons" />
+      <details id="24136">
+        <series-title>Leyndarmál Absalons</series-title>
+        <series-original-title>Absalons Hemmelighed</series-original-title>
+        <series-description>
+          <p>Jóladagatal um Cecilie sem er tólf ára gömul og býr með fjölskyldu sinni fyrir ofan stórverslun í Kaupmannahöfn. Þegar grafin eru göng fyrir neðan verslunina finnur hún ævafornan garð og kemst á snoðir um leyndarmál sem gæti bjargað hjartveikri systur hennar. Hún kynnist líka stráknum Húbert sem kemur líkt og af himnum ofan og gegnir mikilvægu hlutverki í leitinni að leyndarmálinu.</p>
+        </series-description>
+        <series-short-description>
+          <p>Jóladagatal um Cecilie sem er tólf ára gömul og býr með fjölskyldu sinni fyrir ofan stórverslun í Kaupmannahöfn.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4891632" serie-id="24367" start-time="2016-12-23 18:45:00" duration="00:04:16" mark="no">
+      <title>Góð jól</title>
+      <original-title />
+      <description><![CDATA[Í desember ætlar KrakkaRÚV að hvetja alla landsmenn til að gera góðverk! Á hverjum degi frá 11. desember kynnir Björgvin Franz Gíslason góðverk dagsins og hvetur fólk, fjölskyldur og fyrirtæki til að gefa af sér svo að sem flestir geti átt góð jól.
+#góðjól]]></description>
+      <short-description />
+      <rating />
+      <episode number="12" number-of-episodes="13" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/24367/</more-info>
+      <reference group="24367" material="024367-0012" title="Góð jól" />
+      <details id="24367">
+        <series-title>Góð jól</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Í desember ætlar KrakkaRÚV að hvetja alla landsmenn til að gera góðverk! Á hverjum degi frá 12. desember kynnir Björgvin Franz Gíslason góðverk dagsins og hvetur fólk, fjölskyldur og fyrirtæki til að gefa af sér svo að sem flestir geti átt góð jól.</p>
+          <p>#góðjól</p>
+        </series-description>
+        <series-short-description>
+          <p>Í desember ætlar KrakkaRÚV að hvetja alla landsmenn til að gera góðverk!</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4849053" serie-id="21177" start-time="2016-12-23 19:00:00" duration="00:23:00" mark="no">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="21177" material="021177-0482" title="Fréttir" />
+      <credits />
+    </event>
+    <event event-id="4849747" serie-id="21171" start-time="2016-12-23 19:25:00" duration="00:06:00" mark="no">
+      <title>Íþróttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="21171" material="021171-0334" title="Íþróttir" />
+      <credits />
+    </event>
+    <event event-id="4849197" serie-id="21179" start-time="2016-12-23 19:30:00" duration="00:03:27" mark="no">
+      <title>Veður</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="21179" material="021179-0477" title="Veður" />
+      <credits />
+    </event>
+    <event event-id="4887164" serie-id="24360" start-time="2016-12-23 19:40:00" duration="01:28:10" mark="no">
+      <title>Norræn jólaveisla</title>
+      <original-title>Det store Nordiske Juleshow</original-title>
+      <description><![CDATA[Árleg jólatónlistarveisla danska ríkisútvarpsins. Flutningur er í höndum sinfóníuhljómsveitar DR auk þess sem ýmsir norrænir listamenn stíga á svið.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="9">Tónlist</category>
+      <more-info>http://dagskra.ruv.is/nanar/24360/</more-info>
+      <reference group="24360" material="024360-0001" title="Norræn jólaveisla" />
+      <details id="24360">
+        <series-title>Norræn jólaveisla</series-title>
+        <series-original-title>Det store Nordiske Juleshow</series-original-title>
+        <series-description>
+          <p>Árleg jólatónlistarveisla danska ríkisútvarpsins. Flutningur er í höndum sinfóníuhljómsveitar DR auk þess sem ýmsir norrænir listamenn stíga á svið.</p>
+        </series-description>
+        <series-short-description>
+          <p>Árleg jólatónlistarveisla danska ríkisútvarpsins. Flutningur er í höndum sinfóníuhljómsveitar DR auk þess sem ýmsir norrænir listamenn stíga á svið.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4887173" serie-id="19804" start-time="2016-12-23 21:15:00" duration="02:10:04" mark="no">
+      <title>The Holiday</title>
+      <original-title>Fríið</original-title>
+      <description><![CDATA[Rómantísk gamanmynd um tvær konur sem eiga í vandræðum út af karlmönnum hafa vistaskipti, kynnast heimamanni og verða ástfangnar. Leikstjóri er Nancy Meyers og meðal leikenda eru Cameron Diaz, Kate Winslet, Jude Law og Jack Black. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="7">Kvikmyndir</category>
+      <more-info>http://dagskra.ruv.is/nanar/19804/</more-info>
+      <reference group="19804" material="019804-0001" title="Fríið" />
+      <details id="19804">
+        <series-title>Fríið</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Bandarísk bíómynd frá 2006. Tvær konur sem eiga í vandræðum út af karlmönnum hafa vistaskipti, kynnast heimamanni og verða ástfangnar.</p>
+          <p>Leikstjóri er Nancy Meyers og meðal leikenda eru Cameron Diaz, Kate Winslet, Jude Law og Jack Black. e.</p>
+        </series-description>
+        <series-short-description>
+          <p>Bandarísk bíómynd frá 2006. Tvær konur sem eiga í vandræðum út af karlmönnum hafa vistaskipti, kynnast heimamanni og verða ástfangnar.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4887172" serie-id="22028" start-time="2016-12-23 23:30:00" duration="00:34:03" mark="no">
+      <title>Frú Brown undirbýr jólin</title>
+      <original-title>Mrs Brown&apos;s Boys: Mammy&apos;s Tickled Pink</original-title>
+      <description><![CDATA[Nú þegar jólin nálgast óðum er Mrs. Brown gáttuð yfir öllum pökkunum sem Cathy fær senda. Bresk-írsk gamanþáttaröð um kjaftfora húsmóður í Dyflinni. Höfundur og aðalleikari er Brendan O'Carroll.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="7">Kvikmyndir</category>
+      <more-info>http://dagskra.ruv.is/nanar/22028/</more-info>
+      <reference group="22028" material="022028-0001" title="Mrs Brown&apos;s Boys: Mammy&apos;s Tickled Pink" />
+      <details id="22028">
+        <series-title>Mrs Brown&apos;s Boys: Mammy&apos;s Tickled Pink</series-title>
+        <series-original-title>Frú Brown undirbýr jólin</series-original-title>
+        <series-description>
+          <p>Nú þegar jólin nálgast óðum er Mrs. Brown gáttuð yfir öllum pökkunum sem Cathy fær senda. Bresk-írsk gamanþáttaröð um kjaftfora húsmóður í Dyflinni. Höfundur og aðalleikari er Brendan O&apos;Carroll.</p>
+        </series-description>
+        <series-short-description>
+          <p>Nú þegar jólin nálgast óðum er Mrs. Brown gáttuð yfir öllum pökkunum sem Cathy fær senda.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4887175" serie-id="20312" start-time="2016-12-24 00:10:00" duration="01:29:42" mark="no">
+      <title>Jól í Vínarborg</title>
+      <original-title>Christmas in Vienna 2014</original-title>
+      <description><![CDATA[Jólatónleikar frá austurríska sjónvarpinu. Angelika Kirchschlager, Joel Prieto, Luca Pisaroni og Ursula Langmayr syngja sígild jólalög ásamt Söngakademíu Vínarborgar og drengjakór. Erwin Ortner stjórnar Útvarpshljómsveit Vínarborgar. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="9">Tónlist</category>
+      <more-info>http://dagskra.ruv.is/nanar/20312/</more-info>
+      <reference group="20312" material="020312-0001" title="Jól í Vínarborg" />
+      <details id="20312">
+        <series-title>Jól í Vínarborg</series-title>
+        <series-original-title>Christmas in Vienna 2014</series-original-title>
+        <series-description>
+          <p>Aðventutónleikar frá Vínarborg. Á dagskránni er jólatónlist frá öllum heimshornum, klassísk tónlist í bland við dægurtónlist. Meðal einleikara eru þau Natalia Ushakova, Vesselina Kasarova og Artur Rucinski en Sascha Goetzel stjórnar Útvarpshljómsveit Vínarborgar.</p>
+        </series-description>
+        <series-short-description>
+          <p>Aðventutónleikar frá Vínarborg.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4831065" serie-id="" start-time="2016-12-24 01:40:00" duration="00:03:00" mark="no">
+      <title>Útvarpsfréttir í dagskrárlok</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4831065" title="Útvarpsfréttir í dagskrárlok" />
+    </event>
+  </service>
+</schedule>

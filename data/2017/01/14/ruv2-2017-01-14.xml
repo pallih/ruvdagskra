@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-01-16 12:36" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2017-01-14">
+    <event event-id="4888942" serie-id="20434" start-time="2017-01-14 19:35:00" duration="01:50:00" mark="no">
+      <title>Egyptaland - Danmörk</title>
+      <original-title>HM karla í handbolta</original-title>
+      <description><![CDATA[Bein útsending frá leik Egyptalands og Danmerkur á HM karla í handbolta.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="20434" material="020434-0003" title="Egyptaland - Danmörk" />
+      <credits />
+    </event>
+  </service>
+</schedule>

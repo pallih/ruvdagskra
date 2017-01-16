@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-01-16 12:38" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2016-12-24">
+    <event event-id="4891027" serie-id="24349" start-time="2016-12-24 22:00:00" duration="00:50:51" mark="no">
+      <title>Aftansöngur jóla 2016 - með táknmáli</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <reference group="22330" material="024349-0001" title="Aftansöngur jóla 2016 - með táknmáli" />
+      <credits />
+    </event>
+  </service>
+</schedule>

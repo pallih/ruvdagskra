@@ -1,0 +1,1209 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-01-16 12:36" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="14" service-name="RÚV HD" date="2017-01-08" opt-out-of="RÚV">
+    <event event-id="4785252" serie-id="" start-time="2017-01-08 07:00:00" duration="03:15:00" mark="no">
+      <title>KrakkaRÚV</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4785252" title="KrakkaRÚV" />
+    </event>
+    <event event-id="4888408" serie-id="22401" start-time="2017-01-08 07:01:00" duration="00:07:00" mark="yes">
+      <title>Kioka</title>
+      <original-title>Kioka</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="10" number-of-episodes="78" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="22401" material="022401-0010" title="Kioka" />
+      <credits />
+    </event>
+    <event event-id="4888561" serie-id="16860" start-time="2017-01-08 07:07:00" duration="00:05:11" mark="yes">
+      <title>Ævintýri Berta og Árna</title>
+      <original-title>Bert&amp; Ernie&apos;s Great Adventures</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="8" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/16860/</more-info>
+      <reference group="16860" material="016860-0008" title="Ævintýri Berta og Árna" />
+      <details id="16860">
+        <series-title>Ævintýri Berta og Árna</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4888613" serie-id="20644" start-time="2017-01-08 07:12:00" duration="00:07:05" mark="yes">
+      <title>Lundaklettur</title>
+      <original-title>Puffin Rock</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="8" number-of-episodes="39" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/20644/</more-info>
+      <reference group="20644" material="020644-0008" title="Lundaklettur" />
+      <details id="20644">
+        <series-title>Lundaklettur</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4888480" serie-id="23582" start-time="2017-01-08 07:20:00" duration="00:07:00" mark="yes">
+      <title>Froskur og vinir hans</title>
+      <original-title>Frog and Friends</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="4" number-of-episodes="26" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23582" material="023582-0004" title="Froskur og vinir hans" />
+      <credits />
+    </event>
+    <event event-id="4888341" serie-id="18992" start-time="2017-01-08 07:30:00" duration="00:11:20" mark="yes">
+      <title>Veistu hvað ég elska þig mikið</title>
+      <original-title>Guess How Much I Love you</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="7" number-of-episodes="26" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/18992/</more-info>
+      <reference group="18992" material="018992-0008" title="Veistu hvað ég elska þig mikið?" />
+      <details id="18992">
+        <series-title>Veistu hvað ég elska þig mikið?</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4851295" serie-id="18990" start-time="2017-01-08 07:42:00" duration="00:12:23" mark="yes">
+      <title>Vinabær Danna tígurs</title>
+      <original-title>Daniel Tiger&apos;s Neighbourhod</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="33" number-of-episodes="35" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/18990/</more-info>
+      <reference group="18990" material="018990-0033" title="Vinabær Danna tígurs" />
+      <details id="18990">
+        <series-title>Vinabær Danna tígurs</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4849977" serie-id="20527" start-time="2017-01-08 07:52:00" duration="00:07:00" mark="yes">
+      <title>Hæ Sámur</title>
+      <original-title>Hey Dugge</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="35" number-of-episodes="49" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/20527/</more-info>
+      <reference group="20527" material="020527-0037" title="Hæ Sámur" />
+      <details id="20527">
+        <series-title>Hæ Sámur</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4891373" serie-id="22309" start-time="2017-01-08 07:59:00" duration="00:23:08" mark="yes">
+      <title>Morgunland</title>
+      <original-title>Disney Miles from Tomorrow Land</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="2" number-of-episodes="10" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="22309" material="022309-0002" title="Morgunland" />
+      <credits />
+    </event>
+    <event event-id="4891388" serie-id="20548" start-time="2017-01-08 08:21:00" duration="00:07:15" mark="yes">
+      <title>Nellý og Nóra</title>
+      <original-title>Nelly &amp; Nora</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="27" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="20548" material="020548-0026" title="Nellý og Nóra" />
+      <credits />
+    </event>
+    <event event-id="4888288" serie-id="21813" start-time="2017-01-08 08:29:00" duration="00:23:05" mark="yes">
+      <title>Kúlugúbbarnir</title>
+      <original-title>Bubble Guppies,</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="7" number-of-episodes="14" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="21813" material="021813-0007" title="Kúlugúbbarnir" />
+      <credits />
+    </event>
+    <event event-id="4888165" serie-id="20809" start-time="2017-01-08 08:53:00" duration="00:08:47" mark="yes">
+      <title>Klaufabárðarnir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="10" number-of-episodes="69" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/20809/</more-info>
+      <reference group="20809" material="020809-0010" title="Klaufabárðarnir" />
+      <details id="20809">
+        <series-title>Klaufabárðarnir</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4888742" serie-id="22310" start-time="2017-01-08 09:01:00" duration="00:21:41" mark="yes">
+      <title>Finnbogi og Felix</title>
+      <original-title>Disney Phineas and Ferb</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="2" number-of-episodes="9" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="22310" material="022310-0093" title="Finnbogi og Felix" />
+      <credits />
+    </event>
+    <event event-id="4887779" serie-id="22630" start-time="2017-01-08 09:24:00" duration="00:07:29" mark="yes">
+      <title>Sígildar teiknimyndir</title>
+      <original-title>Classic Cartoon</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="13" number-of-episodes="30" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="22630" material="022630-0013" title="Sígildar teiknimyndir" />
+      <credits />
+    </event>
+    <event event-id="4888707" serie-id="22313" start-time="2017-01-08 09:31:00" duration="00:21:54" mark="yes">
+      <title>Gló magnaða</title>
+      <original-title>Disney&apos;s Kim Possible</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="8" number-of-episodes="41" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="22313" material="022313-0023" title="Gló magnaða" />
+      <credits />
+    </event>
+    <event event-id="4853217" serie-id="15337" start-time="2017-01-08 09:53:00" duration="00:11:46" mark="yes">
+      <title>Undraveröld Gúnda</title>
+      <original-title>Amazing World of Gumball</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="18" number-of-episodes="40" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/15337/</more-info>
+      <reference group="15337" material="015337-0018" title="Undraveröld Gúnda" />
+      <details id="15337">
+        <series-title>Undraveröld Gúnda</series-title>
+        <series-original-title>Amazing world of Gumball</series-original-title>
+        <series-description>
+          <p>Flottir þættir frá Cartoon Network.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4894207" serie-id="13087" start-time="2017-01-08 10:06:00" duration="00:06:27" mark="yes">
+      <title>Chaplin</title>
+      <original-title>Chaplin</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="3" number-of-episodes="10" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="13087" material="013087-0003" title="Chaplin" />
+      <credits />
+    </event>
+    <event event-id="4895330" serie-id="20617" start-time="2017-01-08 10:14:00" duration="00:06:14" mark="yes">
+      <title>Vísindahorn Ævars</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <more-info>http://dagskra.ruv.is/nanar/20617/</more-info>
+      <reference group="20617" material="020617-0031" title="Vísindahorn Ævars" />
+      <details id="20617">
+        <series-title>Vísindahorn Ævars</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Þáttarbrot með Ævari vísindamanni fyrir krakka á öllum aldri.</p>
+        </series-description>
+        <series-short-description>
+          <p>Þáttarbrot með Ævari vísindamanni fyrir krakka á öllum aldri.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4895193" serie-id="24699" start-time="2017-01-08 10:15:00" duration="00:16:35" mark="no">
+      <title>Krakkafréttir vikunnar</title>
+      <original-title />
+      <description><![CDATA[Fréttaþáttur fyrir börn á aldrinum 8-12 ára þar sem litið er yfir það helsta í fréttum liðinnar viku. Umsjón: Birkir Blær Ingólfsson og Ísgerður Elfa Gunnarsdóttir. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="17" number-of-episodes="39" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/23489/</more-info>
+      <reference group="23489" material="024699-0001" title="Krakkafréttir vikunnar" />
+      <details id="23489">
+        <series-title>Krakkafréttir vikunnar</series-title>
+        <series-original-title />
+        <sub-series-title>Krakkafréttir vikunnar</sub-series-title>
+        <series-description>
+          <p>Fréttaþáttur fyrir börn á aldrinum 8-12 ára þar sem litið er yfir það helsta í fréttum liðinnar viku.  Umsjón: Birkir Blær Ingólfsson og Ísgerður Elfa Gunnarsdóttir.</p>
+        </series-description>
+        <series-short-description>
+          <p>Fréttaþáttur fyrir börn á aldrinum 8-12 ára þar sem litið er yfir það helsta í fréttum liðinnar viku.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4892445" serie-id="24140" start-time="2017-01-08 10:30:00" duration="00:12:44" mark="no">
+      <title>Búi</title>
+      <original-title />
+      <description><![CDATA[Stuttmynd um Önnu, níu ára stelpu sem flytur í nýtt hverfi og er utangátta þar. Hún kynnist Búa sem hvetur hana til að drýgja hetjudáð til að sýna krökkunum í hverfinu hvað í henni býr. Fljótlega kemur þó í ljós að Búi er ekki allur þar sem hann er séður. Leikstjóri: Inga Lísa Middleton. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="7">Kvikmyndir</category>
+      <more-info>http://dagskra.ruv.is/nanar/24140/</more-info>
+      <reference group="24140" material="024140-0001" title="Búi" />
+      <details id="24140">
+        <series-title>Búi</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Stuttmynd um Önnu, níu ára stelpu sem flytur í nýtt hverfi og er utangátta þar. Hún kynnist Búa sem hvetur hana til að drýgja hetjudáð til að sýna krökkunum í hverfinu hvað í henni býr. Fljótlega kemur þó í ljós að Búi er ekki allur þar sem hann er séður. Leikstjóri: Inga Lísa Middleton.</p>
+        </series-description>
+        <series-short-description>
+          <p>Stuttmynd um Önnu, níu ára stelpu sem flytur í nýtt hverfi og er utangátta þar.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4893104" serie-id="23072" start-time="2017-01-08 10:45:00" duration="00:07:01" mark="no">
+      <title>Bækur og staðir</title>
+      <original-title>Davíðshús</original-title>
+      <description><![CDATA[Egill Helgason tengir bækur við ýmsa staði á landinu.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/23072/</more-info>
+      <reference group="23072" material="023072-0008" title="Bækur og staðir" />
+      <details id="23072">
+        <series-title>Bækur og staðir</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Egill Helgason tengir bækur við ýmsa staði á landinu.</p>
+        </series-description>
+        <series-short-description>
+          <p>Egill Helgason tengir bækur við ýmsa staði á landinu.</p>
+        </series-short-description>
+        <episode-description>
+          <p>Egill Helgason heimsækir ólíka staði á landinu og fjallar um ritverk og höfunda sem þeim tengjast. Davíðshús var reist 1944 og þar bjó Davíð Stefánsson frá Fagraskógi til dauðadags. Davíð var eitt vinsælasta skáld landsins á sínum tíma og Jóhannes úr Kötlum fór um hann fögrum orðum. Þó voru ekki allir hrifnir af kveðskap hans. Steinn Steinarr skrifaði harða gagnrýni á verk hans, sem Davíð sárnaði mjög. Svar við þeirri gagnrýni birtist síðan í kveðskap sem kom út eftir að hann var látinn. Davíð var heldur meira rakkaður niður fyrir sunnan, en hafinn á stall fyrir norðan. Hann var á margan hátt dulur maður og er enn, því á Héraðsskjalasafninu á Akureyri er að finna bréfasafn eftir hann, sem ekki má opna fyrr en árið 2250, -nema atómsprengja falli á landið!</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4892362" serie-id="24380" start-time="2017-01-08 10:55:00" duration="00:52:00" mark="no">
+      <title>Charcot - Leyndarmál pólanna</title>
+      <original-title>Charcot - Secret Poles</original-title>
+      <description><![CDATA[Heimildarmynd um hetjulegar pólferðir Frakkans Jean-Baptiste Charcot og dauða hans árið 1936. Hann fór í könnunarferðir til heimskautanna, rannsakaði sérstaklega sjóinn við norðurskautið og uppgötvaði mikilvægi skautanna fyrir loftslagið í heiminum.Að lokum fórst hann við Íslandsstrendur með rannsóknarskipi sínu, Pourquoi Pas? Leikstjóri: Marc Jampolsky. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="4">Fræðsla</category>
+      <more-info>http://dagskra.ruv.is/nanar/24380/</more-info>
+      <reference group="24380" material="024380-0001" title="Charcot - Leyndarmál pólanna" />
+      <details id="24380">
+        <series-title>Charcot - Leyndarmál pólanna</series-title>
+        <series-original-title>Charcot, Secret Poles</series-original-title>
+        <series-description>
+          <p>Heimildarmynd um hetjulegar pólferðir Frakkans Jean-Baptiste Charcot og dauða hans árið 1936. Hann fór í könnunarferðir til heimskautanna, rannsakaði sérstaklega sjóinn við norðurskautið og uppgötvaði mikilvægi skautanna fyrir loftslagið í heiminum.Að lokum fórst hann við Íslandsstrendur með rannsóknarskipi sínu, Pourquoi Pas? Leikstjóri: Marc Jampolsky.</p>
+        </series-description>
+        <series-short-description>
+          <p>Heimildarmynd um hetjulegar pólferðir Frakkans Jean-Baptiste Charcot og dauða hans árið 1936. Hann fór í könnunarferðir til heimskautanna, rannsakaði sérstaklega sjóinn við norðurskautið og uppgötvaði mikilvægi skautanna fyrir loftslagið í heiminum.Að lokum fórst hann við Íslandsstrendur með rannsóknarskipi sínu, Pourquoi Pas? Leikstjóri: Marc Jampolsky.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4892369" serie-id="24281" start-time="2017-01-08 11:50:00" duration="00:58:46" mark="no">
+      <title>Plastbarkamálið</title>
+      <original-title>Experimenten</original-title>
+      <description><![CDATA[Sænsk heimildarmynd í þremur hlutum um plastbarkamálið svokallaða. Ítalski skurðlækninn Paolo Macchiarini framkvæmdi aðgerðina ásamt fleiri læknum m.a. íslenska hjartalækninum Tómasi Guðbjartssyni á Karolinska sjúkrahúsinu í Stokkhólmi. Plastbarkamálið fékk mikla umfjöllun í fyrra þegar upp komst að læknirinn hafði falsað upplýsingar og aðgerðin misheppnaðist með þeim afleiðingum að sjúklingurinn lést. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="3" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/24281/</more-info>
+      <reference group="24281" material="024281-0001" title="Plastbarkamálið" />
+      <details id="24281">
+        <series-title>Plastbarkamálið</series-title>
+        <series-original-title>Experimenten</series-original-title>
+        <series-description>
+          <p>Sænsk heimildarmynd í þremur hlutum um plastbarkamálið svokallaða. Ítalski skurðlækninn Paolo Macchiarini framkvæmdi aðgerðini í samfráði við einvala lið hjartalæknai á Karolinska sjúkrahúsinu í Stokkhólmi. Plastbarkamálið fékk mikla umfjöllun í fyrra þegar upp komst að læknirinn hafði falsað upplýsingar og aðgerðin misheppnaðist með alvarlegum afleiðingum.</p>
+        </series-description>
+        <series-short-description>
+          <p>Sænsk heimildarmynd í þremur hlutum um plastbarkamálið svokallaða.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4892409" serie-id="13315" start-time="2017-01-08 12:50:00" duration="02:03:25" mark="no">
+      <title>Nýárstónleikar í Vínarborg</title>
+      <original-title>New Year&apos;s Concert 2017</original-title>
+      <description><![CDATA[Sinfóníuhljómsveit Vínarborga tileinkar Strauss-fjölskyldunni nýárstónleikana. Stjórnandi hljómsveitarinnar er Gustavo Dudamel. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="9">Tónlist</category>
+      <more-info>http://dagskra.ruv.is/nanar/13315/</more-info>
+      <reference group="13315" material="013315-0001" title="Nýárstónleikar í Vínarborg" />
+      <details id="13315">
+        <series-title>Nýárstónleikar í Vínarborg</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Sinfóníuhljómsveit Vínarborga tileinkar Strauss-fjölskyldunni nýárstónleikana. Stjórnandi hljómsveitarinnar er Gustavo Dudame, flutt eru verk eftir Franz Lehár, Émile, Johann Strauss, Jr., Josef Strauss, Franz von Suppé, Carl Michael Ziehrer, Otto Nicolai og Johann Strauss.</p>
+        </series-description>
+        <series-short-description>
+          <p>Sinfóníuhljómsveit Vínarborga tileinkar Strauss-fjölskyldunni nýárstónleikana.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4892394" serie-id="24374" start-time="2017-01-08 14:55:00" duration="00:51:31" mark="no">
+      <title>Rafrettur: Gæfa eða glapræði?</title>
+      <original-title>E-Cigarettes: Miracle or Menace?</original-title>
+      <description><![CDATA[Heimildarmynd frá BBC þar sem læknirinn Michael Mosley kannar afleiðingar e-sígarettna.  Eru þær ekki eins heilsuspillandi og venjulegar tóbaksreykingar og er þetta góður kostur fyrir þá sem vilja hætta að reykja? e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="4">Fræðsla</category>
+      <more-info>http://dagskra.ruv.is/nanar/24374/</more-info>
+      <reference group="24374" material="024374-0001" title="Rafrettur: Gæfa eða glapræði?" />
+      <details id="24374">
+        <series-title>Rafrettur: Gæfa eða glapræði?</series-title>
+        <series-original-title>E-Cigarettes Miracle or Menace?</series-original-title>
+        <series-description>
+          <p>Heimildarmynd frá BBC þar sem læknirinn Michael Mosley kannar afleiðingar e-sígarettna.  Eru þær ekki eins heilsuspillandi og venjulegar tóbaksreykingar og er þetta góður kostur fyrir þá sem vilja hætta að reykja?</p>
+        </series-description>
+        <series-short-description>
+          <p>Heimildarmynd frá BBC þar sem læknirinn Michael Mosley kannar afleiðingar e-sígarettna.  Eru þær ekki eins heilsuspillandi og venjulegar tóbaksreykingar og er þetta góður kostur fyrir þá sem vilja hætta að reykja?</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4892395" serie-id="24524" start-time="2017-01-08 15:45:00" duration="01:35:32" mark="no">
+      <title>Before the Flood</title>
+      <original-title>Vendipunktur</original-title>
+      <description><![CDATA[Umtöluð og áhrifarík heimildarmynd um loftslagsbreytingar af mannavöldum og hvernig má hægja á þeim. Meðal umsjónarmanna er stórleikarinn Leonardo DiCaprio. Leikstjóri: Fisher Stevens. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="4">Fræðsla</category>
+      <more-info>http://dagskra.ruv.is/nanar/24524/</more-info>
+      <reference group="24524" material="024524-0001" title="Before the Flood" />
+      <details id="24524">
+        <series-title>Before the Flood</series-title>
+        <series-original-title>Vendipunktur</series-original-title>
+        <series-description>
+          <p>Umtöluð og áhrifarík heimildarmynd um loftslagsbreytingar af mannavöldum og hvernig má hægja á þeim. Meðal umsjónarmanna er stórleikarinn Leonardo DiCaprio. Leikstjóri: Fisher Stevens.</p>
+        </series-description>
+        <series-short-description>
+          <p>Umtöluð og áhrifarík heimildarmynd um loftslagsbreytingar af mannavöldum og hvernig má hægja á þeim. Meðal umsjónarmanna er stórleikarinn Leonardo DiCaprio. Leikstjóri: Fisher Stevens.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4893847" serie-id="24086" start-time="2017-01-08 17:25:00" duration="00:26:15" mark="no">
+      <title>Menningin 2017</title>
+      <original-title />
+      <description><![CDATA[Brot úr menningarumfjöllun liðinnar viku. Fjallað á snarpan og líflegan hátt um það sem efst er á baugi hverju sinni í menningar- og listalífinu, jafnt með innslögum, fréttaskýringum, gagnrýni, pistlum og umræðu. Umsjón: Bergsteinn Sigurðsson og Halla Oddný Magnúsdóttir.]]></description>
+      <short-description />
+      <rating />
+      <episode number="17" number-of-episodes="40" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <reference group="23488" material="024086-0017" title="Menningin 2017" />
+      <credits />
+    </event>
+    <event event-id="4886300" serie-id="23884" start-time="2017-01-08 17:50:00" duration="00:07:35" mark="no">
+      <title>Táknmálsfréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23884" material="023884-0008" title="Táknmálsfréttir" />
+      <credits />
+    </event>
+    <event event-id="4785253" serie-id="" start-time="2017-01-08 18:00:00" duration="00:44:00" mark="no">
+      <title>KrakkaRÚV</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4785253" title="KrakkaRÚV" />
+    </event>
+    <event event-id="4891570" serie-id="14296" start-time="2017-01-08 18:01:00" duration="00:43:57" mark="yes">
+      <title>Litla skrímslið og stóra skrímslið</title>
+      <original-title />
+      <description><![CDATA[Upptaka af sýningu Þjóðleikhússins. Litla skrímslið og stóra skrímslið eru ólíkar persónur og virðast ekki eiga margt sameiginlegt. En undir svörtum og loðnum feldunum titra viðkvæm hjörtu sem þrátt fyrir allt slá í takt. Höfundur er Áslaug Jónsdóttir, leikstjóri Þórhallur Sigurðsson og leikendur Baldur Trausti Hreinsson og Friðrik Friðriksson. Stjórn upptöku: Eggert Gunnarsson.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/14296/</more-info>
+      <reference group="14296" material="014296-0001" title="Litla skrímslið og stóra skrímslið" />
+      <details id="14296">
+        <series-title>Litla skrímslið og stóra skrímslið</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Upptaka af sýningu Þjóðleikhússins. Litla skrímslið og stóra skrímslið eru ólíkar persónur og virðast ekki eiga margt sameiginlegt. En undir svörtum og loðnum feldunum titra viðkvæm hjörtu sem þrátt fyrir allt slá í takt. Höfundur er Áslaug Jónsdóttir, leikstjóri Þórhallur Sigurðsson og leikendur Baldur Trausti Hreinsson og Friðrik Friðriksson. Stjórn upptöku: Eggert Gunnarsson.</p>
+        </series-description>
+        <series-short-description>
+          <p>Undir svörtum og loðnum feldunum titra viðkvæm hjörtu.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4894915" serie-id="24689" start-time="2017-01-08 18:44:00" duration="00:01:39" mark="no">
+      <title>Kóðinn - Saga tölvunnar</title>
+      <original-title />
+      <description><![CDATA[Hvernig er vélmenni búið til? Hvernig er tölvuleikur búinn til? Hvaðan kemur Internetið? Hvað er gervigreind? Í þáttunum leitast Ævar og Ísgerður við að svara þessum spurningum og mörgum fleirum. Þau fjalla um sögu tölvunnar og komast að því að forritun er allt í kringum okkur.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="20" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/24689/</more-info>
+      <reference group="24689" material="024689-0001" title="Kóðinn - Saga tölvunnar" />
+      <details id="24689">
+        <series-title>Kóðinn - Saga tölvunnar</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Hvernig er vélmenni búið til? Hvernig er tölvuleikur búinn til? Hvaðan kemur Internetið? Hvað er gervigreind? Í þáttunum leitast Ævar og Ísgerður við að svara þessum spurningum og mörgum fleirum. Þau fjalla um sögu tölvunnar og komast að því að forritun er allt í kringum okkur.</p>
+        </series-description>
+        <series-short-description>
+          <p>Hvernig er vélmenni búið til? Hvernig er tölvuleikur búinn til? Hvaðan kemur Internetið? Hvað er gervigreind? Í þáttunum leitast Ævar og Ísgerður við að svara þessum spurningum og mörgum fleirum. Þau fjalla um sögu tölvunnar og komast að því að forritun er allt í kringum okkur.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4892417" serie-id="23072" start-time="2017-01-08 18:45:00" duration="00:08:04" mark="no">
+      <title>Bækur og staðir</title>
+      <original-title>Þjóðleikhúsið</original-title>
+      <description><![CDATA[Egill Helgason tengir bækur við ýmsa staði á landinu.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/23072/</more-info>
+      <reference group="23072" material="023072-0013" title="Bækur og staðir" />
+      <details id="23072">
+        <series-title>Bækur og staðir</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Egill Helgason tengir bækur við ýmsa staði á landinu.</p>
+        </series-description>
+        <series-short-description>
+          <p>Egill Helgason tengir bækur við ýmsa staði á landinu.</p>
+        </series-short-description>
+        <episode-description>
+          <p>Egill Helgason heimsækir ólíka staði á landinu og fjallar um ritverk og höfunda sem þeim tengjast. Að þessu sinni lítur hann inn í Þjóðleikhúsið við Hverfisgötu, en þetta hús Guðjóns Samúelssonar var lengi í smíðum. Þarna voru á fyrstu árunum sett upp leikverk á borð við Íslandsklukkuna, Nýársnóttina og Fjalla-Eyvind. Vitnað er í orð Tómasar Guðmundssonar sem hann flutti við opnun Þjóðleikhússins, um það veraldlega sem hnignar og deyr, en listina sem lifir. Þjóðleikhúsið kemur fyrir í fjölmörgum bókum og Egill rifjar upp valda texta úr nokkrum þeirra. Hann fjallar einnig um nokkra frumkvöðla leiklistar á Íslandi, en höggmyndir og málverk er að finna af mörgum þeirra í sölum Þjóðleikhússins.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4882710" serie-id="23879" start-time="2017-01-08 19:00:00" duration="00:23:00" mark="no">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23879" material="023879-0008" title="Fréttir" />
+      <credits />
+    </event>
+    <event event-id="4883434" serie-id="23876" start-time="2017-01-08 19:25:00" duration="00:10:00" mark="no">
+      <title>Íþróttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <reference group="23876" material="023876-0002" title="Íþróttir" />
+      <credits />
+    </event>
+    <event event-id="4884272" serie-id="23882" start-time="2017-01-08 19:35:00" duration="00:04:38" mark="no">
+      <title>Veður</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23882" material="023882-0008" title="Veður" />
+      <credits />
+    </event>
+    <event event-id="4891296" serie-id="21328" start-time="2017-01-08 19:45:00" duration="00:15:00" mark="no">
+      <title>Hjónabandssæla</title>
+      <original-title />
+      <description><![CDATA[Ný leikin íslensk stuttmynd. Á Patreksfirði búa tveir karlar á sjötugsaldri og deila lífi sínu með hvorum öðrum í blíðu og stríðu. Ævilöng vinátta þeirra á undir högg að sækja þegar aðlaðandi kona á þeirra aldri birtist óvænt í heita pottinum þeirra. Leikstjóri: Jörundur Ragnarsson. Aðalhlutverk: Sigurður Skúlason og Theodór Júlíusson, Anna Kristín Arngrímsdóttir.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="7">Kvikmyndir</category>
+      <more-info>http://dagskra.ruv.is/nanar/21328/</more-info>
+      <reference group="21328" material="021328-0001" title="Hjónabandssæla" />
+      <details id="21328">
+        <series-title>Hjónabandssæla</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Ný leikin íslensk stuttmynd. Á Patreksfirði búa tveir karlar á sjötugsaldri og deila lífi sínu með hvorum öðrum í blíðu og stríðu. Ævilöng vinátta þeirra á undir högg að sækja þegar aðlaðandi kona á þeirra aldri birtist óvænt í heita pottinum þeirra. Leikstjóri: Jörundur Ragnarsson. Aðalhlutverk: Sigurður Skúlason og Theodór Júlíusson, Anna Kristín Arngrímsdóttir.</p>
+        </series-description>
+        <series-short-description>
+          <p>Ný leikin íslensk stuttmynd.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4891037" serie-id="24109" start-time="2017-01-08 20:00:00" duration="00:52:34" mark="no">
+      <title>Ránsfengur</title>
+      <original-title>Ransacked</original-title>
+      <description><![CDATA[Íslensk heimildarmynd um afleiðingar hrunsins. Myndin segir frá því hvernig hrun bankanna hefur áhrif á venjulegan Íslending. Þorsteinn missir fyrirtæki sitt og nánast  lífið í kjölfar hrunsins 2008 en með hjálp dóttur sinnar fer hann í mál við bankana. Leikstjóri: Pétur Einarsson. Þulur: Ólafur Darri Ólafsson. Framleiðsla:  P/E Production.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="7">Kvikmyndir</category>
+      <more-info>http://dagskra.ruv.is/nanar/24109/</more-info>
+      <reference group="24109" material="024109-0001" title="Ránsfengur" />
+      <details id="24109">
+        <series-title>Ránsfengur</series-title>
+        <series-original-title>Ransacked</series-original-title>
+        <series-description>
+          <p>Íslensk heimildarmynd um afleiðingar hrunsins. Myndin segir frá því hvernig hrun bankanna hefur áhrif á venjulegan Íslending. Þorsteinn missir fyrirtæki sitt og nánast  lífið í kjölfar hrunsins 2008 en með hjálp dóttur sinnar fer hann í mál við bankana. Leikstjóri: Pétur Einarsson. Þulur: Ólafur Darri Ólafsson. Framleiðsla:  P/E Production.</p>
+        </series-description>
+        <series-short-description>
+          <p>Íslensk heimildarmynd um afleiðingar hrunsins.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4889136" serie-id="16986" start-time="2017-01-08 21:00:00" duration="00:47:32" mark="no">
+      <title>Fangar</title>
+      <original-title />
+      <description><![CDATA[Ný leikin íslensk þáttaröð í sex hlutum í leikstjórn Ragnars Bragasonar. Líf Lindu og fjölskyldu hennar umturnast þegar hún er færð í kvennafangelsið í Kópavogi eftir að hafa ráðist á föður sinn, þekktan mann úr viðskiptalífinu. Í fangelsinu hittir Linda fyrir aðrar konur sem hafa farið út af sporinu og myndar sambönd sem hafa örlagarík áhrif á líf hennar. Með aðalhlutverk fara: Þorbjörg Helga Þorgilsdóttir Dýrfjörð, Nína Dögg Filippusdóttir, Unnur Ösp Stefánsdóttir og Halldóra Geirharðsdóttir. Framleiðsla: Mystery Productions og Vesturport. Atriði í þáttunum eru ekki við hæfi ungra barna.]]></description>
+      <short-description />
+      <rating>12</rating>
+      <episode number="2" number-of-episodes="6" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="6">Íslenskir þættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/16986/</more-info>
+      <reference group="16986" material="016986-0002" title="Fangar" />
+      <details id="16986">
+        <series-title>Fangar</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Ný leikin íslensk þáttaröð í sex hlutum í leikstjórn Ragnars Bragasonar. Líf Lindu og fjölskyldu hennar umturnast þegar hún er færð í kvennafangelsið í Kópavogi eftir að hafa ráðist á föður sinn, þekktan mann úr viðskiptalífinu. Í fangelsinu hittir Linda fyrir aðrar konur sem hafa farið út af sporinu og myndar sambönd sem hafa örlagarík áhrif á líf hennar. Með aðalhlutverk fara: Þorbjörg Helga Þorgilsdóttir Dýrfjörð, Nína Dögg Filippusdóttir, Unnur Ösp Stefánsdóttir, Kristbjörg Kjeld og Halldóra Geirharðsdóttir. Framleiðsla: Mystery Productions. Atriði í þáttunum eru ekki við hæfi ungra barna.</p>
+        </series-description>
+        <series-short-description>
+          <p>Ný leikin íslensk þáttaröð í sex hlutum í leikstjórn Ragnars Bragasonar.</p>
+        </series-short-description>
+        <episode-description>
+          <p>Linda á erfitt með að fóta sig í kvennafangelsinu og niðurtúrinn reynist henni erfiður. Valgerður systir hennar áttar sig á að pólitískur ferill hennar hangir á bláþræði.</p>
+          <p>Íslensk þáttaröð í sex hlutum í leikstjórn Ragnars Bragasonar.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4887073" serie-id="23432" start-time="2017-01-08 21:55:00" duration="00:59:08" mark="no">
+      <title>Svikamylla</title>
+      <original-title>Bedrag</original-title>
+      <description><![CDATA[Ný þáttaröð af þessum dönsku sakamálaþáttum um siðleysi og klækjabrögð í frumskógi fjármálaheimsins. Í síðustu þáttaröð náði lögreglumaðurinn Mads ekki að fangelsa framkvæmdastjóra Energeen en hann hefur engu gleymt og nú beinast spjótin að bönkunum. Leikarar: Thomas Bo Larsen, Natalie Madueño, Esben Smed, og Nikolaj Lie Kaas. Atriði í þáttunum eru ekki við hæfi ungra barna.]]></description>
+      <short-description />
+      <rating>12</rating>
+      <episode number="6" number-of-episodes="10" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/23432/</more-info>
+      <reference group="23432" material="023432-0006" title="Svikamylla" />
+      <details id="23432">
+        <series-title>Svikamylla</series-title>
+        <series-original-title>Bedrag II</series-original-title>
+        <series-description>
+          <p>Ný þáttaröð af þessum dönsku sakamálaþáttum um siðleysi og klækjabrögð í frumskógi fjármálaheimsins. Í síðustu þáttaröð náði lögreglumaðurinn Mads ekki að fangelsa framkvæmdastjóra Energeen en hann hefur engu gleymt og nú beinast spjótin að bönkunum. Leikarar: Thomas Bo Larsen, Natalie Madueño, Esben Smed, og Nikolaj Lie Kaas. Atriði í þáttunum eru ekki við hæfi ungra barna.</p>
+        </series-description>
+        <series-short-description>
+          <p>Ný þáttaröð af þessum dönsku sakamálaþáttum um siðleysi og klækjabrögð í frumskógi fjármálaheimsins.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4889989" serie-id="19115" start-time="2017-01-08 22:55:00" duration="02:11:39" mark="no">
+      <title>Horfnu börnin</title>
+      <original-title>A-i-deul...</original-title>
+      <description><![CDATA[Myndin er byggð á atburðum sem urðu árið 1991 í Suður-Kóreu og kallast þar í landi hvarf froskabarnanna.  Fimm börn sögðu foreldrum sínum að þau ætluðu á froskaveiðar við nærliggjandi fjall. Síðan hefur ekkert spurst til þeirra. Leikarar: Yong-woo Park, Seung-ryong Ryu og Dong-il Sung. Leikstjóri: Kyu-maan Lee. Atriði í myndinni eru ekki við hæfi barna.]]></description>
+      <short-description />
+      <rating>16</rating>
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="7">Kvikmyndir</category>
+      <more-info>http://dagskra.ruv.is/nanar/19115/</more-info>
+      <reference group="19115" material="019115-0001" title="Horfnu börnin" />
+      <details id="19115">
+        <series-title>Horfnu börnin</series-title>
+        <series-original-title>A-i-deul...</series-original-title>
+        <series-description>
+          <p>Myndin er byggð á atburðum sem urðu árið 1991 í Suður-Kóreu og kallast þar í landi hvarf froskabarnanna.  Fimm börn sögðu foreldrum sínum að þau ætluðu á froskaveiðar við nærliggjandi fjall. Síðan hefur ekkert spurst til þeirra. Leikarar: Yong-woo Park, Seung-ryong Ryu og Dong-il Sung. Leikstjóri: Kyu-maan Lee. Atriði í myndinni eru ekki við hæfi barna.</p>
+        </series-description>
+        <series-short-description>
+          <p>Myndin er byggð á atburðum sem urðu árið 1991 í Suður-Kóreu og kallast þar í landi hvarf froskabarnanna</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4831073" serie-id="" start-time="2017-01-09 01:05:00" duration="00:03:00" mark="no">
+      <title>Útvarpsfréttir í dagskrárlok</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4831073" title="Útvarpsfréttir í dagskrárlok" />
+    </event>
+  </service>
+</schedule>

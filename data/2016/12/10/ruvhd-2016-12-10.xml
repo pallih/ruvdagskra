@@ -1,0 +1,1125 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-01-16 12:39" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="14" service-name="RÚV HD" date="2016-12-10" opt-out-of="RÚV">
+    <event event-id="4785232" serie-id="" start-time="2016-12-10 07:00:00" duration="03:10:00" mark="no">
+      <title>KrakkaRÚV</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4785232" title="KrakkaRÚV" />
+    </event>
+    <event event-id="4888399" serie-id="22401" start-time="2016-12-10 07:01:00" duration="00:07:00" mark="yes">
+      <title>Kioka</title>
+      <original-title>Kioka</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="78" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="22401" material="022401-0001" title="Kioka" />
+      <credits />
+    </event>
+    <event event-id="4858111" serie-id="20556" start-time="2016-12-10 07:08:00" duration="00:11:30" mark="yes">
+      <title>Kalli og Lóa</title>
+      <original-title>Charlie &amp; Lola, III</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="26" number-of-episodes="26" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/20556/</more-info>
+      <reference group="20556" material="020556-0026" title="Kalli og Lóa" />
+      <details id="20556">
+        <series-title>Kalli og Lóa</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4887853" serie-id="16256" start-time="2016-12-10 07:20:00" duration="00:07:08" mark="yes">
+      <title>Sara og önd</title>
+      <original-title>Sara &amp; Duck</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="7" number-of-episodes="17" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/16256/</more-info>
+      <reference group="16256" material="016256-0030" title="Sara og Önd" />
+      <details id="16256">
+        <series-title>Sara og Önd</series-title>
+        <series-original-title>Sarah &amp; Duck</series-original-title>
+        <series-description>
+          <p>Ýkt skemmtilegur þáttur. Önd er tveggja ára og sefur í baðkari og Sara er vinkona hennar. Fullorðin rödd leiðir þau áfram í atburði dagsins.</p>
+          <p>Þættirnir eru í sjónvarpinu í Morgunstuninni á sunnudögum og aðgengilegir á vefnum í viku.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4852041" serie-id="18932" start-time="2016-12-10 07:27:00" duration="00:10:34" mark="yes">
+      <title>Olivía</title>
+      <original-title>Olivia</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="48" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="18932" material="018932-0050" title="Olivía" />
+      <credits />
+    </event>
+    <event event-id="4888323" serie-id="18988" start-time="2016-12-10 07:37:00" duration="00:12:23" mark="yes">
+      <title>Vinabær Danna tígurs</title>
+      <original-title>Daniel Tiger&apos;s Neighbourhood</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="4" number-of-episodes="13" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/18988/</more-info>
+      <reference group="18988" material="018988-0031" title="Vinabær Danna tígurs" />
+      <details id="18988">
+        <series-title>Vinabær Danna tígurs</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Danni tígur er þáttaröð sem kennir börnum að túlka tilfinningar sínar. Hvenær upplifa þau sorg, reiði og hvenær eru þau þakklát. Danni notar tónlist og syngur um það sem hann upplifir sem leyfir börnum að tileinka sér það frekar. Þátturinn er ætlaður leikskólabörnum og kennir tilfinningagrein og sjálfsvirðingu sem og virðingu fyrir öðrum. Vinabær Danna tígurs er aðgengilegt í Sarpinum í viku í senn.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4888228" serie-id="20631" start-time="2016-12-10 07:49:00" duration="00:11:03" mark="yes">
+      <title>Elías</title>
+      <original-title>Elias and the Rescue Team</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="4" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/20631/</more-info>
+      <reference group="20631" material="020631-0004" title="Elías" />
+      <details id="20631">
+        <series-title>Elías</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4835167" serie-id="21494" start-time="2016-12-10 08:00:00" duration="00:06:00" mark="yes">
+      <title>Póló</title>
+      <original-title>Polo</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="49" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="21494" material="021494-0049" title="Póló" />
+      <credits />
+    </event>
+    <event event-id="4888304" serie-id="20438" start-time="2016-12-10 08:06:00" duration="00:23:04" mark="yes">
+      <title>Snillingarnir</title>
+      <original-title>Disney&apos;s Little Einsteins</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="5" number-of-episodes="9" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="20438" material="020438-0018" title="Snillingarnir" />
+      <credits />
+    </event>
+    <event event-id="4887623" serie-id="21812" start-time="2016-12-10 08:30:00" duration="00:23:05" mark="yes">
+      <title>Úmísúmí</title>
+      <original-title>Team Umizoomi, Season IV</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="10" number-of-episodes="19" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="21812" material="021812-0011" title="Úmísúmí" />
+      <credits />
+    </event>
+    <event event-id="4852092" serie-id="18008" start-time="2016-12-10 08:53:00" duration="00:21:31" mark="yes">
+      <title>Tré Fú Tom</title>
+      <original-title>Tree Fu Tom</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="18" number-of-episodes="26" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/18008/</more-info>
+      <reference group="18008" material="018008-0018" title="Tré-Fú Tom" />
+      <details id="18008">
+        <series-title>Tré-Fú Tom</series-title>
+        <series-original-title>Tree Fu Tom</series-original-title>
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4851243" serie-id="21489" start-time="2016-12-10 09:15:00" duration="00:11:40" mark="yes">
+      <title>Uss-Uss!</title>
+      <original-title>Zip Zip</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="28" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="21489" material="021489-0029" title="Uss-Uss!" />
+      <credits />
+    </event>
+    <event event-id="4888367" serie-id="22392" start-time="2016-12-10 09:27:00" duration="00:12:02" mark="yes">
+      <title>Hrói Höttur</title>
+      <original-title>Robin Hood</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="21" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="22392" material="022392-0021" title="Hrói Höttur" />
+      <credits />
+    </event>
+    <event event-id="4887643" serie-id="22391" start-time="2016-12-10 09:37:00" duration="00:11:02" mark="yes">
+      <title>Skógargengið</title>
+      <original-title>The Jungle Bunch - To the Rescue</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="28" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="22391" material="022391-0028" title="Skógargengið" />
+      <credits />
+    </event>
+    <event event-id="4886990" serie-id="23581" start-time="2016-12-10 09:49:00" duration="00:12:40" mark="yes">
+      <title>Lóa</title>
+      <original-title>Lou!</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="11" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23581" material="023581-0011" title="Lóa" />
+      <credits />
+    </event>
+    <event event-id="4887677" serie-id="22394" start-time="2016-12-10 10:02:00" duration="00:11:00" mark="yes">
+      <title>Alvinn og íkornarnir</title>
+      <original-title>Alvinnn!!! &amp; The Chipmunks</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="22" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="22394" material="022394-0122" title="Alvinn og íkornarnir" />
+      <credits />
+    </event>
+    <event event-id="4887934" serie-id="19629" start-time="2016-12-10 10:10:00" duration="00:20:33" mark="no">
+      <title>Saga af strák</title>
+      <original-title>About a Boy</original-title>
+      <description><![CDATA[Bandarísk gamanþáttaröð um áhyggjulausan piparsvein sem sér sér leik á borði þegar einstæð móðir flytur í næsta hús. Aðalhlutverk: Minnie Driver, David Walton og Benjamin Stockham. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="6" number-of-episodes="10" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/19629/</more-info>
+      <reference group="19629" material="019629-0006" title="Saga af strák" />
+      <details id="19629">
+        <series-title>Saga af strák</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Bandarísk gamanþáttaröð um áhyggjulausan piparsvein sem sér sér leik á borði þegar einstæð móðir flytur í næsta hús. Aðalhlutverk: Minnie Driver, David Walton og Benjamin Stockham.</p>
+        </series-description>
+        <series-short-description>
+          <p>Bandarísk gamanþáttaröð um áhyggjulausan piparsvein sem sér sér leik á borði þegar einstæð móðir flytur í næsta hús.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4889143" serie-id="22023" start-time="2016-12-10 10:35:00" duration="00:25:18" mark="no">
+      <title>Hvergidrengir</title>
+      <original-title>Nowhere Boys</original-title>
+      <description><![CDATA[Nýr þáttur fyrir unglinga um fjóra ólíka vini; gotharann Felix, nördið Andy, fyrirmyndardrenginn Rahart og íþróttagæjann Jake en í fyrstu virtust strákarnir ekkert eiga sameiginlegt.  Eftir að hafa farið saman í skólaferðlag snúa þeir aftur og átta sig á að þeir eru staddir í hliðarheimi og enginn þekkir þá, hvorki fjölskyldur þeirra né vinir. Aðalhlutverk: Dougie Baldwin, Joel Lok, Rahart Adams og Matt Testro. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/22023/</more-info>
+      <reference group="22023" material="022023-0013" title="Hvergidrengir" />
+      <details id="22023">
+        <series-title>Hvergidrengir</series-title>
+        <series-original-title>Nowhere Boys</series-original-title>
+        <series-description>
+          <p>Nýr þáttur fyrir unglinga um fjóra ólíka vini; gotharann Felix, nördið Andy, fyrirmyndardrenginn Rahart og íþróttagæjann Jake en í fyrstu virtust strákarnir ekkert eiga sameiginlegt.  Eftir að hafa farið saman í skólaferðlag snúa þeir aftur og átta sig á að þeir eru staddir í hliðarheimi og enginn þekkir þá, hvorki fjölskyldur þeirra né vinir. Aðalhlutverk: Dougie Baldwin, Joel Lok og Rahart Adams.</p>
+        </series-description>
+        <series-short-description>
+          <p>Nýr þáttur fyrir unglinga um fjóra ólíka vini; gotharann Felix, nördið Andy, fyrirmyndardrenginn Rahart og íþróttagæjann Jake en í fyrstu virtust strákarnir ekkert eiga sameiginlegt.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4885810" serie-id="23492" start-time="2016-12-10 11:00:00" duration="00:43:41" mark="no">
+      <title>Vikan með Gísla Marteini</title>
+      <original-title />
+      <description><![CDATA[Gísli Marteinn snýr aftur á skjáinn á föstudagskvöldum í vetur. Allir helstu atburðir vikunnar í sjórnmálum, menningu og mannlífi eru krufnir í beinni útsendingu. Persónur og leikendur koma í spjall og brakandi fersk tónlistaratriði koma landsmönnum í helgarstemninguna. Stjórn útsendingar: Vilhjálmur Siggeirsson. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="10" number-of-episodes="14" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/23492/</more-info>
+      <reference group="23492" material="023492-0010" title="Vikan með Gísla Marteini" />
+      <details id="23492">
+        <series-title>Vikan með Gísla Marteini</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Gísli Marteinn fær til sín góða gesti á föstudagskvöldum í vetur. Allir helstu atburðir vikunnar í sjórnmálum, menningu og mannlífi eru krufnir í beinni útsendingu. Persónur og leikendur koma í spjall og brakandi fersk tónlistaratriði koma landsmönnum í helgarstemninguna. Stjórn útsendingar: Vilhjálmur Siggeirsson.</p>
+        </series-description>
+        <series-short-description>
+          <p>Gísli Marteinn fær til sín góða gesti á föstudagskvöldum í vetur.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4877522" serie-id="23491" start-time="2016-12-10 11:45:00" duration="01:10:53" mark="no">
+      <title>Útsvar</title>
+      <original-title>Vestmannaeyjar - Kópavogur</original-title>
+      <description><![CDATA[Spurningakeppni sveitarfélaga. Umsjónarmenn eru Sigmar Guðmundsson og Þóra Arnórsdóttir. Spurningahöfundar: Ævar Örn Jósepsson og Sigyn Blöndal. Dómari: Sveinn Guðmarsson. Stjórn útsendingar: Helgi Jóhannesson. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="12" number-of-episodes="27" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="6">Íslenskir þættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/23491/</more-info>
+      <reference group="23491" material="023491-0012" title="Útsvar" />
+      <details id="23491">
+        <series-title>Útsvar</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Bein útsending frá spurningakeppni sveitarfélaga. Umsjónarmenn eru Sigmar Guðmundsson og Þóra Arnórsdóttir. Spurningahöfundar: Ævar Örn Jósepsson og Sigyn Blöndal. Dómari: Sveinn Guðmarsson. Stjórn útsendingar: Helgi Jóhannesson.</p>
+        </series-description>
+        <series-short-description>
+          <p>Bein útsending frá spurningakeppni sveitarfélaga</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4888833" serie-id="20377" start-time="2016-12-10 12:55:00" duration="00:35:00" mark="no">
+      <title>Edda - engum lík</title>
+      <original-title />
+      <description><![CDATA[Létt og skemmtileg þáttaröð í fjórum hlutum þar sem við hlæjum okkur í gegnum farsælan feril grínistans og leikkonunnar Eddu Björgvinsdóttur. Umsjón: Helga Arnardóttir. Dagskrárgerð: Björn Emilsson. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="4" number-of-episodes="4" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="6">Íslenskir þættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/20377/</more-info>
+      <reference group="20377" material="020377-0004" title="Edda - engum lík" />
+      <details id="20377">
+        <series-title>Edda - engum lík</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Létt og skemmtileg þáttaröð í fjórum hlutum þar sem við hlæjum okkur í gegnum farsælan feril grínistans og leikkonunnar Eddu Björgvinsdóttur. Umsjón: Helga Arnardóttir. Dagskrárgerð: Björn Emilsson.</p>
+        </series-description>
+        <series-short-description>
+          <p>Létt og skemmtileg þáttaröð í fjórum hlutum þar sem við hlæjum okkur í gegnum farsælan feril grínistans og leikkonunnar Eddu Björgvinsdóttur.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4888980" serie-id="11420" start-time="2016-12-10 13:30:00" duration="00:29:17" mark="no">
+      <title>Konsúll Thomsen keypti bíl</title>
+      <original-title />
+      <description><![CDATA[Íslensk heimildarmynd í þremur hlutum um sögu bílsins á Íslandi. Íslendingar litu bílinn öðrum augum en nágrannaþjóðirnar. Erlendis voru það kóngar og fyrirmenni sem áttu fyrstu bílana en Íslendingar litu á bílinn sem vinnutæki til flutninga. Dagskrárgerð: Ásgeir Sigurgestsson, Finnbogi Hermannsson og Hjálmtýr Heiðdal. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="6">Íslenskir þættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/11420/</more-info>
+      <reference group="11420" material="011420-0001" title="Konsúll Thomsen keypti bíl" />
+      <details id="11420">
+        <series-title>Konsúll Thomsen keypti bíl</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Íslensk heimildarmynd í þremur hlutum um sögu bílsins á Íslandi. Íslendingar litu bílinn öðrum augum en nágrannaþjóðirnar. Erlendis voru það kóngar og fyrirmenni sem áttu fyrstu bílana en Íslendingar litu á bílinn sem vinnutæki til flutninga.</p>
+          <p>Dagskrárgerð: Ásgeir Sigurgestsson, Finnbogi Hermannsson og Hjálmtýr Heiðdal.</p>
+        </series-description>
+        <series-short-description>
+          <p>Heimildamynd í þremur þáttum um sögu bílsins á Íslandi.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4893064" serie-id="18993" start-time="2016-12-10 14:00:00" duration="00:11:15" mark="no">
+      <title>Á sömu torfu</title>
+      <original-title>Common Ground</original-title>
+      <description><![CDATA[Bráðfyndnir stuttir gamanþættir sem eiga það eitt sameiginlegt að sögusviðið er suðurhluti London. Þekktum leikurum bregður fyrir eins og t.d. Charles Dance, Hugo Speer, Jessica Hynes, Tom Palmer, Tom Stourton o.fl. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/18993/</more-info>
+      <reference group="18993" material="018993-0003" title="Á sömu torfu" />
+      <details id="18993">
+        <series-title>Á sömu torfu</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Bráðfyndnir stuttir gamanþættir sem eiga það eitt sameiginlegt að sögusviðið er suðurhluti London. Þekktum leikurum bregður fyrir eins og t.d. Charles Dance, Hugo Speer, Jessica Hynes, Tom Palmer, Tom Stourton o.fl. e.</p>
+        </series-description>
+        <series-short-description>
+          <p>Bráðfyndnir stuttir gamanþættir sem eiga það eitt sameiginlegt að sögusviðið er suðurhluti London.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4856245" serie-id="21521" start-time="2016-12-10 14:15:00" duration="00:42:11" mark="no">
+      <title>Áttundi áratugurinn - Glæpir og sértrúarhópar</title>
+      <original-title>The Seventies</original-title>
+      <description><![CDATA[Heimildarþáttaröð frá CNN sem tekur upp þráðinn þar sem þáttaröðinn Sjöundi áratugurinn endaði. Þáttaröðin  fjallar um afdrifaríka atrburði sem gerðust á áttunda áratugnum s.s. Watergate-hneykslið, írönsku gíslatökuna, kynjabyltinguna, byltingarkennda tónlist og stigvaxandi ógn hryðjuverka á heimsvísu. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="8" number-of-episodes="8" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/21521/</more-info>
+      <reference group="21521" material="021521-0008" title="Áttundi ártatugurinn" />
+      <details id="21521">
+        <series-title>Áttundi ártatugurinn</series-title>
+        <series-original-title>The Seventies</series-original-title>
+        <series-description>
+          <p>Heimildarþáttaröð sem tekur upp þráðinn þar sem þáttaröðinn Sjöundi áratugurinn endaði. Þáttaröðin  fjallar um afdrifaríka atrburði sem gerðust á áttunda áratugnum s.s. Watergate-hneykslið, írönsku gíslatökuna, kynjabyltinguna, byltingarkennda tónlist og stigvaxandi ógn hryðjuverka á heimsvísu.</p>
+        </series-description>
+        <series-short-description>
+          <p>Heimildarþáttaröð sem tekur upp þráðinn þar sem þáttaröðinn Sjöundi áratugurinn endaði.</p>
+        </series-short-description>
+        <episode-description>
+          <p>Heimildarþáttaröð sem tekur upp þráðinn þar sem þáttaröðinn Sjöundi áratugurinn endaði. Þáttaröðin  fjallar um afdrifaríka atrburði sem gerðust á áttunda áratugnum s.s. Watergate-hneykslið, írönsku gíslatökuna, kynjabyltinguna, byltingarkennda tónlist og stigvaxandi ógn hryðjuverka á heimsvísu. Óhugnanleg morðalda skekur Bandaríkin. Raðmorðingjar og morð tengd trúarreglum vekja upp óhug.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4888927" serie-id="18377" start-time="2016-12-10 15:05:00" duration="01:50:00" mark="no">
+      <title>Serbía - Þýskaland</title>
+      <original-title>Milliriðlar</original-title>
+      <description><![CDATA[Bein útsending frá leik Serbíu og Þýskalands í milliriðli á EM kvenna í handbolta.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="18377" material="018377-0009" title="Serbía - Þýskaland" />
+      <credits />
+    </event>
+    <event event-id="4858157" serie-id="23264" start-time="2016-12-10 17:05:00" duration="00:24:39" mark="no">
+      <title>Stundin okkar</title>
+      <original-title />
+      <description><![CDATA[Í Stundinni okkar í vetur ætlum við að hitta skemmtilega krakka um allt land, kynnast skrímslum, læra á gítar, taka þátt í stórhættulegri spurningakeppni og læra ýmislegt og allskonar sem við höfðum ekki hugmynd um að okkur langaði að vita. Umsjón: Sigyn Blöndal.]]></description>
+      <short-description />
+      <rating />
+      <episode number="9" number-of-episodes="26" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://www.krakkaruv.is/heimar/stundin-okkar</more-info>
+      <reference group="23264" material="023264-0010" title="Stundin okkar" />
+      <details id="23264">
+        <series-title>Stundin okkar</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Í Stundinni okkar í vetur ætlum við að hitta skemmtilega krakka um allt land, kynnast skrímslum, læra á gítar, taka þátt í stórhættulegri spurningakeppni og læra ýmislegt og alls konar sem við höfðum ekki hugmynd um að okkur langaði að vita. Umsjón: Sigyn Blöndal.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4858337" serie-id="23489" start-time="2016-12-10 17:30:00" duration="00:15:42" mark="no">
+      <title>Krakkafréttir vikunnar</title>
+      <original-title />
+      <description><![CDATA[Fréttaþáttur fyrir börn á aldrinum 8-12 ára þar sem litið er yfir það helsta í fréttum liðinnar viku.]]></description>
+      <short-description />
+      <rating />
+      <episode number="14" number-of-episodes="40" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/23489/</more-info>
+      <reference group="23489" material="023489-0014" title="Krakkafréttir vikunnar" />
+      <details id="23489">
+        <series-title>Krakkafréttir vikunnar</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Fréttaþáttur fyrir börn á aldrinum 8-12 ára þar sem litið er yfir það helsta í fréttum liðinnar viku.  Umsjón: Birkir Blær Ingólfsson og Ísgerður Elfa Gunnarsdóttir.</p>
+        </series-description>
+        <series-short-description>
+          <p>Fréttaþáttur fyrir börn á aldrinum 8-12 ára þar sem litið er yfir það helsta í fréttum liðinnar viku.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4853880" serie-id="21499" start-time="2016-12-10 17:45:00" duration="00:05:40" mark="no">
+      <title>Táknmálsfréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="21499" material="021499-0530" title="Táknmálsfréttir" />
+      <credits />
+    </event>
+    <event event-id="4833192" serie-id="" start-time="2016-12-10 17:55:00" duration="00:59:00" mark="no">
+      <title>KrakkaRÚV</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="193" number-of-episodes="386" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4833192" title="KrakkaRÚV" />
+    </event>
+    <event event-id="4889001" serie-id="24134" start-time="2016-12-10 17:56:00" duration="00:26:44" mark="yes">
+      <title>Jóladagatalið - Sáttmálinn</title>
+      <original-title>Pagten</original-title>
+      <description><![CDATA[Danskt ævintýri um tólf ára strák og jafnöldru hans af álfaættum, leit þeirra að leynilegum sáttmála og glímu þeirra við ísnornina ógurlegu. Þættirnir eru talsettir á íslensku.]]></description>
+      <short-description />
+      <rating />
+      <episode number="10" number-of-episodes="24" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/24134/</more-info>
+      <reference group="24134" material="024134-0010" title="Sáttmálinn" />
+      <details id="24134">
+        <series-title>Sáttmálinn</series-title>
+        <series-original-title>Pagten</series-original-title>
+        <series-description>
+          <p>Danskt ævintýri um tólf ára strák og jafnöldru hans af álfaættum, leit þeirra að leynilegum sáttmála og glímu þeirra við ísnornina ógurlegu. Þættirnir eru talsettir á íslensku.</p>
+        </series-description>
+        <series-short-description>
+          <p>Danskt ævintýri um tólf ára strák og jafnöldru hans af álfaættum, leit þeirra að leynilegum sáttmála og glímu þeirra við ísnornina ógurlegu. Þættirnir eru talsettir á íslensku.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4889025" serie-id="24136" start-time="2016-12-10 18:23:00" duration="00:24:10" mark="yes">
+      <title>Jóladagatalið - Leyndarmál Absalons</title>
+      <original-title>Absalons Hemmelighed</original-title>
+      <description><![CDATA[Jóladagatal um Cecilie sem er tólf ára gömul og býr með fjölskyldu sinni fyrir ofan stórverslun í Kaupmannahöfn. Þegar grafin eru göng fyrir neðan verslunina finnur hún ævafornan garð og kemst á snoðir um leyndarmál sem gæti bjargað hjartveikri systur hennar. Hún kynnist líka stráknum Húbert sem kemur líkt og af himnum ofan og gegnir mikilvægu hlutverki í leitinni að leyndarmálinu.]]></description>
+      <short-description />
+      <rating />
+      <episode number="10" number-of-episodes="24" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/24136/</more-info>
+      <reference group="24136" material="024136-0010" title="Leyndarmál Absalons" />
+      <details id="24136">
+        <series-title>Leyndarmál Absalons</series-title>
+        <series-original-title>Absalons Hemmelighed</series-original-title>
+        <series-description>
+          <p>Jóladagatal um Cecilie sem er tólf ára gömul og býr með fjölskyldu sinni fyrir ofan stórverslun í Kaupmannahöfn. Þegar grafin eru göng fyrir neðan verslunina finnur hún ævafornan garð og kemst á snoðir um leyndarmál sem gæti bjargað hjartveikri systur hennar. Hún kynnist líka stráknum Húbert sem kemur líkt og af himnum ofan og gegnir mikilvægu hlutverki í leitinni að leyndarmálinu.</p>
+        </series-description>
+        <series-short-description>
+          <p>Jóladagatal um Cecilie sem er tólf ára gömul og býr með fjölskyldu sinni fyrir ofan stórverslun í Kaupmannahöfn.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4849780" serie-id="21671" start-time="2016-12-10 18:54:00" duration="00:03:00" mark="no">
+      <title>Lottó</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="68" number-of-episodes="71" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="6">Íslenskir þættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/21671/</more-info>
+      <reference group="21671" material="021671-0068" title="Lottó" />
+      <details id="21671">
+        <series-title>Lottó</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4849040" serie-id="21177" start-time="2016-12-10 19:00:00" duration="00:23:00" mark="no">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="21177" material="021177-0469" title="Fréttir" />
+      <credits />
+    </event>
+    <event event-id="4849537" serie-id="21175" start-time="2016-12-10 19:25:00" duration="00:10:00" mark="no">
+      <title>Íþróttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="21171" material="021175-0142" title="Íþróttir" />
+      <credits />
+    </event>
+    <event event-id="4849185" serie-id="21179" start-time="2016-12-10 19:35:00" duration="00:03:57" mark="no">
+      <title>Veður</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="21179" material="021179-0465" title="Veður" />
+      <credits />
+    </event>
+    <event event-id="4887149" serie-id="20196" start-time="2016-12-10 19:45:00" duration="01:43:53" mark="no">
+      <title>Hnotubrjóturinn</title>
+      <original-title>The Nutcracker</original-title>
+      <description><![CDATA[Vönduð leikin ævintýramynd fyrir alla fjölskylduna skreytt ungverskum brúðum. Sögð er saga Hnotubrjótsins á glænýjan hátt og er sögusviðið Vínarborg á þriðja áratug síðustu aldar. Hið illa hefur náð yfirráðum í borginni en Hnotubrjóturinn er staðráðinn í að hið góða muni sigra að lokum. Aðalhlutverk: Elle Fanning, Nathan Lane og John Turturro.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/20196/</more-info>
+      <reference group="20196" material="020196-0001" title="Hnotubrjóturinn" />
+      <details id="20196">
+        <series-title>Hnotubrjóturinn</series-title>
+        <series-original-title>The Nutcracker</series-original-title>
+        <series-description>
+          <p>Vönduð leikin ævintýramynd fyrir alla fjölskylduna skreytt ungverskum brúðum. Sögð er saga Hnotubrjótsins á glænýjan hátt og er sögusviðið Vínarborg á þriðja áratug síðustu aldar. Hið illa hefur náð yfirráðum í borginni en Hnotubrjóturinn er staðráðinn í að hið góða muni sigra að lokum. Aðalhlutverk: Elle Fanning, Nathan Lane og John Turturro.</p>
+        </series-description>
+        <series-short-description>
+          <p>Vönduð leikin ævintýramynd fyrir alla fjölskylduna skreytt ungverskum brúðum.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4887156" serie-id="17060" start-time="2016-12-10 21:35:00" duration="01:45:00" mark="no">
+      <title>Out of Time</title>
+      <original-title>Í kapphlaupi við tímann</original-title>
+      <description><![CDATA[Spennumynd með Denzel Washington og Evu Mendes í aðalhlutverkum. Lögreglustjóri lendir í kappi við tímann og þarf að leysa flókna morðgátu áður en grunur fellur á hann sjálfan. Leikstjóri: Carl Franklin. Atriði í myndinni eru ekki við hæfi barna.]]></description>
+      <short-description />
+      <rating>16</rating>
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="7">Kvikmyndir</category>
+      <more-info>http://dagskra.ruv.is/nanar/17060/</more-info>
+      <reference group="17060" material="017060-0001" title="Í kapphlaupi við tímann" />
+      <details id="17060">
+        <series-title>Í kapphlaupi við tímann</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Spennumynd með Denzel Washington og Evu Mendes í aðalhlutverkum. Lögreglustjóri lendir í kappi við tímann og þarf að leysa flókna morðgátu áður en grunur fellur á hann sjálfan.</p>
+          <p>Leikstjóri: Carl Franklin. Atriði í myndinni eru ekki við hæfi barna.</p>
+        </series-description>
+        <series-short-description>
+          <p>Spennumynd með Denzel Washington og Evu Mendes í aðalhlutverkum.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4887086" serie-id="20346" start-time="2016-12-10 23:25:00" duration="01:27:18" mark="no">
+      <title>Fallega landið mitt</title>
+      <original-title>Die Brücke am Ibar</original-title>
+      <description><![CDATA[Átakanleg þýsk verðlaunamynd frá 2012. Árið er 1999 og borgarastyrjöld geisar í Kosovo. Serbnesk ekkja hýsir særðan albanskan hermann og hjúkrar honum. Þrátt fyrir að hann sé frá óvinalandi verður hún ástfangin. Aðalhlutverk: Zrinka Cvitesic, Misel Maticevic og Andrija Nikcevic. Leikstjóri: Michaela Kezele. Atriði í myndinni eru ekki við hæfi barna.]]></description>
+      <short-description />
+      <rating>16</rating>
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="7">Kvikmyndir</category>
+      <more-info>http://dagskra.ruv.is/nanar/20346/</more-info>
+      <reference group="20346" material="020346-0001" title="Fallega landið mitt" />
+      <details id="20346">
+        <series-title>Fallega landið mitt</series-title>
+        <series-original-title>Die Brücke am Ibar</series-original-title>
+        <series-description>
+          <p>Átakanleg þýsk verðlaunamynd frá 2012. Árið er 1999 og borgarastyrjöld geisar í Kosovo. Serbnesk ekkja hýsir særðan albanskan hermann og hjúkrar honum. Þrátt fyrir að hann sé frá óvinalandi verður hún ástfangin. Aðalhlutverk: Zrinka Cvitesic, Misel Maticevic og Andrija Nikcevic. Leikstjóri: Michaela Kezele. Atriði í myndinni eru ekki við hæfi barna.</p>
+        </series-description>
+        <series-short-description>
+          <p>Átakanleg þýsk verðlaunamynd frá 2012.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4831060" serie-id="" start-time="2016-12-11 00:50:00" duration="00:03:00" mark="no">
+      <title>Útvarpsfréttir í dagskrárlok</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4831060" title="Útvarpsfréttir í dagskrárlok" />
+    </event>
+  </service>
+</schedule>

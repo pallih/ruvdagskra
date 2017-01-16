@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-01-16 12:39" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2016-12-09">
+    <event event-id="4888906" serie-id="18377" start-time="2016-12-09 19:35:00" duration="02:00:00" mark="no">
+      <title>Noregur - Rússland</title>
+      <original-title>EM kvenna í handbolta</original-title>
+      <description><![CDATA[Bein útsending frá leik Noregs og Rússlands á EM kvenna í handbolta.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="18377" material="018377-0006" title="Noregur - Rússland" />
+      <credits />
+    </event>
+  </service>
+</schedule>

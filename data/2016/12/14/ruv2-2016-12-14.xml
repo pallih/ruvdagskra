@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-01-16 12:39" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2016-12-14">
+    <event event-id="4893155" serie-id="18377" start-time="2016-12-14 17:20:00" duration="01:50:00" mark="no">
+      <title>Danmörk - Rúmenía</title>
+      <original-title>Milliriðlar</original-title>
+      <description><![CDATA[Bein útsending frá leik Danmerkur og Rúmeníu í milliriðli á EM kvenna í handbolta.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="18377" material="018377-0019" title="Danmörk - Rúmenía" />
+      <credits />
+    </event>
+    <event event-id="4893156" serie-id="18377" start-time="2016-12-14 19:35:00" duration="01:50:00" mark="no">
+      <title>Serbía - Frakkland</title>
+      <original-title>Milliriðlar</original-title>
+      <description><![CDATA[Bein útsending frá leik Serbíu og Frakklands í milliriðli á EM kvenna í handbolta.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="18377" material="018377-0020" title="Serbía - Frakkland" />
+      <credits />
+    </event>
+  </service>
+</schedule>

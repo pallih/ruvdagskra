@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-01-16 12:36" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2017-01-13">
+    <event event-id="4892677" serie-id="" start-time="2017-01-13 18:00:00" duration="00:30:00" mark="no">
+      <title>KrakkaRÚV</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4892677" title="KrakkaRÚV" />
+    </event>
+    <event event-id="4892678" serie-id="18935" start-time="2017-01-13 18:01:00" duration="00:15:00" mark="yes">
+      <title>Pósturinn Páll</title>
+      <original-title>Postman Pat</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="14" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/18935/</more-info>
+      <reference group="18935" material="018935-0007" title="Pósturinn Páll" />
+      <details id="18935">
+        <series-title>Pósturinn Páll</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4892679" serie-id="20431" start-time="2017-01-13 18:16:00" duration="00:11:03" mark="yes">
+      <title>Kata og Mummi</title>
+      <original-title>Kate and Mim-Mim</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/20431/</more-info>
+      <reference group="20431" material="020431-0004" title="Kata og Mummi" />
+      <details id="20431">
+        <series-title>Kata og Mummi</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4892680" serie-id="22202" start-time="2017-01-13 18:28:00" duration="00:01:41" mark="yes">
+      <title>Blái jakkinn</title>
+      <original-title>Blue Jacket</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="26" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="22202" material="022202-0007" title="Blái jakkinn" />
+      <credits />
+    </event>
+    <event event-id="4892683" serie-id="22279" start-time="2017-01-13 18:30:00" duration="00:21:37" mark="no">
+      <title>Jessie</title>
+      <original-title />
+      <description><![CDATA[Önnur þáttaröð um sveitastelpuna Jessie sem flytur til New York til að láta drauma sína rætast en endar sem barnfóstra fjögurra barna. Aðalhlutverk: Debby Ryan, Peyton List og Cameron Boyce.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="28" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="22279" material="022279-0010" title="Jessie" />
+      <credits />
+    </event>
+    <event event-id="4888941" serie-id="20434" start-time="2017-01-13 19:35:00" duration="01:50:00" mark="no">
+      <title>Danmörk - Argentína</title>
+      <original-title>HM karla í handbolta</original-title>
+      <description><![CDATA[Bein útsending frá leik Danmerkur og Argentínu á HM karla í handbolta.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="20434" material="020434-0002" title="Danmörk - Argentína" />
+      <credits />
+    </event>
+  </service>
+</schedule>

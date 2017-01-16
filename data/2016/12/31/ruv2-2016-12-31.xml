@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-01-16 12:37" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2016-12-31">
+    <event event-id="4894240" serie-id="24575" start-time="2016-12-31 21:00:00" duration="04:00:00" mark="no">
+      <title>Nú árið er liðið</title>
+      <original-title />
+      <description><![CDATA[Bein útsending frá flugeldasýningu landsmanna.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="11">Afþreying</category>
+      <more-info>http://dagskra.ruv.is/nanar/24298/</more-info>
+      <reference group="24298" material="024575-0001" title="Nú árið er liðið" />
+      <details id="24298">
+        <series-title>Nú árið er liðið</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Bein útsending frá flugeldaveislunni.</p>
+        </series-description>
+        <series-short-description>
+          <p>Bein útsending frá flugeldaveislunni.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+  </service>
+</schedule>
