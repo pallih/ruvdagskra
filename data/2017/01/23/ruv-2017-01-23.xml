@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-01-23 13:43" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="1" service-name="RÚV" date="2017-01-23">
+    <event event-id="4893044" serie-id="24102" start-time="2017-01-23 17:05:00" duration="00:43:41" mark="no">
+      <title>Velkominn Þorri</title>
+      <original-title />
+      <description><![CDATA[Þáttur um matargerð og aðra siði sem tíðkast á Þorranum.  Umsjón: Ragnhildur Gísladóttir. Dagskrárgerð: Jón Egill Bergþórsson. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="4">Fræðsla</category>
+      <more-info>http://dagskra.ruv.is/nanar/24102/</more-info>
+      <reference group="24102" material="024102-0001" title="Velkominn Þorri" />
+      <details id="24102">
+        <series-title>Velkominn Þorri</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Þáttur um matargerð og aðra siði sem tíðkast á Þorranum. Í þættinum verða einnig flutt sex ný þorralög eftir Röggu Gísla og Steinunni Þorvaldsdóttur. Umsjón: Sigurlaug M. Jónasdóttir. Dagskrárgerð: Jón Egill Bergþórsson.</p>
+        </series-description>
+        <series-short-description>
+          <p>Þáttur um matargerð og aðra siði sem tíðkast á Þorranum.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4886315" serie-id="23884" start-time="2017-01-23 17:50:00" duration="00:08:00" mark="no">
+      <title>Táknmálsfréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23884" material="023884-0023" title="Táknmálsfréttir" />
+      <credits />
+    </event>
+    <event event-id="4833232" serie-id="" start-time="2017-01-23 18:00:00" duration="00:50:00" mark="no">
+      <title>KrakkaRÚV</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="219" number-of-episodes="386" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4833232" title="KrakkaRÚV" />
+    </event>
+    <event event-id="4891416" serie-id="21516" start-time="2017-01-23 18:01:00" duration="00:22:40" mark="yes">
+      <title>Friðþjófur forvitni</title>
+      <original-title>Curious George</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="2" number-of-episodes="6" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="21516" material="021516-0002" title="Friðþjófur forvitni" />
+      <credits />
+    </event>
+    <event event-id="4891422" serie-id="22391" start-time="2017-01-23 18:24:00" duration="00:11:02" mark="yes">
+      <title>Skógargengið</title>
+      <original-title>Jungle Bunch</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="2" number-of-episodes="24" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="22391" material="022391-0002" title="Skógargengið" />
+      <credits />
+    </event>
+    <event event-id="4891448" serie-id="15337" start-time="2017-01-23 18:35:00" duration="00:12:02" mark="yes">
+      <title>Undraveröld Gúnda</title>
+      <original-title>Amazing world of Gumball</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="2" number-of-episodes="40" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/15337/</more-info>
+      <reference group="15337" material="015337-0002" title="Undraveröld Gúnda" />
+      <details id="15337">
+        <series-title>Undraveröld Gúnda</series-title>
+        <series-original-title>Amazing world of Gumball</series-original-title>
+        <series-description>
+          <p>Flottir þættir frá Cartoon Network.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4891488" serie-id="22268" start-time="2017-01-23 18:47:00" duration="00:01:56" mark="yes">
+      <title>Hundalíf</title>
+      <original-title>Hunde sketsj</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="2" number-of-episodes="6" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="22268" material="022268-0003" title="Hundalíf" />
+      <credits />
+    </event>
+    <event event-id="4892816" serie-id="24081" start-time="2017-01-23 18:50:00" duration="00:05:00" mark="no">
+      <title>Krakkafréttir</title>
+      <original-title />
+      <description><![CDATA[Fréttaþáttur fyrir börn á aldrinum 8-12 ára. Umsjón: Birkir Blær Ingólfsson og Ísgerður Elfa Gunnarsdóttir.]]></description>
+      <short-description />
+      <rating />
+      <episode number="13" number-of-episodes="200" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/24081/</more-info>
+      <reference group="24081" material="024081-0015" title="Krakkafréttir" />
+      <details id="24081">
+        <series-title>Krakkafréttir</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Fréttaþáttur fyrir börn á aldrinum 8-12 ára. Umsjón: Birkir Blær Ingólfsson og Ísgerður Elfa Gunnarsdóttir.</p>
+        </series-description>
+        <series-short-description>
+          <p>Fréttaþáttur fyrir börn á aldrinum 8-12 ára. Umsjón: Birkir Blær Ingólfsson og Ísgerður Elfa Gunnarsdóttir.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4882725" serie-id="23879" start-time="2017-01-23 19:00:00" duration="00:23:00" mark="no">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23879" material="023879-0023" title="Fréttir" />
+      <credits />
+    </event>
+    <event event-id="4883552" serie-id="23877" start-time="2017-01-23 19:25:00" duration="00:05:00" mark="no">
+      <title>Íþróttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <reference group="23877" material="023877-0016" title="Íþróttir" />
+      <credits />
+    </event>
+    <event event-id="4884287" serie-id="23882" start-time="2017-01-23 19:30:00" duration="00:03:00" mark="no">
+      <title>Veður</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23882" material="023882-0023" title="Veður" />
+      <credits />
+    </event>
+    <event event-id="4886073" serie-id="23881" start-time="2017-01-23 19:35:00" duration="00:25:00" mark="no">
+      <title>Kastljós</title>
+      <original-title />
+      <description><![CDATA[Beittur, fréttatengdur þáttur um málefni líðandi stundar, menningu og dægurmál hvers konar. Umsjónarmenn: Þóra Arnórsdóttir, Helgi Seljan, Helga Arnardóttir, Baldvin Þór Bergsson, Bergsteinn Sigurðsson og Halla Oddný Magnúsdóttir.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttatengt</category>
+      <more-info>http://dagskra.ruv.is/nanar/23881/</more-info>
+      <reference group="23881" material="023881-0011" title="Kastljós" />
+      <details id="23881">
+        <series-title>Kastljós</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Beittur, fréttatengdur þáttur um málefni líðandi stundar, menningu og dægurmál hvers konar. Umsjónarmenn: Þóra Arnórsdóttir, Helgi Seljan, Helga Arnardóttir, Baldvin Þór Bergsson, Bergsteinn Sigurðsson og Halla Oddný Magnúsdóttir.</p>
+        </series-description>
+        <series-short-description>
+          <p>Beittur, fréttatengdur þáttur um málefni líðandi stundar, menningu og dægurmál hvers konar.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4891780" serie-id="20535" start-time="2017-01-23 20:05:00" duration="00:51:16" mark="no">
+      <title>Á ég að borða kjöt?</title>
+      <original-title>Should I Eat Meat?</original-title>
+      <description><![CDATA[Heimildarmynd frá BBC þar sem læknirinn Michael Mosley kannar heilsufarslegar afleiðingar kjötáts. Í heilan mánuð borðar hann mun meira af rauðu kjöti og unnum kjötvörum en hann gerir venjulega.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="4">Fræðsla</category>
+      <more-info>http://dagskra.ruv.is/nanar/20535/</more-info>
+      <reference group="20535" material="020535-0001" title="Á ég að borða kjöt?" />
+      <details id="20535">
+        <series-title>Á ég að borða kjöt?</series-title>
+        <series-original-title>Should I Eat Meat?</series-original-title>
+        <series-description>
+          <p>Heimildarmynd frá BBC þar sem læknirinn Michael Mosley kannar heilsufarslegar afleiðingar kjötáts. Í heilan mánuð borðar hann mun meira af rauðu kjöti og unnum  kjötvörum en hann gerir venjulega.</p>
+        </series-description>
+        <series-short-description>
+          <p>Heimildarmynd frá BBC þar sem læknirinn Michael Mosley kannar heilsufarslegar afleiðingar kjötáts.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4887113" serie-id="21518" start-time="2017-01-23 21:00:00" duration="00:53:24" mark="no">
+      <title>Miðnætursól</title>
+      <original-title>Midnattssol</original-title>
+      <description><![CDATA[Sænsk spennuþáttaröð frá sömu handritshöfundum og gerðu Brúna. Í bænum Kiruna í Norður-Svíþjóð finnst franskur ríkisborgari myrtur á hrottafenginn hátt. Lögregluyfirvöld á staðnum og frönsk lögreglukona vinna nú við að finna morðingjann. Rannsóknin stendur sem hæst þegar sólin ætlar aldrei að setjast í sænska sumrinu. Leikarar: Leila Bekhti, Gustaf Hammarsten og Jakob Hultcrantz Hansson. Atriði í þáttunum eru ekki við hæfi barna.]]></description>
+      <short-description />
+      <rating>16</rating>
+      <episode number="6" number-of-episodes="8" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/21518/</more-info>
+      <reference group="21518" material="021518-0006" title="Miðnætursól" />
+      <details id="21518">
+        <series-title>Miðnætursól</series-title>
+        <series-original-title>Midnattssol</series-original-title>
+        <series-description>
+          <p>Sænsk spennuþáttaröð frá sömu handritshöfundum og gerðu Brúna. Í bænum Kiruna í Norður-Svíþjóð finnst franskur ríkisborgari myrtur á hrottafenginn hátt. Lögregluyfirvöld á staðnum og frönsk lögreglukona vinna nú við að finna morðingjann. Rannsóknin stendur sem hæst þegar sólin ætlar aldrei að setjast í sænska sumrinu. Leikarar: Leila Bekhti, Gustaf Hammarsten og Jakob Hultcrantz Hansson. Atriði í þáttunum eru ekki við hæfi barna.</p>
+        </series-description>
+        <series-short-description>
+          <p>Sænsk spennuþáttaröð frá sömu handritshöfundum og gerðu Brúna. Í bænum Kiruna í Norður-Svíþjóð finnst franskur ríkisborgari myrtur á hrottafenginn hátt.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4883861" serie-id="23880" start-time="2017-01-23 22:00:00" duration="00:15:00" mark="no">
+      <title>Tíufréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23880" material="023880-0013" title="Tíufréttir" />
+      <credits />
+    </event>
+    <event event-id="4884069" serie-id="23883" start-time="2017-01-23 22:15:00" duration="00:03:00" mark="no">
+      <title>Veðurfréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23883" material="023883-0013" title="Veðurfréttir" />
+      <credits />
+    </event>
+    <event event-id="4893158" serie-id="24530" start-time="2017-01-23 22:20:00" duration="00:55:32" mark="no">
+      <title>EBBA - Tónlistarverðlaunin 2017</title>
+      <original-title>Ebba - The European Boarders Breaking Awards</original-title>
+      <description><![CDATA[Verðlaunahátíð evrópskra tónlistamanna sem hafa hlotið lof víðar en í heimalandi sínu. Þáttastjórnandi Jools Holland veitir verðlaunin og margir af hæfustu popp-tónlistarmönnum Evrópu stíga á stokk.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="9">Tónlist</category>
+      <more-info>http://dagskra.ruv.is/nanar/24530/</more-info>
+      <reference group="24530" material="024530-0001" title="EBBA - Tónlistarverðlaunin 2017" />
+      <details id="24530">
+        <series-title>EBBA - Tónlistarverðlaunin 2017</series-title>
+        <series-original-title>Ebba - The European Boarders Breaking Awards</series-original-title>
+        <series-description>
+          <p>Verðlaunahátíð evrópskra tónlistamanna sem hafa hlotið lof víðar en í heimalandi sínu. Þáttastjórnandi Jools Holland veitir verðlaunin og margir af hæfustu popp-tónlistarmönnum Evrópu stíga á stokk.</p>
+        </series-description>
+        <series-short-description>
+          <p>Verðlaunahátíð evrópskra tónlistamanna sem hafa hlotið lof víðar en í heimalandi sínu.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4877465" serie-id="20516" start-time="2017-01-23 23:15:00" duration="00:46:32" mark="no">
+      <title>Þýskaland &apos;83</title>
+      <original-title>Deutschland ´83</original-title>
+      <description><![CDATA[Þýsk spennuþáttaröð um ungan austurþýskan hermann sem er sendur til Vestur-Þýskalands árið 1983 til að njósna. Fátt er eins og það sýnist, allt er nýtt handan múrsins og allir sem hann hittir virðast búa yfir pólitískum og persónlegum leyndarmálum. Aðalhlutverk: Jonas Nay, Maria Schrader og Ulrich Noethen. Atriði í þáttunum eru ekki við hæfi ungra barna. e.]]></description>
+      <short-description />
+      <rating>12</rating>
+      <episode number="5" number-of-episodes="8" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/20516/</more-info>
+      <reference group="20516" material="020516-0005" title="Þýskaland &apos;83" />
+      <details id="20516">
+        <series-title>Þýskaland &apos;83</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Spennuþáttaröð um ungan austurþýskan hermann sem er sendur til Vestur-Þýskalands árið 1983 til að njósna fyrir leyniþjónustuna STASI. Fátt er eins og það sýnist, allt er nýtt handan múrsins og allir sem hann hittir virðast búa yfir pólitískum og persónlegum leyndarmálum. Atriði í þáttunum eru ekki við hæfi ungra barna. e.</p>
+          <p>Aðalhlutverk: Alexander Beyer, Sonja Gerhardt og Sylvester Groth.Atriði í þáttunum eru ekki við hæfi ungra barna.</p>
+        </series-description>
+        <series-short-description>
+          <p>Spennuþáttaröð um ungan austurþýskan hermann sem er sendur til Vestur-Þýskalands árið 1983 til að njósna fyrir leyniþjónustuna STASI.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4891801" serie-id="23881" start-time="2017-01-24 00:05:00" duration="00:25:00" mark="no">
+      <title>Kastljós</title>
+      <original-title />
+      <description><![CDATA[Beittur, fréttatengdur þáttur um málefni líðandi stundar, menningu og dægurmál hvers konar. Umsjónarmenn: Þóra Arnórsdóttir, Helgi Seljan, Helga Arnardóttir, Baldvin Þór Bergsson, Bergsteinn Sigurðsson og Halla Oddný Magnúsdóttir. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttatengt</category>
+      <more-info>http://dagskra.ruv.is/nanar/23881/</more-info>
+      <reference group="23881" material="023881-0011" title="Kastljós" />
+      <details id="23881">
+        <series-title>Kastljós</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Beittur, fréttatengdur þáttur um málefni líðandi stundar, menningu og dægurmál hvers konar. Umsjónarmenn: Þóra Arnórsdóttir, Helgi Seljan, Helga Arnardóttir, Baldvin Þór Bergsson, Bergsteinn Sigurðsson og Halla Oddný Magnúsdóttir.</p>
+        </series-description>
+        <series-short-description>
+          <p>Beittur, fréttatengdur þáttur um málefni líðandi stundar, menningu og dægurmál hvers konar.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4850700" serie-id="" start-time="2017-01-24 00:30:00" duration="00:00:10" mark="no">
+      <title>Dagskrárlok</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="89" number-of-episodes="400" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4850700" title="Dagskrárlok" />
+    </event>
+  </service>
+</schedule>
