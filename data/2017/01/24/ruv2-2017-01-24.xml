@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-01-24 13:43" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2017-01-24">
+    <event event-id="4888951" serie-id="20434" start-time="2017-01-24 17:50:00" duration="01:50:00" mark="no">
+      <title>Frakkland - Svíþjóð</title>
+      <original-title>HM í handbolta:8-liða úrslit</original-title>
+      <description><![CDATA[Bein útsending frá leik Frakklands og Svíþjóðar í 8-liða úrslitum á HM karla í handbolta.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="20434" material="020434-0012" title="Frakkland - Svíþjóð" />
+      <credits />
+    </event>
+    <event event-id="4888952" serie-id="20434" start-time="2017-01-24 19:35:00" duration="01:50:00" mark="no">
+      <title>Spánn - Króatía</title>
+      <original-title>HM í handbolta:8-liða úrslit</original-title>
+      <description><![CDATA[Bein útsending frá leik Spánar og Króatíu í 8-liða úrslitum á HM karla í handbolta.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="20434" material="020434-0013" title="Spánn - Króatía" />
+      <credits />
+    </event>
+  </service>
+</schedule>
