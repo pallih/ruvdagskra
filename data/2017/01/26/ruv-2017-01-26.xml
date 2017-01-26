@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-01-26 13:42" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="1" service-name="RÚV" date="2017-01-26">
+    <event event-id="4886318" serie-id="23884" start-time="2017-01-26 17:50:00" duration="00:08:00" mark="no">
+      <title>Táknmálsfréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23884" material="023884-0026" title="Táknmálsfréttir" />
+      <credits />
+    </event>
+    <event event-id="4833234" serie-id="" start-time="2017-01-26 18:00:00" duration="00:50:00" mark="no">
+      <title>KrakkaRÚV</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4833234" title="KrakkaRÚV" />
+    </event>
+    <event event-id="4896083" serie-id="24096" start-time="2017-01-26 18:01:00" duration="00:24:00" mark="yes">
+      <title>Stundin okkar</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="13" number-of-episodes="39" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/24096/</more-info>
+      <reference group="24096" material="024096-0001" title="Stundin okkar" />
+      <details id="24096">
+        <series-title>Stundin okkar</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Í Stundinni okkar í vetur ætlum við að hitta skemmtilega krakka um allt land, kynnast skrímslum, læra á gítar, taka þátt í stórhættulegri spurningakeppni og læra ýmislegt og allskonar sem við höfðum ekki hugmynd um að okkur langaði að vita. Umsjón: Sigyn Blöndal.</p>
+        </series-description>
+        <series-short-description>
+          <p>Í Stundinni okkar í vetur ætlum við að hitta skemmtilega krakka um allt land, kynnast skrímslum, læra á gítar, taka þátt í stórhættulegri spurningakeppni og læra ýmislegt og allskonar sem við höfðum ekki hugmynd um að okkur langaði að vita. Umsjón: Sigyn Blöndal.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4891520" serie-id="16230" start-time="2017-01-26 18:25:00" duration="00:23:39" mark="yes">
+      <title>Litli prinsinn</title>
+      <original-title>Little Prince. III</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="2" number-of-episodes="18" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="16230" material="016230-0013" title="Litli prinsinn" />
+      <credits />
+    </event>
+    <event event-id="4892819" serie-id="24081" start-time="2017-01-26 18:50:00" duration="00:05:00" mark="no">
+      <title>Krakkafréttir</title>
+      <original-title />
+      <description><![CDATA[Fréttaþáttur fyrir börn á aldrinum 8-12 ára. Umsjón: Birkir Blær Ingólfsson og Ísgerður Elfa Gunnarsdóttir.]]></description>
+      <short-description />
+      <rating />
+      <episode number="16" number-of-episodes="200" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/24081/</more-info>
+      <reference group="24081" material="024081-0018" title="Krakkafréttir" />
+      <details id="24081">
+        <series-title>Krakkafréttir</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Fréttaþáttur fyrir börn á aldrinum 8-12 ára. Umsjón: Birkir Blær Ingólfsson og Ísgerður Elfa Gunnarsdóttir.</p>
+        </series-description>
+        <series-short-description>
+          <p>Fréttaþáttur fyrir börn á aldrinum 8-12 ára. Umsjón: Birkir Blær Ingólfsson og Ísgerður Elfa Gunnarsdóttir.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4882728" serie-id="23879" start-time="2017-01-26 19:00:00" duration="00:23:00" mark="no">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23879" material="023879-0026" title="Fréttir" />
+      <credits />
+    </event>
+    <event event-id="4883555" serie-id="23877" start-time="2017-01-26 19:25:00" duration="00:05:00" mark="no">
+      <title>Íþróttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <reference group="23877" material="023877-0019" title="Íþróttir" />
+      <credits />
+    </event>
+    <event event-id="4884290" serie-id="23882" start-time="2017-01-26 19:30:00" duration="00:03:00" mark="no">
+      <title>Veður</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23882" material="023882-0026" title="Veður" />
+      <credits />
+    </event>
+    <event event-id="4886075" serie-id="23881" start-time="2017-01-26 19:35:00" duration="00:30:00" mark="no">
+      <title>Kastljós</title>
+      <original-title />
+      <description><![CDATA[Beittur, fréttatengdur þáttur um málefni líðandi stundar, menningu og dægurmál hvers konar. Umsjónarmenn: Þóra Arnórsdóttir, Helgi Seljan, Helga Arnardóttir, Baldvin Þór Bergsson, Bergsteinn Sigurðsson og Halla Oddný Magnúsdóttir.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttatengt</category>
+      <more-info>http://dagskra.ruv.is/nanar/23881/</more-info>
+      <reference group="23881" material="023881-0013" title="Kastljós" />
+      <details id="23881">
+        <series-title>Kastljós</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Beittur, fréttatengdur þáttur um málefni líðandi stundar, menningu og dægurmál hvers konar. Umsjónarmenn: Þóra Arnórsdóttir, Helgi Seljan, Helga Arnardóttir, Baldvin Þór Bergsson, Bergsteinn Sigurðsson og Halla Oddný Magnúsdóttir.</p>
+        </series-description>
+        <series-short-description>
+          <p>Beittur, fréttatengdur þáttur um málefni líðandi stundar, menningu og dægurmál hvers konar.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4889880" serie-id="23266" start-time="2017-01-26 20:10:00" duration="00:26:12" mark="no">
+      <title>Andri á flandri í túristalandi</title>
+      <original-title />
+      <description><![CDATA[Ný þáttaröð með fjölmiðlamanninum Andra Frey Viðarssyni. Að þessu sinni kannar Andri sívaxandi ferðamannastraum til Íslands og reynir m.a. að slá á fordóma sína í garð erlendra ferðamanna. Andri ákveður að leggja land undir fót og upplifa hvernig það er að vera ferðamaður í eigin landi en á ferðalagi sínu um borg og bæi, jökla og eldfjöll, fossa og sanda uppgötvar hann landið sitt upp á nýtt og eignast nýja vini, bæði erlenda og innlenda. Dagskrárgerð: Kristófer Dignus. Framleiðandi: Pegasus.]]></description>
+      <short-description />
+      <rating />
+      <episode number="2" number-of-episodes="8" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="6">Íslenskir þættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/23266/</more-info>
+      <reference group="23266" material="023266-0002" title="Andri á flandri í túristalandi" />
+      <details id="23266">
+        <series-title>Andri á flandri í túristalandi</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Ný þáttaröð með fjölmiðlamanninum Andra Frey Viðarssyni. Að þessu sinni kannar Andri sívaxandi ferðamannastraum til Íslands og reynir m.a. að slá á fordóma sína í garð erlendra ferðamanna. Andri ákveður að leggja land undir fót og upplifa hvernig það er að vera ferðamaður í eigin landi en á ferðalagi sínu um borg og bæi, jökla og eldfjöll, fossa og sanda uppgötvar hann landið sitt upp á nýtt og eignast nýja vini, bæði erlenda og innlenda. Dagskrárgerð: Kristófer Dignus. Framleiðandi: Pegasus.</p>
+        </series-description>
+        <series-short-description>
+          <p>Ný þáttaröð með fjölmiðlamanninum Andra Frey Viðarssyni.</p>
+        </series-short-description>
+        <episode-description>
+          <p>Í Keflavík leynist eina 5 stjörnu hótelið á Íslandi og Andri Freyr skoðar það hátt og lágt. Hann skellir sér í Bláa lónið og spyr Grím forstjóra þess spjörunum úr. Hann blandar geði við sársvanga ferðamenn í röðinni á Bæjarins beztu áður en hann skoðar nýja hvalasafnið úti á Granda. Miðnæturhvalaskoðunarferð er svo rúsínan í pylsuendanum, en verða einhverjir hvalir á svæðinu?</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4888011" serie-id="22235" start-time="2017-01-26 20:40:00" duration="00:20:44" mark="no">
+      <title>Best í Brooklyn</title>
+      <original-title>Brooklyn Nine-Nine III</original-title>
+      <description><![CDATA[Lögreglustjóri ákveður að breyta afslöppuðum undirmönnum sínum í þá bestu í borginni. Aðalhlutverk: Andy Samberg, Stephanie Beatriz, Terry Crews og Melissa Fumero.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/22235/</more-info>
+      <reference group="22235" material="022235-0016" title="Best í Brooklyn" />
+      <details id="22235">
+        <series-title>Best í Brooklyn</series-title>
+        <series-original-title>Brooklyn Nine-Nine</series-original-title>
+        <series-description>
+          <p>Gamanþáttur sem hefur unnið til tvennra Golden Globe verðlauna. Lögreglustjóri ákveður að breyta afslöppuðum undirmönnum sínum í þá bestu í borginni. Aðalhlutverk: Andy Samberg, Stephanie Beatriz, Terry Crews  og Melissa Fumero.</p>
+        </series-description>
+        <series-short-description>
+          <p>Gamanþáttur sem hefur unnið til tvennra Golden Globe verðlauna.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4888028" serie-id="22541" start-time="2017-01-26 21:05:00" duration="00:50:37" mark="no">
+      <title>Versalir</title>
+      <original-title>Versailles</original-title>
+      <description><![CDATA[Ný frönsk þáttaröð byggð á sögulegum atburðum í hirð Lúðvíks konungs fjórtánda. Árið 1667 er Lúðvík konungur 28 ára gamall og loks orðinn einráður. Í von um að koma í veg fyrir uppreisn yfirstéttarinnar fyrirskipar hann að láta byggja glæsilegustu höll heims, Versali. Aðalhlutverk: George Blagden, Alexander Vlahon og Tygh Runyan. Atriði í þáttunum eru ekki við hæfi barna.]]></description>
+      <short-description />
+      <rating>16</rating>
+      <episode number="10" number-of-episodes="10" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/22541/</more-info>
+      <reference group="22541" material="022541-0010" title="Versalir" />
+      <details id="22541">
+        <series-title>Versalir</series-title>
+        <series-original-title>Versailles</series-original-title>
+        <series-description>
+          <p>Ný frönsk þáttaröð byggð á sögulegum atburðum í hirð Lúðvíks konungs fjórtánda. Árið 1667 er Lúðvík konungur 28 ára gamall og loks orðinn einráður. Í von um að koma í veg fyrir uppreisn yfirstéttarinnar fyrirskipar hann að láta byggja glæsilegustu höll heims, Versali. Aðalhlutverk: George Blagden, Alexander Vlahon og Tygh Runyan. Atriði í þáttunum eru ekki við hæfi barna.</p>
+        </series-description>
+        <series-short-description>
+          <p>Ný frönsk þáttaröð byggð á sögulegum atburðum í hirð Lúðvíks konungs fjórtánda.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4883864" serie-id="23880" start-time="2017-01-26 22:00:00" duration="00:15:00" mark="no">
+      <title>Tíufréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23880" material="023880-0016" title="Tíufréttir" />
+      <credits />
+    </event>
+    <event event-id="4884072" serie-id="23883" start-time="2017-01-26 22:15:00" duration="00:03:00" mark="no">
+      <title>Veðurfréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23883" material="023883-0016" title="Veðurfréttir" />
+      <credits />
+    </event>
+    <event event-id="4851090" serie-id="23188" start-time="2017-01-26 22:20:00" duration="00:40:58" mark="no">
+      <title>Lögregluvaktin</title>
+      <original-title>Chicago PD III</original-title>
+      <description><![CDATA[Þriðja þáttaröðin af þessu sívinsæla lögregludrama. Þættirnir fjalla um líf og störf lögreglumanna í Chicago. Meðal leikenda eru Sophia Bush, Jason Beghe og Jon Seda. Atriði í þáttunum eru ekki við hæfi barna.]]></description>
+      <short-description />
+      <rating>16</rating>
+      <episode number="16" number-of-episodes="23" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/23188/</more-info>
+      <reference group="23188" material="023188-0016" title="Lögregluvaktin" />
+      <details id="23188">
+        <series-title>Lögregluvaktin</series-title>
+        <series-original-title>Chicago PD III</series-original-title>
+        <series-description>
+          <p>Þriðja þáttaröðin af þessu sívinsæla lögregludrama.  Þættirnir fjalla um líf og störf lögreglumanna í Chicago. Meðal leikenda eru Sophia Bush, Jason Beghe og Jon Seda. Atriði í þáttunum eru ekki við hæfi barna.</p>
+        </series-description>
+        <series-short-description>
+          <p>Þriðja þáttaröðin af þessu sívinsæla lögregludrama.  Þættirnir fjalla um líf og störf lögreglumanna í Chicago.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4895219" serie-id="16986" start-time="2017-01-26 23:05:00" duration="00:52:12" mark="no">
+      <title>Fangar</title>
+      <original-title />
+      <description><![CDATA[Ný leikin íslensk þáttaröð í sex hlutum í leikstjórn Ragnars Bragasonar. Líf Lindu og fjölskyldu hennar umturnast þegar hún er færð í kvennafangelsið í Kópavogi eftir að hafa ráðist á föður sinn, þekktan mann úr viðskiptalífinu. Í fangelsinu hittir Linda fyrir aðrar konur sem hafa farið út af sporinu og myndar sambönd sem hafa örlagarík áhrif á líf hennar. Með aðalhlutverk fara: Þorbjörg Helga Þorgilsdóttir Dýrfjörð, Nína Dögg Filippusdóttir, Unnur Ösp Stefánsdóttir og Halldóra Geirharðsdóttir. Framleiðsla: Mystery Productions og Vesturport. Atriði í þáttunum eru ekki við hæfi ungra barna. e.]]></description>
+      <short-description />
+      <rating>12</rating>
+      <episode number="4" number-of-episodes="6" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="6">Íslenskir þættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/16986/</more-info>
+      <reference group="16986" material="016986-0004" title="Fangar" />
+      <details id="16986">
+        <series-title>Fangar</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Ný leikin íslensk þáttaröð í sex hlutum í leikstjórn Ragnars Bragasonar. Líf Lindu og fjölskyldu hennar umturnast þegar hún er færð í kvennafangelsið í Kópavogi eftir að hafa ráðist á föður sinn, þekktan mann úr viðskiptalífinu. Í fangelsinu hittir Linda fyrir aðrar konur sem hafa farið út af sporinu og myndar sambönd sem hafa örlagarík áhrif á líf hennar. Með aðalhlutverk fara: Þorbjörg Helga Þorgilsdóttir Dýrfjörð, Nína Dögg Filippusdóttir, Unnur Ösp Stefánsdóttir, Kristbjörg Kjeld og Halldóra Geirharðsdóttir. Framleiðsla: Mystery Productions. Atriði í þáttunum eru ekki við hæfi ungra barna.</p>
+        </series-description>
+        <series-short-description>
+          <p>Ný leikin íslensk þáttaröð í sex hlutum í leikstjórn Ragnars Bragasonar.</p>
+        </series-short-description>
+        <episode-description>
+          <p>Nýju ljósi er varpað á atburðarrás árásarinnar á Þorvald. Valgerður kallar reiði Herdísar yfir sig þegar hún opnar sig um fjölskyldumálin í fjölmiðlum. Linda tekur á móti Valgerði í fangelsinu og reynir að skýra sína hlið á málinu. Unglingapartí í Garðabænum fer úr böndunum.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4891803" serie-id="23881" start-time="2017-01-27 00:00:00" duration="00:30:00" mark="no">
+      <title>Kastljós</title>
+      <original-title />
+      <description><![CDATA[Beittur, fréttatengdur þáttur um málefni líðandi stundar, menningu og dægurmál hvers konar. Umsjónarmenn: Þóra Arnórsdóttir, Helgi Seljan, Helga Arnardóttir, Baldvin Þór Bergsson, Bergsteinn Sigurðsson og Halla Oddný Magnúsdóttir. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttatengt</category>
+      <more-info>http://dagskra.ruv.is/nanar/23881/</more-info>
+      <reference group="23881" material="023881-0013" title="Kastljós" />
+      <details id="23881">
+        <series-title>Kastljós</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Beittur, fréttatengdur þáttur um málefni líðandi stundar, menningu og dægurmál hvers konar. Umsjónarmenn: Þóra Arnórsdóttir, Helgi Seljan, Helga Arnardóttir, Baldvin Þór Bergsson, Bergsteinn Sigurðsson og Halla Oddný Magnúsdóttir.</p>
+        </series-description>
+        <series-short-description>
+          <p>Beittur, fréttatengdur þáttur um málefni líðandi stundar, menningu og dægurmál hvers konar.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4850703" serie-id="" start-time="2017-01-27 00:30:00" duration="00:00:10" mark="no">
+      <title>Dagskrárlok</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="92" number-of-episodes="400" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4850703" title="Dagskrárlok" />
+    </event>
+  </service>
+</schedule>
