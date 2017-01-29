@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-01-29 13:42" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2017-01-29">
+    <event event-id="4896141" serie-id="7506" start-time="2017-01-29 11:30:00" duration="03:30:00" mark="no">
+      <title>Reykjavíkurleikar: Badminton</title>
+      <original-title />
+      <description><![CDATA[Bein útsending frá keppni í badminton á árlegu alþjóðlegu íþróttamóti í Reykjavík.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="5">Íþróttir</category>
+      <more-info>http://dagskra.ruv.is/nanar/7506/</more-info>
+      <reference group="7506" material="007506-0046" title="Reykjavíkurleikar" />
+      <details id="7506">
+        <series-title>Reykjavíkurleikar</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Frá árlegu alþjóðlegu íþróttamóti í Reykjavík.</p>
+        </series-description>
+        <series-short-description>
+          <p>Frá árlegu alþjóðlegu íþróttamóti í Reykjavík.</p>
+        </series-short-description>
+        <episode-description>
+          <p>Bein útsending frá keppni í badminton á árlegu alþjóðlegu íþróttamóti í Reykjavík.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+  </service>
+</schedule>
