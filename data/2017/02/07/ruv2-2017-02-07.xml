@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-02-07 13:42" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2017-02-07">
+    <event event-id="4896052" serie-id="15469" start-time="2017-02-07 19:20:00" duration="01:50:00" mark="no">
+      <title>Grótta - Selfoss</title>
+      <original-title>Bikarkeppni kvenna í handbolta: 8-liða úrslit</original-title>
+      <description><![CDATA[Bein útsending frá leik Gróttu og Selfoss í 8-liða úrslitum bikarkeppni kvenna í handbolta.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="15469" material="015469-0009" title="Grótta - Selfoss" />
+      <credits />
+    </event>
+  </service>
+</schedule>
