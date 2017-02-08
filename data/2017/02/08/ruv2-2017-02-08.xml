@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-02-08 13:42" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2017-02-08">
+    <event event-id="4895549" serie-id="" start-time="2017-02-08 17:55:00" duration="01:00:00" mark="no">
+      <title>Disneystundin</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4895549" title="Disneystundin" />
+    </event>
+    <event event-id="4895550" serie-id="22310" start-time="2017-02-08 17:56:00" duration="00:23:00" mark="yes">
+      <title>Finnbogi og Felix</title>
+      <original-title>Disney Phineas and Ferb</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="2" number-of-episodes="9" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="22310" material="022310-0097" title="Finnbogi og Felix" />
+      <credits />
+    </event>
+    <event event-id="4895551" serie-id="22630" start-time="2017-02-08 18:18:00" duration="00:08:02" mark="yes">
+      <title>Sígildar teiknimyndir</title>
+      <original-title>Classic Cartoon</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="30" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="22630" material="022630-0016" title="Sígildar teiknimyndir" />
+      <credits />
+    </event>
+    <event event-id="4895552" serie-id="22313" start-time="2017-02-08 18:20:00" duration="00:21:55" mark="yes">
+      <title>Gló magnaða</title>
+      <original-title>Disney&apos;s Kim Possible</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="2" number-of-episodes="41" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="22313" material="022313-0027" title="Gló magnaða" />
+      <credits />
+    </event>
+    <event event-id="4891578" serie-id="24252" start-time="2017-02-08 19:45:00" duration="02:10:00" mark="no">
+      <title>Skallagrímur - Snæfell</title>
+      <original-title>Bikarkeppni KKÍ: 4-liða úrslit kvenna</original-title>
+      <description><![CDATA[Bein útsending frá leik Skallagríms og Snæfells í 4-liða úrslitum bikarkeppni kvenna í körfubolta.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="24252" material="024252-0008" title="Skallagrímur - Snæfell" />
+      <credits />
+    </event>
+  </service>
+</schedule>
