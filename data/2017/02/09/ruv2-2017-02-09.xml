@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-02-09 13:42" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2017-02-09">
+    <event event-id="4895557" serie-id="" start-time="2017-02-09 18:00:00" duration="00:01:00" mark="no">
+      <title>KrakkaRÚV</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4895557" title="KrakkaRÚV" />
+    </event>
+    <event event-id="4895560" serie-id="24096" start-time="2017-02-09 18:01:00" duration="00:24:00" mark="yes">
+      <title>Stundin okkar</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="27" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/24096/</more-info>
+      <reference group="24096" material="024096-0015" title="Stundin okkar" />
+      <details id="24096">
+        <series-title>Stundin okkar</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Í Stundinni okkar í vetur ætlum við að hitta skemmtilega krakka um allt land, kynnast skrímslum, læra á gítar, taka þátt í stórhættulegri spurningakeppni og læra ýmislegt og allskonar sem við höfðum ekki hugmynd um að okkur langaði að vita. Umsjón: Sigyn Blöndal.</p>
+        </series-description>
+        <series-short-description>
+          <p>Í Stundinni okkar í vetur ætlum við að hitta skemmtilega krakka um allt land, kynnast skrímslum, læra á gítar, taka þátt í stórhættulegri spurningakeppni og læra ýmislegt og allskonar sem við höfðum ekki hugmynd um að okkur langaði að vita. Umsjón: Sigyn Blöndal.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4895559" serie-id="16230" start-time="2017-02-09 18:25:00" duration="00:24:00" mark="yes">
+      <title>Litli prinsinn</title>
+      <original-title>Little Prince III</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="2" number-of-episodes="18" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="16230" material="016230-0015" title="Litli prinsinn" />
+      <credits />
+    </event>
+    <event event-id="4895561" serie-id="24081" start-time="2017-02-09 18:50:00" duration="00:04:50" mark="no">
+      <title>Krakkafréttir</title>
+      <original-title>2. janúar 2016</original-title>
+      <description><![CDATA[Fréttaþáttur fyrir börn á aldrinum 8-12 ára. Umsjón: Birkir Blær Ingólfsson og Ísgerður Elfa Gunnarsdóttir.]]></description>
+      <short-description />
+      <rating />
+      <episode number="2" number-of-episodes="200" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/24081/</more-info>
+      <reference group="24081" material="024081-0001" title="Krakkafréttir" />
+      <details id="24081">
+        <series-title>Krakkafréttir</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Fréttaþáttur fyrir börn á aldrinum 8-12 ára. Umsjón: Ísgerður Elfa Gunnarsdóttir og Guðmundur Felixson.</p>
+        </series-description>
+        <series-short-description>
+          <p>Fréttaþáttur fyrir börn á aldrinum 8-12 ára.  Umsjón: Ísgerður Elfa Gunnarsdóttir og Guðmundur Felixson.</p>
+        </series-short-description>
+        <episode-description>
+          <p>Í þættinum í kvöld ætlum við að segja frá íþróttamanni ársins, fræðumst um bann við stórum flugeldum, segjum frá strák í Hollandi sem fékk ótal marga til að gefa til góðgerðarmála og fjöllum um fínan rétt sem er borinn fram á iPad.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4891579" serie-id="24252" start-time="2017-02-09 19:45:00" duration="02:10:00" mark="no">
+      <title>Þór Þ. - Grindavík</title>
+      <original-title>Bikarkeppni KKÍ: 4-liða úrslit karla</original-title>
+      <description><![CDATA[Bein útsending frá leik Þórs Þ. og Grindavíkur í 4-liða úrslitum bikarkeppni karla í körfubolta.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="24252" material="024252-0009" title="Þór Þ. - Grindavík" />
+      <credits />
+    </event>
+  </service>
+</schedule>
