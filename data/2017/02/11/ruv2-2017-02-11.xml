@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-02-11 13:42" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2017-02-11">
+    <event event-id="4895866" serie-id="22024" start-time="2017-02-11 18:20:00" duration="00:25:00" mark="no">
+      <title>Hvergi drengir</title>
+      <original-title>Nowhere Boys</original-title>
+      <description><![CDATA[Þáttaröð um fjóra ólíka vini; gotharann Felix, nördið Andy, fyrirmyndardrenginn Rahart og íþróttagæjann Jake en í fyrstu virtust strákarnir ekkert eiga sameiginlegt.  Eftir að hafa farið saman í skólaferðlag snúa þeir aftur og átta sig á að þeir eru staddir í hliðarheimi og enginn þekkir þá, hvorki fjölskyldur þeirra né vinir. Aðalhlutverk: Dougie Baldwin, Joel Lok, Rahart Adams og Matt Testro.]]></description>
+      <short-description />
+      <rating />
+      <episode number="5" number-of-episodes="13" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/22024/</more-info>
+      <reference group="22024" material="022024-0005" title="Hvergi drengir" />
+      <details id="22024">
+        <series-title>Hvergi drengir</series-title>
+        <series-original-title>Nowhere Boys</series-original-title>
+        <series-description>
+          <p>Þáttaröð um fjóra ólíka vini; gotharann Felix, nördið Andy, fyrirmyndardrenginn Rahart og íþróttagæjann Jake en í fyrstu virtust strákarnir ekkert eiga sameiginlegt.  Eftir að hafa farið saman í skólaferðlag snúa þeir aftur og átta sig á að þeir eru staddir í hliðarheimi og enginn þekkir þá, hvorki fjölskyldur þeirra né vinir. Aðalhlutverk: Dougie Baldwin, Joel Lok, Rahart Adams og Matt Testro.</p>
+        </series-description>
+        <series-short-description>
+          <p>Þáttaröð um fjóra ólíka vini; gotharann Felix, nördið Andy, fyrirmyndardrenginn Rahart og íþróttagæjann Jake en í fyrstu virtust strákarnir ekkert eiga sameiginlegt.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+  </service>
+</schedule>
