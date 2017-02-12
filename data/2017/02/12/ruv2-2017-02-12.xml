@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-02-12 13:43" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2017-02-12">
+    <event event-id="4895313" serie-id="24702" start-time="2017-02-12 13:40:00" duration="01:40:00" mark="no">
+      <title>HM í skíðaskotfimi</title>
+      <original-title>Eltiganga karla</original-title>
+      <description><![CDATA[Bein útsending frá eltigöngu karla á HM í skíðaskotfimi. Keppnin fer fram í Hochfilzen í Austurríki.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="24702" material="024702-0002" title="HM í skíðaskotfimi" />
+      <credits />
+    </event>
+    <event event-id="4897048" serie-id="21080" start-time="2017-02-12 23:55:00" duration="01:30:31" mark="no">
+      <title>Norrænir bíódagar: Bekkjarmótið</title>
+      <original-title>Klassefesten</original-title>
+      <description><![CDATA[Dönsk gamanmynd frá 2011.  Niels er falið að halda ræðu á 25 ára stúdentsafmælinu sínu. Það leggst vægast sagt illa í hann þar sem aldurinn er farinn að segja til sín. Kvillar eins og slæm sjón og gyllinæð bæta ekki lélegt sjálfstraustið. Aðalhlutverki: Nicolaj Kopernikus, Anders W. Berthelsen, Troels Lyby. Leikstjóri: Niels Nørløv Hansen. Atriði í myndinni eru ekki við hæfi ungra barna. e.]]></description>
+      <short-description />
+      <rating>12</rating>
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="7">Kvikmyndir</category>
+      <more-info>http://dagskra.ruv.is/nanar/21080/</more-info>
+      <reference group="21080" material="021080-0001" title="Norrænir bíódagar: Bekkjarmótið" />
+      <details id="21080">
+        <series-title>Norrænir bíódagar: Bekkjarmótið</series-title>
+        <series-original-title>Klassefesten</series-original-title>
+        <series-description>
+          <p>Dönsk gamanmynd frá 2011.  Niels er falið að halda ræðu á 25 ára stúdentsafmælinu sínu. Það leggst vægast sagt illa í hann þar sem aldurinn er farinn að segja til sín. Kvillar eins og slæm sjón og gyllinæð bæta ekki lélegt sjálfstraustið. Aðalhlutverki: Nicolaj Kopernikus, Anders W. Berthelsen, Troels Lyby. Leikstjóri: Niels Nørløv Hansen.</p>
+        </series-description>
+        <series-short-description>
+          <p>Dönsk gamanmynd frá 2011.  Niels er falið að halda ræðu á 25 ára stúdentsafmælinu sínu.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+  </service>
+</schedule>
