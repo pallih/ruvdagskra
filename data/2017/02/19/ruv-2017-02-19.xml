@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-02-19 13:42" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="1" service-name="RÚV" date="2017-02-19">
+    <event event-id="4785269" serie-id="" start-time="2017-02-19 07:00:00" duration="01:35:00" mark="no">
+      <title>KrakkaRÚV</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4785269" title="KrakkaRÚV" />
+    </event>
+    <event event-id="4888420" serie-id="22401" start-time="2017-02-19 07:01:00" duration="00:07:00" mark="yes">
+      <title>Kioka</title>
+      <original-title>Kioka</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="22" number-of-episodes="78" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="22401" material="022401-0022" title="Kioka" />
+      <credits />
+    </event>
+    <event event-id="4888573" serie-id="16860" start-time="2017-02-19 07:07:00" duration="00:05:09" mark="yes">
+      <title>Ævintýri Berta og Árna</title>
+      <original-title>Bert&amp; Ernie&apos;s Great Adventures</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="20" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/16860/</more-info>
+      <reference group="16860" material="016860-0020" title="Ævintýri Berta og Árna" />
+      <details id="16860">
+        <series-title>Ævintýri Berta og Árna</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4888625" serie-id="20644" start-time="2017-02-19 07:12:00" duration="00:07:00" mark="yes">
+      <title>Lundaklettur</title>
+      <original-title>Puffin Rock</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="20" number-of-episodes="39" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/20644/</more-info>
+      <reference group="20644" material="020644-0020" title="Lundaklettur" />
+      <details id="20644">
+        <series-title>Lundaklettur</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4888486" serie-id="23582" start-time="2017-02-19 07:20:00" duration="00:07:00" mark="yes">
+      <title>Froskur og vinir hans</title>
+      <original-title>Frog and Friends</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="10" number-of-episodes="26" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23582" material="023582-0010" title="Froskur og vinir hans" />
+      <credits />
+    </event>
+    <event event-id="4888347" serie-id="18992" start-time="2017-02-19 07:30:00" duration="00:11:20" mark="yes">
+      <title>Veistu hvað ég elska þig mikið</title>
+      <original-title>Guess How Much I Love you</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="13" number-of-episodes="26" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/18992/</more-info>
+      <reference group="18992" material="018992-0014" title="Veistu hvað ég elska þig mikið?" />
+      <details id="18992">
+        <series-title>Veistu hvað ég elska þig mikið?</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4849981" serie-id="20527" start-time="2017-02-19 07:41:00" duration="00:07:00" mark="yes">
+      <title>Hæ Sámur</title>
+      <original-title>Hey Dugge</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="39" number-of-episodes="49" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/20527/</more-info>
+      <reference group="20527" material="020527-0041" title="Hæ Sámur" />
+      <details id="20527">
+        <series-title>Hæ Sámur</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4891379" serie-id="22309" start-time="2017-02-19 07:48:00" duration="00:23:07" mark="yes">
+      <title>Morgunland</title>
+      <original-title>Disney Miles from Tomorrow Land</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="8" number-of-episodes="10" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="22309" material="022309-0008" title="Morgunland" />
+      <credits />
+    </event>
+    <event event-id="4888294" serie-id="21813" start-time="2017-02-19 08:12:00" duration="00:23:07" mark="yes">
+      <title>Kúlugúbbarnir</title>
+      <original-title>Bubble Guppies,</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="13" number-of-episodes="14" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="21813" material="021813-0013" title="Kúlugúbbarnir" />
+      <credits />
+    </event>
+    <event event-id="4896451" serie-id="20617" start-time="2017-02-19 08:35:00" duration="00:05:00" mark="no">
+      <title>Vísindahorn Ævars</title>
+      <original-title />
+      <description><![CDATA[Þáttarbrot með Ævari vísindamanni fyrir krakka á öllum aldri.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <more-info>http://dagskra.ruv.is/nanar/20617/</more-info>
+      <reference group="20617" material="020617-0009" title="Vísindahorn Ævars" />
+      <details id="20617">
+        <series-title>Vísindahorn Ævars</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Þáttarbrot með Ævari vísindamanni fyrir krakka á öllum aldri.</p>
+        </series-description>
+        <series-short-description>
+          <p>Þáttarbrot með Ævari vísindamanni fyrir krakka á öllum aldri.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4895238" serie-id="24701" start-time="2017-02-19 08:40:00" duration="01:40:00" mark="no">
+      <title>HM í alpagreinum</title>
+      <original-title>Svig karla - fyrri ferð</original-title>
+      <description><![CDATA[Bein útsending frá svigi karla á HM í alpagreinum. Keppnin fer fram í St. Moritz í Sviss.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="24701" material="024701-0007" title="HM í alpagreinum" />
+      <credits />
+    </event>
+    <event event-id="4895239" serie-id="24702" start-time="2017-02-19 10:25:00" duration="00:35:00" mark="no">
+      <title>HM í skíðaskotfimi</title>
+      <original-title>Hópstart kvenna</original-title>
+      <description><![CDATA[Bein útsending frá hópstarti kvenna á HM í skíðaskotfimi. Keppnin fer fram í Hochfilzen í Austurríki.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="24702" material="024702-0005" title="HM í skíðaskotfimi" />
+      <credits />
+    </event>
+    <event event-id="4891262" serie-id="24092" start-time="2017-02-19 11:00:00" duration="01:00:00" mark="no">
+      <title>Silfrið</title>
+      <original-title />
+      <description><![CDATA[Umræðuþátturinn Silfrið snýr aftur á skjáinn en að þessu sinni með Agli Helgasyni og Fanneyju Birnu Jónsdóttur. Saman fá þau til sín góða gesti til að kryfja með sér atuburði liðinnar viku og pólitískt landslag hverju sinni. Stjórn útsendingar: Ragnheiður Thorsteinsson.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/24092/</more-info>
+      <reference group="24092" material="024092-0003" title="Silfrið" />
+      <details id="24092">
+        <series-title>Silfrið</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Umræðuþátturinn Silfrið snýr aftur á skjáinn en að þessu sinni með Agli Helgasyni og Fanneyju Birnu Jónsdóttur. Saman fá þau til sín góða gesti til að kryfja með sér atuburði liðinnar viku og pólitískt landslag hverju sinni. Stjórn útsendingar: Ragnheiður Thorsteinsson.</p>
+        </series-description>
+        <series-short-description>
+          <p>Umræðuþátturinn Silfrið snýr aftur á skjáinn en að þessu sinni með Agli Helgasyni og Fanneyju Birnu Jónsdóttur.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4895240" serie-id="24701" start-time="2017-02-19 12:00:00" duration="01:10:00" mark="no">
+      <title>HM í alpagreinum</title>
+      <original-title>Svig karla - seinni ferð</original-title>
+      <description><![CDATA[Bein útsending frá svigi karla á HM í alpagreinum. Keppnin fer fram í St. Moritz í Sviss.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="24701" material="024701-0008" title="HM í alpagreinum" />
+      <credits />
+    </event>
+    <event event-id="4896182" serie-id="22434" start-time="2017-02-19 13:15:00" duration="00:25:27" mark="no">
+      <title>Ekki bara leikur</title>
+      <original-title>Not Just a Game</original-title>
+      <description><![CDATA[Heimildarþáttaröð sem afhjúpar hvernig keppnisíþróttir hafa ítrekað endurspeglað pólitískan áróður á tuttugustu öld. Einkum hefur orðræða forréttindahópa um málefni s.s. þjóðernishyggju, stríð, kyngervi, kynþætti, samkynhneigð og kapítalisma verið haldið á lofti í heimi íþróttanna. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/22434/</more-info>
+      <reference group="22434" material="022434-0006" title="Ekki bara leikur" />
+      <details id="22434">
+        <series-title>Ekki bara leikur</series-title>
+        <series-original-title>Not Just a Game</series-original-title>
+        <series-description>
+          <p>Heimildarþáttaröð sem afhjúpar hvernig keppnisíþróttir hafa ítrekað endurspeglað pólitískan áróður á tuttugustu öld. Einkum hefur orðræða forréttindahópa um málefni s.s. þjóðernishyggju, stríð, kyngervi, kynþætti, samkynhneigð og kapítalisma verið haldið á lofti í heimi íþróttanna.</p>
+        </series-description>
+        <series-short-description>
+          <p>Heimildarþáttaröð sem afhjúpar hvernig keppnisíþróttir hafa ítrekað endurspeglað pólitískan áróður á tuttugustu öld.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4895241" serie-id="24702" start-time="2017-02-19 13:40:00" duration="00:40:00" mark="no">
+      <title>HM í skíðaskotfimi</title>
+      <original-title>Hópstart karla</original-title>
+      <description><![CDATA[Bein útsending frá hópstarti karla á HM í skíðaskotfimi. Keppnin fer fram í Hochfilzen í Austurríki.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="24702" material="024702-0006" title="HM í skíðaskotfimi" />
+      <credits />
+    </event>
+    <event event-id="4892422" serie-id="20190" start-time="2017-02-19 14:25:00" duration="01:17:02" mark="no">
+      <title>Það er ég</title>
+      <original-title>I Am</original-title>
+      <description><![CDATA[Heimildarmynd þar sem leikstjórinn Tom Shadayc ræðir við helstu fræðimenn heims og andlega leiðtoga um hvað hefur farið úrskeiðis í heiminum og hvernig við getum bætt lífið á jörðinni. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="7">Kvikmyndir</category>
+      <more-info>http://dagskra.ruv.is/nanar/20190/</more-info>
+      <reference group="20190" material="020190-0001" title="Það er ég" />
+      <details id="20190">
+        <series-title>Það er ég</series-title>
+        <series-original-title>I Am</series-original-title>
+        <series-description>
+          <p>Heimildarmynd þar sem leikstjórinn Tom Shadayc ræðir við helstu fræðimenn heims og andlega leiðtoga um hvað hefur farið úrskeiðis í heiminum og hvernig við getum bætt lífið á jörðinni.</p>
+        </series-description>
+        <series-short-description>
+          <p>Heimildarmynd þar sem leikstjórinn Tom Shadayc ræðir við helstu fræðimenn heims og andlega leiðtoga um hvað hefur farið úrskeiðis í heiminum og hvernig við getum bætt lífið á jörðinni.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4895107" serie-id="24080" start-time="2017-02-19 15:45:00" duration="00:40:00" mark="no">
+      <title>Kiljan</title>
+      <original-title />
+      <description><![CDATA[Þáttur sem er löngu orðinn ómissandi í bókmenntaumræðunni í landinu. Kiljan verður á sínum stað tíunda veturinn í röð. Egill og bókelskir félagar hans fjalla sem fyrr um forvitnilegar bækur af ýmsum toga og úr öllum áttum. Umsjón: Egill Helgason. Dagskrárgerð: Sigurður Jakobsson. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="3" number-of-episodes="25" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="6">Íslenskir þættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/24080/</more-info>
+      <reference group="24080" material="024080-0003" title="Kiljan" />
+      <details id="24080">
+        <series-title>Kiljan</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Þáttur sem er löngu orðinn ómissandi í bókmenntaumræðunni í landinu. Kiljan verður á sínum stað tíunda veturinn í röð. Egill og bókelskir félagar hans fjalla sem fyrr um forvitnilegar bækur af ýmsum toga og úr öllum áttum. Umsjón: Egill Helgason. Dagskrárgerð: Sigurður Jakobsson.</p>
+        </series-description>
+        <series-short-description>
+          <p>Þáttur sem er löngu orðinn ómissandi í bókmenntaumræðunni í landinu.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4893853" serie-id="24086" start-time="2017-02-19 16:25:00" duration="00:27:46" mark="no">
+      <title>Menningin 2017</title>
+      <original-title />
+      <description><![CDATA[Brot úr menningarumfjöllun liðinnar viku. Fjallað á snarpan og líflegan hátt um það sem efst er á baugi hverju sinni í menningar- og listalífinu, jafnt með innslögum, fréttaskýringum, gagnrýni, pistlum og umræðu. Umsjón: Bergsteinn Sigurðsson og Halla Oddný Magnúsdóttir.]]></description>
+      <short-description />
+      <rating />
+      <episode number="23" number-of-episodes="40" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>yes</closed>
+      </subtitles>
+      <reference group="23488" material="024086-0023" title="Menningin 2017" />
+      <credits />
+    </event>
+    <event event-id="4896120" serie-id="22967" start-time="2017-02-19 16:55:00" duration="00:52:01" mark="no">
+      <title>Valdakonur í Hollywood</title>
+      <original-title>Women Who Run Hollywood</original-title>
+      <description><![CDATA[Heimildarmynd um áhrif kvenna í kvikmyndaiðnaðinum í Hollywood. Snemma á tuttugustu öld gengu konur í öll störf við gerð kvikmynda en þegar þöglu myndirnar hurfu af sjónarsviðinu gengu konur úr störfum sömuleiðis. Kynjahlutfallið réttist ekki fyrr en á níunda áratugnum eða um sextíu árum síðar. Einnig er fjallað um margar þekktustu konurnar í kvikmyndaiðnaðinum. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="4">Fræðsla</category>
+      <more-info>http://dagskra.ruv.is/nanar/22967/</more-info>
+      <reference group="22967" material="022967-0001" title="Valdakonur í Hollywood" />
+      <details id="22967">
+        <series-title>Valdakonur í Hollywood</series-title>
+        <series-original-title>Women Who Run Hollywood</series-original-title>
+        <series-description>
+          <p>Heimildarmynd um áhrif kvenna í kvikmyndaiðnaðinum í Hollywood. Snemma á tuttugustu öld gengu konur í öll störf við gerð kvikmynda en þegar þöglu myndirnar hurfu af sjónarsviðinu gengu konur úr störfum sömuleiðis. Kynjahlutfallið réttist ekki fyrr en á níunda áratugnum eða um sextíu árum síðar. Einnig er fjallað um margar þekktustu konurnar í kvikmyndaiðnaðinum.</p>
+        </series-description>
+        <series-short-description>
+          <p>Heimildarmynd um áhrif kvenna í kvikmyndaiðnaðinum í Hollywood.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4886342" serie-id="23884" start-time="2017-02-19 17:50:00" duration="00:08:00" mark="no">
+      <title>Táknmálsfréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23884" material="023884-0050" title="Táknmálsfréttir" />
+      <credits />
+    </event>
+    <event event-id="4892777" serie-id="24096" start-time="2017-02-19 18:00:00" duration="00:24:00" mark="no">
+      <title>Stundin okkar</title>
+      <original-title />
+      <description><![CDATA[Í Stundinni okkar í vetur ætlum við að hitta skemmtilega krakka um allt land, kynnast skrímslum, læra á gítar, taka þátt í stórhættulegri spurningakeppni og læra ýmislegt og allskonar sem við höfðum ekki hugmynd um að okkur langaði að vita. Umsjón: Sigyn Blöndal.]]></description>
+      <short-description />
+      <rating />
+      <episode number="4" number-of-episodes="26" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/24096/</more-info>
+      <reference group="24096" material="024096-0004" title="Stundin okkar" />
+      <details id="24096">
+        <series-title>Stundin okkar</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Í Stundinni okkar í vetur ætlum við að hitta skemmtilega krakka um allt land, kynnast skrímslum, læra á gítar, taka þátt í stórhættulegri spurningakeppni og læra ýmislegt og allskonar sem við höfðum ekki hugmynd um að okkur langaði að vita. Umsjón: Sigyn Blöndal.</p>
+        </series-description>
+        <series-short-description>
+          <p>Í Stundinni okkar í vetur ætlum við að hitta skemmtilega krakka um allt land, kynnast skrímslum, læra á gítar, taka þátt í stórhættulegri spurningakeppni og læra ýmislegt og allskonar sem við höfðum ekki hugmynd um að okkur langaði að vita. Umsjón: Sigyn Blöndal.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4893146" serie-id="20899" start-time="2017-02-19 18:25:00" duration="00:28:45" mark="no">
+      <title>Sirkussjómennirnir</title>
+      <original-title>Sirkusseilerne</original-title>
+      <description><![CDATA[Ævintýraleg þáttaröð um fjóra félaga sem ferðast um heiminn á skútu. Í hverri höfn leika þeir svo sirkúslistir fyrir borgarana áður en þeir sigla á næsta áfangastað.]]></description>
+      <short-description />
+      <rating />
+      <episode number="4" number-of-episodes="5" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/20899/</more-info>
+      <reference group="20899" material="020899-0004" title="Sirkussjómennirnir" />
+      <details id="20899">
+        <series-title>Sirkussjómennirnir</series-title>
+        <series-original-title>Sirkusseilerne</series-original-title>
+        <series-description>
+          <p>Ævintýraleg þáttaröð um fjóra félaga sem ferðast um heiminn á skútu. Í hverri höfn leika þeir svo sirkuslistir fyrir borgarana áður en þeir sigla á næsta áfangastað.</p>
+        </series-description>
+        <series-short-description>
+          <p>Ævintýraleg þáttaröð um fjóra félaga sem ferðast um heiminn á skútu. Í hverri höfn leika þeir svo sirkuslistir fyrir borgarana áður en þeir sigla á næsta áfangastað.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4894921" serie-id="24689" start-time="2017-02-19 18:55:00" duration="00:01:52" mark="no">
+      <title>Kóðinn - Saga tölvunnar</title>
+      <original-title />
+      <description><![CDATA[Hvernig er vélmenni búið til? Hvernig er tölvuleikur búinn til? Hvaðan kemur Internetið? Hvað er gervigreind? Í þáttunum leitast Ævar og Ísgerður við að svara þessum spurningum og mörgum fleirum. Þau fjalla um sögu tölvunnar og komast að því að forritun er allt í kringum okkur. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="7" number-of-episodes="20" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/24689/</more-info>
+      <reference group="24689" material="024689-0007" title="Kóðinn - Saga tölvunnar" />
+      <details id="24689">
+        <series-title>Kóðinn - Saga tölvunnar</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Hvernig er vélmenni búið til? Hvernig er tölvuleikur búinn til? Hvaðan kemur Internetið? Hvað er gervigreind? Í þáttunum leitast Ævar og Ísgerður við að svara þessum spurningum og mörgum fleirum. Þau fjalla um sögu tölvunnar og komast að því að forritun er allt í kringum okkur.</p>
+        </series-description>
+        <series-short-description>
+          <p>Hvernig er vélmenni búið til? Hvernig er tölvuleikur búinn til? Hvaðan kemur Internetið? Hvað er gervigreind? Í þáttunum leitast Ævar og Ísgerður við að svara þessum spurningum og mörgum fleirum. Þau fjalla um sögu tölvunnar og komast að því að forritun er allt í kringum okkur.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4882752" serie-id="23879" start-time="2017-02-19 19:00:00" duration="00:23:00" mark="no">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23879" material="023879-0050" title="Fréttir" />
+      <credits />
+    </event>
+    <event event-id="4883446" serie-id="23876" start-time="2017-02-19 19:25:00" duration="00:10:00" mark="no">
+      <title>Íþróttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <reference group="23876" material="023876-0014" title="Íþróttir" />
+      <credits />
+    </event>
+    <event event-id="4884314" serie-id="23882" start-time="2017-02-19 19:35:00" duration="00:03:00" mark="no">
+      <title>Veður</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23882" material="023882-0050" title="Veður" />
+      <credits />
+    </event>
+    <event event-id="4893006" serie-id="24084" start-time="2017-02-19 19:45:00" duration="00:27:00" mark="no">
+      <title>Landinn</title>
+      <original-title />
+      <description><![CDATA[Þáttur um lífið í landinu. Landinn fer um landið og hittir venjulegt fólk sem er að gera áhugaverða og skemmtilega hluti. Umsjónarmenn eru Gísli Einarsson, Þórgunnur Oddssdóttir og Edda Sif Pálsdóttir. Dagskrárgerð: Karl Sigtryggsson.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="6">Íslenskir þættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/24084/</more-info>
+      <reference group="24084" material="024084-0003" title="Landinn" />
+      <details id="24084">
+        <series-title>Landinn</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Þáttur um lífið í landinu. Landinn fer um landið og hittir venjulegt fólk sem er að gera áhugaverða og skemmtilega hluti. Umsjónarmenn eru Gísli Einarsson, Þórgunnur Oddssdóttir og Edda Sif Pálsdóttir. Dagskrárgerð: Karl Sigtryggsson.</p>
+        </series-description>
+        <series-short-description>
+          <p>Þáttur um lífið í landinu. Landinn fer um landið og hittir venjulegt fólk sem er að gera áhugaverða og skemmtilega hluti. Umsjónarmenn eru Gísli Einarsson, Þórgunnur Oddssdóttir og Edda Sif Pálsdóttir. Dagskrárgerð: Karl Sigtryggsson.</p>
+        </series-short-description>
+        <episode-description>
+          <p>Landinn skoðar merkilegar fornminjar á Bessastöðum. Við efnagreinum hey, smíðum jeppa, fræðumst um sögu dömubindanna og förum í útilegu með fjölskyldu sem lætur sefur úti allan ársins hring.</p>
+          <p>Umsjónarmenn eru Gísli Einarsson, Þórgunnur Oddssdóttir og Edda Sif Pálsdóttir. Dagskrárgerð: Karl Sigtryggsson.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4892440" serie-id="24091" start-time="2017-02-19 20:15:00" duration="00:26:03" mark="no">
+      <title>Paradísarheimt</title>
+      <original-title />
+      <description><![CDATA[Í nýrri þáttaröð ræðir Jón Ársæll Þórðarson við fólk sem á við geðrænan vanda að stríða. Stjórnandi þáttanna ásamt Jóni Ársæli er Steingrímur Jón Þórðarsson en þeir hafa starfað saman að þáttagerð í 20 ár og stýrðu m.a. hinum margverðlaunuðu þáttum Sjálfstæðu fólki.]]></description>
+      <short-description />
+      <rating />
+      <episode number="3" number-of-episodes="6" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="6">Íslenskir þættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/24091/</more-info>
+      <reference group="24091" material="024091-0003" title="Paradísarheimt" />
+      <details id="24091">
+        <series-title>Paradísarheimt</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Í nýrri þáttaröð ræðir Jón Ársæll Þórðarson við fólk sem á við geðrænan vanda að stríða. Stjórnandi þáttanna ásamt Jóni Ársæli er Steingrímur Jón Þórðarsson en þeir hafa starfað saman að þáttagerð í 20 ár og stýrðu m.a. hinum margverðlaunuðu þáttum Sjálfstæðu fólki.</p>
+        </series-description>
+        <series-short-description>
+          <p>Í nýrri þáttaröð ræðir Jón Ársæll Þórðarson við fólk sem á við geðrænan vanda að stríða.</p>
+        </series-short-description>
+        <episode-description>
+          <p>Viðmælendur Jóns Ársæls að þessu sinni hafa allir átt við geðsjúkdóma að stríða. Fjóla Kristín Ólafardóttir átti erfiða æsku í Grindavík þar sem hún var miðpunktur forræðisdeilu en hún hefur náð bata þrátt fyrir mótlæti af ýmsu tagi. Árni Steingrímsson, gítarleikari, hefur strítt við depurð og uppburðarleysi frá því hann var lítill drengur og rekur í þættinum stórmerkilega sögu sína. Bergþór Grétar Böðvarsson á sér einnig mikla sögu - en hann dvaldi lengi á geðdeildum, mikið veikur, en vinnur nú við að aðstoða aðra.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4892447" serie-id="19254" start-time="2017-02-19 20:45:00" duration="00:51:51" mark="no">
+      <title>Reykjavík</title>
+      <original-title>Seinni hluti</original-title>
+      <description><![CDATA[Gráglettin rómantísk gamanmynd, sýnd í tveimur hlutum, um sambönd og sambandsleysi. Hringur og Elsa eru par og eiga sex ára dóttur, en þegar þau eru við það að festa kaup á draumahúsinu koma upp brestir í sambandinu. Hringur ákveður að reyna allt hvað hann getur til að bjarga sambandinu í dauðakippunum. Leikstjóri: Ásgrímur Sverrisson. Leikarar: Atli Rafn Sigurðsson, Nanna Kristín Magnúsdóttir, Guðmundur Thorvaldsson og Gríma Kristjánsdóttir.]]></description>
+      <short-description />
+      <rating />
+      <episode number="2" number-of-episodes="2" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="7">Kvikmyndir</category>
+      <more-info>http://dagskra.ruv.is/nanar/19254/</more-info>
+      <reference group="19254" material="019254-0002" title="Reykjavík" />
+      <details id="19254">
+        <series-title>Reykjavík</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Gráglettin rómantísk gamanmynd, sýnd í tveimur hlutum, um sambönd og sambandsleysi. Hringur og Elsa eru par og eiga sex ára dóttur, en þegar þau eru við það að festa kaup á draumahúsinu koma upp brestir í sambandinu. Hringur ákveður að reyna allt hvað hann getur til að bjarga sambandinu í dauðakippunum. Leikstjóri: Ásgrímur Sverrisson. Leikarar: Atli Rafn Sigurðsson, Nanna Kristín Magnúsdóttir, Guðmundur Thorvaldsson og Gríma Kristjánsdóttir.</p>
+        </series-description>
+        <series-short-description>
+          <p>Gráglettin rómantísk gamanmynd, sýnd í tveimur hlutum, um sambönd og sambandsleysi.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4892449" serie-id="23395" start-time="2017-02-19 21:40:00" duration="00:56:36" mark="no">
+      <title>Erfingjarnir</title>
+      <original-title>Arvingerne III</original-title>
+      <description><![CDATA[Þriðja þáttaröðin um dönsku systkinin sem reka saman ættaróðal. Reksturinn reynist snúinn því systkinin eru ólík og hvert um sig eru með mörg járn í eldinum. Aðalhlutverk: Trine Dyrholm, Jesper Christensen, Maria Bach Hansen og Carsten Björnlund.]]></description>
+      <short-description />
+      <rating />
+      <episode number="2" number-of-episodes="9" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/23395/</more-info>
+      <reference group="23395" material="023395-0002" title="Erfingjarnir" />
+      <details id="23395">
+        <series-title>Erfingjarnir</series-title>
+        <series-original-title>Arvingerne</series-original-title>
+        <series-description>
+          <p>Þriðja þáttaröðin um dönsku systkinin sem reka saman ættaróðal. Reksturinn reynist snúinn því systkinin eru ólík og hvert um sig eru með mörg járn í eldinum. Aðalhlutverk: Trine Dyrholm, Jesper Christensen, Maria Bach Hansen og Carsten Björnlund.</p>
+        </series-description>
+        <series-short-description>
+          <p>Þriðja þáttaröðin um dönsku systkinin sem reka saman ættaróðal.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4892458" serie-id="21083" start-time="2017-02-19 22:40:00" duration="01:43:17" mark="no">
+      <title>Norrænir bíódagar: Kraftganga</title>
+      <original-title>Kapgang</original-title>
+      <description><![CDATA[Dönsk verðlaunamynd um Martin, fjórtán ára, sem efast ekki bara um kynhneigð sína á unglingsárunum heldur þarf líka að þola móðurmissi. Hann elst upp í Danmörku á sjöunda áratugnum þar sem kynlífsbyltingin hefur haft umtalsverð áhrif. Leikstjóri: Niels Arden Oplev. Leikarar: Villads Bøye, Anders W. Berthelsen og Sidse Babett Knudsen. Atriði í myndinni eru ekki við hæfi barna.]]></description>
+      <short-description />
+      <rating>16</rating>
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="7">Kvikmyndir</category>
+      <more-info>http://dagskra.ruv.is/nanar/21083/</more-info>
+      <reference group="21083" material="021083-0001" title="Norrænir bíódagar: Kraftganga" />
+      <details id="21083">
+        <series-title>Norrænir bíódagar: Kraftganga</series-title>
+        <series-original-title>Kapgang</series-original-title>
+        <series-description>
+          <p>Dönsk verðlaunamynd um Martin, fjórtán ára, sem efast ekki bara um kynhneigð sína á unglingsárunum heldur þarf líka að þola móðurmissi. Hann elst upp í Danmörku á sjöunda áratugnum þar sem kynlífsbyltingin hefur haft umtalsverð áhrif. Leikstjóri: Niels Arden Oplev. Leikarar: Villads Bøye, Anders W. Berthelsen og Sidse Babett Knudsen. Atriði í myndinni eru ekki við hæfi barna.</p>
+        </series-description>
+        <series-short-description>
+          <p>Dönsk verðlaunamynd um Martin, fjórtán ára, sem efast ekki bara um kynhneigð sína á unglingsárunum heldur þarf líka að þola móðurmissi.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4831091" serie-id="" start-time="2017-02-20 00:25:00" duration="00:03:00" mark="no">
+      <title>Útvarpsfréttir í dagskrárlok</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4831091" title="Útvarpsfréttir í dagskrárlok" />
+    </event>
+  </service>
+</schedule>
