@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-02-19 13:42" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2017-02-19">
+    <event event-id="4895856" serie-id="24702" start-time="2017-02-19 10:25:00" duration="00:45:00" mark="no">
+      <title>HM í skíðaskotfimi</title>
+      <original-title>Hópstart kvenna</original-title>
+      <description><![CDATA[Bein útsending frá hópstarti kvenna á HM í skíðaskotfimi. Keppnin fer fram í Hochfilzen í Austurríki.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="24702" material="024702-0005" title="HM í skíðaskotfimi" />
+      <credits />
+    </event>
+    <event event-id="4897262" serie-id="24331" start-time="2017-02-19 14:50:00" duration="00:28:08" mark="no">
+      <title>Faðir, móðir og börn</title>
+      <original-title>Sören Ryge præsenterer: Far, mor og börn</original-title>
+      <description><![CDATA[Danskir heimildarþættir um fjölskyldu sem ákveður að flytja úr erilsömu lífinu í Kaupmannahöfn út í jóska sveitasæluna. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="4" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/24331/</more-info>
+      <reference group="24331" material="024331-0001" title="Faðir, móðir og börn" />
+      <details id="24331">
+        <series-title>Faðir, móðir og börn</series-title>
+        <series-original-title>Sören Ryge præsenterer: Far, mor og börn</series-original-title>
+        <series-description>
+          <p>Danskir heimildarþættir um fjölskyldu sem ákveður að flytja úr erilsömu lífinu í Kaupmannahöfn út í jóska sveitasæluna.</p>
+        </series-description>
+        <series-short-description>
+          <p>Sören Ryge præsenterer: Fa, mor og börn</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+  </service>
+</schedule>
