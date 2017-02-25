@@ -1,0 +1,1025 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-02-25 13:42" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="1" service-name="RÚV" date="2017-02-25">
+    <event event-id="4785270" serie-id="" start-time="2017-02-25 07:00:00" duration="03:15:00" mark="no">
+      <title>KrakkaRÚV</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4785270" title="KrakkaRÚV" />
+    </event>
+    <event event-id="4888421" serie-id="22401" start-time="2017-02-25 07:01:00" duration="00:06:59" mark="yes">
+      <title>Kioka</title>
+      <original-title>Kioka</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="23" number-of-episodes="78" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="22401" material="022401-0023" title="Kioka" />
+      <credits />
+    </event>
+    <event event-id="4888574" serie-id="16860" start-time="2017-02-25 07:07:00" duration="00:05:09" mark="yes">
+      <title>Ævintýri Berta og Árna</title>
+      <original-title>Bert&amp; Ernie&apos;s Great Adventures</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="21" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/16860/</more-info>
+      <reference group="16860" material="016860-0021" title="Ævintýri Berta og Árna" />
+      <details id="16860">
+        <series-title>Ævintýri Berta og Árna</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4888626" serie-id="20644" start-time="2017-02-25 07:12:00" duration="00:07:00" mark="yes">
+      <title>Lundaklettur</title>
+      <original-title>Puffin Rock</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="21" number-of-episodes="39" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/20644/</more-info>
+      <reference group="20644" material="020644-0021" title="Lundaklettur" />
+      <details id="20644">
+        <series-title>Lundaklettur</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4897368" serie-id="16256" start-time="2017-02-25 07:20:00" duration="00:07:03" mark="yes">
+      <title>Sara og önd</title>
+      <original-title>Sarah &amp; Duck</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/16256/</more-info>
+      <reference group="16256" material="016256-0001" title="Sara og Önd" />
+      <details id="16256">
+        <series-title>Sara og Önd</series-title>
+        <series-original-title>Sarah &amp; Duck</series-original-title>
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4888514" serie-id="18932" start-time="2017-02-25 07:27:00" duration="00:10:34" mark="yes">
+      <title>Ólivía</title>
+      <original-title>Olivia</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="11" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="18932" material="018932-0012" title="Ólivía" />
+      <credits />
+    </event>
+    <event event-id="4896157" serie-id="21810" start-time="2017-02-25 07:38:00" duration="00:23:15" mark="yes">
+      <title>Hvolpasveitin</title>
+      <original-title>Paw Patrol</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="5" number-of-episodes="24" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="21810" material="021810-0005" title="Hvolpasveitin" />
+      <credits />
+    </event>
+    <event event-id="4891327" serie-id="23975" start-time="2017-02-25 08:00:00" duration="00:03:30" mark="yes">
+      <title>Molang</title>
+      <original-title>Molang</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="7" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23975" material="023975-0008" title="Molang" />
+      <credits />
+    </event>
+    <event event-id="4891563" serie-id="22307" start-time="2017-02-25 08:03:00" duration="00:23:07" mark="yes">
+      <title>Dóta læknir</title>
+      <original-title>Doc McStuffins</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="18" number-of-episodes="25" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="22307" material="022307-0031" title="Dóta læknir" />
+      <credits />
+    </event>
+    <event event-id="4892495" serie-id="21813" start-time="2017-02-25 08:30:00" duration="00:23:07" mark="yes">
+      <title>Kúlugúbbarnir</title>
+      <original-title>Bubble Guppies</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="10" number-of-episodes="14" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="21813" material="021813-0010" title="Kúlugúbbarnir" />
+      <credits />
+    </event>
+    <event event-id="4892584" serie-id="18009" start-time="2017-02-25 08:53:00" duration="00:21:31" mark="yes">
+      <title>Tréfú Tom</title>
+      <original-title>Tree Fu Tom</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="2" number-of-episodes="12" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="18009" material="018009-0003" title="Tréfú Tom" />
+      <credits />
+    </event>
+    <event event-id="4888377" serie-id="22392" start-time="2017-02-25 09:15:00" duration="00:11:00" mark="yes">
+      <title>Hrói Höttur</title>
+      <original-title>Robin Hood</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="31" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="22392" material="022392-0031" title="Hrói Höttur" />
+      <credits />
+    </event>
+    <event event-id="4887653" serie-id="22391" start-time="2017-02-25 09:26:00" duration="00:11:02" mark="yes">
+      <title>Skógargengið</title>
+      <original-title>The Jungle Bunch - To the Rescue</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="38" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="22391" material="022391-0038" title="Skógargengið" />
+      <credits />
+    </event>
+    <event event-id="4888865" serie-id="21489" start-time="2017-02-25 09:38:00" duration="00:11:40" mark="yes">
+      <title>Uss-Uss!</title>
+      <original-title>Zip Zip</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="38" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="21489" material="021489-0039" title="Uss-Uss!" />
+      <credits />
+    </event>
+    <event event-id="4887002" serie-id="23581" start-time="2017-02-25 09:49:00" duration="00:12:39" mark="yes">
+      <title>Lóa</title>
+      <original-title>Lou!</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="20" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23581" material="023581-0023" title="Lóa" />
+      <credits />
+    </event>
+    <event event-id="4887687" serie-id="22394" start-time="2017-02-25 10:02:00" duration="00:11:00" mark="yes">
+      <title>Alvinn og íkornarnir</title>
+      <original-title>Alvinnn!!! &amp; The Chipmunks</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="32" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="22394" material="022394-0132" title="Alvinn og íkornarnir" />
+      <credits />
+    </event>
+    <event event-id="4893309" serie-id="24519" start-time="2017-02-25 10:13:00" duration="00:03:00" mark="yes">
+      <title>Flink</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="7" number-of-episodes="35" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="24519" material="024519-0009" title="Flink" />
+      <credits />
+    </event>
+    <event event-id="4895950" serie-id="21185" start-time="2017-02-25 10:15:00" duration="00:27:00" mark="no">
+      <title>Örkin</title>
+      <original-title />
+      <description><![CDATA[Ný þáttaröð um samband mannsins við dýr, allt frá skordýrum og býflugum til sela. Kolbrún Vaka hittir skemmtilegt fólk sem varpar ljósi á sérstakt samband okkar mannfólksins við dýrin. Dagskrárgerð: Kolbrún Vaka Helgadóttir og Karl Eiríksson. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="6" number-of-episodes="6" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/21185/</more-info>
+      <reference group="21185" material="021185-0006" title="Örkin" />
+      <details id="21185">
+        <series-title>Örkin</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Ný þáttaröð um samband mannsins við dýr, allt frá skordýrum og býflugum til sela. Kolbrún Vaka hittir skemmtilegt fólk sem varpar ljósi á sérstakt samband okkar mannfólksins við dýrin. Dagskrárgerð:  Karl Sigtryggsson.</p>
+        </series-description>
+        <series-short-description>
+          <p>Ný þáttaröð um samband mannsins við dýr, allt frá skordýrum og býflugum til sela.</p>
+        </series-short-description>
+        <episode-description>
+          <p>Við förum á Dýraspítalann í Garðabæ, hittum kettina í Kattholti og tökum þátt í vinnumorgni í Húsdýragarðinum. Við fáum einnig að kynnast lemúrnum sem Vera Illugadóttir ættleiddi fyrir nokkru í Norður-Karólínu.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4897169" serie-id="23266" start-time="2017-02-25 10:45:00" duration="00:27:58" mark="no">
+      <title>Andri á flandri í túristalandi</title>
+      <original-title />
+      <description><![CDATA[Ný þáttaröð með fjölmiðlamanninum Andra Frey Viðarssyni. Að þessu sinni kannar Andri sívaxandi ferðamannastraum til Íslands og reynir m.a. að slá á fordóma sína í garð erlendra ferðamanna. Andri ákveður að leggja land undir fót og upplifa hvernig það er að vera ferðamaður í eigin landi en á ferðalagi sínu um borg og bæi, jökla og eldfjöll, fossa og sanda uppgötvar hann landið sitt upp á nýtt og eignast nýja vini, bæði erlenda og innlenda. Dagskrárgerð: Kristófer Dignus. Framleiðandi Pegasus. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="6" number-of-episodes="8" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="6">Íslenskir þættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/23266/</more-info>
+      <reference group="23266" material="023266-0006" title="Andri á flandri í túristalandi" />
+      <details id="23266">
+        <series-title>Andri á flandri í túristalandi</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Ný þáttaröð með fjölmiðlamanninum Andra Frey Viðarssyni. Að þessu sinni kannar Andri sívaxandi ferðamannastraum til Íslands og reynir m.a. að slá á fordóma sína í garð erlendra ferðamanna. Andri ákveður að leggja land undir fót og upplifa hvernig það er að vera ferðamaður í eigin landi en á ferðalagi sínu um borg og bæi, jökla og eldfjöll, fossa og sanda uppgötvar hann landið sitt upp á nýtt og eignast nýja vini, bæði erlenda og innlenda. Dagskrárgerð: Kristófer Dignus. Framleiðandi: Pegasus.</p>
+        </series-description>
+        <series-short-description>
+          <p>Ný þáttaröð með fjölmiðlamanninum Andra Frey Viðarssyni.</p>
+        </series-short-description>
+        <episode-description>
+          <p>Í Hafnarfirði hittir Andri hinn litríka eiganda KúKú Campers áður en hann heldur í austur. Andri drífur sig í  ferð um gullna hringinn í grenjandi rigningu, skoðar Eldfjallasafnið við  Þorvaldseyri, íhugar að tjalda við Skógarfoss en ákveður að sleppa því og fá sér frekar fisk og franskar á sveitagrilli Míu. Andri fer loks í pílagrímsferð niður að Douglas 8 flakinu sem Íslandsvinurinn ástæli, Justin Bieber, gerði heimsfrægt um árið.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4896951" serie-id="20536" start-time="2017-02-25 11:15:00" duration="00:51:03" mark="no">
+      <title>Sannleikurinn um kjöt</title>
+      <original-title>Truth About Meat</original-title>
+      <description><![CDATA[Heimildarmynd frá BBC um hvort kjöt sé raun og veru hollt. Hvítt eða rautt, unnið eða ferskt, skiptir það máli? Kjötvörur er borðaðar í miklum mæli á Vesturlöndum þrátt fyrir að rannsóknir sýni fram á tengsl við ýmsa alvarlega sjúkdóma. Getum við borðað kjöt og lifað heilsusamlegu lífi?]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="4">Fræðsla</category>
+      <more-info>http://dagskra.ruv.is/nanar/20536/</more-info>
+      <reference group="20536" material="020536-0001" title="Sannleikurinn um kjöt" />
+      <details id="20536">
+        <series-title>Sannleikurinn um kjöt</series-title>
+        <series-original-title>Truth About Meat</series-original-title>
+        <series-description>
+          <p>Heimildarmynd frá BBC um hvort kjöt sé raun og veru hollt. Hvítt eða rautt, unnið eða ferskt, skiptir það máli? Kjötvörur er borðaðar í miklum mæli á Vesturlöndum þrátt fyrir að rannsóknir sýni fram á tengsl við ýmsa alvarlega sjúkdóma. Getum við borðað kjöt og lifað heilsusamlegu lífi?</p>
+        </series-description>
+        <series-short-description>
+          <p>Heimildarþáttur frá BBC um hvort kjötát sé í raun heilsusamlegt.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4897294" serie-id="24172" start-time="2017-02-25 12:05:00" duration="00:22:00" mark="no">
+      <title>Á spretti</title>
+      <original-title />
+      <description><![CDATA[Líflegur þáttur um áhugamannadeildina í hestaíþróttum. Fylgst er með spennandi keppni og rætt við skemmtilegt fólk sem stundar hestamennsku í frístundum. Dagskrárgerð: Hulda G. Geirsdóttir og Óskar Þór Nikulásson. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="5">Íþróttir</category>
+      <more-info>http://dagskra.ruv.is/nanar/24172/</more-info>
+      <reference group="24172" material="024172-0001" title="Á spretti" />
+      <details id="24172">
+        <series-title>Á spretti</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Líflegur þáttur um áhugamannadeildina í hestaíþróttum. Fylgst er með spennandi keppni og rætt við skemmtilegt fólk sem stundar hestamennsku í frístundum. Dagskrárgerð: Hulda G. Geirsdóttir og Óskar Þór Nikulásson.</p>
+        </series-description>
+        <series-short-description>
+          <p>Líflegur þáttur um áhugamannadeildina í hestaíþróttum. Fylgst er með spennandi keppni og rætt við skemmtilegt fólk sem stundar hestamennsku í frístundum. Dagskrárgerð: Hulda G. Geirsdóttir og Óskar Þór Nikulásson.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4895246" serie-id="24700" start-time="2017-02-25 12:25:00" duration="00:50:00" mark="no">
+      <title>HM í skíðagöngu</title>
+      <original-title>Skiptiganga karla</original-title>
+      <description><![CDATA[Bein útsending frá skiptigöngu karla á HM í skíðagöngu. Keppnin fer fram í Lahti í Finnlandi.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="24700" material="024700-0004" title="HM í skíðagöngu" />
+      <credits />
+    </event>
+    <event event-id="4891553" serie-id="15469" start-time="2017-02-25 13:15:00" duration="02:30:00" mark="no">
+      <title>Fram - Stjarnan</title>
+      <original-title>Bikarúrslit kvenna í handbolta</original-title>
+      <description><![CDATA[Bein útsending frá leik Fram og Stjörnunnar í bikarúrslitum kvenna í handbolta.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <more-info>http://dagskra.ruv.is/nanar/15469/</more-info>
+      <reference group="15469" material="015469-0003" title="Bikarkeppni kvenna í handbolta" />
+      <details id="15469">
+        <series-title>Bikarkeppni kvenna í handbolta</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description>
+          <p>Bein útsending frá leik Fram og Stjörnunnar í bikarúrslitum kvenna í handbolta.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4891554" serie-id="15469" start-time="2017-02-25 15:45:00" duration="02:05:00" mark="no">
+      <title>Afturelding - Valur</title>
+      <original-title>Bikarúrslit karla í handbolta</original-title>
+      <description><![CDATA[Bein útsending frá leik Aftureldingar og Vals í bikarúrslitum karla í handbolta.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <more-info>http://dagskra.ruv.is/nanar/15469/</more-info>
+      <reference group="15469" material="015469-0004" title="Bikarkeppni kvenna í handbolta" />
+      <details id="15469">
+        <series-title>Bikarkeppni kvenna í handbolta</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description>
+          <p>Bein útsending frá leik Aftureldingar og Vals í bikarúrslitum karla í handbolta.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4886348" serie-id="23884" start-time="2017-02-25 17:50:00" duration="00:08:00" mark="no">
+      <title>Táknmálsfréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23884" material="023884-0056" title="Táknmálsfréttir" />
+      <credits />
+    </event>
+    <event event-id="4833255" serie-id="" start-time="2017-02-25 18:00:00" duration="00:25:00" mark="no">
+      <title>KrakkaRÚV</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4833255" title="KrakkaRÚV" />
+    </event>
+    <event event-id="4895177" serie-id="24699" start-time="2017-02-25 18:01:00" duration="00:15:00" mark="yes">
+      <title>Krakkafréttir vikunnar</title>
+      <original-title />
+      <description><![CDATA[Fréttaþáttur fyrir börn á aldrinum 8-12 ára þar sem litið er yfir það helsta í fréttum liðinnar viku. Umsjón: Ísgerður Elfa Gunnarsdóttir og Guðmundur Felixson.]]></description>
+      <short-description />
+      <rating />
+      <episode number="24" number-of-episodes="39" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/24699/</more-info>
+      <reference group="24699" material="024699-0008" title="Krakkafréttir vikunnar" />
+      <details id="24699">
+        <series-title>Krakkafréttir vikunnar</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Fréttaþáttur fyrir börn á aldrinum 8-12 ára þar sem litið er yfir það helsta í fréttum liðinnar viku. Umsjón: Birkir Blær Ingólfsson og Ísgerður Elfa Gunnarsdóttir.</p>
+        </series-description>
+        <series-short-description>
+          <p>Fréttaþáttur fyrir börn á aldrinum 8-12 ára þar sem litið er yfir það helsta í fréttum liðinnar viku. Umsjón: Birkir Blær Ingólfsson og Ísgerður Elfa Gunnarsdóttir.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4891548" serie-id="17725" start-time="2017-02-25 18:16:00" duration="00:07:00" mark="yes">
+      <title>Hrúturinn Hreinn</title>
+      <original-title>Shaun the Sheep</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="4" number-of-episodes="10" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="17725" material="017725-0007" title="Hrúturinn Hreinn" />
+      <credits />
+    </event>
+    <event event-id="4895612" serie-id="22024" start-time="2017-02-25 18:25:00" duration="00:25:30" mark="no">
+      <title>Hvergi drengir</title>
+      <original-title>Nowhere Boys</original-title>
+      <description><![CDATA[Þáttaröð um fjóra ólíka vini; gotharann Felix, nördið Andy, fyrirmyndardrenginn Rahart og íþróttagæjann Jake en í fyrstu virtust strákarnir ekkert eiga sameiginlegt.  Eftir að hafa farið saman í skólaferðlag snúa þeir aftur og átta sig á að þeir eru staddir í hliðarheimi og enginn þekkir þá, hvorki fjölskyldur þeirra né vinir. Aðalhlutverk: Dougie Baldwin, Joel Lok, Rahart Adams og Matt Testro.]]></description>
+      <short-description />
+      <rating />
+      <episode number="8" number-of-episodes="13" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/22024/</more-info>
+      <reference group="22024" material="022024-0008" title="Hvergi drengir" />
+      <details id="22024">
+        <series-title>Hvergi drengir</series-title>
+        <series-original-title>Nowhere Boys</series-original-title>
+        <series-description>
+          <p>Þáttaröð um fjóra ólíka vini; gotharann Felix, nördið Andy, fyrirmyndardrenginn Rahart og íþróttagæjann Jake en í fyrstu virtust strákarnir ekkert eiga sameiginlegt.  Eftir að hafa farið saman í skólaferðlag snúa þeir aftur og átta sig á að þeir eru staddir í hliðarheimi og enginn þekkir þá, hvorki fjölskyldur þeirra né vinir. Aðalhlutverk: Dougie Baldwin, Joel Lok, Rahart Adams og Matt Testro.</p>
+        </series-description>
+        <series-short-description>
+          <p>Þáttaröð um fjóra ólíka vini; gotharann Felix, nördið Andy, fyrirmyndardrenginn Rahart og íþróttagæjann Jake en í fyrstu virtust strákarnir ekkert eiga sameiginlegt.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4882605" serie-id="23853" start-time="2017-02-25 18:54:00" duration="00:03:00" mark="no">
+      <title>Lottó</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="8" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23853" material="023853-0008" title="Lottó" />
+      <credits />
+    </event>
+    <event event-id="4882758" serie-id="23879" start-time="2017-02-25 19:00:00" duration="00:23:00" mark="no">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23879" material="023879-0056" title="Fréttir" />
+      <credits />
+    </event>
+    <event event-id="4883447" serie-id="23876" start-time="2017-02-25 19:25:00" duration="00:10:00" mark="no">
+      <title>Íþróttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <reference group="23876" material="023876-0015" title="Íþróttir" />
+      <credits />
+    </event>
+    <event event-id="4884320" serie-id="23882" start-time="2017-02-25 19:35:00" duration="00:03:00" mark="no">
+      <title>Veður</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23882" material="023882-0056" title="Veður" />
+      <credits />
+    </event>
+    <event event-id="4890001" serie-id="24099" start-time="2017-02-25 19:45:00" duration="01:45:00" mark="no">
+      <title>Söngvakeppnin 2017</title>
+      <original-title />
+      <description><![CDATA[Bein útsending frá fyrri undankeppni Söngvakeppninnar 2017. Í kvöld verða flutt fyrstu sex lögin af tólf sem keppa til úrslita. Dagskrárgerð önnuðust Helgi Jóhannesson og Ragnhildur Steinunn Jónsdóttir. Stjórn útsendingar: Helgi Jóhannesson.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="3" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="9">Tónlist</category>
+      <more-info>http://dagskra.ruv.is/nanar/24099/</more-info>
+      <reference group="24099" material="024099-0001" title="Söngvakeppnin 2017" />
+      <details id="24099">
+        <series-title>Söngvakeppnin 2017</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Bein útsending frá Söngvakeppninnar 2017. Í kvöld verða flutt fyrstu sex lögin af tólf sem keppa til úrslita. Kynnir kvöldsins er Ragnhildur Steinunn Jónsdóttir.</p>
+        </series-description>
+        <series-short-description>
+          <p>Bein útsending frá fyrri undankeppni Söngvakeppninnar 2017. Í kvöld verða flutt fyrstu sex lögin af tólf sem keppa til úrslita.</p>
+        </series-short-description>
+        <episode-description>
+          <p>Bein útsending frá fyrri undankeppni Söngvakeppninnar 2017. Í kvöld verða flutt fyrstu sex lögin af tólf sem keppa til úrslita. Dagskrárgerð önnuðust Helgi Jóhannesson og Ragnhildur Steinunn Jónsdóttir. Stjórn útsendingar: Helgi Jóhannesson.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4892410" serie-id="22635" start-time="2017-02-25 21:40:00" duration="01:47:14" mark="no">
+      <title>Norrænir bíódagar: Kommúnan</title>
+      <original-title>Kollektivet</original-title>
+      <description><![CDATA[Verðlaunuð dönsk mynd um þau Önnu og Erik sem ákveða að stofna Kommúnu í einbýlishúsi í Kaupmannahöfn á 8 áratugnum. Dreginn er upp fyndin og átakanleg mynd af heilli kynslóð,árekstri persónulegra langana við samstöðu og umburðarlyndi. Myndin hlaut Silfurbjörninn í Berlín. Leikstjóri: Thomas Vinterberg. Aðalhlutverk: Fares Fares, Ulrich Thomsen og Trine Dyrholm.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="7">Kvikmyndir</category>
+      <more-info>http://dagskra.ruv.is/nanar/22635/</more-info>
+      <reference group="22635" material="022635-0001" title="Kommúnan" />
+      <details id="22635">
+        <series-title>Kommúnan</series-title>
+        <series-original-title>Kollektivet</series-original-title>
+        <series-description>
+          <p>Verðlaunuð dönsk mynd um þau Önnu og Erik sem ákveða að stofna Kommúnu í einbýlishúsi í Kaupmannahöfn á 8 áratugnum. Dreginn er upp fyndin og átakanleg mynd af heilli kynslóð,árekstri persónulegra langana við samstöðu og umburðarlyndi. Myndin hlaut Silfurbjörninn í Berlín. Leikstjóri: Thomas Vinterberg. Aðalhlutverk: Fares Fares, Ulrich Thomsen og Trine Dyrholm. Atriði í myndinni eru ekki við hæfi ungra barna.</p>
+        </series-description>
+        <series-short-description>
+          <p>Verðlaunuð dönsk mynd um þau Önnu og Erik sem ákveða að stofna Kommúnu í einbýlishúsi í Kaupmannahöfn á 8 áratugnum. Dreginn er upp fyndin og átakanleg mynd af heilli kynslóð,árekstri persónulegra langana við samstöðu og umburðarlyndi. Myndin hlaut Silfurbjörninn í Berlín. Leikstjóri: Thomas Vinterberg. Aðalhlutverk: Fares Fares, Ulrich Thomsen og Trine Dyrholm. Atriði í myndinni eru ekki við hæfi ungra barna.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4896124" serie-id="19058" start-time="2017-02-25 23:30:00" duration="01:33:49" mark="no">
+      <title>Cuban Fury</title>
+      <original-title>Dansfár</original-title>
+      <description><![CDATA[Bráðfyndin, bresk gamanmynd frá 2014. Tveir menn keppa um athygli sömu konunnar og annar þeirra ákveður að ná tökum á salsa-dansi og hafa hann að vopni. Aðalhlutverk:  Nick Frost, Rashida Jones og Chris O'Dowd. Leikstjóri: James Griffiths. e.]]></description>
+      <short-description />
+      <rating>12</rating>
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="7">Kvikmyndir</category>
+      <more-info>http://dagskra.ruv.is/nanar/19058/</more-info>
+      <reference group="19058" material="019058-0001" title="Cuban Fury" />
+      <details id="19058">
+        <series-title>Cuban Fury</series-title>
+        <series-original-title>Dansfár</series-original-title>
+        <series-description>
+          <p>Bráðfyndin, bresk gamanmynd frá 2014. Tveir menn keppa um athygli sömu konunnar og annar þeirra ákveður að ná tökum á salsa-dansi og hafa hann að vopni.</p>
+          <p>Aðalhlutverk:  Nick Frost, Rashida Jones og Chris O&apos;Dowd. Leikstjóri: James Griffiths.</p>
+        </series-description>
+        <series-short-description>
+          <p>Bráðfyndin, bresk gamanmynd frá 2014. Tveir menn keppa um athygli sömu konunnar og annar þeirra ákveður að ná tökum á salsa-dansi og hafa hann að vopni.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4892413" serie-id="16755" start-time="2017-02-26 01:05:00" duration="01:28:42" mark="no">
+      <title>Arne Dahl</title>
+      <original-title>Upp á hæstu hæðir - seinni hluti</original-title>
+      <description><![CDATA[Sænskur sakamálaþáttur byggður á sögu Arne Dahl, um sérsveit rannsóknarlögreglumanna. Aðalhlutverk: Malin Arvidsson, Irene Lind, Claes Ljungmark, Shanti Roney, Magnus Samuelsson og Matias Varela. Atriði í þáttunum eru ekki við hæfi barna. e.]]></description>
+      <short-description />
+      <rating>16</rating>
+      <episode number="2" number-of-episodes="2" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/16755/</more-info>
+      <reference group="16755" material="016755-0006" title="Arne Dahl" />
+      <details id="16755">
+        <series-title>Arne Dahl</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Sænskur sakamálaþáttur byggður á sögu Arne Dahl, um sérsveit rannsóknarlögreglumanna. Aðalhlutverk: Malin Arvidsson, Irene Lind, Claes Ljungmark, Shanti Roney, Magnus Samuelsson og Matias Varela. Atriði í þáttunum eru ekki við hæfi barna. e.</p>
+        </series-description>
+        <series-short-description>
+          <p>Sænskur sakamálaþáttur byggður á sögu Arne Dahl, um sérsveit rannsóknarlögreglumanna.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4831093" serie-id="" start-time="2017-02-26 02:35:00" duration="00:03:00" mark="no">
+      <title>Útvarpsfréttir í dagskrárlok</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4831093" title="Útvarpsfréttir í dagskrárlok" />
+    </event>
+  </service>
+</schedule>
