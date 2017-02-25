@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-02-25 13:42" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2017-02-25">
+    <event event-id="4897323" serie-id="24700" start-time="2017-02-25 09:55:00" duration="01:05:00" mark="no">
+      <title>HM í skíðagöngu</title>
+      <original-title>Skiptiganga kvenna</original-title>
+      <description><![CDATA[Bein útsending frá skiptigöngu kvenna á HM í skíðagöngu. Keppnin fer fram í Lahti í Finnlandi.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="24700" material="024700-0003" title="HM í skíðagöngu" />
+      <credits />
+    </event>
+    <event event-id="4895857" serie-id="24700" start-time="2017-02-25 12:25:00" duration="00:50:00" mark="no">
+      <title>HM í skíðagöngu</title>
+      <original-title>Skiptiganga karla</original-title>
+      <description><![CDATA[Bein útsending frá skiptigöngu karla á HM í skíðagöngu. Keppnin fer fram í Lahti í Finnlandi.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="24700" material="024700-0004" title="HM í skíðagöngu" />
+      <credits />
+    </event>
+  </service>
+</schedule>
