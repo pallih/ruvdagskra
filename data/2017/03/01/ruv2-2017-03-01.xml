@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-03-01 13:42" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2017-03-01">
+    <event event-id="4897357" serie-id="24864" start-time="2017-03-01 18:25:00" duration="02:00:00" mark="no">
+      <title>Noregur - Ísland</title>
+      <original-title>Algarve Cup í fótbolta</original-title>
+      <description><![CDATA[Bein útsending frá leik Noregs og Íslands í fótbolta. Leikurinn er liður í undirbúningi kvennalandsliðsins fyrir lokakeppni Evrópumótsins í Hollandi í sumar.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="24864" material="024864-0001" title="Noregur - Ísland" />
+      <credits />
+    </event>
+  </service>
+</schedule>
