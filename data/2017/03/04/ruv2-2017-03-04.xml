@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-03-04 13:42" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2017-03-04">
+    <event event-id="4895783" serie-id="22713" start-time="2017-03-04 15:30:00" duration="04:30:00" mark="no">
+      <title>EM í frjálsum íþróttum innanhúss</title>
+      <original-title />
+      <description><![CDATA[Bein útsending frá EM í frjálsum íþróttum innanhúss sem fram fer í Belgrad í Serbíu.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="5">Íþróttir</category>
+      <more-info>http://dagskra.ruv.is/nanar/22713/</more-info>
+      <reference group="22713" material="022713-0003" title="EM í frjálsum íþróttum innanhúss" />
+      <details id="22713">
+        <series-title>EM í frjálsum íþróttum innanhúss</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Bein útsending frá EM í frjálsum íþróttum innanhúss sem fram fer í Belgrad í Ungverjalandi.</p>
+        </series-description>
+        <series-short-description>
+          <p>Bein útsending frá EM í frjálsum íþróttum innanhúss sem fram fer í Belgrad í Ungverjalandi.</p>
+        </series-short-description>
+        <episode-description>
+          <p>Bein útsending frá EM í frjálsum íþróttum innanhúss sem fram fer í Belgrad í Serbíu.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+  </service>
+</schedule>
