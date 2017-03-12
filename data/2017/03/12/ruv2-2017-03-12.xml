@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-03-12 13:42" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2017-03-12">
+    <event event-id="4898042" serie-id="24099" start-time="2017-03-12 12:30:00" duration="03:06:00" mark="no">
+      <title>Söngvakeppnin 2017</title>
+      <original-title>Úrslit</original-title>
+      <description><![CDATA[Upptaka frá úrslitum Söngvakeppninnar 2017 sem fram fór í Laugardalshöll í gærkvöldi. Þar réðist hvaða lag, af þeim sjö sem komust í úrslit, fer fyrir Íslands hönd í Eurovision í Úkraínu. Einnig kemur fram fyrrum sigurvegari Eurovision, sænski Måns Zelmerlöw sem sigraði eftirminnilega í keppninni árið 2015 með laginu Heroes. Kynnir kvöldsins er Ragnhildur Steinunn Jónsdóttir. Stjórn útsendingar: Helgi Jóhannesson og Vilhjálmur Siggeirsson. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="9">Tónlist</category>
+      <more-info>http://dagskra.ruv.is/nanar/24099/</more-info>
+      <reference group="24099" material="024099-0003" title="Söngvakeppnin 2017" />
+      <details id="24099">
+        <series-title>Söngvakeppnin 2017</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Bein útsending frá Söngvakeppninnar 2017. Í kvöld verða flutt fyrstu sex lögin af tólf sem keppa til úrslita. Kynnir kvöldsins er Ragnhildur Steinunn Jónsdóttir.</p>
+        </series-description>
+        <series-short-description>
+          <p>Bein útsending frá fyrri undankeppni Söngvakeppninnar 2017. Í kvöld verða flutt fyrstu sex lögin af tólf sem keppa til úrslita.</p>
+        </series-short-description>
+        <episode-description>
+          <p>Bein útsending frá úrslitum Söngvakeppninnar 2017 í Laugardalshöll. Í kvöld ræðst hvaða lag, af þeim sjö sem komust í úrslit, fer fyrir Íslands hönd í Eurovision í Úkraínu. Einnig kemur fram fyrrum sigurvegari Eurovision, sænski Måns Zelmerlöw  sem sigraði eftirminnilega í keppninni árið 2015 með laginu Heroes. Kynnir kvöldsins er Ragnhildur Steinunn Jónsdóttir. Stjórn útsendingar: Helgi Jóhannesson og Vilhjálmur Siggeirsson.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+  </service>
+</schedule>
