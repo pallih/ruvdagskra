@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-03-27 13:42" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2017-03-27">
+    <event event-id="4898417" serie-id="24376" start-time="2017-03-27 20:05:00" duration="01:00:00" mark="no">
+      <title>Jörðin</title>
+      <original-title>Planet Earth II</original-title>
+      <description><![CDATA[Önnur þáttaröð af þessum geysivinsæla breska heimildarmyndaflokki með Sir David Attenborough þar sem brugðið er upp svipmyndum af Jörðinni, náttúru hennar og dýrarlífi í áður óséðum gæðum. Áhorfendur eru teknir með í stórkostlegt ferðalag um Jörðina á öllum árstíðum og þeim eru sýnd undur hennar í allri sinni dýrð, meðal annars hrikaleg fjöll og gljúfur, hellar og eyðimerkur og hugað að erfiðri lífsbaráttu sjaldséðra dýra sem oft á tíðum verða að bjarga sér við afar óblíðar aðstæður.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="6" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="24376" material="024376-0001" title="Jörðin" />
+      <credits />
+    </event>
+    <event event-id="4899307" serie-id="21518" start-time="2017-03-28 01:00:00" duration="00:52:00" mark="no">
+      <title>Miðnætursól</title>
+      <original-title>Midnattssol</original-title>
+      <description><![CDATA[Sænsk spennuþáttaröð frá sömu handritshöfundum og gerðu Brúna. Í bænum Kiruna í Norður-Svíþjóð finnst franskur ríkisborgari myrtur á hrottafenginn hátt. Lögregluyfirvöld á staðnum og frönsk lögreglukona vinna nú við að finna morðingjann. Rannsóknin stendur sem hæst þegar sólin ætlar aldrei að setjast í sænska sumrinu. Leikarar: Leila Bekhti, Gustaf Hammarsten og Jakob Hultcrantz Hansson. Atriði í þáttunum eru ekki við hæfi barna.]]></description>
+      <short-description />
+      <rating>16</rating>
+      <episode number="1" number-of-episodes="8" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/21518/</more-info>
+      <reference group="21518" material="021518-0004" title="Miðnætursól" />
+      <details id="21518">
+        <series-title>Miðnætursól</series-title>
+        <series-original-title>Midnattssol</series-original-title>
+        <series-description>
+          <p>Sænsk spennuþáttaröð frá sömu handritshöfundum og gerðu Brúna. Í bænum Kiruna í Norður-Svíþjóð finnst franskur ríkisborgari myrtur á hrottafenginn hátt. Lögregluyfirvöld á staðnum og frönsk lögreglukona vinna nú við að finna morðingjann. Rannsóknin stendur sem hæst þegar sólin ætlar aldrei að setjast í sænska sumrinu. Leikarar: Leila Bekhti, Gustaf Hammarsten og Jakob Hultcrantz Hansson. Atriði í þáttunum eru ekki við hæfi barna.</p>
+        </series-description>
+        <series-short-description>
+          <p>Sænsk spennuþáttaröð frá sömu handritshöfundum og gerðu Brúna. Í bænum Kiruna í Norður-Svíþjóð finnst franskur ríkisborgari myrtur á hrottafenginn hátt.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+  </service>
+</schedule>
