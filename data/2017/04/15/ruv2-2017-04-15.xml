@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-04-15 13:42" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2017-04-15">
+    <event event-id="4899321" serie-id="24969" start-time="2017-04-15 20:00:00" duration="04:30:00" mark="no">
+      <title>Aldrei fór ég suður 2017</title>
+      <original-title />
+      <description><![CDATA[Bein útsending frá tónleikum í Kampaskemmunni á Ísafirði. Meðal listamanna sem koma fram eru Emmsjé Gauti, Soffía, Valdimar, Hildur, Vök, Kött Grá Pje, KK Band, HAM, Mugison, Karó, Vök og Lúðrasveit Ísafjarðar.]]></description>
+      <short-description />
+      <rating />
+      <episode number="2" number-of-episodes="2" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="9">Tónlist</category>
+      <more-info>http://dagskra.ruv.is/nanar/24969/</more-info>
+      <reference group="24969" material="024969-0002" title="Aldrei fór ég suður 2017" />
+      <details id="24969">
+        <series-title>Aldrei fór ég suður 2017</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Bein útsending frá tónleikum í Kampaskemmunni á Ísafirði. Meðal listamanna sem koma fram eru Emmsjé Gauti, Soffía, Valdimar, Hildur, Vök, Kött Grá Pje, KK Band, HAM, Mugison, Karó, Vök og Lúðrasveit Ísafjarðar.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+  </service>
+</schedule>
