@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-04-17 13:42" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2017-04-17">
+    <event event-id="4898420" serie-id="24376" start-time="2017-04-17 20:05:00" duration="01:00:00" mark="no">
+      <title>Jörðin</title>
+      <original-title>Planet Earth II</original-title>
+      <description><![CDATA[Önnur þáttaröð af þessum geysivinsæla breska heimildarmyndaflokki með Sir David Attenborough þar sem brugðið er upp svipmyndum af Jörðinni, náttúru hennar og dýrarlífi í áður óséðum gæðum. Áhorfendur eru teknir með í stórkostlegt ferðalag um Jörðina á öllum árstíðum og þeim eru sýnd undur hennar í allri sinni dýrð, meðal annars hrikaleg fjöll og gljúfur, hellar og eyðimerkur og hugað að erfiðri lífsbaráttu sjaldséðra dýra sem oft á tíðum verða að bjarga sér við afar óblíðar aðstæður.]]></description>
+      <short-description />
+      <rating />
+      <episode number="4" number-of-episodes="6" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="24376" material="024376-0004" title="Jörðin" />
+      <credits />
+    </event>
+  </service>
+</schedule>
