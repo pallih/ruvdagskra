@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-04-28 22:17" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2017-04-24">
+    <event event-id="4898421" serie-id="24376" start-time="2017-04-24 20:05:00" duration="00:58:12" mark="no">
+      <title>Planet Earth II</title>
+      <original-title>Jörðin</original-title>
+      <description><![CDATA[Önnur þáttaröð af þessum geysivinsæla breska heimildarmyndaflokki með Sir David Attenborough þar sem brugðið er upp svipmyndum af Jörðinni, náttúru hennar og dýrarlífi í áður óséðum gæðum. Áhorfendur eru teknir með í stórkostlegt ferðalag um Jörðina á öllum árstíðum og þeim eru sýnd undur hennar í allri sinni dýrð, meðal annars hrikaleg fjöll og gljúfur, hellar og eyðimerkur og hugað að erfiðri lífsbaráttu sjaldséðra dýra sem oft á tíðum verða að bjarga sér við afar óblíðar aðstæður.]]></description>
+      <short-description />
+      <rating />
+      <episode number="5" number-of-episodes="6" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="4">Fræðsla</category>
+      <more-info>http://dagskra.ruv.is/nanar/24376/</more-info>
+      <reference group="24376" material="024376-0005" title="Planet Earth II" />
+      <details id="24376">
+        <series-title>Planet Earth II</series-title>
+        <series-original-title>Jörðin</series-original-title>
+        <series-description>
+          <p>Önnur þáttaröð af þessum geysivinsæla breska heimildarmyndaflokki með Sir David Attenborough þar sem brugðið er upp svipmyndum af Jörðinni, náttúru hennar og dýrarlífi í áður óséðum gæðum. Áhorfendur eru teknir með í stórkostlegt ferðalag um Jörðina á öllum árstíðum og þeim eru sýnd undur hennar í allri sinni dýrð, meðal annars hrikaleg fjöll og gljúfur, hellar og eyðimerkur og hugað að erfiðri lífsbaráttu sjaldséðra dýra sem oft á tíðum verða að bjarga sér við afar óblíðar aðstæður.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+  </service>
+</schedule>
