@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-04-28 22:17" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2017-04-26">
+    <event event-id="4900366" serie-id="23580" start-time="2017-04-26 19:45:00" duration="02:00:00" mark="no">
+      <title>Valur - Fram</title>
+      <original-title>Olísdeild karla: 4-liða úrslit</original-title>
+      <description><![CDATA[Bein útsending frá 2.leik Vals og Fram í 4-liða úrslitum Olísdeildar karla í handbolta.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23580" material="023580-0035" title="Valur - Fram" />
+      <credits />
+    </event>
+  </service>
+</schedule>
