@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-05-10 13:42" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2017-05-10">
+    <event event-id="4897551" serie-id="23580" start-time="2017-05-10 18:15:00" duration="01:45:00" mark="no">
+      <title>Fram - Stjarnan</title>
+      <original-title>Olísdeild kvenna: Úrslit</original-title>
+      <description><![CDATA[Bein útsending frá 2. leik Fram og Stjörnunnar í úrslitum Olísdeildar kvenna í handbolta.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23580" material="023580-0028" title="Fram - Stjarnan" />
+      <credits />
+    </event>
+    <event event-id="4900847" serie-id="23580" start-time="2017-05-10 20:00:00" duration="02:10:00" mark="no">
+      <title>FH - Valur</title>
+      <original-title>Olísdeild karla: Úrslit</original-title>
+      <description><![CDATA[Bein útsending frá 1. leik FH og Vals í úrslitum Olísdeildar karla í handbolta.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23580" material="023580-0029" title="FH - Valur" />
+      <credits />
+    </event>
+  </service>
+</schedule>
