@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-05-12 13:42" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="1" service-name="RÚV" date="2017-05-12">
+    <event event-id="4900431" serie-id="24059" start-time="2017-05-12 15:45:00" duration="02:00:00" mark="no">
+      <title>Eurovision 2017</title>
+      <original-title />
+      <description><![CDATA[Seinni undanúrslit í Eurovision í Kænugarði í Úkraínu. Kynnir er Gísli Marteinn Baldursson. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <more-info>http://dagskra.ruv.is/nanar/24059/</more-info>
+      <reference group="24059" material="024059-0002" title="Eurovision 2017" />
+      <details id="24059">
+        <series-title>Eurovision 2017</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Bein útsending frá úrslitakeppninni í Kænugarði í Úkraínu. Kynnir kvöldsins er Gísli Marteinn Baldursson.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Bein útsending frá seinni undanúrslitum í Eurovision í Kænugarði í Úkraínu. Kynnir er Gísli Marteinn Baldursson.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4886424" serie-id="23884" start-time="2017-05-12 17:50:00" duration="00:08:00" mark="no">
+      <title>Táknmálsfréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23884" material="023884-0132" title="Táknmálsfréttir" />
+      <credits />
+    </event>
+    <event event-id="4833318" serie-id="" start-time="2017-05-12 18:00:00" duration="00:30:00" mark="no">
+      <title>KrakkaRÚV</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4833318" title="KrakkaRÚV" />
+    </event>
+    <event event-id="4900503" serie-id="18935" start-time="2017-05-12 18:01:00" duration="00:15:00" mark="yes">
+      <title>Pósturinn Páll</title>
+      <original-title>Postman Pat</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="3" number-of-episodes="14" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/18935/</more-info>
+      <reference group="18935" material="018935-0003" title="Pósturinn Páll" />
+      <details id="18935">
+        <series-title>Pósturinn Páll</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4888662" serie-id="20431" start-time="2017-05-12 18:16:00" duration="00:11:03" mark="yes">
+      <title>Kata og Mummi</title>
+      <original-title>Kate and Mim-Mim</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="15" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/20431/</more-info>
+      <reference group="20431" material="020431-0018" title="Kata og Mummi" />
+      <details id="20431">
+        <series-title>Kata og Mummi</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4900732" serie-id="23975" start-time="2017-05-12 18:27:00" duration="00:03:30" mark="yes">
+      <title>Molang</title>
+      <original-title>Molang</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="3" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23975" material="023975-0003" title="Molang" />
+      <credits />
+    </event>
+    <event event-id="4888817" serie-id="22202" start-time="2017-05-12 18:28:00" duration="00:01:29" mark="yes">
+      <title>Blái jakkinn</title>
+      <original-title>Blue Jacket</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="19" number-of-episodes="26" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="22202" material="022202-0022" title="Blái jakkinn" />
+      <credits />
+    </event>
+    <event event-id="4894910" serie-id="24689" start-time="2017-05-12 18:29:00" duration="00:02:00" mark="yes">
+      <title>Kóðinn - Saga tölvunnar</title>
+      <original-title />
+      <description><![CDATA[Hvernig er vélmenni búið til? Hvernig er tölvuleikur búinn til? Hvaðan kemur Internetið? Hvað er gervigreind? Í þáttunum leitast Ævar og Ísgerður við að svara þessum spurningum og mörgum fleirum. Þau fjalla um sögu tölvunnar og komast að því að forritun er allt í kringum okkur.]]></description>
+      <short-description />
+      <rating />
+      <episode number="16" number-of-episodes="20" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/24689/</more-info>
+      <reference group="24689" material="024689-0016" title="Kóðinn - Saga tölvunnar" />
+      <details id="24689">
+        <series-title>Kóðinn - Saga tölvunnar</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Hvernig er vélmenni búið til? Hvernig er tölvuleikur búinn til? Hvaðan kemur Internetið? Hvað er gervigreind? Í þáttunum leitast Ævar og Ísgerður við að svara þessum spurningum og mörgum fleirum. Þau fjalla um sögu tölvunnar og komast að því að forritun er allt í kringum okkur.</p>
+        </series-description>
+        <series-short-description>
+          <p>Hvernig er vélmenni búið til? Hvernig er tölvuleikur búinn til? Hvaðan kemur Internetið? Hvað er gervigreind? Í þáttunum leitast Ævar og Ísgerður við að svara þessum spurningum og mörgum fleirum. Þau fjalla um sögu tölvunnar og komast að því að forritun er allt í kringum okkur.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4886905" serie-id="22279" start-time="2017-05-12 18:30:00" duration="00:23:00" mark="no">
+      <title>Jessie</title>
+      <original-title />
+      <description><![CDATA[Önnur þáttaröð um sveitastelpuna Jessie sem flytur til New York til að láta drauma sína rætast en endar sem barnfóstra fjögurra barna. Aðalhlutverk: Debby Ryan, Peyton List og Cameron Boyce.]]></description>
+      <short-description />
+      <rating />
+      <episode number="22" number-of-episodes="28" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="22279" material="022279-0024" title="Jessie" />
+      <credits />
+    </event>
+    <event event-id="4882834" serie-id="23879" start-time="2017-05-12 19:00:00" duration="00:23:00" mark="no">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23879" material="023879-0132" title="Fréttir" />
+      <credits />
+    </event>
+    <event event-id="4883631" serie-id="23877" start-time="2017-05-12 19:25:00" duration="00:05:00" mark="no">
+      <title>Íþróttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <reference group="23877" material="023877-0095" title="Íþróttir" />
+      <credits />
+    </event>
+    <event event-id="4884396" serie-id="23882" start-time="2017-05-12 19:30:00" duration="00:03:00" mark="no">
+      <title>Veður</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23882" material="023882-0132" title="Veður" />
+      <credits />
+    </event>
+    <event event-id="4897640" serie-id="19629" start-time="2017-05-12 19:40:00" duration="00:20:02" mark="no">
+      <title>Saga af strák</title>
+      <original-title>About a Boy II</original-title>
+      <description><![CDATA[Bandarísk gamanþáttaröð um áhyggjulausan piparsvein sem sér sér leik á borði þegar einstæð móðir flytur í næsta hús. Aðalhlutverk: Minnie Driver, David Walton og Benjamin Stockham.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/19629/</more-info>
+      <reference group="19629" material="019629-0014" title="Saga af strák" />
+      <details id="19629">
+        <series-title>Saga af strák</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Bandarísk gamanþáttaröð um áhyggjulausan piparsvein sem sér sér leik á borði þegar einstæð móðir flytur í næsta hús. Aðalhlutverk: Minnie Driver, David Walton og Benjamin Stockham.</p>
+        </series-description>
+        <series-short-description>
+          <p>Bandarísk gamanþáttaröð um áhyggjulausan piparsvein sem sér sér leik á borði þegar einstæð móðir flytur í næsta hús.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4900276" serie-id="25078" start-time="2017-05-12 20:05:00" duration="00:52:00" mark="no">
+      <title>Eurovisions</title>
+      <original-title />
+      <description><![CDATA[Heimildarmynd um Eurovision sem hefur sameinað heila álfu í áratugi yfir söngvakeppni í sjónvarpi.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <more-info>http://dagskra.ruv.is/nanar/25078/</more-info>
+      <reference group="25078" material="025078-0001" title="Eurovisions" />
+      <details id="25078">
+        <series-title>Eurovisions</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Heimildarmynd um Eurovision sem hefur sameinað heila álfu í áratugi yfir söngvakeppni í sjónvarpi.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4897791" serie-id="15909" start-time="2017-05-12 21:00:00" duration="01:35:35" mark="no">
+      <title>Jarðarför ömmu</title>
+      <original-title>Adieu Berthe</original-title>
+      <description><![CDATA[Frönsk gamanmynd um lyfsalann Armand sem dreymir um að verða töframaður. Auk þess er hann bálskotinn í hinni ráðríku Alix þótt hann elski líka eiginkonu sína, Héléne. Þegar amma hans deyr byrjar hann að skipuleggja jarðarförina með nagandi samviskubit yfir því hvað hann sinnti henni lítið í lifanda lífi. Leikstjóri: Bruno Podalydès. Leikarar: Denis Podalydès, Valérie Lemercier og Isabelle Candelier.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="7">Kvikmyndir</category>
+      <more-info>http://dagskra.ruv.is/nanar/15909/</more-info>
+      <reference group="15909" material="015909-0001" title="Jarðarför ömmu" />
+      <details id="15909">
+        <series-title>Jarðarför ömmu</series-title>
+        <series-original-title>Adieu Berteh</series-original-title>
+        <series-description>
+          <p>Frönsk gamanmynd um lyfsalann Armand sem dreymir um að verða töframaður. Auk þess er hann bálskotinn í hinni ráðríku Alix þótt hann elski líka eiginkonu sína, Héléne. Þegar amma hans deyr byrjar hann að skipuleggja jarðarförina með nagandi samviskubit yfir því hvað hann sinnti henni lítið í lifanda lífi. Leikstjóri: Bruno Podalydès. Leikarar: Denis Podalydès, Valérie Lemercier og Isabelle Candelier.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4899763" serie-id="20157" start-time="2017-05-12 22:40:00" duration="02:31:18" mark="no">
+      <title>Vesalingarnir</title>
+      <original-title>Les Misérables</original-title>
+      <description><![CDATA[Margföld Óskarsverðlaunamynd frá 2013. Nýjasta söng- og leikútgáfa þessarar stórbrotnu sögu þar sem sögusviðið er miskunnarlaust Frakkland átjándu aldar. Jean Valjean er eftirlýstur af lögreglu en samþykkir að taka að sér dóttur verkamanns. Það er ákvörðun sem á eftir að breyta lífi hans allt til enda. Aðalhlutverk: Hugh Jackman, Russell Crowe og Anne Hathaway. Leikstjórn: Tom Hooper. Atriði í myndinni eru ekki við hæfi ungra barna. e.]]></description>
+      <short-description />
+      <rating>12</rating>
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="7">Kvikmyndir</category>
+      <more-info>http://dagskra.ruv.is/nanar/20157/</more-info>
+      <reference group="20157" material="020157-0001" title="Vesalingarnir" />
+      <details id="20157">
+        <series-title>Vesalingarnir</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Margföld Óskarsverðlaunamynd frá 2013. Nýjasta söng- og leikútgáfa þessarar stórbrotnu sögu þar sem sögusviðið er miskunnarlaust Frakkland átjándu aldar. Jean Valjean er eftirlýstur af lögreglu en samþykkir að taka að sér dóttur verkamanns. Það er ákvörðun sem á eftir að breyta lífi hans allt til enda. Aðalhlutverk: Hugh Jackman, Russell Crowe og Anne Hathaway. Leikstjórn: Tom Hooper. Atriði í myndinni eru ekki við hæfi ungra barna.</p>
+        </series-description>
+        <series-short-description>
+          <p>Margföld Óskarsverðlaunamynd frá 2013.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4892266" serie-id="" start-time="2017-05-13 01:10:00" duration="00:03:00" mark="no">
+      <title>Útvarpsfréttir í dagskrárlok</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4892266" title="Útvarpsfréttir í dagskrárlok" />
+    </event>
+  </service>
+</schedule>
