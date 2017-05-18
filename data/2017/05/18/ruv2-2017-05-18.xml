@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-05-18 13:42" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2017-05-18">
+    <event event-id="4901474" serie-id="25105" start-time="2017-05-18 13:00:00" duration="03:00:00" mark="no">
+      <title>RÚV 2021</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="25105" material="025105-0001" title="RÚV 2021" />
+      <credits />
+    </event>
+    <event event-id="4901036" serie-id="23580" start-time="2017-05-18 19:40:00" duration="02:20:00" mark="no">
+      <title>Valur - FH</title>
+      <original-title>Olísdeild karla í handbolta: Úrslit</original-title>
+      <description><![CDATA[Bein útsending frá 4. leik Vals og FH í úrslitum Olísdeildar karla í handbolta.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23580" material="023580-0049" title="Valur - FH" />
+      <credits />
+    </event>
+  </service>
+</schedule>
