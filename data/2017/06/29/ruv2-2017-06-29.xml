@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-06-29 13:42" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2017-06-29">
+    <event event-id="4902951" serie-id="" start-time="2017-06-29 16:55:00" duration="00:25:00" mark="no">
+      <title>KrakkaRÚV</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="7" number-of-episodes="366" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4902951" title="KrakkaRÚV" />
+    </event>
+    <event event-id="4902952" serie-id="16230" start-time="2017-06-29 16:56:00" duration="00:23:12" mark="yes">
+      <title>Litli prinsinn</title>
+      <original-title>Little Prince</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="16230" material="016230-0001" title="Litli prinsinn" />
+      <credits />
+    </event>
+    <event event-id="4902953" serie-id="20928" start-time="2017-06-29 17:20:00" duration="00:30:03" mark="no">
+      <title>Með okkar augum</title>
+      <original-title />
+      <description><![CDATA[Skemmtileg sýn á samfélagið með augum dagskrárgerðarfólks með þroskahömlun. Þættirnir hafa hlotið fjölda verðlauna og tilnefndir þrisvar til Edduverðlauna. Upptökustjórn: Elín Sveinsdóttir. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="6" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="6">Íslenskir þættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/20928/</more-info>
+      <reference group="20928" material="020928-0006" title="Með okkar augum" />
+      <details id="20928">
+        <series-title>Með okkar augum</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Dagskrárgerðarfólkið Andri Freyr, Eiður, Katrín Guðrún, Skúli Steinar og Steinunn Ása skoða samfélagið á líðandi stundu eins og það kemur þeim fyrir sjónir. Þættirnir hafa hlotið fjölda verðlauna og tilnefndir þrisvar til Edduverðlauna.</p>
+          <p>Upptökustjórn: Elín Sveinsdóttir.</p>
+        </series-description>
+        <series-short-description>
+          <p>Skemmtileg sýn á samfélagið með augum dagskrárgerðarfólks með þroskahömlun.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4932019" serie-id="21510" start-time="2017-06-29 17:50:00" duration="02:00:00" mark="no">
+      <title>Þýskaland - Mexíkó</title>
+      <original-title />
+      <description><![CDATA[Bein útsending frá leik Þýskalands og Mexíkó í 4-liða úrslitum Álfukeppninnar í fótbolta sem haldin er í Rússlandi.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="5">Íþróttir</category>
+      <more-info>http://dagskra.ruv.is/nanar/21510/</more-info>
+      <reference group="21510" material="021510-0014" title="Álfukeppnin í knattspyrnu" />
+      <details id="21510">
+        <series-title>Álfukeppnin í knattspyrnu</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Bein útsending frá leik í 4-liða úrslitum Álfukeppninnar í fótbolta sem haldin er í Rússlandi.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Bein útsending frá leik Þýskalands og Mexíkó í 4-liða úrslitum Álfukeppninnar í fótbolta sem haldin er í Rússlandi.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+  </service>
+</schedule>
