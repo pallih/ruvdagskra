@@ -1,0 +1,991 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-07-01 13:42" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="1" service-name="RÚV" date="2017-07-01">
+    <event event-id="4785314" serie-id="" start-time="2017-07-01 07:00:00" duration="03:15:00" mark="no">
+      <title>KrakkaRÚV</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4785314" title="KrakkaRÚV" />
+    </event>
+    <event event-id="4888457" serie-id="22401" start-time="2017-07-01 07:01:00" duration="00:06:48" mark="yes">
+      <title>Kioka</title>
+      <original-title>Kioka</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="59" number-of-episodes="78" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="22401" material="022401-0059" title="Kioka" />
+      <credits />
+    </event>
+    <event event-id="4900997" serie-id="19954" start-time="2017-07-01 07:08:00" duration="00:05:39" mark="yes">
+      <title>Lautarferð með köku</title>
+      <original-title>Picnic with Cake</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="13" number-of-episodes="13" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="19954" material="019954-0013" title="Lautarferð með köku" />
+      <credits />
+    </event>
+    <event event-id="4900549" serie-id="20644" start-time="2017-07-01 07:14:00" duration="00:07:05" mark="yes">
+      <title>Lundaklettur</title>
+      <original-title>Puffin Rock</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="10" number-of-episodes="39" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/20644/</more-info>
+      <reference group="20644" material="020644-0010" title="Lundaklettur" />
+      <details id="20644">
+        <series-title>Lundaklettur</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4899446" serie-id="24574" start-time="2017-07-01 07:21:00" duration="00:05:23" mark="yes">
+      <title>Símon</title>
+      <original-title>Simon</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="5" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="24574" material="024574-0005" title="Símon" />
+      <credits />
+    </event>
+    <event event-id="4888533" serie-id="18932" start-time="2017-07-01 07:27:00" duration="00:10:34" mark="yes">
+      <title>Ólivía</title>
+      <original-title>Olivia</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="29" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="18932" material="018932-0031" title="Ólivía" />
+      <credits />
+    </event>
+    <event event-id="4896175" serie-id="21810" start-time="2017-07-01 07:38:00" duration="00:23:15" mark="yes">
+      <title>Hvolpasveitin</title>
+      <original-title>Paw Patrol</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="23" number-of-episodes="24" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="21810" material="021810-0023" title="Hvolpasveitin" />
+      <credits />
+    </event>
+    <event event-id="4899411" serie-id="22309" start-time="2017-07-01 08:01:00" duration="00:23:07" mark="yes">
+      <title>Morgunland</title>
+      <original-title>Miles from Tomorrow Land</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="8" number-of-episodes="10" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="22309" material="022309-0008" title="Morgunland" />
+      <credits />
+    </event>
+    <event event-id="4891345" serie-id="23975" start-time="2017-07-01 08:24:00" duration="00:03:30" mark="yes">
+      <title>Molang</title>
+      <original-title>Molang</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="25" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23975" material="023975-0026" title="Molang" />
+      <credits />
+    </event>
+    <event event-id="4897197" serie-id="24839" start-time="2017-07-01 08:27:00" duration="00:23:10" mark="yes">
+      <title>Kúlugúbbarnir</title>
+      <original-title>Bubble Guppies</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="14" number-of-episodes="20" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="24839" material="024839-0014" title="Kúlugúbbarnir" />
+      <credits />
+    </event>
+    <event event-id="4902085" serie-id="21516" start-time="2017-07-01 08:52:00" duration="00:22:40" mark="yes">
+      <title>Friðþjófur Forvitni</title>
+      <original-title>Curious George</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="6" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="21516" material="021516-0001" title="Friðþjófur Forvitni" />
+      <credits />
+    </event>
+    <event event-id="4888395" serie-id="22392" start-time="2017-07-01 09:15:00" duration="00:11:00" mark="yes">
+      <title>Hrói Höttur</title>
+      <original-title>Robin Hood</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="48" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="22392" material="022392-0049" title="Hrói Höttur" />
+      <credits />
+    </event>
+    <event event-id="4899547" serie-id="22391" start-time="2017-07-01 09:27:00" duration="00:11:02" mark="yes">
+      <title>Skógargengið</title>
+      <original-title>The Jungle Bunch</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="4" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="22391" material="022391-0004" title="Skógargengið" />
+      <credits />
+    </event>
+    <event event-id="4899525" serie-id="21489" start-time="2017-07-01 09:38:00" duration="00:11:40" mark="yes">
+      <title>Zip Zip</title>
+      <original-title>Zip Zip</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="4" number-of-episodes="21" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="21489" material="021489-0035" title="Zip Zip" />
+      <credits />
+    </event>
+    <event event-id="4887020" serie-id="23581" start-time="2017-07-01 09:50:00" duration="00:12:40" mark="yes">
+      <title>Lóa</title>
+      <original-title>Lou!</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="38" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23581" material="023581-0041" title="Lóa" />
+      <credits />
+    </event>
+    <event event-id="4887705" serie-id="22394" start-time="2017-07-01 10:03:00" duration="00:11:12" mark="yes">
+      <title>Alvinn og íkornarnir</title>
+      <original-title>Alvinnn!!! &amp; The Chipmunks</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="50" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="22394" material="022394-0150" title="Alvinn og íkornarnir" />
+      <credits />
+    </event>
+    <event event-id="4900648" serie-id="19782" start-time="2017-07-01 10:15:00" duration="00:40:05" mark="no">
+      <title>Best í flestu</title>
+      <original-title>Best i mest</original-title>
+      <description><![CDATA[Norsk ungmenni keppa sín á milli í hinum ýmsu íþróttagreinum s.s. klifri, íshokkí, sundi og fótbolta. Hver þeirra er færastur í flestum íþróttagreinum? Þáttaröðin hlaut Emmy verðlaun í flokki heimildarefnis fyrir börn og ungmenni. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="6" number-of-episodes="10" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/19782/</more-info>
+      <reference group="19782" material="019782-0006" title="Best í flestu" />
+      <details id="19782">
+        <series-title>Best í flestu</series-title>
+        <series-original-title>Best í flestu</series-original-title>
+        <series-description>
+          <p>Norsk ungmenni keppa sín á milli í hinum ýmsu íþróttagreinum s.s. klifri, íshokkí, sundi og fótbolta. Hver þeirra er færastur í flestum íþróttagreinum? Þáttaröðin hlaut Emmy verðlaun í flokki heimildarefnis fyrir börn og ungmenni.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4900636" serie-id="21520" start-time="2017-07-01 10:55:00" duration="00:40:55" mark="no">
+      <title>Sjöundi áratugurinn - Víetnam-stríðið</title>
+      <original-title>The Sixties</original-title>
+      <description><![CDATA[Heimildarþáttaröð um hinn byltingarkennda sjöunda áratug síðustu aldar. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="6" number-of-episodes="10" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="4">Fræðsla</category>
+      <more-info>http://dagskra.ruv.is/nanar/21520/</more-info>
+      <reference group="21520" material="021520-0006" title="Sjöundi áratugurinn" />
+      <details id="21520">
+        <series-title>Sjöundi áratugurinn</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Heimildarþáttaröð um hinn byltingarkennda sjöunda áratug síðustu aldar.</p>
+        </series-description>
+        <series-short-description>
+          <p>Heimildarþáttaröð um hinn byltingarkennda sjöunda áratug síðustu aldar.</p>
+        </series-short-description>
+        <episode-description>
+          <p>Heimildarþáttaröð um hinn byltingarkennda sjöunda áratug síðustu aldar. Þátturinn fjallar um hernað Bandaríkjamanna í Víetnam á sjöunda áratugnum.</p>
+        </episode-description>
+        <episode-short-description>
+          <p>Þátturinn fjallar um hernað Bandaríkjamanna í Víetnam á sjöunda áratugnum.</p>
+        </episode-short-description>
+      </details>
+      <credits />
+    </event>
+    <event event-id="4901953" serie-id="23646" start-time="2017-07-01 11:35:00" duration="00:43:08" mark="no">
+      <title>Áfram veginn - Undirskriftin - Undirskriftin</title>
+      <original-title>Moving On</original-title>
+      <description><![CDATA[Bresk þáttaröð sem segir sögur af fólki sem hefur gengið í gegnum breytingar í lífi sínu. Moira á tvö börn, eiginmaður hennar er veikur og hún vinnur tvöfalda vinnu, myrkrana á milli. Leikstjóri: Jimmy Mc Govern. Leikarar: Neil Bell, Alicia Brockenbrow og Warren Brown. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/23646/</more-info>
+      <reference group="23646" material="023646-0002" title="Áfram veginn" />
+      <details id="23646">
+        <series-title>Áfram veginn</series-title>
+        <series-original-title>Moving On</series-original-title>
+        <series-description>
+          <p>Breskir þættir sem segja sögu af fólki sem á það sameiginlegt að ganga í gegnum breytingar í lífi sínu.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4901493" serie-id="21788" start-time="2017-07-01 12:20:00" duration="01:55:02" mark="no">
+      <title>Hr. Dýnamít: James Brown</title>
+      <original-title>Mr. Dynamite: the Rise of James Brown</original-title>
+      <description><![CDATA[Heimildarmynd um glæsilegan feril tónlistarmannsins James Brown sem hófst með slagaranum „Please, Please, Please“ árið 1956. Leikstjóri: Alex Gibney. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="4">Fræðsla</category>
+      <more-info>http://dagskra.ruv.is/nanar/21788/</more-info>
+      <reference group="21788" material="021788-0001" title="Hr. Dýnamít: James Brown" />
+      <details id="21788">
+        <series-title>Hr. Dýnamít: James Brown</series-title>
+        <series-original-title>Mr. Dynamite: the Rise of James Brown</series-original-title>
+        <series-description>
+          <p>Heimildarmynd um glæsilegan feril tónlistarmannsins James Brown sem hófst með slagaranum „Please, Please, Please“ árið 1956. Leikstjóri: Alex Gibney.</p>
+        </series-description>
+        <series-short-description>
+          <p>Heimildarmynd um glæsilegan feril tónlistarmannsins James Brown sem hófst með slagaranum „Please, Please, Please“ árið 1956. Leikstjóri: Alex Gibney.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4901494" serie-id="21330" start-time="2017-07-01 14:15:00" duration="01:03:06" mark="no">
+      <title>Ómar Ragnarsson - Við eigum land</title>
+      <original-title />
+      <description><![CDATA[Ómar Ragnarssonar skoðar náttúru og mannlíf við efri hluta Jökulsár á Brú, þar sem glíma fólksins við þetta straumharðasta og gruggugasta vatnsfall landsins hefur markað líf þess og kostað mannfórnir. Dagskrárgerð: Ómar Ragnarsson. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="6">Íslenskir þættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/21330/</more-info>
+      <reference group="21330" material="021330-0001" title="Ómar Ragnarsson - Við eigum land" />
+      <details id="21330">
+        <series-title>Ómar Ragnarsson - Við eigum land</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Ómar Ragnarssonar skoðar náttúru og mannlíf við efri hluta Jökulsár á Brú, þar sem glíma fólksins við þetta straumharðasta og gruggugasta vatnsfall landsins hefur markað líf þess og kostað mannfórnir. Dagskrárgerð: Ómar Ragnarsson. e.</p>
+        </series-description>
+        <series-short-description>
+          <p>Ómar Ragnarssonar skoðar náttúru og mannlíf við efri hluta Jökulsár á Brú, þar sem glíma fólksins við þetta straumharðasta og gruggugasta vatnsfall landsins hefur markað líf þess og kostað mannfórnir. e.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4902825" serie-id="3982" start-time="2017-07-01 15:20:00" duration="01:28:56" mark="no">
+      <title>Thors saga</title>
+      <original-title />
+      <description><![CDATA[Dramatísk saga Thors-ættarinnar. Thor Jensen var danskur munaðarleysingi þegar hann kom hingað til lands 14 ára að aldri, en varð brátt einn efnaðasti maðurinn á Íslandi og hafði gríðarleg á atvinnusögu Íslendinga á öndverðri tuttugustu öldinni. Björgólfur Thor Björgólfsson er langafabarn Thors og lék lykilhlutverk í uppgangi - og hruni - íslenska efnahagskerfisins. Heimildamynd eftir Ullu Boje Rasmussen. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="4">Fræðsla</category>
+      <more-info>http://dagskra.ruv.is/nanar/3982/</more-info>
+      <reference group="3982" material="003982-0001" title="Thors saga" />
+      <details id="3982">
+        <series-title>Thors saga</series-title>
+        <series-original-title>Thors saga</series-original-title>
+        <series-description>
+          <p>Í þessari heimildamynd eftir Ullu Boje Rasmussen er rakin dramatísk saga Thors-ættarinnar. Thor Jensen var danskur munaðarleysingi þegar hann kom hingað til lands 14 ára að aldri, en varð brátt einn efnaðasti maðurinn á Íslandi og hafði gríðarleg á atvinnusögu Íslendinga á öndverðri tuttugustu öldinni. Björgólfur Thor Björgólfsson er langafabarn Thors og lék lykilhlutverk í uppgangi - og hruni - íslenska efnahagskerfisins.</p>
+          <p>Textað á síðu 888 í Textavarpi.</p>
+        </series-description>
+        <series-short-description>
+          <p>Í þessari heimildamynd eftir Ullu Boje Rasmussen er rakin dramatísk saga Thors-ættarinnar.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4932027" serie-id="25315" start-time="2017-07-01 16:50:00" duration="00:27:30" mark="no">
+      <title>Leiðindi eru hin nýja skemmtun</title>
+      <original-title>Karl Ove Knausgaard (2017)</original-title>
+      <description><![CDATA[Halla Þórlaug Óskarsdóttir ræðir við norska rithöfundinn Karl Ove Knausgaard, sem sló í gegn með sjálfsævisagnabálkinum Barátta mín. 
+]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>yes</closed>
+      </subtitles>
+      <reference group="25315" material="025315-0001" title="Leiðindi eru hin nýja skemmtun" />
+      <credits />
+    </event>
+    <event event-id="4900623" serie-id="23065" start-time="2017-07-01 17:20:00" duration="00:28:51" mark="no">
+      <title>Veröld Ginu</title>
+      <original-title>Ginas värld II</original-title>
+      <description><![CDATA[Önnur þáttaröð þar sem hin sænska Gina Dirawi ferðast um heimminn og heimsækir fólk sem hún heillast af. Stutt er á milli hláturs og gráts þegar viðmælendur segja frá lífshlaupi sínu. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="4" number-of-episodes="8" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/23065/</more-info>
+      <reference group="23065" material="023065-0005" title="Veröld Ginu" />
+      <details id="23065">
+        <series-title>Veröld Ginu</series-title>
+        <series-original-title>Ginas värld II</series-original-title>
+        <series-description>
+          <p>Önnur þáttaröð þar sem hin sænska Gina Dirawi ferðast um heiminn og heimsækir fólk sem hún heillast af. Stutt er á milli hláturs og gráts þegar viðmælendur segja frá lífshlaupi sínu.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4886474" serie-id="23884" start-time="2017-07-01 17:50:00" duration="00:08:00" mark="no">
+      <title>Táknmálsfréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23884" material="023884-0182" title="Táknmálsfréttir" />
+      <credits />
+    </event>
+    <event event-id="4901476" serie-id="" start-time="2017-07-01 18:00:00" duration="00:25:00" mark="no">
+      <title>KrakkaRÚV</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4901476" title="KrakkaRÚV" />
+    </event>
+    <event event-id="4901671" serie-id="19887" start-time="2017-07-01 18:01:00" duration="00:10:00" mark="yes">
+      <title>Róbert bangsi</title>
+      <original-title>Rupert Bear</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="4" number-of-episodes="26" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/19887/</more-info>
+      <reference group="19887" material="019887-0004" title="Róbert bangsi" />
+      <details id="19887">
+        <series-title>Róbert bangsi</series-title>
+        <series-original-title>Rupert Bear</series-original-title>
+        <series-description>
+          <p>Róbert bangsi býr ásamt fjölskyldu sinni í friðsælu sveitaþorpi þar sem fátt ber til tíðinda. Engu að síður tekst honum ævinlega að lenda í óvæntum svaðilförum sem leiða hann á framandi slóðir ævintýraheima. Aðgengilegt í tvær vikur á vefnum. Aldur 3-6 ára.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4902849" serie-id="15337" start-time="2017-07-01 18:11:00" duration="00:12:02" mark="yes">
+      <title>Undraveröld Gúnda</title>
+      <original-title>Amazing World of Gumball</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="40" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/15337/</more-info>
+      <reference group="15337" material="015337-0001" title="Undraveröld Gúnda" />
+      <details id="15337">
+        <series-title>Undraveröld Gúnda</series-title>
+        <series-original-title>Amazing world of Gumball</series-original-title>
+        <series-description>
+          <p>Flottir þættir frá Cartoon Network.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4902512" serie-id="19629" start-time="2017-07-01 18:30:00" duration="00:22:00" mark="no">
+      <title>Saga af strák</title>
+      <original-title>About a Boy II</original-title>
+      <description><![CDATA[Bandarísk gamanþáttaröð um áhyggjulausan piparsvein sem sér sér leik á borði þegar einstæð móðir flytur í næsta hús. Aðalhlutverk: Minnie Driver, David Walton og Benjamin Stockham. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="19" number-of-episodes="20" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/19629/</more-info>
+      <reference group="19629" material="019629-0019" title="Saga af strák" />
+      <details id="19629">
+        <series-title>Saga af strák</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Bandarísk gamanþáttaröð um áhyggjulausan piparsvein sem sér sér leik á borði þegar einstæð móðir flytur í næsta hús. Aðalhlutverk: Minnie Driver, David Walton og Benjamin Stockham.</p>
+        </series-description>
+        <series-short-description>
+          <p>Bandarísk gamanþáttaröð um áhyggjulausan piparsvein sem sér sér leik á borði þegar einstæð móðir flytur í næsta hús.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4882623" serie-id="23853" start-time="2017-07-01 18:54:00" duration="00:03:00" mark="no">
+      <title>Lottó</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="26" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23853" material="023853-0026" title="Lottó" />
+      <credits />
+    </event>
+    <event event-id="4882884" serie-id="23879" start-time="2017-07-01 19:00:00" duration="00:23:00" mark="no">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23879" material="023879-0182" title="Fréttir" />
+      <credits />
+    </event>
+    <event event-id="4883483" serie-id="23876" start-time="2017-07-01 19:25:00" duration="00:10:00" mark="no">
+      <title>Íþróttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <reference group="23876" material="023876-0051" title="Íþróttir" />
+      <credits />
+    </event>
+    <event event-id="4884445" serie-id="23882" start-time="2017-07-01 19:35:00" duration="00:03:00" mark="no">
+      <title>Veður</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23882" material="023882-0181" title="Veður" />
+      <credits />
+    </event>
+    <event event-id="4897812" serie-id="22905" start-time="2017-07-01 19:40:00" duration="01:46:00" mark="no">
+      <title>Fjölskyldan Bélier</title>
+      <original-title>La Famille Bélier</original-title>
+      <description><![CDATA[Hugljúf fjölskyldumynd um stúlku sem býr með  heyrnarlausum foreldrum sínum. Dag einn kemur í ljós, öllum að óvörum, að hún syngur eins og engill. Leikstjóri: Eric Lartigau. Leikarar: Karin Viard, François Damiens og Eric Elmosnino.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="7">Kvikmyndir</category>
+      <more-info>http://dagskra.ruv.is/nanar/22905/</more-info>
+      <reference group="22905" material="022905-0001" title="Fjölskyldan Bélier" />
+      <details id="22905">
+        <series-title>Fjölskyldan Bélier</series-title>
+        <series-original-title>La Famille Bélier</series-original-title>
+        <series-description>
+          <p>Hugljúf fjölskyldumynd um stúlku sem býr með  heyrnarlausum foreldrum sínum. Dag einn kemur í ljós, öllum að óvörum, að hún syngur eins og engill. Leikstjóri: Eric Lartigau. Leikarar: Karin Viard, François Damiens og Eric Elmosnino.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4900528" serie-id="19122" start-time="2017-07-01 21:25:00" duration="01:57:19" mark="no">
+      <title>The Hundred-Foot Journey</title>
+      <original-title>Ferðin langa</original-title>
+      <description><![CDATA[Falleg og kómísk saga hinnar indversku Kadam-fjölskyldu sem flytur til Frakklands til að opna veitingastað. Þau ákveða að koma sér fyrir beint á móti rómuðum frönskum verðlaunaveitingastað, með tilheyrandi usla í heimabyggð. Aðalhlutverk: Helen Mirren, Om Puri og Manish Dayal. Leikstjórn: Lasse Hallström. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="7">Kvikmyndir</category>
+      <more-info>http://dagskra.ruv.is/nanar/19122/</more-info>
+      <reference group="19122" material="019122-0001" title="The Hundred Foot Journey" />
+      <details id="19122">
+        <series-title>The Hundred Foot Journey</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Falleg og kómísk saga hinnar indversku Kadam-fjölskyldu sem flytur til Frakklands til að opna veitingastað. Þau ákveða að koma sér fyrir beint á móti rómuðum frönskum verðlaunaveitingastað, með tilheyrandi usla í heimabyggð.</p>
+          <p>Aðalhlutverk: Helen Mirren, Om Puri og Manish Dayal. Leikstjórn: Lasse Hallström.</p>
+        </series-description>
+        <series-short-description>
+          <p>Falleg og kómísk saga hinnar indversku Kadam-fjölskyldu sem flytur til Frakklands til að opna veitingastað.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4899774" serie-id="18518" start-time="2017-07-01 23:25:00" duration="01:51:33" mark="no">
+      <title>The Broken Circle Breakdown</title>
+      <original-title>Þolmörk ástarinnar</original-title>
+      <description><![CDATA[Verðlaunuð belgísk ástarsaga tveggja tónlistarmanna. Þótt ástin virðist geta sigrað allt, stendur parið á tímamótum þegar dóttir þeirra veikist. Leikarar: Veerle Baetens, Johan Heldenbergh og Nell Cattrysse. Leikstjóri: Felix van Groeningen. Atriði í myndinni eru ekki við hæfi ungra barna. e.]]></description>
+      <short-description />
+      <rating>12</rating>
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="7">Kvikmyndir</category>
+      <more-info>http://dagskra.ruv.is/nanar/18518/</more-info>
+      <reference group="18518" material="018518-0001" title="The Broken Circle Breakdown" />
+      <details id="18518">
+        <series-title>The Broken Circle Breakdown</series-title>
+        <series-original-title>Þolmörk ástarinnar</series-original-title>
+        <series-description>
+          <p>Verðlaunuð belgísk ástarsaga tveggja tónlistarmanna. Þótt ástin virðist geta sigrað allt, stendur parið á tímamótum þegar dóttir þeirra veikist. Leikarar: Veerle Baetens, Johan Heldenbergh og Nell Cattrysse. Leikstjóri: Felix van Groeningen. Atriði í myndinni eru ekki við hæfi ungra barna.</p>
+        </series-description>
+        <series-short-description>
+          <p>Verðlaunuð belgísk ástarsaga tveggja tónlistarmanna. Þótt ástin virðist geta sigrað allt, stendur parið á tímamótum þegar dóttir þeirra veikist.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4892288" serie-id="" start-time="2017-07-02 01:20:00" duration="00:03:00" mark="no">
+      <title>Útvarpsfréttir í dagskrárlok</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4892288" title="Útvarpsfréttir í dagskrárlok" />
+    </event>
+  </service>
+</schedule>
