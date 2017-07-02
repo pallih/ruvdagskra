@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-07-02 13:42" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2017-07-02">
+    <event event-id="4932156" serie-id="21510" start-time="2017-07-02 17:45:00" duration="02:00:00" mark="no">
+      <title>Álfukeppnin í fótbolta</title>
+      <original-title />
+      <description><![CDATA[Bein útsending frá úrslitaleiknum í Álfukeppninni í fótbolta sem haldin er í Rússlandi.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="5">Íþróttir</category>
+      <more-info>http://dagskra.ruv.is/nanar/21510/</more-info>
+      <reference group="21510" material="021510-0016" title="Álfukeppnin í knattspyrnu" />
+      <details id="21510">
+        <series-title>Álfukeppnin í knattspyrnu</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Bein útsending frá leik í 4-liða úrslitum Álfukeppninnar í fótbolta sem haldin er í Rússlandi.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Bein útsending frá úrslitaleik Síle og Þýskalands í Álfukeppninni í fótbolta sem haldin er í Rússlandi.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+  </service>
+</schedule>
