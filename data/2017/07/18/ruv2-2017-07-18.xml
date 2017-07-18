@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-07-18 13:42" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2017-07-18">
+    <event event-id="4902897" serie-id="" start-time="2017-07-18 17:00:00" duration="00:45:00" mark="no">
+      <title>KrakkaRÚV</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="8" number-of-episodes="366" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4902897" title="KrakkaRÚV" />
+    </event>
+    <event event-id="4902898" serie-id="17002" start-time="2017-07-18 17:01:00" duration="00:24:02" mark="yes">
+      <title>Hopp og hí Sessamí</title>
+      <original-title>Play with Me Sesame</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="2" number-of-episodes="26" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/17002/</more-info>
+      <reference group="17002" material="017002-0021" title="Hopp og hí Sessamí" />
+      <details id="17002">
+        <series-title>Hopp og hí Sessamí</series-title>
+        <series-original-title>Play with Me Sesame</series-original-title>
+        <series-description>
+          <p>Loksins eru vinirnir á Sessamístræti farnir að tala íslensku. Stórskemmtilegur þáttur með fullt af lögum og lærdómi fyrir alla krakka á leikskólaaldri.</p>
+          <p>Tilvalið er að benda íslenskum fjölskyldum í útlöndum á þessa þætti þar sem þeir eru aðgengilegir innanlands sem utan og eru á vefnum í 90 daga.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4902899" serie-id="18930" start-time="2017-07-18 17:24:00" duration="00:23:00" mark="yes">
+      <title>Drekar</title>
+      <original-title>Dragons: Riders of Berk</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="20" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="18930" material="018930-0004" title="Drekar" />
+      <credits />
+    </event>
+    <event event-id="4902905" serie-id="23884" start-time="2017-07-18 17:45:00" duration="00:08:00" mark="no">
+      <title>Táknmálsfréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="365" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23884" material="023884-0199" title="Táknmálsfréttir" />
+      <credits />
+    </event>
+  </service>
+</schedule>
