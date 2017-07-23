@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-07-23 13:42" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2017-07-23">
+    <event event-id="4901662" serie-id="24804" start-time="2017-07-23 15:50:00" duration="02:00:00" mark="no">
+      <title>Skotland - Portúgal</title>
+      <original-title>EM kvenna í fótbolta</original-title>
+      <description><![CDATA[Bein útsending frá leik Skotlands og Portúgals á EM kvenna í fótbolta.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="24804" material="024804-0015" title="Skotland - Portúgal" />
+      <credits />
+    </event>
+    <event event-id="4934907" serie-id="24803" start-time="2017-07-23 17:50:00" duration="01:30:00" mark="no">
+      <title>Íslandsmótið í golfi</title>
+      <original-title />
+      <description><![CDATA[Bein útsending frá Íslandsmótinu í höggleik sem fram fer á Hvaleyrarvelli í Hafnarfirði.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="24803" material="024803-0005" title="Íslandsmótið í golfi" />
+      <credits />
+    </event>
+  </service>
+</schedule>
