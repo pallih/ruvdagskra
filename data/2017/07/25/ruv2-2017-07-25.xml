@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-07-25 13:42" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2017-07-25">
+    <event event-id="4902917" serie-id="" start-time="2017-07-25 17:00:00" duration="01:35:00" mark="no">
+      <title>KrakkaRÚV</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="11" number-of-episodes="366" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4902917" title="KrakkaRÚV" />
+    </event>
+    <event event-id="4902918" serie-id="17002" start-time="2017-07-25 17:01:00" duration="00:23:49" mark="yes">
+      <title>Hopp og hí Sessamí</title>
+      <original-title>Play with Me Sesame</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="3" number-of-episodes="26" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/17002/</more-info>
+      <reference group="17002" material="017002-0022" title="Hopp og hí Sessamí" />
+      <details id="17002">
+        <series-title>Hopp og hí Sessamí</series-title>
+        <series-original-title>Play with Me Sesame</series-original-title>
+        <series-description>
+          <p>Loksins eru vinirnir á Sessamístræti farnir að tala íslensku. Stórskemmtilegur þáttur með fullt af lögum og lærdómi fyrir alla krakka á leikskólaaldri.</p>
+          <p>Tilvalið er að benda íslenskum fjölskyldum í útlöndum á þessa þætti þar sem þeir eru aðgengilegir innanlands sem utan og eru á vefnum í 90 daga.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4902919" serie-id="18930" start-time="2017-07-25 17:24:00" duration="00:23:00" mark="yes">
+      <title>Drekar</title>
+      <original-title>Dragons: Riders of Berk</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="2" number-of-episodes="20" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="18930" material="018930-0005" title="Drekar" />
+      <credits />
+    </event>
+    <event event-id="4901664" serie-id="24804" start-time="2017-07-25 18:35:00" duration="01:50:00" mark="no">
+      <title>Svíþjóð - Ítalía</title>
+      <original-title>EM kvenna í fótbolta</original-title>
+      <description><![CDATA[Bein útsending frá leik Svíþjóðar og Ítalíu á EM kvenna í fótbolta.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="24804" material="024804-0019" title="Svíþjóð - Ítalía" />
+      <credits />
+    </event>
+  </service>
+</schedule>
