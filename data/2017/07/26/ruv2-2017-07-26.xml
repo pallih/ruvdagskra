@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-07-26 13:42" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2017-07-26">
+    <event event-id="4902920" serie-id="" start-time="2017-07-26 17:00:00" duration="00:45:00" mark="no">
+      <title>KrakkaRÚV</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="12" number-of-episodes="366" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4902920" title="KrakkaRÚV" />
+    </event>
+    <event event-id="4902921" serie-id="20809" start-time="2017-07-26 17:01:00" duration="00:07:32" mark="yes">
+      <title>Klaufabárðarnir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="2" number-of-episodes="69" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/20809/</more-info>
+      <reference group="20809" material="020809-0034" title="Klaufabárðarnir" />
+      <details id="20809">
+        <series-title>Klaufabárðarnir</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4902922" serie-id="18990" start-time="2017-07-26 17:08:00" duration="00:12:23" mark="yes">
+      <title>Vinabær Danna tígurs</title>
+      <original-title>Daniel Tiger&apos;s Neighbourhood</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="2" number-of-episodes="40" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/18990/</more-info>
+      <reference group="18990" material="018990-0003" title="Vinabær Danna tígurs" />
+      <details id="18990">
+        <series-title>Vinabær Danna tígurs</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4902923" serie-id="21814" start-time="2017-07-26 17:20:00" duration="00:22:30" mark="yes">
+      <title>Sanjay og Craig</title>
+      <original-title>Sanjay and Craig</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="2" number-of-episodes="20" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/21814/</more-info>
+      <reference group="21814" material="021814-0003" title="Sanjay og Craig" />
+      <details id="21814">
+        <series-title>Sanjay og Craig</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Sanjay er 12 ára strákur sem á frekar óvenjulegt gæludýr og saman lenda þeir í ýmsum ævintýrum.</p>
+        </series-description>
+        <series-short-description>
+          <p>Sanjay er 12 ára strákur sem á frekar óvenjulegt gæludýr og saman lenda þeir í ýmsum ævintýrum.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4902924" serie-id="23884" start-time="2017-07-26 17:45:00" duration="00:08:00" mark="no">
+      <title>Táknmálsfréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="3" number-of-episodes="365" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23884" material="023884-0207" title="Táknmálsfréttir" />
+      <credits />
+    </event>
+    <event event-id="4901665" serie-id="24804" start-time="2017-07-26 18:35:00" duration="01:55:00" mark="no">
+      <title>Sviss - Frakkland</title>
+      <original-title>EM kvenna í fótbolta</original-title>
+      <description><![CDATA[Bein útsending frá leik Sviss og Frakklands á EM kvenna í fótbolta.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="24804" material="024804-0021" title="Sviss - Frakkland" />
+      <credits />
+    </event>
+  </service>
+</schedule>
