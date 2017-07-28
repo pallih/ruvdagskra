@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-07-28 13:42" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="1" service-name="RÚV" date="2017-07-28">
+    <event event-id="4898031" serie-id="24703" start-time="2017-07-28 15:30:00" duration="02:15:00" mark="no">
+      <title>HM í sundi</title>
+      <original-title />
+      <description><![CDATA[Bein útsending frá Heimsmeistaramótinu í sundi í 50 metra laug sem haldin er í Búdapest. Allt besta sundfólk Íslands verður meðal keppenda.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="24703" material="024703-0004" title="HM í sundi" />
+      <credits />
+    </event>
+    <event event-id="4886501" serie-id="23884" start-time="2017-07-28 17:50:00" duration="00:08:00" mark="no">
+      <title>Táknmálsfréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23884" material="023884-0209" title="Táknmálsfréttir" />
+      <credits />
+    </event>
+    <event event-id="4902906" serie-id="" start-time="2017-07-28 18:00:00" duration="00:30:00" mark="no">
+      <title>KrakkaRÚV</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4902906" title="KrakkaRÚV" />
+    </event>
+    <event event-id="4900514" serie-id="18935" start-time="2017-07-28 18:01:00" duration="00:15:00" mark="yes">
+      <title>Pósturinn Páll</title>
+      <original-title>Postman Pat</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="14" number-of-episodes="14" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/18935/</more-info>
+      <reference group="18935" material="018935-0014" title="Pósturinn Páll" />
+      <details id="18935">
+        <series-title>Pósturinn Páll</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4888675" serie-id="20431" start-time="2017-07-28 18:16:00" duration="00:11:03" mark="yes">
+      <title>Kata og Mummi</title>
+      <original-title>Kate and Mim-Mim</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="26" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/20431/</more-info>
+      <reference group="20431" material="020431-0031" title="Kata og Mummi" />
+      <details id="20431">
+        <series-title>Kata og Mummi</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4902843" serie-id="23496" start-time="2017-07-28 18:30:00" duration="00:25:00" mark="no">
+      <title>Ævar vísindamaður</title>
+      <original-title>Líkaminn</original-title>
+      <description><![CDATA[Fjórða þáttaröðin af Edduverðlauna-þáttunum um Ævar vísindamann. Sem fyrr kannar Ævar furðulega og spennandi hluti úr heimi vísindanna. Hann fer meðal annars í svaðilför til Surtseyjar og rannsaka stærstu tilraun í heimi. Stórskemmtilegir þættir fyrir alla fjölskylduna. Dagskrárgerð: Gunnar B. Gudmundsson og Ævar Þór Benediktsson. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="7" number-of-episodes="8" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/23496/</more-info>
+      <reference group="23496" material="023496-0007" title="Ævar vísindamaður" />
+      <details id="23496">
+        <series-title>Ævar vísindamaður</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Fjórða þáttaröðin af Edduverðlauna-þáttunum um Ævar vísindamann. Sem fyrr kannar Ævar furðulega og spennandi hluti úr heimi vísindanna. Hann fer meðal annars í svaðilför til Surtseyjar og rannsaka stærstu tilraun í heimi. Stórskemmtilegir þættir fyrir alla fjölskylduna. Dagskrárgerð: Gunnar B. Gudmundsson og Ævar Þór Benediktsson.</p>
+        </series-description>
+        <series-short-description>
+          <p>Fjórða þáttaröðin af Edduverðlauna-þáttunum um Ævar vísindamann.</p>
+        </series-short-description>
+        <episode-description>
+          <p>Í þætti dagsins skoðum við hvaða áhrif einelti getur haft á líkamann, vísindakona dagsins er læknirinn Helen Taussig (leikin bæði af Sigrúnu Eddu Björnsdóttur og Sigurjónu Rós Benediktsdóttur), tvær íslenskar uppfinningakonur koma í heimsókn, við heimsækjum Einkaleyfastofuna og svo breytum við Stúdíói A í risatölvuleikjafjarstýringu!</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4882911" serie-id="23879" start-time="2017-07-28 19:00:00" duration="00:23:00" mark="no">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23879" material="023879-0209" title="Fréttir" />
+      <credits />
+    </event>
+    <event event-id="4883686" serie-id="23877" start-time="2017-07-28 19:25:00" duration="00:05:00" mark="no">
+      <title>Íþróttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <reference group="23877" material="023877-0150" title="Íþróttir" />
+      <credits />
+    </event>
+    <event event-id="4884472" serie-id="23882" start-time="2017-07-28 19:30:00" duration="00:03:00" mark="no">
+      <title>Veður</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23882" material="023882-0208" title="Veður" />
+      <credits />
+    </event>
+    <event event-id="4899028" serie-id="24425" start-time="2017-07-28 19:40:00" duration="00:27:51" mark="no">
+      <title>Kærleikskveðja, Nína</title>
+      <original-title>Love, Nina</original-title>
+      <description><![CDATA[Bresk þáttaröð frá BBC um unga stúlku sem gerist barnfóstra framakonu í London. Þættirnir segja frá grátbroslegri upplifun hennar á heimilinu með börnunum og í stórborginni. Aðalhlutverk: Faye Marsay, Helena Bonham Carter og Ehan Rouse.]]></description>
+      <short-description />
+      <rating />
+      <episode number="3" number-of-episodes="5" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/24425/</more-info>
+      <reference group="24425" material="024425-0003" title="Kærleikskveðja, Nína" />
+      <details id="24425">
+        <series-title>Kærleikskveðja, Nína</series-title>
+        <series-original-title>Love, Nina</series-original-title>
+        <series-description>
+          <p>Bresk þáttaröð frá BBC um unga stúlku sem gerist barnfóstra framakonu í London. Þættirnir segja frá grátbroslegri upplifun hennar á heimilinu með börnunum og í stórborginni. Aðalhlutverk: Faye Marsay, Helena Bonham Carter og Ehan Rouse.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4899778" serie-id="24423" start-time="2017-07-28 20:15:00" duration="00:43:36" mark="no">
+      <title>Séra Brown</title>
+      <original-title>Father Brown III</original-title>
+      <description><![CDATA[Breskur sakamálaþáttur um hinn slungna séra Brown sem er ekki bara kaþólskur prestur heldur leysir glæpsamleg mál á milli kirkjuathafna. Aðalhlutverk: Mark Williams.]]></description>
+      <short-description />
+      <rating />
+      <episode number="3" number-of-episodes="11" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/24423/</more-info>
+      <reference group="24423" material="024423-0003" title="Séra Brown" />
+      <details id="24423">
+        <series-title>Séra Brown</series-title>
+        <series-original-title>Father Brown III</series-original-title>
+        <series-description>
+          <p>Breskur sakamálaþáttur um hinn slungna séra Brown sem er ekki bara kaþólskur prestur heldur leysir glæpsamleg mál á milli kirkjuathafna. Aðalhlutverk: Mark Williams.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4901278" serie-id="22571" start-time="2017-07-28 21:00:00" duration="02:00:00" mark="no">
+      <title>Mrs. Doubtfire</title>
+      <original-title>Frú Doubtfire</original-title>
+      <description><![CDATA[Gamansöm mynd fyrir alla fjölskylduna með Robin Williams, Sally Field og Pierce Brosnan í aðalhlutverkum. Eftir erfiðan skilnað ákveður leikari að klæða sig upp sem húshjálp í því skyni að umgangast börnin sín - allt beint fyrir framan nefið á fyrrum eiginkonunni. Leikstjóri: Chris Columbus. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="7">Kvikmyndir</category>
+      <more-info>http://dagskra.ruv.is/nanar/22571/</more-info>
+      <reference group="22571" material="022571-0001" title="Mrs. Doubtfire" />
+      <details id="22571">
+        <series-title>Mrs. Doubtfire</series-title>
+        <series-original-title>Frú Doubtfire</series-original-title>
+        <series-description>
+          <p>Gamansöm mynd fyrir alla fjölskylduna með Robin Williams, Sally Field og Pierce Brosnan í aðalhlutverkum. Eftir erfiðan skilnað ákveður leikari að klæða sig upp sem húshjálp í því skyni að umgangast börnin sín - allt beint fyrir framan nefið á fyrrum eiginkonunni. Leikstjóri: Chris Columbus.</p>
+        </series-description>
+        <series-short-description>
+          <p>Gamansöm mynd fyrir alla fjölskylduna með Robin Williams, Sally Field og Pierce Brosnan í aðalhlutverkum.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4897825" serie-id="19048" start-time="2017-07-28 23:05:00" duration="01:47:15" mark="no">
+      <title>Step Up: All In</title>
+      <original-title>Dansað til sigurs</original-title>
+      <description><![CDATA[Dansmynd þar sem við rifjum upp kynnin við persónur frá fyrri Step Up myndunum. Dansarinn Sean Asa er kominn til Hollywood þar sem hann vonar að hann fái tækifæri til að láta ljós sitt skína. Leikstjóri: Trish Shie. Leikarar: Alyson Stoner, Briana Evigan, Ryan Guzman, Izabella Miko, Adam G. Sevani, Chadd Smith, Karin Konoval. Atirði í myndinni eru ekki við hæfi ungra barna.]]></description>
+      <short-description />
+      <rating>12</rating>
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="7">Kvikmyndir</category>
+      <more-info>http://dagskra.ruv.is/nanar/19048/</more-info>
+      <reference group="19048" material="019048-0001" title="Step Up: All In" />
+      <details id="19048">
+        <series-title>Step Up: All In</series-title>
+        <series-original-title>Dansað til sigurs</series-original-title>
+        <series-description>
+          <p>Dansmynd þar sem við rifjum upp kynnin við persónur frá fyrri Step Up myndunum. Dansarinn Sean Asa er kominn til Hollywood þar sem hann vonar að hann fái tækifæri til að láta ljós sitt skína. Leikstjóri: Trish Shie. Leikarar: Alyson Stoner, Briana Evigan, Ryan Guzman, Izabella Miko, Adam G. Sevani, Chadd Smith, Karin Konoval. Atirði í myndinni eru ekki við hæfi ungra barna.</p>
+        </series-description>
+        <series-short-description>
+          <p>Lokamyndin í röð feiki vinsælla dansmynda.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4892299" serie-id="" start-time="2017-07-29 00:55:00" duration="00:03:00" mark="no">
+      <title>Útvarpsfréttir í dagskrárlok</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4892299" title="Útvarpsfréttir í dagskrárlok" />
+    </event>
+  </service>
+</schedule>
