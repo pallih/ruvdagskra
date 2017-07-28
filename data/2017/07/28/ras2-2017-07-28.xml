@@ -1,0 +1,877 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-07-28 13:42" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="3" service-name="Rás 2" date="2017-07-28">
+    <event event-id="4878207" serie-id="23820" start-time="2017-07-28 06:00:00" duration="00:03:00" mark="no">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23820" material="023820-0209" title="Fréttir" />
+      <credits />
+    </event>
+    <event event-id="4878513" serie-id="23821" start-time="2017-07-28 06:03:00" duration="00:46:59" mark="no">
+      <title>Morguntónar</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="9">Tónlist</category>
+      <more-info>http://dagskra.ruv.is/nanar/23821/</more-info>
+      <reference group="23821" material="023821-0150" title="Morguntónar" />
+      <details id="23821">
+        <series-title>Morguntónar</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4896520" serie-id="23822" start-time="2017-07-28 06:50:00" duration="02:10:00" mark="no">
+      <title>Morgunútvarpið</title>
+      <original-title>Morgunútvarpið 28. júlí 2017</original-title>
+      <description><![CDATA[Umsjón: Guðrún Sóley Gestsdóttir, Sigmar Guðmundsson og Aðalsteinn Kjartansson.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="13">Samfélag</category>
+      <more-info>http://dagskra.ruv.is/nanar/23822/</more-info>
+      <reference group="23822" material="023822-0143" title="Morgunútvarpið" />
+      <details id="23822">
+        <series-title>Morgunútvarpið</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Morgunútvarpið vekur hlustendur með glóðvolgum fréttum og snarpri umfjöllun um samfélagsmál. Umsjón: Sigmar Guðmundsson, Guðrún Sóley Gestsdóttir og Aðalsteinn Kjartansson.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>7:30 John Snorri gerir nú atlögu að tindi K2. Við reyndum að ná sambandi við hann sjálfan en heyrðum  í Hjördísi Guðmundsdóttur sem hefur verið í reglulegu sambandi við John á meðan leiðangrinum stendur.</p>
+          <p>8:35 Freyr Gígja Gunnarsson verður með sinn vikulega pistil um hégómavísindin.  Fréttir af fallega ríka og fræga fólkinu.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4864587" serie-id="23652" start-time="2017-07-28 07:00:00" duration="00:03:00" mark="yes">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23652" material="023652-0209" title="Fréttir" />
+      <credits />
+    </event>
+    <event event-id="4865868" serie-id="23661" start-time="2017-07-28 07:30:00" duration="00:01:00" mark="yes">
+      <title>Fréttayfirlit</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23661" material="023661-0143" title="Fréttayfirlit" />
+      <credits />
+    </event>
+    <event event-id="4865318" serie-id="23660" start-time="2017-07-28 08:00:00" duration="00:05:00" mark="yes">
+      <title>Morgunfréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttatengt</category>
+      <more-info>http://dagskra.ruv.is/nanar/23660/</more-info>
+      <reference group="23660" material="023660-0209" title="Morgunfréttir" />
+      <details id="23660">
+        <series-title>Morgunfréttir</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4866370" serie-id="23662" start-time="2017-07-28 08:30:00" duration="00:01:00" mark="yes">
+      <title>Fréttayfirlit</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23662" material="023662-0143" title="Fréttayfirlit" />
+      <credits />
+    </event>
+    <event event-id="4868120" serie-id="23663" start-time="2017-07-28 09:00:00" duration="00:05:00" mark="no">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23663" material="023663-0150" title="Fréttir" />
+      <credits />
+    </event>
+    <event event-id="4901415" serie-id="25104" start-time="2017-07-28 09:05:00" duration="03:10:00" mark="no">
+      <title>Sumarmorgnar</title>
+      <original-title>Kiryama þekja og sólarlandasögur frá Jamaika</original-title>
+      <description><![CDATA[Umsjón: Þórður Helgi Þórðarson, Salka Sól Eyfeld og Sólmundur Hólm.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <more-info>http://dagskra.ruv.is/nanar/25104/</more-info>
+      <reference group="25104" material="025104-0041" title="Sumarmorgnar" />
+      <details id="25104">
+        <series-title>Sumarmorgnar</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Sumarmorgnar eru á dagskrá alla virka daga frá 9 til rúmlega 12. Umsjónarmenn eru Doddi litli, Salka Sól og Sóli Hólm og fá þau til sín góða gesti í bland við allskonar vitleysu frá þáttastjórnendum sjálfum. Það verður sól alla morgna á Rás 2 í sumar.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Umsjón: Sigrún Huld Skúladóttir og Þórður Helgi Þórðarson</p>
+          <p>Þekja dagsins var Ray of Light, með Curtiss Maldoon annars vegar og Madonnu hins vegar. María Guðmundsdóttir heimsótti okkur, sagði sólarlandasögu af ferð til Jamaica og við spiluðum sólarlandalag að hennar vali. Farið var yfir hvað hægt væri að gera fyrir og með börnunum í dag og um helgina. Ferðaglaðningurinn var á sínum stað og bar Viðar Ingólfsson sigur úr býtum þegar hann giskaði á rétt svar, sem var Helgi Seljan. Kiriyama Family kíkti til okkar í spjall og tók þekju af laginu Childish Gambino með hljómsveitinni Redbone. Við hringdum í Magna Ásgeirsson til að taka stöðuna á Bræðslunni í Borgarfirði Eystra.</p>
+          <p>9-10</p>
+          <p>Bumpaðu Baby bumpaðu: Fjallkonan</p>
+          <p>Líður aðeins betur: Páll Óskar</p>
+          <p>I Promise: Radiohead</p>
+          <p>Sepheryn (Ray of Light): Curtiss Maldoon</p>
+          <p>Ray of Light: Madonna</p>
+          <p>Stun Gun: Quarashi</p>
+          <p>Redbone: Childish Gambino</p>
+          <p>10-11</p>
+          <p>Keep on ft. Stefanía Svavars: Red Robertsson</p>
+          <p>Xanadu: Olivia Newton-John</p>
+          <p>Sólarlandalagið: María Guðmundsdóttir</p>
+          <p>Buffalo Soldier: Bob Marley &amp; The Wailers</p>
+          <p>Ég ætla upp: Þórunn Antonía</p>
+          <p>Reverend Black Grape: Black Grape</p>
+          <p>Ferðaglaðningurinn: Viðar Ingólfsson</p>
+          <p>11-12</p>
+          <p>Lommér að sjá: Todmobile</p>
+          <p>I know ft. Major Lazer: Sturla Atlas</p>
+          <p>Engar hendur: Úlfur úlfur</p>
+          <p>Tónlistargestur: Kiriyama Family (Childish Gambino)</p>
+          <p>Waiting for your Love: Kiriyama Family</p>
+          <p>Where the Streets Have no Name (Cant take my eyes off you): Pet Shop Boys</p>
+          <p>Símaviðtal: Magni Ásgeirsson (Bræðslan)</p>
+          <p>Nóttin, hún er yndisleg: Síðan skein sól</p>
+          <p>Skuggi: HAM (plata vikunnar)</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4867340" serie-id="23668" start-time="2017-07-28 10:00:00" duration="00:03:00" mark="yes">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttatengt</category>
+      <more-info>http://dagskra.ruv.is/nanar/23668/</more-info>
+      <reference group="23668" material="023668-0150" title="Fréttir" />
+      <details id="23668">
+        <series-title>Fréttir</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4868939" serie-id="23671" start-time="2017-07-28 11:00:00" duration="00:03:00" mark="yes">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23671" material="023671-0143" title="Fréttir" />
+      <credits />
+    </event>
+    <event event-id="4890549" serie-id="24294" start-time="2017-07-28 12:00:00" duration="00:03:00" mark="yes">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="24294" material="024294-0143" title="Fréttir" />
+      <credits />
+    </event>
+    <event event-id="4870063" serie-id="23674" start-time="2017-07-28 12:20:00" duration="00:22:00" mark="no">
+      <title>Hádegisfréttir</title>
+      <original-title>Hádegisfréttir 28.07.2017</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttatengt</category>
+      <more-info>http://dagskra.ruv.is/nanar/23674/</more-info>
+      <reference group="23674" material="023674-0150" title="Hádegisfréttir" />
+      <details id="23674">
+        <series-title>Hádegisfréttir</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description>
+          <p>Fjallgöngugarpurinn John Snorri Sigurjónsson komst á topp fjallsins K2 fyrir hádegi í dag. Hann sagðist í sigurvímu þegar hann stóð á tindinum, uppgangan sóttist seint því veður setti strik í reikninginn og ferðin niður er erfið.</p>
+          <p>Alvarleg mannekla er á leikskólum borgarinnar. Leikskólastjóri segir of fáa leikskólakennara hafa útskrifast síðustu ár og að þeir sæki frekar í betri vinnuaðstæður, utan höfuðborgarinnar.</p>
+          <p>Rússar krefjast þess að Bandaríkjamenn fækki starfsfólki sendiráðs síns í Moskvu. Einnig hefur hald verið lagt á tvær fasteignir sendiráðsins. Þetta er gert vegna ákvörðunar Bandaríkjaþings um að herða refsiaðgerðir gegn Rússum.</p>
+          <p>Bæjarstjóri Vestmannaeyja segir ómálefnalegt að Samgöngustofa hafi ekki veitt heimild til þess að sigla ferjunni Akranesi og milli lands og eyja um verslunarmannahelgina. Hann hyggst kæra ákvörðunina til innanríkisráðuneytis.</p>
+          <p>Endurskoðun viðbragðsáætlunar vegna Kötlugoss er ólokið. Aukinn fjöldi fólks á svæðinu veldur því að mun vandasamara verður að rýma það. Búið er að bæta farsímasamband en enn eru þó staðir þar sem hvorki næst samband með farsíma eða tetra-kerfi.</p>
+          <p>Jóhanna Sigurðardóttir óskaði Færeyingum til hamingju með að vera loks komnir í hóp þeirra þjóða sem viðurkenni hjónabönd samkynhneigðra, í ræðu sem hún hélt á Hinsegin dögum í Færeyjum í gær. Ræðan var tilfinningaþrungin og persónuleg.</p>
+          <p>Veður</p>
+          <p>Norðaustan fimm til þrettán metrar, en þrettán til átján suðaustantil á morgun. Bjartviðri vestantil, en rigning um landið austanvert og dálítil súld með norðvesturströndinni. Hiti átta til tuttugu stig, hlýjast suðvestanlands en svalast á norðausturhorninu.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4879017" serie-id="23823" start-time="2017-07-28 12:45:00" duration="03:15:00" mark="no">
+      <title>Poppland</title>
+      <original-title />
+      <description><![CDATA[Umsjón: Hulda G. Geirsdóttir.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="9">Tónlist</category>
+      <more-info>http://dagskra.ruv.is/nanar/23823/</more-info>
+      <reference group="23823" material="023823-0143" title="Poppland" />
+      <details id="23823">
+        <series-title>Poppland</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Poppland er vinur í raun og land án landamæra. Poppland er einn elsti og dáðasti tónlistarþáttur landsins og Matti stendur þar vaktina eins og undanfarin ár. Óli Palli er svo Matta til halds og trausts með reglulegum innkomum.</p>
+          <p>Umsjón: Matthías Már Magnússon.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4869546" serie-id="23673" start-time="2017-07-28 14:00:00" duration="00:03:00" mark="yes">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <more-info>http://dagskra.ruv.is/nanar/23673/</more-info>
+      <reference group="23673" material="023673-0144" title="Fréttir" />
+      <details id="23673">
+        <series-title>Fréttir</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4870567" serie-id="23675" start-time="2017-07-28 15:00:00" duration="00:03:00" mark="yes">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <more-info>http://dagskra.ruv.is/nanar/23675/</more-info>
+      <reference group="23675" material="023675-0143" title="Fréttir" />
+      <details id="23675">
+        <series-title>Fréttir</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4871349" serie-id="23677" start-time="2017-07-28 16:00:00" duration="00:05:00" mark="no">
+      <title>Síðdegisfréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttatengt</category>
+      <more-info>http://dagskra.ruv.is/nanar/23677/</more-info>
+      <reference group="23677" material="023677-0209" title="Síðdegisfréttir" />
+      <details id="23677">
+        <series-title>Síðdegisfréttir</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4879521" serie-id="23825" start-time="2017-07-28 16:05:00" duration="01:55:00" mark="no">
+      <title>Síðdegisútvarpið</title>
+      <original-title />
+      <description><![CDATA[Umsjón: Björg Magnúsdóttir og Viktoría Hermannsdóttir.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="13">Samfélag</category>
+      <more-info>http://dagskra.ruv.is/nanar/23825/</more-info>
+      <reference group="23825" material="023825-0143" title="Síðdegisútvarpið" />
+      <details id="23825">
+        <series-title>Síðdegisútvarpið</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Þau Guðmundur Pálsson, Björg Magnúsdóttir og Atli Már Steinarsson halda landanum vel upplýstum um menn og málefni á leið úr vinnu á daginn. Þau fylgjast vel með fréttum og dægurmálum og spila nóg af góðri tónlist.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4871747" serie-id="23679" start-time="2017-07-28 17:00:00" duration="00:03:00" mark="yes">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttatengt</category>
+      <more-info>http://dagskra.ruv.is/nanar/23679/</more-info>
+      <reference group="23679" material="023679-0143" title="Fréttir" />
+      <details id="23679">
+        <series-title>Fréttir</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4872817" serie-id="23681" start-time="2017-07-28 18:00:00" duration="00:10:00" mark="no">
+      <title>Kvöldfréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttatengt</category>
+      <more-info>http://dagskra.ruv.is/nanar/23681/</more-info>
+      <reference group="23681" material="023681-0086" title="Kvöldfréttir" />
+      <details id="23681">
+        <series-title>Kvöldfréttir</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4884825" serie-id="23832" start-time="2017-07-28 18:10:00" duration="00:50:00" mark="no">
+      <title>Eldhúsverkin</title>
+      <original-title />
+      <description><![CDATA[Umsjón: Atli Már Steinarsson.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="9">Tónlist</category>
+      <more-info>http://dagskra.ruv.is/nanar/23832/</more-info>
+      <reference group="23832" material="023832-0146" title="Eldhúsverkin" />
+      <details id="23832">
+        <series-title>Eldhúsverkin</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Atli Már heldur fólki við eldhúsverkin milli útvarps- og sjónvarpsfrétta með fjölbreyttri tónlist.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4885644" serie-id="23871" start-time="2017-07-28 19:00:00" duration="00:23:00" mark="no">
+      <title>Sjónvarpsfréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttatengt</category>
+      <more-info>http://dagskra.ruv.is/nanar/23871/</more-info>
+      <reference group="23871" material="023871-0209" title="Sjónvarpsfréttir" />
+      <details id="23871">
+        <series-title>Sjónvarpsfréttir</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4883824" serie-id="23856" start-time="2017-07-28 19:23:00" duration="02:35:00" mark="no">
+      <title>Füzz</title>
+      <original-title />
+      <description><![CDATA[Umsjón: Hulda Geirsdóttir.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="9">Tónlist</category>
+      <more-info>http://dagskra.ruv.is/nanar/23856/</more-info>
+      <reference group="23856" material="023856-0028" title="Füzz" />
+      <details id="23856">
+        <series-title>Füzz</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Lykilorð þáttarins Fuzz er Rokk! Það er Fuzztudagskvöld og þá er Rokk á Rás 2. Hér verður allskonar rokk; nýtt rokk, kántrí-rokk, 70´s, 60´s, 80´s 50´s, 90´s rokk og þungarokk. Rokkið fær sjálft að tala og syngja og maður á að hlusta hátt.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4873408" serie-id="23682" start-time="2017-07-28 22:00:00" duration="00:05:00" mark="no">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttatengt</category>
+      <more-info>http://dagskra.ruv.is/nanar/23682/</more-info>
+      <reference group="23682" material="023682-0209" title="Fréttir" />
+      <details id="23682">
+        <series-title>Fréttir</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4882470" serie-id="23851" start-time="2017-07-28 22:05:00" duration="02:55:00" mark="no">
+      <title>Kallkerfið</title>
+      <original-title />
+      <description><![CDATA[Umsjón: Atli Már Steinarsson.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="9">Tónlist</category>
+      <more-info>http://dagskra.ruv.is/nanar/23851/</more-info>
+      <reference group="23851" material="023851-0030" title="Kallkerfið" />
+      <details id="23851">
+        <series-title>Kallkerfið</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Kallkerfi þjóðarinnar ábyrgist að landsmenn fari fullir af orku og eftirvæntingu inn í helgina. Hvort sem hlustendur slaka á eftir erfiða viku eða gíra sig upp í föstudagsstemmningu er öruggt að allir fá að heyra eitthvað sem kitlar tærnar.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4874138" serie-id="23683" start-time="2017-07-29 00:00:00" duration="00:05:00" mark="yes">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23683" material="023683-0209" title="Fréttir" />
+      <credits />
+    </event>
+    <event event-id="4874503" serie-id="23684" start-time="2017-07-29 01:00:00" duration="00:03:00" mark="no">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23684" material="023684-0209" title="Fréttir" />
+      <credits />
+    </event>
+    <event event-id="4882271" serie-id="23847" start-time="2017-07-29 01:03:00" duration="00:22:53" mark="no">
+      <title>Glefsur úr morgun- og síðdegisþáttum Rásar 2</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="13">Samfélag</category>
+      <more-info>http://dagskra.ruv.is/nanar/23847/</more-info>
+      <reference group="23847" material="023847-0143" title="Glefsur úr morgun- og síðdegisþáttum Rásar 2" />
+      <details id="23847">
+        <series-title>Glefsur úr morgun- og síðdegisþáttum Rásar 2</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4874868" serie-id="23685" start-time="2017-07-29 02:00:00" duration="00:03:00" mark="no">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23685" material="023685-0209" title="Fréttir" />
+      <credits />
+    </event>
+    <event event-id="4901885" serie-id="25104" start-time="2017-07-29 02:03:00" duration="02:20:23" mark="no">
+      <title>Sumarmorgnar</title>
+      <original-title>Kiryama þekja og sólarlandasögur frá Jamaika</original-title>
+      <description><![CDATA[Umsjón: Þórður Helgi Þórðarson, Salka Sól Eyfeld og Sólmundur Hólm.
+(Frá því í morgun)]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <more-info>http://dagskra.ruv.is/nanar/25104/</more-info>
+      <reference group="25104" material="025104-0041" title="Sumarmorgnar" />
+      <details id="25104">
+        <series-title>Sumarmorgnar</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Sumarmorgnar eru á dagskrá alla virka daga frá 9 til rúmlega 12. Umsjónarmenn eru Doddi litli, Salka Sól og Sóli Hólm og fá þau til sín góða gesti í bland við allskonar vitleysu frá þáttastjórnendum sjálfum. Það verður sól alla morgna á Rás 2 í sumar.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Umsjón: Sigrún Huld Skúladóttir og Þórður Helgi Þórðarson</p>
+          <p>Þekja dagsins var Ray of Light, með Curtiss Maldoon annars vegar og Madonnu hins vegar. María Guðmundsdóttir heimsótti okkur, sagði sólarlandasögu af ferð til Jamaica og við spiluðum sólarlandalag að hennar vali. Farið var yfir hvað hægt væri að gera fyrir og með börnunum í dag og um helgina. Ferðaglaðningurinn var á sínum stað og bar Viðar Ingólfsson sigur úr býtum þegar hann giskaði á rétt svar, sem var Helgi Seljan. Kiriyama Family kíkti til okkar í spjall og tók þekju af laginu Childish Gambino með hljómsveitinni Redbone. Við hringdum í Magna Ásgeirsson til að taka stöðuna á Bræðslunni í Borgarfirði Eystra.</p>
+          <p>9-10</p>
+          <p>Bumpaðu Baby bumpaðu: Fjallkonan</p>
+          <p>Líður aðeins betur: Páll Óskar</p>
+          <p>I Promise: Radiohead</p>
+          <p>Sepheryn (Ray of Light): Curtiss Maldoon</p>
+          <p>Ray of Light: Madonna</p>
+          <p>Stun Gun: Quarashi</p>
+          <p>Redbone: Childish Gambino</p>
+          <p>10-11</p>
+          <p>Keep on ft. Stefanía Svavars: Red Robertsson</p>
+          <p>Xanadu: Olivia Newton-John</p>
+          <p>Sólarlandalagið: María Guðmundsdóttir</p>
+          <p>Buffalo Soldier: Bob Marley &amp; The Wailers</p>
+          <p>Ég ætla upp: Þórunn Antonía</p>
+          <p>Reverend Black Grape: Black Grape</p>
+          <p>Ferðaglaðningurinn: Viðar Ingólfsson</p>
+          <p>11-12</p>
+          <p>Lommér að sjá: Todmobile</p>
+          <p>I know ft. Major Lazer: Sturla Atlas</p>
+          <p>Engar hendur: Úlfur úlfur</p>
+          <p>Tónlistargestur: Kiriyama Family (Childish Gambino)</p>
+          <p>Waiting for your Love: Kiriyama Family</p>
+          <p>Where the Streets Have no Name (Cant take my eyes off you): Pet Shop Boys</p>
+          <p>Símaviðtal: Magni Ásgeirsson (Bræðslan)</p>
+          <p>Nóttin, hún er yndisleg: Síðan skein sól</p>
+          <p>Skuggi: HAM (plata vikunnar)</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4875598" serie-id="23687" start-time="2017-07-29 04:30:00" duration="00:05:00" mark="no">
+      <title>Veðurfregnir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttatengt</category>
+      <more-info>http://dagskra.ruv.is/nanar/23687/</more-info>
+      <reference group="23687" material="023687-0209" title="Veðurfregnir" />
+      <details id="23687">
+        <series-title>Veðurfregnir</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4880624" serie-id="23829" start-time="2017-07-29 04:37:00" duration="00:22:59" mark="no">
+      <title>Næturtónar</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23829" material="023829-0209" title="Næturtónar" />
+      <credits />
+    </event>
+    <event event-id="4875233" serie-id="23686" start-time="2017-07-29 05:00:00" duration="00:03:00" mark="no">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23686" material="023686-0209" title="Fréttir" />
+      <credits />
+    </event>
+    <event event-id="4880989" serie-id="23830" start-time="2017-07-29 05:03:00" duration="00:57:00" mark="no">
+      <title>Næturtónar</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23830" material="023830-0209" title="Næturtónar" />
+      <credits />
+    </event>
+  </service>
+</schedule>
