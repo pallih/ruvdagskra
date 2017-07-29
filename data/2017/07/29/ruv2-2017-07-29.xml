@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-07-29 13:42" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2017-07-29">
+    <event event-id="4932293" serie-id="24703" start-time="2017-07-29 15:30:00" duration="02:40:00" mark="no">
+      <title>HM í sundi</title>
+      <original-title />
+      <description><![CDATA[Bein útsending frá Heimsmeistaramótinu í sundi í 50 metra laug sem haldin er í Búdapest. Allt besta sundfólk Íslands verður meðal keppenda.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="24703" material="024703-0009" title="HM í sundi" />
+      <credits />
+    </event>
+    <event event-id="4934865" serie-id="25499" start-time="2017-07-29 19:30:00" duration="05:00:00" mark="no">
+      <title>Bræðslan 2017</title>
+      <original-title />
+      <description><![CDATA[Bein útsending frá tónlistarhátíðinni Bræðslunni sem fer fram á Borgarfirði eystri laugardaginn 29. júlí. Meðal þeirra sem fram koma er Todmobile, Úlfur Úlfur og Lisa Hannigan. Stjórn upptöku: Helgi Jóhannesson.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23407" material="025499-0001" title="Bræðslan 2017" />
+      <credits />
+    </event>
+  </service>
+</schedule>
