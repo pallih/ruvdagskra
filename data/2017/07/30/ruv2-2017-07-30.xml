@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-07-30 13:42" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2017-07-30">
+    <event event-id="4901111" serie-id="24703" start-time="2017-07-30 15:30:00" duration="02:40:00" mark="no">
+      <title>HM í sundi</title>
+      <original-title />
+      <description><![CDATA[Bein útsending frá Heimsmeistaramótinu í sundi í 50 metra laug sem haldin er í Búdapest. Allt besta sundfólk Íslands verður meðal keppenda.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="24703" material="024703-0008" title="HM í sundi" />
+      <credits />
+    </event>
+  </service>
+</schedule>
