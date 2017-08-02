@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-08-02 13:42" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="1" service-name="RÚV" date="2017-08-02">
+    <event event-id="4900592" serie-id="70107" start-time="2017-08-02 17:25:00" duration="00:24:33" mark="no">
+      <title>Úr gullkistu RÚV: Út og suður</title>
+      <original-title />
+      <description><![CDATA[Gísli Einarsson fer vítt og breitt um landið og bregður upp svipmyndum af fólki. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="10" number-of-episodes="12" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <reference group="70107" material="070107-0010" title="Úr gullkistu RÚV: Út og suður" />
+      <credits />
+    </event>
+    <event event-id="4886506" serie-id="23884" start-time="2017-08-02 17:50:00" duration="00:08:00" mark="no">
+      <title>Táknmálsfréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23884" material="023884-0214" title="Táknmálsfréttir" />
+      <credits />
+    </event>
+    <event event-id="4893206" serie-id="" start-time="2017-08-02 18:00:00" duration="00:45:00" mark="no">
+      <title>KrakkaRÚV</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4893206" title="KrakkaRÚV" />
+    </event>
+    <event event-id="4902376" serie-id="18990" start-time="2017-08-02 18:01:00" duration="00:12:23" mark="yes">
+      <title>Vinabær Danna tígurs</title>
+      <original-title>Daniel Tiger&apos;s Neighbourhood</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="2" number-of-episodes="40" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/18990/</more-info>
+      <reference group="18990" material="018990-0004" title="Vinabær Danna tígurs" />
+      <details id="18990">
+        <series-title>Vinabær Danna tígurs</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4902416" serie-id="20809" start-time="2017-08-02 18:14:00" duration="00:06:53" mark="yes">
+      <title>Klaufabárðarnir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="33" number-of-episodes="69" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/20809/</more-info>
+      <reference group="20809" material="020809-0035" title="Klaufabárðarnir" />
+      <details id="20809">
+        <series-title>Klaufabárðarnir</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4902454" serie-id="21814" start-time="2017-08-02 18:21:00" duration="00:22:30" mark="yes">
+      <title>Sanjay og Craig</title>
+      <original-title>Sanjay and Craig</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="2" number-of-episodes="20" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/21814/</more-info>
+      <reference group="21814" material="021814-0004" title="Sanjay og Craig" />
+      <details id="21814">
+        <series-title>Sanjay og Craig</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Sanjay er 12 ára strákur sem á frekar óvenjulegt gæludýr og saman lenda þeir í ýmsum ævintýrum.</p>
+        </series-description>
+        <series-short-description>
+          <p>Sanjay er 12 ára strákur sem á frekar óvenjulegt gæludýr og saman lenda þeir í ýmsum ævintýrum.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4901812" serie-id="25099" start-time="2017-08-02 18:45:00" duration="00:05:20" mark="no">
+      <title>Vísindahorn Ævars</title>
+      <original-title>Christopher Columbus</original-title>
+      <description><![CDATA[Þáttarbrot með Ævari vísindamanni fyrir krakka á öllum aldri.]]></description>
+      <short-description />
+      <rating />
+      <episode number="17" number-of-episodes="53" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <more-info>http://dagskra.ruv.is/nanar/25099/</more-info>
+      <reference group="25099" material="025099-0034" title="Vísindahorn Ævars" />
+      <details id="25099">
+        <series-title>Vísindahorn Ævars</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Þáttarbrot með Ævari vísindamanni fyrir krakka á öllum aldri.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4882575" serie-id="23854" start-time="2017-08-02 18:54:00" duration="00:03:00" mark="no">
+      <title>Víkingalottó</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="31" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23854" material="023854-0031" title="Víkingalottó" />
+      <credits />
+    </event>
+    <event event-id="4882916" serie-id="23879" start-time="2017-08-02 19:00:00" duration="00:23:00" mark="no">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23879" material="023879-0214" title="Fréttir" />
+      <credits />
+    </event>
+    <event event-id="4883689" serie-id="23877" start-time="2017-08-02 19:25:00" duration="00:05:00" mark="no">
+      <title>Íþróttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <reference group="23877" material="023877-0153" title="Íþróttir" />
+      <credits />
+    </event>
+    <event event-id="4884477" serie-id="23882" start-time="2017-08-02 19:30:00" duration="00:03:00" mark="no">
+      <title>Veður</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23882" material="023882-0213" title="Veður" />
+      <credits />
+    </event>
+    <event event-id="4900830" serie-id="25084" start-time="2017-08-02 19:35:00" duration="00:26:00" mark="no">
+      <title>Golfið</title>
+      <original-title />
+      <description><![CDATA[Hlynur Sigurðsson fjallar um ýmsar hliðar golfiðkunar á Íslandi og ræðir við golfara. Dagskrárgerð: Benedikt Nikulás Anes Ketilsson.]]></description>
+      <short-description />
+      <rating />
+      <episode number="11" number-of-episodes="11" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="5">Íþróttir</category>
+      <more-info>http://dagskra.ruv.is/nanar/25084/</more-info>
+      <reference group="25084" material="025084-0011" title="Golfið" />
+      <details id="25084">
+        <series-title>Golfið</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Hlynur Sigurðsson fjallar um ýmsar hliðar golfiðkunar á Íslandi og ræðir við golfara. Dagskrárgerð: Benedikt Nikulás Anes Ketilsson.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4928891" serie-id="23049" start-time="2017-08-02 20:05:00" duration="00:43:45" mark="no">
+      <title>Á mörkum lífs og dauða</title>
+      <original-title>Födt på grænsen til livet</original-title>
+      <description><![CDATA[Danskur heimildarþáttur um fæðingar fyrirbura. Hluti barnanna fæðist nokkrum mánuðum fyrir tímann og er ekki hugað líf. Læknar nútímans geta nú bjargað lífi barna sem vega aðeins 500 grömm. Hins vegar vaknar spurningin hvort það sé þess virði að bjarga lífi barna við þessar aðstæður þegar mikil hætta er á alvarlegri fötlun. Dagskrárgerðarmenn frá DR fylgjast með fjórum ólíkum einstaklingum sem eiga öll við fötlun að stríða sökum þess að þau eru fædd löngu fyrir tímann.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23049" material="023049-0001" title="Á mörkum lífs og dauða" />
+      <credits />
+    </event>
+    <event event-id="4898928" serie-id="20364" start-time="2017-08-02 20:55:00" duration="00:59:32" mark="no">
+      <title>Lukka</title>
+      <original-title>Lykke</original-title>
+      <description><![CDATA[Grátbrosleg gamanþáttaröð frá DR. Hin 25 ára Lukka er nýskriðin úr háskólanámi með toppeinkunnir og er tilbúin að takast á við nýju vinnuna sem almannatengslafulltrúi hjá lyfjarisanum SanaFortis.  Nú reynir á Lukku þegar lyfjarisinn setur á markað nýtt kvíðastillandi lyf, allt virðist ætla að fara í vaskinn þegar geðlæknirinn Anders Assing blandast í málið. Atriði í þáttunum eru ekki við hæfi ungra  barna.]]></description>
+      <short-description />
+      <rating>12</rating>
+      <episode number="14" number-of-episodes="18" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/20364/</more-info>
+      <reference group="20364" material="020364-0014" title="Lukka" />
+      <details id="20364">
+        <series-title>Lukka</series-title>
+        <series-original-title>Lykke</series-original-title>
+        <series-description>
+          <p>Grátbrosleg gamanþáttaröð frá DR. Hin 25 ára Lukka er nýskriðin úr háskólanámi með toppeinkunnir og er tilbúin að takast á við nýju vinnuna sem almannatengslafulltrúi hjá lyfjarisanum SanaFortis.  Nú reynir á Lukku þegar lyfjarisinn setur á markað nýtt kvíðastillandi lyf, allt virðist ætla að fara í vaskinn þegar geðlæknirinn Anders Assing blandast í málið. Atriði í þáttunum eru ekki við hæfi ungra  barna.</p>
+        </series-description>
+        <series-short-description>
+          <p>Grátbrosleg gamanþáttaröð frá DR.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4883970" serie-id="23880" start-time="2017-08-02 22:00:00" duration="00:15:00" mark="no">
+      <title>Tíufréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23880" material="023880-0122" title="Tíufréttir" />
+      <credits />
+    </event>
+    <event event-id="4884179" serie-id="23883" start-time="2017-08-02 22:15:00" duration="00:03:00" mark="no">
+      <title>Veðurfréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23883" material="023883-0123" title="Veðurfréttir" />
+      <credits />
+    </event>
+    <event event-id="4931376" serie-id="25399" start-time="2017-08-02 22:20:00" duration="01:00:00" mark="no">
+      <title>Pútín-viðtölin</title>
+      <original-title>The Putin Files</original-title>
+      <description><![CDATA[Óskarsverðlaunahafinn Oliver Stone fylgdi Pútin forseta Rússlands og ræddi við hann meðal annars um stirt samband og ósætti milli stórveldanna.
+]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="4" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="25399" material="025399-0001" title="Pútín-viðtölin" />
+      <credits />
+    </event>
+    <event event-id="4898890" serie-id="24733" start-time="2017-08-02 23:20:00" duration="00:21:58" mark="no">
+      <title>Skömm</title>
+      <original-title>SKAM III</original-title>
+      <description><![CDATA[Þriðja þáttaröð um norsku menntaskólanemana. Lífið tekur stöðugum breytingum, allt er nýtt og að sama skapi afskaplega flókið. Ástin, samfélagsmiðlarnir, vinirnir og útlitið er dauðans alvara fyrir unglingana í Hartvig Nissen-skólanum í Ósló. Þættirnir þykja raunsannir og hafa hlotið fjölda viðurkenninga. Atriði í þáttunum eru ekki við hæfi ungra barna.]]></description>
+      <short-description />
+      <rating>12</rating>
+      <episode number="3" number-of-episodes="12" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/24733/</more-info>
+      <reference group="24733" material="024733-0003" title="Skömm" />
+      <details id="24733">
+        <series-title>Skömm</series-title>
+        <series-original-title>SKAM III</series-original-title>
+        <series-description>
+          <p>Þriðja þáttaröð um norsku menntaskólanemana. Lífið tekur stöðugum breytingum, allt er nýtt og að sama skapi afskaplega flókið. Ástin, samfélagsmiðlarnir, vinirnir og útlitið er dauðans alvara fyrir unglingana í Hartvig Nissen-skólanum í Ósló. Þættirnir þykja raunsannir og hafa hlotið fjölda viðurkenninga. Atriði í þáttunum eru ekki við hæfi ungra barna.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4850810" serie-id="" start-time="2017-08-02 23:40:00" duration="00:00:10" mark="no">
+      <title>Dagskrárlok</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="199" number-of-episodes="400" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4850810" title="Dagskrárlok" />
+    </event>
+  </service>
+</schedule>
