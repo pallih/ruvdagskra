@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-08-05 13:42" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="1" service-name="RÚV" date="2017-08-05">
+    <event event-id="4785324" serie-id="" start-time="2017-08-05 07:00:00" duration="02:45:00" mark="no">
+      <title>KrakkaRÚV</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4785324" title="KrakkaRÚV" />
+    </event>
+    <event event-id="4888467" serie-id="22401" start-time="2017-08-05 07:01:00" duration="00:06:48" mark="yes">
+      <title>Kioka</title>
+      <original-title>Kioka</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="69" number-of-episodes="78" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="22401" material="022401-0069" title="Kioka" />
+      <credits />
+    </event>
+    <event event-id="4902120" serie-id="16862" start-time="2017-08-05 07:08:00" duration="00:07:00" mark="yes">
+      <title>Ofurgroddi</title>
+      <original-title>Super Grover</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="5" number-of-episodes="13" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <more-info>http://dagskra.ruv.is/nanar/16862/</more-info>
+      <reference group="16862" material="016862-0005" title="Ofur Groddi" />
+      <details id="16862">
+        <series-title>Ofur Groddi</series-title>
+        <series-original-title>Super Grover 2.0</series-original-title>
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4900554" serie-id="20644" start-time="2017-08-05 07:15:00" duration="00:07:05" mark="yes">
+      <title>Lundaklettur</title>
+      <original-title>Puffin Rock</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="15" number-of-episodes="39" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/20644/</more-info>
+      <reference group="20644" material="020644-0015" title="Lundaklettur" />
+      <details id="20644">
+        <series-title>Lundaklettur</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4888538" serie-id="18932" start-time="2017-08-05 07:22:00" duration="00:10:34" mark="yes">
+      <title>Ólivía</title>
+      <original-title>Olivia</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="34" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="18932" material="018932-0036" title="Ólivía" />
+      <credits />
+    </event>
+    <event event-id="4902090" serie-id="21516" start-time="2017-08-05 07:33:00" duration="00:22:41" mark="yes">
+      <title>Friðþjófur Forvitni</title>
+      <original-title>Curious George</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="6" number-of-episodes="6" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="21516" material="021516-0006" title="Friðþjófur Forvitni" />
+      <credits />
+    </event>
+    <event event-id="4932404" serie-id="24574" start-time="2017-08-05 07:56:00" duration="00:05:00" mark="yes">
+      <title>Símon</title>
+      <original-title>Simon</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="10" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="24574" material="024574-0011" title="Símon" />
+      <credits />
+    </event>
+    <event event-id="4891350" serie-id="23975" start-time="2017-08-05 08:01:00" duration="00:03:30" mark="yes">
+      <title>Molang</title>
+      <original-title>Molang</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="30" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23975" material="023975-0031" title="Molang" />
+      <credits />
+    </event>
+    <event event-id="4932462" serie-id="24839" start-time="2017-08-05 08:04:00" duration="00:23:00" mark="yes">
+      <title>Kúlugúbbarnir</title>
+      <original-title>Bubble Guppies</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="19" number-of-episodes="20" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="24839" material="024839-0017" title="Kúlugúbbarnir" />
+      <credits />
+    </event>
+    <event event-id="4902194" serie-id="24841" start-time="2017-08-05 08:27:00" duration="00:23:00" mark="yes">
+      <title>Hvolpasveit</title>
+      <original-title>Paw Patrol, Season III</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="2" number-of-episodes="26" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="24841" material="024841-0002" title="Hvolpasveit" />
+      <credits />
+    </event>
+    <event event-id="4902313" serie-id="22392" start-time="2017-08-05 08:50:00" duration="00:12:02" mark="yes">
+      <title>Hrói Höttur</title>
+      <original-title>Robin Hood</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="2" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="22392" material="022392-0002" title="Hrói Höttur" />
+      <credits />
+    </event>
+    <event event-id="4899552" serie-id="22391" start-time="2017-08-05 09:02:00" duration="00:11:02" mark="yes">
+      <title>Skógargengið</title>
+      <original-title>The Jungle Bunch</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="9" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="22391" material="022391-0009" title="Skógargengið" />
+      <credits />
+    </event>
+    <event event-id="4902223" serie-id="22395" start-time="2017-08-05 09:14:00" duration="00:11:00" mark="yes">
+      <title>Alvinn og íkornarnir</title>
+      <original-title>Alvinnn!!! &amp; The Chipmunks</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="3" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="22395" material="022395-0204" title="Alvinn og íkornarnir" />
+      <credits />
+    </event>
+    <event event-id="4932451" serie-id="16230" start-time="2017-08-05 09:26:00" duration="00:24:00" mark="yes">
+      <title>Litli prinsinn</title>
+      <original-title>Little Prince</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="3" number-of-episodes="26" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="16230" material="016230-0003" title="Litli prinsinn" />
+      <credits />
+    </event>
+    <event event-id="4934908" serie-id="25417" start-time="2017-08-05 09:45:00" duration="00:12:43" mark="no">
+      <title>Landakort</title>
+      <original-title>Sprengjusveitin</original-title>
+      <description><![CDATA[Valin myndskeið úr Landanum þar sem áhugaverðir staðir eru skoðaðir og merkilegir Íslendingar heimsóttir. Dagskrárgerð Gísli Einarsson og Karl Sigtryggsson.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <reference group="25417" material="025417-0009" title="Landakort" />
+      <credits />
+    </event>
+    <event event-id="4901568" serie-id="18217" start-time="2017-08-05 10:00:00" duration="02:35:00" mark="no">
+      <title>HM í frjálsum íþróttum</title>
+      <original-title />
+      <description><![CDATA[Bein útsending frá heimsmeistaramótinu í frjálsum íþróttum í London. Allt fremsta frjálsíþróttafólk heims mætir til leiks og RÚV sýnir beint frá öllum keppnisdögunum. Mótið er það síðasta hjá spretthlauparanum Usain Bolt frá Jamaíku og breska millivegahlauparanum Mo Farah sem báðir eru margfaldir heims- og ólympíumeistarar.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="18217" material="018217-0002" title="HM í frjálsum íþróttum" />
+      <credits />
+    </event>
+    <event event-id="4932010" serie-id="19117" start-time="2017-08-05 12:35:00" duration="01:32:21" mark="no">
+      <title>Jónsi og riddarareglan</title>
+      <original-title>Justin and the Knights of Valour</original-title>
+      <description><![CDATA[Ævintýramynd fyrir alla fjölskylduna.  Jónsa dreymir um að vera riddari sem berst við dreka og verja konunginn fyrir óvinum ríkisins.  Hann heldur af stað út í heiminn til að sanna sig sem riddari.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/19117/</more-info>
+      <reference group="19117" material="019117-0001" title="Jónsi og riddarareglan" />
+      <details id="19117">
+        <series-title>Jónsi og riddarareglan</series-title>
+        <series-original-title>Justin and the Knights of Valour</series-original-title>
+        <series-description>
+          <p>Ævintýraleg teiknimynd um ungan dreng sem leggur land undir fót í von um að verða riddari. Leikstjóri: Manuel Sicilia. Leikarar: Freddie Highmore, Antonio Banderas, James Cosmo.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4902833" serie-id="17441" start-time="2017-08-05 14:10:00" duration="00:57:56" mark="no">
+      <title>Popp- og rokksaga Íslands</title>
+      <original-title>Áttundi áratugurinn II</original-title>
+      <description><![CDATA[Einstök heimildarþáttaröð þar sem farið yfir sögu og þróun rokk- og popptónlistar á Íslandi. Í þáttunum hittum við söngvara, lagahöfunda, upptökustjóra og aðra sem hafa sett svip sinn á blómlegt tónlistarlíf Íslendinga í gegnum tíðina. Dagskrárgerð: Örn Marinó Arnarson og Þorkell Harðarson í samvinnu við Dr. Gunna. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="4" number-of-episodes="4" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="6">Íslenskir þættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/17441/</more-info>
+      <reference group="17441" material="017441-0004" title="Popp- og rokksaga Íslands" />
+      <details id="17441">
+        <series-title>Popp- og rokksaga Íslands</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Einstök heimildarþáttaröð þar sem farið yfir sögu og þróun rokk- og popptónlistar á Íslandi. Í þáttunum hittum við söngvara, lagahöfunda, upptökustjóra og aðra sem hafa sett svip sinn á blómlegt tónlistarlíf Íslendinga í gegnum tíðina.</p>
+          <p>skemmtilegar sögur, einstök myndbrot og tónlist sem hefur haft áhrif á margbreytilegt tónlistarlandslag Íslands, en landslagið hefur á aðeins fáum áratugum breyst í skapandi vettvang með fjölda tónlistarmanna.</p>
+          <p>Rokkið, Bítlarnir og hipparnir, diskóið, proggið og pönkið, Stuðmenn og Mezzoforte, heimsfrægðin og harmleikarnir, Sykurmolarnir og Björk, Sigurrós og krúttin, Of Monsters and Men og margt, margt fleira. Hver er galdurinn á bakvið þessa velgengni og hvert stefnum við nú?</p>
+          <p>Dagskrárgerð: Örn Marinó Arnarsson og Þorkell Harðarson í samvinnu við Dr. Gunna, en þættirnir eru byggðir á bókinni „Stuð vors lands“ eftir Gunnar Lárus Hjálmarsson.</p>
+        </series-description>
+        <series-short-description>
+          <p>Einstök heimildarþáttaröð þar sem farið yfir sögu og þróun rokk- og popptónlistar á Íslandi.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4932218" serie-id="24180" start-time="2017-08-05 15:10:00" duration="00:59:04" mark="no">
+      <title>Beach Boys: Pet Sounds</title>
+      <original-title />
+      <description><![CDATA[Heimildarmynd frá BBC í tilefni af því að 50 ár eru liðin frá útgáfu Beach Boys plötunnar Pet Sounds.  Í myndinni koma fram heilinn á bak við verkið, Brian Wilson, og aðrir meðlimir hljómsveitarinnar og ræða um gerð þessarar einstöku plötu. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="4">Fræðsla</category>
+      <more-info>http://dagskra.ruv.is/nanar/24180/</more-info>
+      <reference group="24180" material="024180-0001" title="Beach Boys: Pet Sounds" />
+      <details id="24180">
+        <series-title>Beach Boys: Pet Sounds</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Heimildarmynd frá BBC í tilefni af því að 50 ár eru liðin frá útgáfu Beach Boys plötunnar Pet Sounds.  Í myndinni koma fram heilinn á bak við verkið, Brian Wilson, og aðrir meðlimir hljómsveitarinnar og ræða um gerð þessarar einstöku plötu.</p>
+        </series-description>
+        <series-short-description>
+          <p>Heimildarmynd frá BBC í tilefni af því að 50 ár eru liðin frá útgáfu Beach Boys plötunnar Pet Sounds.  Í myndinni koma fram heilinn á bak við verkið, Brian Wilson, og aðrir meðlimir hljómsveitarinnar og ræða um gerð þessarar einstöku plötu.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4932219" serie-id="22296" start-time="2017-08-05 16:10:00" duration="00:59:02" mark="no">
+      <title>Jóhanna af Örk</title>
+      <original-title>Joan of Arc</original-title>
+      <description><![CDATA[Heimildarmynd um goðsögnina Jóhönnu af Örk. Ótrúleg frásögn af nítján ára sveitastúlku sem gerðist einn þekktasti bardagamaður frönsku þjóðarinna. Leikstjóri: Russell Holt. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <more-info>http://dagskra.ruv.is/nanar/22296/</more-info>
+      <reference group="22296" material="022296-0001" title="Jóhanna af Örk" />
+      <details id="22296">
+        <series-title>Jóhanna af Örk</series-title>
+        <series-original-title>Joan of Arc</series-original-title>
+        <series-description>
+          <p>Heimildarmynd um goðsögnina Jóhönnu af Örk. Ótrúleg frásögn af nítján ára sveitastúlku sem gerðist einn þekktasti bardagamaður frönsku þjóðarinnar. Leikstjóri: Russell Holt.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4896395" serie-id="24763" start-time="2017-08-05 17:15:00" duration="00:30:00" mark="no">
+      <title>Mótorsport</title>
+      <original-title>Rallý og sandspyrna</original-title>
+      <description><![CDATA[Þáttur um Íslandsmótin í rallý, torfæru og ýmsu öðru á fjórum hjólum. Dagskrárgerð: Bragi Þórðarson.]]></description>
+      <short-description />
+      <rating />
+      <episode number="8" number-of-episodes="12" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/24763/</more-info>
+      <reference group="24763" material="024763-0008" title="Mótorsport" />
+      <details id="24763">
+        <series-title>Mótorsport</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Þáttur um Íslandsmótin í rallý, torfæru og ýmsu öðru á fjórum hjólum. Dagskrárgerð: Bragi Þórðarson.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Þáttur um Íslandsmótin í rallý, torfæru og ýmsu öðru á fjórum hjólum. Dagskrárgerð: Bragi Þórðarson.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4886509" serie-id="23884" start-time="2017-08-05 17:45:00" duration="00:08:00" mark="no">
+      <title>Táknmálsfréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23884" material="023884-0217" title="Táknmálsfréttir" />
+      <credits />
+    </event>
+    <event event-id="4901569" serie-id="18217" start-time="2017-08-05 17:55:00" duration="00:53:00" mark="no">
+      <title>HM í frjálsum íþróttum</title>
+      <original-title />
+      <description><![CDATA[Bein útsending frá heimsmeistaramótinu í frjálsum íþróttum í London. Allt fremsta frjálsíþróttafólk heims mætir til leiks og RÚV sýnir beint frá öllum keppnisdögunum. Mótið er það síðasta hjá spretthlauparanum Usain Bolt frá Jamaíku og breska millivegahlauparanum Mo Farah sem báðir eru margfaldir heims- og ólympíumeistarar.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="18217" material="018217-0003" title="HM í frjálsum íþróttum" />
+      <credits />
+    </event>
+    <event event-id="4882628" serie-id="23853" start-time="2017-08-05 18:54:00" duration="00:03:00" mark="no">
+      <title>Lottó</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="31" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23853" material="023853-0031" title="Lottó" />
+      <credits />
+    </event>
+    <event event-id="4882919" serie-id="23879" start-time="2017-08-05 19:00:00" duration="00:23:00" mark="no">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23879" material="023879-0217" title="Fréttir" />
+      <credits />
+    </event>
+    <event event-id="4883493" serie-id="23876" start-time="2017-08-05 19:25:00" duration="00:13:00" mark="no">
+      <title>Íþróttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <reference group="23876" material="023876-0061" title="Íþróttir" />
+      <credits />
+    </event>
+    <event event-id="4884480" serie-id="23882" start-time="2017-08-05 19:40:00" duration="00:03:00" mark="no">
+      <title>Veður</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23882" material="023882-0216" title="Veður" />
+      <credits />
+    </event>
+    <event event-id="4930740" serie-id="23646" start-time="2017-08-05 19:55:00" duration="00:42:09" mark="no">
+      <title>Áfram veginn</title>
+      <original-title>Moving On</original-title>
+      <description><![CDATA[Breskir þættir sem segja sögu af fólki sem á það sameiginlegt að ganga í gegnum breytingar í lífi sínu.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/23646/</more-info>
+      <reference group="23646" material="023646-0004" title="Áfram veginn" />
+      <details id="23646">
+        <series-title>Áfram veginn</series-title>
+        <series-original-title>Moving On</series-original-title>
+        <series-description>
+          <p>Breskir þættir sem segja sögu af fólki sem á það sameiginlegt að ganga í gegnum breytingar í lífi sínu.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4901582" serie-id="18217" start-time="2017-08-05 20:40:00" duration="00:10:00" mark="no">
+      <title>HM í frjálsum íþróttum</title>
+      <original-title />
+      <description><![CDATA[Bein útsending frá 100m hlaupi karla á HM í frjálsum íþróttum í London.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="18217" material="018217-0016" title="HM í frjálsum íþróttum" />
+      <credits />
+    </event>
+    <event event-id="4901308" serie-id="19239" start-time="2017-08-05 20:50:00" duration="01:40:44" mark="no">
+      <title>Ævintýri undrabarnsins T. S. Spivet</title>
+      <original-title>The Young and Prodigious T.S. Spivet</original-title>
+      <description><![CDATA[Ævintýraleg spennumynd fyrir alla fjölskylduna. Tíu ára gamall vísindamaður strýkur að heiman. Hann býr í Montana með föður sínum sem er kúreki og móður sinni sem er vísindakona. Þaðan fer hann þvert yfir Bandaríkin til að taka á móti verðlaunum fyrir uppgötvanir sínar. Leikstjóri: Jean-Pierre Jeunet. Leikarar: Kyle Katlett, Helena Bonham Carter og Judy Davis.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="7">Kvikmyndir</category>
+      <more-info>http://dagskra.ruv.is/nanar/19239/</more-info>
+      <reference group="19239" material="019239-0001" title="Ævintýri undrabarnsins T. S. Spivet" />
+      <details id="19239">
+        <series-title>Ævintýri undrabarnsins T. S. Spivet</series-title>
+        <series-original-title>The Young and Prodigious T.S. Spivet</series-original-title>
+        <series-description>
+          <p>Ævintýraleg spennumynd fyrir alla fjölskylduna. Tíu ára gamall vísindamaður strýkur að heiman. Hann býr í Montana með föður sínum sem er kúreki og móður sinni sem er vísindakona. Þaðan fer hann þvert yfir Bandaríkin til að taka á móti verðlaunum fyrir uppgötvanir sínar. Leikstjóri: Jean-Pierre Jeunet. Leikarar: Kyle Katlett, Helena Bonham Carter og Judy Davis.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4897828" serie-id="21987" start-time="2017-08-05 22:35:00" duration="01:38:32" mark="no">
+      <title>White Palace</title>
+      <original-title>Hvíta höllin</original-title>
+      <description><![CDATA[Rómantísk saga um ungan framamann sem syrgir fráfall eiginkonu sinnar. Kvöld eitt hittir hann afgreiðsludömu á miðjum aldri og þau fella hugi saman en stétt þeirra og aldursmunur verður þeim fjötur um fót.  Leikstjóri: Luis Mandoki.  Aðalhlutverk: Susan Sarandon, James Spader, James Spader og Jason Alexander. Atriði í myndinni eru ekki við hæfi barna.]]></description>
+      <short-description />
+      <rating>16</rating>
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="7">Kvikmyndir</category>
+      <more-info>http://dagskra.ruv.is/nanar/21987/</more-info>
+      <reference group="21987" material="021987-0001" title="White Palace" />
+      <details id="21987">
+        <series-title>White Palace</series-title>
+        <series-original-title>Hvíta höllin</series-original-title>
+        <series-description>
+          <p>Rómantísk saga um ungan framamann sem syrgir fráfall eiginkonu sinnar. Kvöld eitt hittir hann afgreiðsludömu á miðjum aldri og þau fella hugi saman en stétt þeirra og aldursmunur verður þeim fjötur um fót.  Leikstjóri: Luis Mandoki.  Aðalhlutverk: Susan Sarandon, James Spader, James Spader og Jason Alexander. Atriði í myndinni eru ekki við hæfi barna.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4928893" serie-id="22000" start-time="2017-08-06 00:15:00" duration="01:47:12" mark="no">
+      <title>Leaving Las Vegas</title>
+      <original-title>Á förum frá Vegas</original-title>
+      <description><![CDATA[Atvinnulaus drykkfeldur handritshöfundur fer til Las Vegas til að drekka sig í hel. Þar hittir hann vændiskonuna Söru og með þeim tekst óvenjulegur vinskapur. Leikstjóri: Mike Figgis. Aðalhlutverk: Nicoals Cage, Elisabeth Shue og Julian Sands. Atriði í myndinni eru ekki við hæfi barna. e.]]></description>
+      <short-description />
+      <rating>16</rating>
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="7">Kvikmyndir</category>
+      <more-info>http://dagskra.ruv.is/nanar/22000/</more-info>
+      <reference group="22000" material="022000-0001" title="Leaving Las Vegas" />
+      <details id="22000">
+        <series-title>Leaving Las Vegas</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Atvinnulaus drykkfeldur handritshöfundur fer til Las Vegas til að drekka sig í hel. Þar hittir hann vændiskonuna Söru og með þeim tekst óvenjulegur vinskapur. Leikstjóri: Mike Figgis. Aðalhlutverk: Nicoals Cage, Elisabeth Shue og Julian Sands. Atriði í myndinni eru ekki við hæfi barna.</p>
+        </series-description>
+        <series-short-description>
+          <p>Atvinnulaus drykkfeldur handritshöfundur fer til Las Vegas til að drekka sig í hel.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4892303" serie-id="" start-time="2017-08-06 02:05:00" duration="00:03:00" mark="no">
+      <title>Útvarpsfréttir í dagskrárlok</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4892303" title="Útvarpsfréttir í dagskrárlok" />
+    </event>
+  </service>
+</schedule>
