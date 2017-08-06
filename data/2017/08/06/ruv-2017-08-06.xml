@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-08-06 13:42" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="1" service-name="RÚV" date="2017-08-06">
+    <event event-id="4785325" serie-id="" start-time="2017-08-06 07:00:00" duration="02:55:00" mark="no">
+      <title>KrakkaRÚV</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4785325" title="KrakkaRÚV" />
+    </event>
+    <event event-id="4888468" serie-id="22401" start-time="2017-08-06 07:01:00" duration="00:06:48" mark="yes">
+      <title>Kioka</title>
+      <original-title>Kioka</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="70" number-of-episodes="78" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="22401" material="022401-0070" title="Kioka" />
+      <credits />
+    </event>
+    <event event-id="4891398" serie-id="20548" start-time="2017-08-06 07:08:00" duration="00:07:17" mark="yes">
+      <title>Nellý og Nóra</title>
+      <original-title>Nelly &amp; Nora</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="36" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="20548" material="020548-0036" title="Nellý og Nóra" />
+      <credits />
+    </event>
+    <event event-id="4897970" serie-id="20561" start-time="2017-08-06 07:15:00" duration="00:07:00" mark="yes">
+      <title>Sara og önd</title>
+      <original-title>Sarah &amp; Duck, II</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="22" number-of-episodes="40" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/20561/</more-info>
+      <reference group="20561" material="020561-0022" title="Sara og önd" />
+      <details id="20561">
+        <series-title>Sara og önd</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4932471" serie-id="24510" start-time="2017-08-06 07:22:00" duration="00:11:00" mark="yes">
+      <title>Klingjur</title>
+      <original-title>Clangers</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="8" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="24510" material="024510-0008" title="Klingjur" />
+      <credits />
+    </event>
+    <event event-id="4899247" serie-id="20527" start-time="2017-08-06 07:34:00" duration="00:07:00" mark="yes">
+      <title>Hæ Sámur</title>
+      <original-title>Hey Duggee</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="14" number-of-episodes="28" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/20527/</more-info>
+      <reference group="20527" material="020527-0038" title="Hæ Sámur" />
+      <details id="20527">
+        <series-title>Hæ Sámur</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4897904" serie-id="23461" start-time="2017-08-06 07:41:00" duration="00:12:00" mark="yes">
+      <title>Begga og Fress</title>
+      <original-title>Peg + Cat</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="22" number-of-episodes="40" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23461" material="023461-0023" title="Begga og Fress" />
+      <credits />
+    </event>
+    <event event-id="4898255" serie-id="21494" start-time="2017-08-06 07:53:00" duration="00:06:00" mark="yes">
+      <title>Póló</title>
+      <original-title>Polo</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="18" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="21494" material="021494-0018" title="Póló" />
+      <credits />
+    </event>
+    <event event-id="4902927" serie-id="24839" start-time="2017-08-06 07:59:00" duration="00:23:00" mark="yes">
+      <title>Kúlugúbbarnir</title>
+      <original-title>Bubble Guppies</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="3" number-of-episodes="20" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="24839" material="024839-0003" title="Kúlugúbbarnir" />
+      <credits />
+    </event>
+    <event event-id="4900982" serie-id="24840" start-time="2017-08-06 08:22:00" duration="00:23:00" mark="yes">
+      <title>Úmísúmí</title>
+      <original-title>Team Umizoomi</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="7" number-of-episodes="20" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="24840" material="024840-0007" title="Úmísúmí" />
+      <credits />
+    </event>
+    <event event-id="4902095" serie-id="19641" start-time="2017-08-06 08:45:00" duration="00:23:00" mark="yes">
+      <title>Babar</title>
+      <original-title>Babar and the Adventures of Badou</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="5" number-of-episodes="8" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/19641/</more-info>
+      <reference group="19641" material="019641-0005" title="Babar" />
+      <details id="19641">
+        <series-title>Babar</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4899505" serie-id="23244" start-time="2017-08-06 09:08:00" duration="00:07:00" mark="yes">
+      <title>Söguhúsið</title>
+      <original-title>The Treehouse Stories</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="11" number-of-episodes="26" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23244" material="023244-0012" title="Söguhúsið" />
+      <credits />
+    </event>
+    <event event-id="4932518" serie-id="23977" start-time="2017-08-06 09:15:00" duration="00:11:00" mark="yes">
+      <title>Mói</title>
+      <original-title>Mouk</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="17" number-of-episodes="26" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23977" material="023977-0017" title="Mói" />
+      <credits />
+    </event>
+    <event event-id="4902103" serie-id="14087" start-time="2017-08-06 09:26:00" duration="00:07:03" mark="yes">
+      <title>Millý spyr</title>
+      <original-title>Miss Questions</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="5" number-of-episodes="78" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/14087/</more-info>
+      <reference group="14087" material="014087-0005" title="Millý spyr" />
+      <details id="14087">
+        <series-title>Millý spyr</series-title>
+        <series-original-title>Miss Questions</series-original-title>
+        <series-description>
+          <p>Heimspekilegar vangaveltur fyrir krakka á aldrinum 6-12 ára.</p>
+          <p>Aðgengilegt á vefnum í þrjár vikur.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4902110" serie-id="18931" start-time="2017-08-06 09:33:00" duration="00:23:00" mark="yes">
+      <title>Drekar</title>
+      <original-title>Dragons: Defenders of Berk</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="4" number-of-episodes="20" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/18931/</more-info>
+      <reference group="18931" material="018931-0004" title="Drekar" />
+      <details id="18931">
+        <series-title>Drekar</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4932220" serie-id="25099" start-time="2017-08-06 09:55:00" duration="00:04:30" mark="no">
+      <title>Vísindahorn Ævars</title>
+      <original-title>Rachel Carson</original-title>
+      <description><![CDATA[Þáttarbrot með Ævari vísindamanni fyrir krakka á öllum aldri.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <more-info>http://dagskra.ruv.is/nanar/25099/</more-info>
+      <reference group="25099" material="025099-0003" title="Vísindahorn Ævars" />
+      <details id="25099">
+        <series-title>Vísindahorn Ævars</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Þáttarbrot með Ævari vísindamanni fyrir krakka á öllum aldri.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4901570" serie-id="18217" start-time="2017-08-06 10:00:00" duration="02:50:00" mark="no">
+      <title>HM í frjálsum íþróttum</title>
+      <original-title />
+      <description><![CDATA[Bein útsending frá heimsmeistaramótinu í frjálsum íþróttum í London. Allt fremsta frjálsíþróttafólk heims mætir til leiks og RÚV sýnir beint frá öllum keppnisdögunum. Mótið er það síðasta hjá spretthlauparanum Usain Bolt frá Jamaíku og breska millivegahlauparanum Mo Farah sem báðir eru margfaldir heims- og ólympíumeistarar.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="18217" material="018217-0004" title="HM í frjálsum íþróttum" />
+      <credits />
+    </event>
+    <event event-id="4934966" serie-id="21268" start-time="2017-08-06 12:55:00" duration="00:26:29" mark="no">
+      <title>Íþróttaafrek sögunnar</title>
+      <original-title>Cathy Freemen og Jack Nicklaus</original-title>
+      <description><![CDATA[Heimildarþáttaröð þar sem nokkrir helstu viðburðir íþróttasögunnar eru rifjaðir upp. Rætt er við íþróttafrömuði  um víða veröld sem velta sögulegum viðburðunum fyrir sér. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="5">Íþróttir</category>
+      <more-info>http://dagskra.ruv.is/nanar/21268/</more-info>
+      <reference group="21268" material="021268-0011" title="Íþróttaafrek sögunnar" />
+      <details id="21268">
+        <series-title>Íþróttaafrek sögunnar</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Heimildarþáttaröð þar sem nokkrir helstu viðburðir íþróttasögunnar eru rifjaðir upp. Rætt er við íþróttafrömuði  um víða veröld sem velta sögulegum viðburðunum fyrir sér.</p>
+        </series-description>
+        <series-short-description>
+          <p>Heimildarþáttaröð þar sem nokkrir helstu viðburðir íþróttasögunnar eru rifjaðir upp.</p>
+        </series-short-description>
+        <episode-description>
+          <p>Heimildarþáttaröð þar sem nokkrir helstu viðburðir íþróttasögunnar eru rifjaðir upp. Í þættinum er fjallað um stórhlaup Cathy Freemen í Sydney árið 2000 og  íþróttamannslega framkomu Jack Nicklaus á stórmóti árið 1969.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4934967" serie-id="21268" start-time="2017-08-06 13:25:00" duration="00:26:19" mark="no">
+      <title>Íþróttaafrek sögunnar</title>
+      <original-title>Muhammad Ali og George Foreman</original-title>
+      <description><![CDATA[Heimildarþáttaröð þar sem nokkrir helstu viðburðir íþróttasögunnar eru rifjaðir upp. Rætt er við íþróttafrömuði  um víða veröld sem velta sögulegum viðburðunum fyrir sér. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="5">Íþróttir</category>
+      <more-info>http://dagskra.ruv.is/nanar/21268/</more-info>
+      <reference group="21268" material="021268-0007" title="Íþróttaafrek sögunnar" />
+      <details id="21268">
+        <series-title>Íþróttaafrek sögunnar</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Heimildarþáttaröð þar sem nokkrir helstu viðburðir íþróttasögunnar eru rifjaðir upp. Rætt er við íþróttafrömuði  um víða veröld sem velta sögulegum viðburðunum fyrir sér.</p>
+        </series-description>
+        <series-short-description>
+          <p>Heimildarþáttaröð þar sem nokkrir helstu viðburðir íþróttasögunnar eru rifjaðir upp.</p>
+        </series-short-description>
+        <episode-description>
+          <p>Í þættinum er fjallað um bardaga Muhammad Ali og George Foreman og óvænta framistöðu Bandaríkjamanna á vetrarólympíuleikum árið 1980.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4932727" serie-id="22433" start-time="2017-08-06 13:55:00" duration="00:26:36" mark="no">
+      <title>Eldhugar íþróttanna</title>
+      <original-title>Diego Maradona</original-title>
+      <description><![CDATA[Nýir heimildarþættir um stórkostlega íþróttamenn sem eru ekki aðeins framúrskarandi íþróttamenn heldur hafa einnig hlotið frægð og frama fyrir einstaka framkomu og persónuleika. Í hverjum þætti fáum við að kynnast nýjum íþróttamanni sem hefur sett svip sinn á samfélagið allt. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="5">Íþróttir</category>
+      <more-info>http://dagskra.ruv.is/nanar/22433/</more-info>
+      <reference group="22433" material="022433-0001" title="Eldhugar íþróttanna" />
+      <details id="22433">
+        <series-title>Eldhugar íþróttanna</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Nýir heimildarþættir um framúrskarandi íþróttamenn sem hafa einnig hlotið frægð fyrir geislandi framkomu og töfrandi persónuleika. Í hverjum þætti fáum við að kynnast nýjum íþróttamanni sem hefur sett svip sinn á samfélagið allt.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4935874" serie-id="25417" start-time="2017-08-06 14:20:00" duration="00:07:38" mark="no">
+      <title>Landakort</title>
+      <original-title>Katla í gjörgæslu</original-title>
+      <description><![CDATA[Þéttritið net af jarðskjálftamælum og gps mælum er notað til að fylgjast með hverjum "andardrætti" þekktasta eldfjalls á Íslandi, Kötlu.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <reference group="25417" material="025417-0005" title="Landakort" />
+      <credits />
+    </event>
+    <event event-id="4898017" serie-id="24804" start-time="2017-08-06 14:30:00" duration="02:45:00" mark="no">
+      <title>Danmörk - Holland</title>
+      <original-title>EM kvenna í fótbolta</original-title>
+      <description><![CDATA[Bein útsending frá úrslitaleik Danmerkur og Hollands á EM kvenna í fótbolta.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="24804" material="024804-0031" title="Danmörk - Holland" />
+      <credits />
+    </event>
+    <event event-id="4934984" serie-id="25417" start-time="2017-08-06 17:15:00" duration="00:04:32" mark="no">
+      <title>Landakort</title>
+      <original-title>Bannað að blóta á golfvellinum</original-title>
+      <description><![CDATA[Á hverjum morgni, allt sumarið, hittist vaskur hópur kvenna á golfvellinum í Bíldudal og spilar einn hring. Dagskrárgerð Gísli Einarsson og Karl Sigtryggsson.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <reference group="25417" material="025417-0003" title="Landakort" />
+      <credits />
+    </event>
+    <event event-id="4932237" serie-id="24096" start-time="2017-08-06 17:20:00" duration="00:24:00" mark="no">
+      <title>Stundin okkar</title>
+      <original-title />
+      <description><![CDATA[Í Stundinni okkarætlum við að hitta skemmtilega krakka um allt land, kynnast skrímslum, læra á gítar, taka þátt í stórhættulegri spurningakeppni og læra ýmislegt og allskonar sem við höfðum ekki hugmynd um að okkur langaði að vita. Umsjón: Sigyn Blöndal.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="8" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/24096/</more-info>
+      <reference group="24096" material="024096-0001" title="Stundin okkar" />
+      <details id="24096">
+        <series-title>Stundin okkar</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Í Stundinni okkar í vetur ætlum við að hitta skemmtilega krakka um allt land, kynnast skrímslum, læra á gítar, taka þátt í stórhættulegri spurningakeppni og læra ýmislegt og allskonar sem við höfðum ekki hugmynd um að okkur langaði að vita. Umsjón: Sigyn Blöndal.</p>
+        </series-description>
+        <series-short-description>
+          <p>Í Stundinni okkar í vetur ætlum við að hitta skemmtilega krakka um allt land, kynnast skrímslum, læra á gítar, taka þátt í stórhættulegri spurningakeppni og læra ýmislegt og allskonar sem við höfðum ekki hugmynd um að okkur langaði að vita. Umsjón: Sigyn Blöndal.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4886510" serie-id="23884" start-time="2017-08-06 17:45:00" duration="00:08:00" mark="no">
+      <title>Táknmálsfréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23884" material="023884-0218" title="Táknmálsfréttir" />
+      <credits />
+    </event>
+    <event event-id="4901571" serie-id="18217" start-time="2017-08-06 17:55:00" duration="01:00:00" mark="no">
+      <title>HM í frjálsum íþróttum</title>
+      <original-title />
+      <description><![CDATA[Bein útsending frá heimsmeistaramótinu í frjálsum íþróttum í London. Allt fremsta frjálsíþróttafólk heims mætir til leiks og RÚV sýnir beint frá öllum keppnisdögunum. Mótið er það síðasta hjá spretthlauparanum Usain Bolt frá Jamaíku og breska millivegahlauparanum Mo Farah sem báðir eru margfaldir heims- og ólympíumeistarar.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="18217" material="018217-0005" title="HM í frjálsum íþróttum" />
+      <credits />
+    </event>
+    <event event-id="4882920" serie-id="23879" start-time="2017-08-06 19:00:00" duration="00:23:00" mark="no">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23879" material="023879-0218" title="Fréttir" />
+      <credits />
+    </event>
+    <event event-id="4883494" serie-id="23876" start-time="2017-08-06 19:25:00" duration="00:10:00" mark="no">
+      <title>Íþróttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <reference group="23876" material="023876-0062" title="Íþróttir" />
+      <credits />
+    </event>
+    <event event-id="4884481" serie-id="23882" start-time="2017-08-06 19:35:00" duration="00:03:00" mark="no">
+      <title>Veður</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23882" material="023882-0217" title="Veður" />
+      <credits />
+    </event>
+    <event event-id="4930743" serie-id="13206" start-time="2017-08-06 19:40:00" duration="00:13:09" mark="no">
+      <title>Góður staður</title>
+      <original-title />
+      <description><![CDATA[Íslensk stuttmynd frá 2011. Stjórnmálafræðineminn Jón leysir Önnu skólasystur sína af yfir eina helgi sem aðstoðarmaður í eldhúsi á afskekktu sambýli. Undarlegir starfshættir á sambýlinu koma Jóni spánskt fyrir sjónir. Ágreiningsmál eru leyst með leynilegri kosningu og Jóni finnst sem lýðræðinu sé stefnt í hættu. En ekki er allt sem sýnist. Aðalhlutverk: Snorri Engilbertsson og Magnús Ólafsson. Leikstjóri: Lars Emil Árnason.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="7">Kvikmyndir</category>
+      <more-info>http://dagskra.ruv.is/nanar/13206/</more-info>
+      <reference group="13206" material="013206-0001" title="Góður staður" />
+      <details id="13206">
+        <series-title>Góður staður</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Íslensk stuttmynd frá 2011. Stjórnmálafræðineminn Jón leysir Önnu skólasystur sína af yfir eina helgi sem aðstoðarmaður í eldhúsi á afskekktu sambýli. Undarlegir starfshættir á sambýlinu koma Jóni spánskt fyrir sjónir. Ágreiningsmál eru leyst með leynilegri kosningu og Jóni finnst sem lýðræðinu sé stefnt í hættu. En ekki er allt sem sýnist. Aðalhlutverk: Snorri Engilbertsson og Magnús Ólafsson. Leikstjóri: Lars Emil Árnason.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4900274" serie-id="24422" start-time="2017-08-06 19:55:00" duration="00:46:24" mark="no">
+      <title>Fólkið mitt og fleiri dýr</title>
+      <original-title>The Durrells in Corfu</original-title>
+      <description><![CDATA[Hjartnæmur myndaflokkur um ekkjuna Louisu Durell sem flyst búferlum árið 1935 með fjölskyldu sína frá Bourmouth til grísku eyjunnar Korfú. Leikarar: Keeley Hawes, Josh O'Connor og Milo Parker.]]></description>
+      <short-description />
+      <rating />
+      <episode number="6" number-of-episodes="6" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/24422/</more-info>
+      <reference group="24422" material="024422-0006" title="Fólkið mitt og fleiri dýr" />
+      <details id="24422">
+        <series-title>Fólkið mitt og fleiri dýr</series-title>
+        <series-original-title>The Durells in Corfu</series-original-title>
+        <series-description>
+          <p>Hjartnæmur myndaflokkur um ekkjuna Louisu Durell sem flyst búferlum árið 1935 með fjölskyldu sína frá Bourmouth til grísku eyjunnar Korfú. Leikarar: Keeley Hawes, Josh O&apos;Connor og Milo Parker.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4901584" serie-id="18217" start-time="2017-08-06 20:45:00" duration="00:07:00" mark="no">
+      <title>HM í frjálsum íþróttum</title>
+      <original-title />
+      <description><![CDATA[Bein útsending frá 100m hlaupi kvenna á HM í frjálsum íþróttum í London.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="18217" material="018217-0017" title="HM í frjálsum íþróttum" />
+      <credits />
+    </event>
+    <event event-id="4931461" serie-id="25412" start-time="2017-08-06 20:55:00" duration="00:24:34" mark="no">
+      <title>Á hestbaki til Hollands</title>
+      <original-title />
+      <description><![CDATA[Upphitunarþáttur fyrir HM íslenska hestsins sem fram fer í Hollandi. Leiðin á HM verður rakin, hestar og knapar kynntir, rætt við landsliðsmenn og þá sem halda um stjórntaumana. Umsjón: Gísli Einarsson og dagskrárgerð Óskar Þór Nikulásson.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="5">Íþróttir</category>
+      <more-info>http://dagskra.ruv.is/nanar/25412/</more-info>
+      <reference group="25412" material="025412-0001" title="Á hestbaki til Hollands" />
+      <details id="25412">
+        <series-title>Á hestbaki til Hollands</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Upphitunarþáttur fyrir HM íslenska hestsins sem fram fer í Hollandi. Leiðin á HM verður rakin, hestar og knapar kynntir, rætt við landsliðsmenn og þá sem halda um stjórntaumana. Umsjón: Gísli Einarsson og dagskrárgerð Óskar Þór Nikulásson.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Upphitunarþáttur fyrir HM íslenska hestsins sem fram fer í Hollandi. Leiðin á HM verður rakin, hestar og knapar kynntir, rætt við landsliðsmenn og þá sem halda um stjórntaumana. Umsjón: Gísli Einarsson og dagskrárgerð Óskar Þór Nikulásson.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4897831" serie-id="19061" start-time="2017-08-06 21:25:00" duration="01:46:12" mark="no">
+      <title>Ástin er hinn fullkomni glæpur</title>
+      <original-title>L&apos;amour est un crime parfait</original-title>
+      <description><![CDATA[Franskur spennutryllir frá 2013. Háskólaprófessor sem lagt hefur lag sitt við nemendur sína fellur undir grun þegar ein þeirra finnst myrt. Aðalhlutverk: Mathieu Amalric, Karin Viard og Maïwenn. Leikstjórar: Arnaud Larrieu og Jean-Marie Larrieu. Atriði í myndinni eru ekki við hæfi ungra barna.]]></description>
+      <short-description />
+      <rating>12</rating>
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="7">Kvikmyndir</category>
+      <more-info>http://dagskra.ruv.is/nanar/19061/</more-info>
+      <reference group="19061" material="019061-0001" title="Ástin er hinn fullkomni glæpur" />
+      <details id="19061">
+        <series-title>Ástin er hinn fullkomni glæpur</series-title>
+        <series-original-title>L&apos;amour est un crime parfait</series-original-title>
+        <series-description>
+          <p>Franskur spennutryllir frá 2013. Háskólaprófessor sem lagt hefur lag sitt við nemendur sína fellur undir grun þegar ein þeirra finnst myrt. Aðalhlutverk: Mathieu Amalric, Karin Viard og Maïwenn. Leikstjórar: Arnaud Larrieu og Jean-Marie Larrieu. Atriði í myndinni eru ekki við hæfi barna.</p>
+        </series-description>
+        <series-short-description>
+          <p>Franskur spennutryllir frá 2013.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4901078" serie-id="22403" start-time="2017-08-06 23:15:00" duration="00:54:44" mark="no">
+      <title>Kynlífsfræðingarnir</title>
+      <original-title>Masters of Sex III</original-title>
+      <description><![CDATA[Þriðja þáttaröðin um William Masters og Virginiu Johnson sem voru frumkvöðlar á sviði kynlífsrannsókna. Aðalhlutverk leika Michael Sheen og Lizzy Caplan. Atriði í þáttunum eru ekki við hæfi barna.]]></description>
+      <short-description />
+      <rating>16</rating>
+      <episode number="10" number-of-episodes="12" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/22403/</more-info>
+      <reference group="22403" material="022403-0010" title="Kynlífsfræðingarnir" />
+      <details id="22403">
+        <series-title>Kynlífsfræðingarnir</series-title>
+        <series-original-title>Masters of Sex: Season III</series-original-title>
+        <series-description>
+          <p>Þriðja þáttaröðin um William Masters og Virginiu Johnson sem voru frumkvöðlar á sviði kynlífsrannsókna. Aðalhlutverk leika Michael Sheen og Lizzy Caplan. Atriði í þáttunum eru ekki við hæfi barna.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4900283" serie-id="21519" start-time="2017-08-07 00:15:00" duration="00:46:19" mark="no">
+      <title>Vammlaus</title>
+      <original-title>No Offence</original-title>
+      <description><![CDATA[Bresk þáttaröð um lögreglumenn sem velta því fyrir sér hvers þeir eiga að gjalda að vinna í verstu fátækrahverfum Manchesterborgar. Það virðist vera ógjörningur að halda uppi lögum og reglu í þessum hluta borgarinnar en yfirmaður þeirra Vivienne Deering stappar stáli í undirmennina og fullvissar þá um mikilvægi starfsins.  Leikarar: Elaine Cassidy, Saira Choudhry og Julie Clerehugh. Atriði í þáttunum eru ekki við hæfi ungra barna. e.]]></description>
+      <short-description />
+      <rating>12</rating>
+      <episode number="7" number-of-episodes="8" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/21519/</more-info>
+      <reference group="21519" material="021519-0007" title="Vammlaus" />
+      <details id="21519">
+        <series-title>Vammlaus</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Bresk þáttaröð um lögreglumenn sem velta því fyrir sér hvers þeir eiga að gjalda að vinna í verstu fátækrahverfum Manchesterborgar. Það virðist vera ógjörningur að halda uppi lögum og reglu í þessum hluta borgarinnar en yfirmaður þeirra Vivienne Deering stappar stáli í undirmennina og fullvissar þá um mikilvægi starfsins.  Leikarar: Elaine Cassidy, Saira Choudhry og Julie Clerehugh. Atriði í þáttunum eru ekki við hæfi ungra barna.</p>
+        </series-description>
+        <series-short-description>
+          <p>Bresk þáttaröð um lögreglumenn sem velta því fyrir sér hvers þeir eiga að gjalda að vinna í verstu fátækrahverfum Manchesterborgar.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4892304" serie-id="" start-time="2017-08-07 01:00:00" duration="00:03:00" mark="no">
+      <title>Útvarpsfréttir í dagskrárlok</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4892304" title="Útvarpsfréttir í dagskrárlok" />
+    </event>
+  </service>
+</schedule>
