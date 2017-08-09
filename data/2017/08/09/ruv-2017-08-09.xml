@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-08-09 13:42" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="1" service-name="RÚV" date="2017-08-09">
+    <event event-id="4935779" serie-id="70107" start-time="2017-08-09 16:35:00" duration="00:24:19" mark="no">
+      <title>Úr gullkistu RÚV: Út og suður</title>
+      <original-title />
+      <description><![CDATA[Gísli Einarsson fer vítt og breitt um landið og bregður upp svipmyndum af fólki. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="10" number-of-episodes="12" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <reference group="70107" material="070107-0009" title="Úr gullkistu RÚV: Út og suður" />
+      <credits />
+    </event>
+    <event event-id="4894266" serie-id="" start-time="2017-08-09 17:00:00" duration="00:50:00" mark="no">
+      <title>KrakkaRÚV</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4894266" title="KrakkaRÚV" />
+    </event>
+    <event event-id="4902377" serie-id="18990" start-time="2017-08-09 17:01:00" duration="00:12:23" mark="yes">
+      <title>Vinabær Danna tígurs</title>
+      <original-title>Daniel Tiger&apos;s Neighbourhood</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="3" number-of-episodes="40" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/18990/</more-info>
+      <reference group="18990" material="018990-0005" title="Vinabær Danna tígurs" />
+      <details id="18990">
+        <series-title>Vinabær Danna tígurs</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4902417" serie-id="20809" start-time="2017-08-09 17:14:00" duration="00:08:16" mark="yes">
+      <title>Klaufabárðarnir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="34" number-of-episodes="69" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/20809/</more-info>
+      <reference group="20809" material="020809-0036" title="Klaufabárðarnir" />
+      <details id="20809">
+        <series-title>Klaufabárðarnir</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4902455" serie-id="21814" start-time="2017-08-09 17:22:00" duration="00:22:30" mark="yes">
+      <title>Sanjay og Craig</title>
+      <original-title>Sanjay and Craig</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="3" number-of-episodes="20" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/21814/</more-info>
+      <reference group="21814" material="021814-0005" title="Sanjay og Craig" />
+      <details id="21814">
+        <series-title>Sanjay og Craig</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Sanjay er 12 ára strákur sem á frekar óvenjulegt gæludýr og saman lenda þeir í ýmsum ævintýrum.</p>
+        </series-description>
+        <series-short-description>
+          <p>Sanjay er 12 ára strákur sem á frekar óvenjulegt gæludýr og saman lenda þeir í ýmsum ævintýrum.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4886513" serie-id="23884" start-time="2017-08-09 17:50:00" duration="00:08:00" mark="no">
+      <title>Táknmálsfréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23884" material="023884-0221" title="Táknmálsfréttir" />
+      <credits />
+    </event>
+    <event event-id="4901574" serie-id="18217" start-time="2017-08-09 18:00:00" duration="00:50:00" mark="no">
+      <title>HM í frjálsum íþróttum</title>
+      <original-title />
+      <description><![CDATA[Bein útsending frá heimsmeistaramótinu í frjálsum íþróttum í London. Allt fremsta frjálsíþróttafólk heims mætir til leiks og RÚV sýnir beint frá öllum keppnisdögunum. Mótið er það síðasta hjá spretthlauparanum Usain Bolt frá Jamaíku og breska millivegahlauparanum Mo Farah sem báðir eru margfaldir heims- og ólympíumeistarar.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="18217" material="018217-0008" title="HM í frjálsum íþróttum" />
+      <credits />
+    </event>
+    <event event-id="4882576" serie-id="23854" start-time="2017-08-09 18:54:00" duration="00:03:00" mark="no">
+      <title>Víkingalottó</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="32" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23854" material="023854-0032" title="Víkingalottó" />
+      <credits />
+    </event>
+    <event event-id="4882923" serie-id="23879" start-time="2017-08-09 19:00:00" duration="00:23:00" mark="no">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23879" material="023879-0221" title="Fréttir" />
+      <credits />
+    </event>
+    <event event-id="4883694" serie-id="23877" start-time="2017-08-09 19:25:00" duration="00:05:00" mark="no">
+      <title>Íþróttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <reference group="23877" material="023877-0158" title="Íþróttir" />
+      <credits />
+    </event>
+    <event event-id="4884484" serie-id="23882" start-time="2017-08-09 19:30:00" duration="00:03:00" mark="no">
+      <title>Veður</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23882" material="023882-0220" title="Veður" />
+      <credits />
+    </event>
+    <event event-id="4902766" serie-id="24460" start-time="2017-08-09 19:35:00" duration="00:48:23" mark="no">
+      <title>Áráttu- og þráhyggjuröskun</title>
+      <original-title>Horizon: OCD A Monster In My Mind</original-title>
+      <description><![CDATA[Breskur heimildarþáttur um áráttu og þráhyggjuröskun. Talað er við sérfræðinga og fólk sem þjáist vegna röskunarinnar og kannað hvernig er best að lifa með henni og jafnvel sigrast á henni.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="4">Fræðsla</category>
+      <more-info>http://dagskra.ruv.is/nanar/24460/</more-info>
+      <reference group="24460" material="024460-0001" title="Áráttu- og þráhyggjuröskun" />
+      <details id="24460">
+        <series-title>Áráttu- og þráhyggjuröskun</series-title>
+        <series-original-title>Horizon OCD: A Monster In My Mind</series-original-title>
+        <series-description>
+          <p>Breskur heimildarþáttur um áráttu og þráhyggjuröskun. Talað er við sérfræðinga og fólk sem þjáist vegna röskunarinnar og kannað hvernig er best að lifa með henni og jafnvel sigrast á henni.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4934901" serie-id="25417" start-time="2017-08-09 20:25:00" duration="00:04:32" mark="no">
+      <title>Landakort</title>
+      <original-title>Bannað að blóta á golfvellinum</original-title>
+      <description><![CDATA[Á hverjum morgni, allt sumarið, hittist vaskur hópur kvenna á golfvellinum í Bíldudal og spilar einn hring. Dagskrárgerð Gísli Einarsson og Karl Sigtryggsson.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <reference group="25417" material="025417-0003" title="Landakort" />
+      <credits />
+    </event>
+    <event event-id="4931456" serie-id="24173" start-time="2017-08-09 20:35:00" duration="00:15:00" mark="no">
+      <title>HM íslenska hestsins: Samantekt</title>
+      <original-title />
+      <description><![CDATA[Samantekt frá keppni dagsins á HM íslenska hestsins sem fram fer í Hollandi. Umsjón: Gísli Einarsson. Dagskrárgerð: Óskar Þór Nikulásson.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="24173" material="024173-0002" title="HM íslenska hestsins: Samantekt" />
+      <credits />
+    </event>
+    <event event-id="4898929" serie-id="20364" start-time="2017-08-09 20:55:00" duration="00:59:37" mark="no">
+      <title>Lukka</title>
+      <original-title>Lykke</original-title>
+      <description><![CDATA[Grátbrosleg gamanþáttaröð frá DR. Hin 25 ára Lukka er nýskriðin úr háskólanámi með toppeinkunnir og er tilbúin að takast á við nýju vinnuna sem almannatengslafulltrúi hjá lyfjarisanum SanaFortis.  Nú reynir á Lukku þegar lyfjarisinn setur á markað nýtt kvíðastillandi lyf, allt virðist ætla að fara í vaskinn þegar geðlæknirinn Anders Assing blandast í málið. Atriði í þáttunum eru ekki við hæfi ungra  barna.]]></description>
+      <short-description />
+      <rating>12</rating>
+      <episode number="15" number-of-episodes="18" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/20364/</more-info>
+      <reference group="20364" material="020364-0015" title="Lukka" />
+      <details id="20364">
+        <series-title>Lukka</series-title>
+        <series-original-title>Lykke</series-original-title>
+        <series-description>
+          <p>Grátbrosleg gamanþáttaröð frá DR. Hin 25 ára Lukka er nýskriðin úr háskólanámi með toppeinkunnir og er tilbúin að takast á við nýju vinnuna sem almannatengslafulltrúi hjá lyfjarisanum SanaFortis.  Nú reynir á Lukku þegar lyfjarisinn setur á markað nýtt kvíðastillandi lyf, allt virðist ætla að fara í vaskinn þegar geðlæknirinn Anders Assing blandast í málið. Atriði í þáttunum eru ekki við hæfi ungra  barna.</p>
+        </series-description>
+        <series-short-description>
+          <p>Grátbrosleg gamanþáttaröð frá DR.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4883974" serie-id="23880" start-time="2017-08-09 22:00:00" duration="00:15:00" mark="no">
+      <title>Tíufréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23880" material="023880-0126" title="Tíufréttir" />
+      <credits />
+    </event>
+    <event event-id="4884183" serie-id="23883" start-time="2017-08-09 22:15:00" duration="00:03:00" mark="no">
+      <title>Veðurfréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23883" material="023883-0127" title="Veðurfréttir" />
+      <credits />
+    </event>
+    <event event-id="4901605" serie-id="25111" start-time="2017-08-09 22:20:00" duration="00:12:00" mark="no">
+      <title>HM í frjálsum íþróttum: Samantekt</title>
+      <original-title />
+      <description><![CDATA[Samantekt frá viðburðum dagsins á HM í frjálsum íþróttum í London.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="25111" material="025111-0003" title="HM í frjálsum íþróttum: Samantekt" />
+      <credits />
+    </event>
+    <event event-id="4931377" serie-id="25399" start-time="2017-08-09 22:35:00" duration="00:58:42" mark="no">
+      <title>Pútín-viðtölin</title>
+      <original-title>The Putin Files</original-title>
+      <description><![CDATA[Óskarsverðlaunahafinn Oliver Stone fylgdi Pútin forseta Rússlands og ræddi við hann meðal annars um stirt samband og ósætti milli stórveldanna.
+]]></description>
+      <short-description />
+      <rating />
+      <episode number="2" number-of-episodes="4" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="25399" material="025399-0002" title="Pútín-viðtölin" />
+      <credits />
+    </event>
+    <event event-id="4898893" serie-id="24733" start-time="2017-08-09 23:35:00" duration="00:19:05" mark="no">
+      <title>Skömm</title>
+      <original-title>SKAM III</original-title>
+      <description><![CDATA[Þriðja þáttaröð um norsku menntaskólanemana. Lífið tekur stöðugum breytingum, allt er nýtt og að sama skapi afskaplega flókið. Ástin, samfélagsmiðlarnir, vinirnir og útlitið er dauðans alvara fyrir unglingana í Hartvig Nissen-skólanum í Ósló. Þættirnir þykja raunsannir og hafa hlotið fjölda viðurkenninga. Atriði í þáttunum eru ekki við hæfi ungra barna.]]></description>
+      <short-description />
+      <rating>12</rating>
+      <episode number="6" number-of-episodes="12" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/24733/</more-info>
+      <reference group="24733" material="024733-0006" title="Skömm" />
+      <details id="24733">
+        <series-title>Skömm</series-title>
+        <series-original-title>SKAM III</series-original-title>
+        <series-description>
+          <p>Þriðja þáttaröð um norsku menntaskólanemana. Lífið tekur stöðugum breytingum, allt er nýtt og að sama skapi afskaplega flókið. Ástin, samfélagsmiðlarnir, vinirnir og útlitið er dauðans alvara fyrir unglingana í Hartvig Nissen-skólanum í Ósló. Þættirnir þykja raunsannir og hafa hlotið fjölda viðurkenninga. Atriði í þáttunum eru ekki við hæfi ungra barna.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4850814" serie-id="" start-time="2017-08-09 23:55:00" duration="00:00:10" mark="no">
+      <title>Dagskrárlok</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="203" number-of-episodes="400" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4850814" title="Dagskrárlok" />
+    </event>
+  </service>
+</schedule>
