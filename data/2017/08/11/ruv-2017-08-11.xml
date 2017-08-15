@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-08-15 23:31" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="1" service-name="RÚV" date="2017-08-11">
+    <event event-id="4901576" serie-id="18217" start-time="2017-08-11 09:00:00" duration="02:40:00" mark="no">
+      <title>HM í frjálsum íþróttum</title>
+      <original-title />
+      <description><![CDATA[Bein útsending frá heimsmeistaramótinu í frjálsum íþróttum í London. Allt fremsta frjálsíþróttafólk heims mætir til leiks og RÚV sýnir beint frá öllum keppnisdögunum. Mótið er það síðasta hjá spretthlauparanum Usain Bolt frá Jamaíku og breska millivegahlauparanum Mo Farah sem báðir eru margfaldir heims- og ólympíumeistarar.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="18217" material="018217-0010" title="HM í frjálsum íþróttum" />
+      <credits />
+    </event>
+    <event event-id="4901453" serie-id="9263" start-time="2017-08-11 17:05:00" duration="00:29:35" mark="no">
+      <title>Fagur fiskur</title>
+      <original-title>Lúrur og grallarar</original-title>
+      <description><![CDATA[Þáttaröð um fiskmeti og matreiðslu á því. Í hverjum þætti verður fjallað um eitt hráefni: humar, skelfisk, chili, fiskisúpur, þorsk, sushi, lax og eða silung. Sveinn Kjartansson kokkur sér að mestu um eldamennsku og saman bjóða þau Áslaug Snorradóttir til veislu eða færa fólki fiskveislu heim. Framleiðandi er Sagafilm. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="9" number-of-episodes="10" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="6">Íslenskir þættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/9263/</more-info>
+      <reference group="9263" material="009263-0009" title="Fagur fiskur í sjó" />
+      <details id="9263">
+        <series-title>Fagur fiskur í sjó</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Fagur fiskur í sjó er ný þáttaröð um fiskmeti og matreiðslu á því.</p>
+          <p>Í hverjum þætti verður fjallað um eitt hráefni: humar, skelfisk, chili, fiskisúpur, þorsk, sushi, lax og eða silung.</p>
+          <p>Sveinn Kjartansson kokkur sér að mestu um eldamennsku og saman bjóða þau Áslaug Snorradóttir til veislu eða færa fólki fiskveislu heim.</p>
+          <p>Uppskriftir og ýmsan fróðleik er að finna á vefslóðinni http://www.fagurfiskur.is/</p>
+          <p>Framleiðandi er Saga film.</p>
+          <p>Textað á síðu 888 í Textavarpi.</p>
+        </series-description>
+        <series-short-description>
+          <p>Fagur fiskur í sjó er ný þáttaröð með Sveini Kjartanssyni og Áslaugu Snorradóttur um fiskmeti og matreiðslu á því.</p>
+        </series-short-description>
+        <episode-description>
+          <p>Lúrur og grallarar eru önnur orð yfir flatfiska, til dæmis rauðsprettu sem er í aðalhlutverki í þessum þætti. Meðal annars er farið í berja og sveppamó í Heiðmörk og Ása Ásgrímsdóttir fræðir okkur um hvernig á að bera sig að við tínslu sveppa. Að lokum er slegið upp veislu með litlum gröllurum í túnfætinum á Lynghóli.</p>
+        </episode-description>
+        <episode-short-description>
+          <p>Rauðspretta, ber, sveppir og fleira gott.</p>
+        </episode-short-description>
+      </details>
+      <credits />
+    </event>
+    <event event-id="4894274" serie-id="" start-time="2017-08-11 17:35:00" duration="00:15:00" mark="no">
+      <title>KrakkaRÚV</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4894274" title="KrakkaRÚV" />
+    </event>
+    <event event-id="4888677" serie-id="20431" start-time="2017-08-11 17:36:00" duration="00:11:03" mark="yes">
+      <title>Kata og Mummi</title>
+      <original-title>Kate and Mim-Mim</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="27" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/20431/</more-info>
+      <reference group="20431" material="020431-0033" title="Kata og Mummi" />
+      <details id="20431">
+        <series-title>Kata og Mummi</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4886515" serie-id="23884" start-time="2017-08-11 17:50:00" duration="00:08:00" mark="no">
+      <title>Táknmálsfréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23884" material="023884-0223" title="Táknmálsfréttir" />
+      <credits />
+    </event>
+    <event event-id="4901577" serie-id="18217" start-time="2017-08-11 18:00:00" duration="00:55:00" mark="no">
+      <title>HM í frjálsum íþróttum</title>
+      <original-title />
+      <description><![CDATA[Bein útsending frá heimsmeistaramótinu í frjálsum íþróttum í London. Allt fremsta frjálsíþróttafólk heims mætir til leiks og RÚV sýnir beint frá öllum keppnisdögunum. Mótið er það síðasta hjá spretthlauparanum Usain Bolt frá Jamaíku og breska millivegahlauparanum Mo Farah sem báðir eru margfaldir heims- og ólympíumeistarar.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="18217" material="018217-0011" title="HM í frjálsum íþróttum" />
+      <credits />
+    </event>
+    <event event-id="4882925" serie-id="23879" start-time="2017-08-11 19:00:00" duration="00:23:00" mark="no">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23879" material="023879-0223" title="Fréttir" />
+      <credits />
+    </event>
+    <event event-id="4883696" serie-id="23877" start-time="2017-08-11 19:25:00" duration="00:05:00" mark="no">
+      <title>Íþróttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <reference group="23877" material="023877-0160" title="Íþróttir" />
+      <credits />
+    </event>
+    <event event-id="4884486" serie-id="23882" start-time="2017-08-11 19:30:00" duration="00:03:00" mark="no">
+      <title>Veður</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23882" material="023882-0222" title="Veður" />
+      <credits />
+    </event>
+    <event event-id="4899030" serie-id="24425" start-time="2017-08-11 19:40:00" duration="00:28:49" mark="no">
+      <title>Kærleikskveðja, Nína</title>
+      <original-title>Love, Nina</original-title>
+      <description><![CDATA[Bresk þáttaröð frá BBC um unga stúlku sem gerist barnfóstra framakonu í London. Þættirnir segja frá grátbroslegri upplifun hennar á heimilinu með börnunum og í stórborginni. Aðalhlutverk: Faye Marsay, Helena Bonham Carter og Ehan Rouse.]]></description>
+      <short-description />
+      <rating />
+      <episode number="5" number-of-episodes="5" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/24425/</more-info>
+      <reference group="24425" material="024425-0005" title="Kærleikskveðja, Nína" />
+      <details id="24425">
+        <series-title>Kærleikskveðja, Nína</series-title>
+        <series-original-title>Love, Nina</series-original-title>
+        <series-description>
+          <p>Bresk þáttaröð frá BBC um unga stúlku sem gerist barnfóstra framakonu í London. Þættirnir segja frá grátbroslegri upplifun hennar á heimilinu með börnunum og í stórborginni. Aðalhlutverk: Faye Marsay, Helena Bonham Carter og Ehan Rouse.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4931458" serie-id="24173" start-time="2017-08-11 20:15:00" duration="00:12:00" mark="no">
+      <title>HM íslenska hestsins: Samantekt</title>
+      <original-title />
+      <description><![CDATA[Samantekt frá keppni dagsins á HM íslenska hestsins sem fram fer í Hollandi. Umsjón: Gísli Einarsson. Dagskrárgerð: Óskar Þór Nikulásson.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="24173" material="024173-0004" title="HM íslenska hestsins: Samantekt" />
+      <credits />
+    </event>
+    <event event-id="4901602" serie-id="18217" start-time="2017-08-11 20:35:00" duration="00:17:00" mark="no">
+      <title>HM í frjálsum íþróttum</title>
+      <original-title />
+      <description><![CDATA[Bein útsending frá 200m hlaupi kvenna á HM í frjálsum íþróttum í London.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="18217" material="018217-0015" title="HM í frjálsum íþróttum" />
+      <credits />
+    </event>
+    <event event-id="4899795" serie-id="22945" start-time="2017-08-11 20:55:00" duration="01:32:05" mark="no">
+      <title>Juno</title>
+      <original-title />
+      <description><![CDATA[Margverðlaunuð grátbrosleg gamanmynd um unglingsstúlkuna Juno með Ellen Page, Jennifer Garner og Michael Cera í aðalhlutverkum. Þegar Juno verður óvænt ólétt þarf hún að taka erfiða ákvörðun varðandi barnið sem hún ber undir belti. Leikstjóri: Jason Reitman. Myndin hlaut Óskarsverðlaun árið 2008 fyrir besta handritið. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="7">Kvikmyndir</category>
+      <more-info>http://dagskra.ruv.is/nanar/22945/</more-info>
+      <reference group="22945" material="022945-0001" title="Juno" />
+      <details id="22945">
+        <series-title>Juno</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Margverðlaunuð grátbrosleg gamanmynd um unglingsstúlkuna Juno með Ellen Page, Jennifer Garner og Micheal Cera í aðalhlutverkum. Þegar Juno verður óvænt ólétt þarf hún að taka erfiða ákvörðun varðandi barnið sem hún ber undir belti. Leikstjóri: Jason Reitman. Myndin hlaut Óskarsverðlaun árið 2008 fyrir besta handritið.</p>
+        </series-description>
+        <series-short-description>
+          <p>Margverðlaunuð grátbrosleg gamanmynd um unglingsstúlkuna Juno með Ellen Page, Jennifer Garner og Micheal Cera í aðalhlutverkum.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4897832" serie-id="22015" start-time="2017-08-11 22:30:00" duration="01:38:35" mark="no">
+      <title>DragonHeart</title>
+      <original-title>Drekahjarta</original-title>
+      <description><![CDATA[Ævintýramynd með Sean Connery, Dennis Quaid og Dinu Meyer í aðalhlutverkum.  Síðasti dreki heimsins og drekabaninn taka höndum saman í von um að stöðva illgjarna konung. Leikstjóri: Rob Cohen. Myndin er ekki við hæfi ungra barna.]]></description>
+      <short-description />
+      <rating>12</rating>
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="7">Kvikmyndir</category>
+      <more-info>http://dagskra.ruv.is/nanar/22015/</more-info>
+      <reference group="22015" material="022015-0001" title="DragonHeart" />
+      <details id="22015">
+        <series-title>DragonHeart</series-title>
+        <series-original-title>Drekahjarta</series-original-title>
+        <series-description>
+          <p>Ævintýramynd með Sean Connery, Dennis Quaid og Dinu Meyer í aðalhlutverkum.  Síðasti dreki heimsins og drekabaninn taka höndum saman í von um að stöðva illgjarna konung. Leikstjóri: Rob Cohen. Myndin er ekki við hæfi ungra barna.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4899796" serie-id="20387" start-time="2017-08-12 00:10:00" duration="01:46:38" mark="no">
+      <title>Adore</title>
+      <original-title>Fullkomnar mæður</original-title>
+      <description><![CDATA[Átakanleg ástarsaga með Naomi Watts og Robin Wright í aðalhlutverkum. Æskuvinkonur á fimmtugsaldri eiga í forboðnum ástarsamböndum sem flækja vináttu þeirra. Handritið er byggt á sögu eftir nóbelsverðlaunaskáldið Doris Lessing. Leikstjóri: Anne Fontaine. Atriði í myndinni eru ekki við hæfi ungra barna. e.]]></description>
+      <short-description />
+      <rating>12</rating>
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="7">Kvikmyndir</category>
+      <more-info>http://dagskra.ruv.is/nanar/20387/</more-info>
+      <reference group="20387" material="020387-0001" title="Fullkomnar mæður" />
+      <details id="20387">
+        <series-title>Fullkomnar mæður</series-title>
+        <series-original-title>Adore</series-original-title>
+        <series-description>
+          <p>Átakanleg ástarsaga með Naomi Watts og Robin Wright í aðalhlutverkum. Æskuvinkonur á fimmtugsaldri eiga í forboðnum ástarsamböndum sem flækja vináttu þeirra. Handritið er byggt á sögu eftir nóbelsverðlaunaskáldið Doris Lessing. Leikstjóri: Anne Fontaine. Atriði í myndinni eru ekki við hæfi barna.</p>
+        </series-description>
+        <series-short-description>
+          <p>Átakanleg ástarsaga með Naomi Watts og Robin Wright í aðalhlutverkum.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4892305" serie-id="" start-time="2017-08-12 01:55:00" duration="00:03:00" mark="no">
+      <title>Útvarpsfréttir í dagskrárlok</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4892305" title="Útvarpsfréttir í dagskrárlok" />
+    </event>
+  </service>
+</schedule>
