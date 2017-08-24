@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-08-24 13:42" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="1" service-name="RÚV" date="2017-08-24">
+    <event event-id="4934904" serie-id="14104" start-time="2017-08-24 17:10:00" duration="00:37:12" mark="no">
+      <title>Flikk Flakk</title>
+      <original-title />
+      <description><![CDATA[Á aðeins tveimur dögum ráðast íbúar Vestmannaeyja og Hornafjarðar í umfangsmiklar framkvæmdir í samstarfi við færustu hönnuði landsins. Þeir mála, smíða, gróðursetja, hreinsa og gera upp gömul hús sem fá nýtt hlutverk. Á sama tíma er boðið upp á matarveislur og listamenn bæjarins með tónlist og ýmsum uppákomum. Umsjónarmaður: Guðrún Dís Emilsdóttir. Handrit og stjórn framleiðslu: Þórhallur Gunnarsson. Dagskrárgerð: Sigurður R. Jakobsson. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="3" number-of-episodes="4" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="6">Íslenskir þættir</category>
+      <more-info>http://www.ruv.is/flikkflakk</more-info>
+      <reference group="14104" material="014104-0003" title="Flikk - Flakk" />
+      <details id="14104">
+        <series-title>Flikk - Flakk</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Sumarið 2013 réðust íbúar Vestmannaeyja og Hornafjarðar í umfangsmiklar framkvæmdir í samstarfi við færustu hönnuði landsins. Þeir máluðu, smíðuðu og gerðu upp gömul hús og gáfu ný hlutverk. Umsjónarmaður: Guðrún Dís Emilsdóttir. Handrit og stjórn framleiðslu: Þórhallur Gunnarsson. Dagskrárgerð: Sigurður R. Jakobsson.</p>
+        </series-description>
+        <series-short-description>
+          <p>Íbúar Vestmannaeyja og Hornafjarðar ráðast í umfangsmiklar framkvæmdir.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4886528" serie-id="23884" start-time="2017-08-24 17:50:00" duration="00:08:00" mark="no">
+      <title>Táknmálsfréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23884" material="023884-0236" title="Táknmálsfréttir" />
+      <credits />
+    </event>
+    <event event-id="4932317" serie-id="" start-time="2017-08-24 18:00:00" duration="00:25:00" mark="no">
+      <title>KrakkaRÚV</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4932317" title="KrakkaRÚV" />
+    </event>
+    <event event-id="4932556" serie-id="20631" start-time="2017-08-24 18:01:00" duration="00:11:00" mark="yes">
+      <title>Elías</title>
+      <original-title>Elias and the Rescue Team</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="2" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/20631/</more-info>
+      <reference group="20631" material="020631-0002" title="Elías" />
+      <details id="20631">
+        <series-title>Elías</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4932563" serie-id="18991" start-time="2017-08-24 18:12:00" duration="00:11:00" mark="yes">
+      <title>Veistu hvað ég elska þig mikið</title>
+      <original-title>Guess How Much I Love you</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="2" number-of-episodes="7" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/18991/</more-info>
+      <reference group="18991" material="018991-0021" title="Veistu hvað ég elska þig mikið?" />
+      <details id="18991">
+        <series-title>Veistu hvað ég elska þig mikið?</series-title>
+        <series-original-title>Guess how much I love you</series-original-title>
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4936810" serie-id="25099" start-time="2017-08-24 18:25:00" duration="00:01:37" mark="no">
+      <title>Vísindahorn Ævars</title>
+      <original-title>Hlátur</original-title>
+      <description><![CDATA[Þáttarbrot með Ævari vísindamanni fyrir krakka á öllum aldri.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <more-info>http://dagskra.ruv.is/nanar/25099/</more-info>
+      <reference group="25099" material="025099-0016" title="Vísindahorn Ævars" />
+      <details id="25099">
+        <series-title>Vísindahorn Ævars</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Þáttarbrot með Ævari vísindamanni fyrir krakka á öllum aldri.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4932342" serie-id="24405" start-time="2017-08-24 18:30:00" duration="00:26:00" mark="no">
+      <title>Hvergidrengir</title>
+      <original-title>Nowhere Boys</original-title>
+      <description><![CDATA[Þriðja þáttaröðin um vinina Felix, Andy, Rahart og Jake.  Eftir að hafa farið saman í skólaferðlag snúa þeir aftur og átta sig á að þeir eru staddir í hliðarheimi og enginn þekkir þá, hvorki fjölskyldur þeirra né vinir. Aðalhlutverk: Dougie Baldwin, Joel Lok, Rahart Adams og Matt Testro.]]></description>
+      <short-description />
+      <rating />
+      <episode number="2" number-of-episodes="13" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/24405/</more-info>
+      <reference group="24405" material="024405-0002" title="Hvergidrengir" />
+      <details id="24405">
+        <series-title>Hvergidrengir</series-title>
+        <series-original-title>Nowhere Boys</series-original-title>
+        <series-description>
+          <p>Þriðja þáttaröðin um vinina Felix, Andy, Rahart og Jake.  Eftir að hafa farið saman í skólaferðlag snúa þeir aftur og átta sig á að þeir eru staddir í hliðarheimi og enginn þekkir þá, hvorki fjölskyldur þeirra né vinir. Aðalhlutverk: Dougie Baldwin, Joel Lok, Rahart Adams og Matt Testro.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4882938" serie-id="23879" start-time="2017-08-24 19:00:00" duration="00:23:00" mark="no">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23879" material="023879-0236" title="Fréttir" />
+      <credits />
+    </event>
+    <event event-id="4883705" serie-id="23877" start-time="2017-08-24 19:25:00" duration="00:05:00" mark="no">
+      <title>Íþróttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <reference group="23877" material="023877-0169" title="Íþróttir" />
+      <credits />
+    </event>
+    <event event-id="4884499" serie-id="23882" start-time="2017-08-24 19:30:00" duration="00:03:00" mark="no">
+      <title>Veður</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23882" material="023882-0235" title="Veður" />
+      <credits />
+    </event>
+    <event event-id="4898499" serie-id="23881" start-time="2017-08-24 19:35:00" duration="00:20:00" mark="no">
+      <title>Kastljós og Menningin</title>
+      <original-title />
+      <description><![CDATA[Frétta- og mannlífsþáttur þar sem ítarlega er fjallað um það sem efst er á baugi. Stærstu fréttamál dagsins eru krufin með viðmælendum um land allt. Þátturinn mun leggja sérstaka áherslu á neytendamál í vetur. Einnig verður menningarumfjöllun á sínnum stað í allan vetur. Umsjónarmenn eru Baldvin Þór Bergsson, Helga Arnardóttir, Bergsteinn Siguðrsson og Guðrún Sóley Gestsdóttir.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="3">Fréttatengt</category>
+      <more-info>http://dagskra.ruv.is/nanar/23881/</more-info>
+      <reference group="23881" material="023881-0081" title="Kastljós" />
+      <details id="23881">
+        <series-title>Kastljós</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Frétta- og mannlífsþáttur þar sem ítarlega er fjallað um það sem efst er á baugi. Stærstu fréttamál dagsins eru krufin með viðmælendum um land allt. Þátturinn mun leggja sérstaka áherslu á neytendamál í vetur. Umsjónarmenn eru Baldvin Þór Bergsson og Helga Arnardóttir.</p>
+        </series-description>
+        <series-short-description>
+          <p>Beittur, fréttatengdur þáttur um málefni líðandi stundar, menningu og dægurmál hvers konar.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4932189" serie-id="22141" start-time="2017-08-24 20:05:00" duration="00:28:02" mark="no">
+      <title>Pricebræður elda mat úr héraði</title>
+      <original-title>Spise med Price, egnsretter</original-title>
+      <description><![CDATA[Matgæðingarnir í Price-fjölskyldunni töfra fram kræsingar við öll tækifæri. Hér nýta þeir ferskasta hráefnið úr héraðinu hverju sinni. Adam Price er einnig þekktur sem aðalhandritshöfundur og framleiðandi af sjónvarpsþáttunum Borgen.]]></description>
+      <short-description />
+      <rating />
+      <episode number="2" number-of-episodes="3" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/22141/</more-info>
+      <reference group="22141" material="022141-0002" title="Pricebræður elda mat úr héraði" />
+      <details id="22141">
+        <series-title>Pricebræður elda mat úr héraði</series-title>
+        <series-original-title>Spise med Price, egnsretter</series-original-title>
+        <series-description>
+          <p>Matgæðingarnir í Price-fjölskyldunni töfra fram kræsingar við öll tækifæri. Hér nýta þeir ferskasta hráefnið úr héraðinu hverju sinni. Adam Price er einnig þekktur sem aðalhandritshöfundur og framleiðandi af sjónvarpsþáttunum Borgen.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4900436" serie-id="19317" start-time="2017-08-24 20:35:00" duration="00:22:15" mark="no">
+      <title>Í mat hjá mömmu</title>
+      <original-title>Friday Night Dinner III</original-title>
+      <description><![CDATA[Bráðfyndin verðlaunaþáttaröð frá BBC um tvo fullorðna bræður sem venja komur sínar í mat til mömmu og pabba á föstudagskvöldum. Meðal leikenda eru Tamsin Greig, Simon Bird og Paul Ritter.]]></description>
+      <short-description />
+      <rating />
+      <episode number="4" number-of-episodes="6" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/19317/</more-info>
+      <reference group="19317" material="019317-0004" title="Í mat hjá mömmu" />
+      <details id="19317">
+        <series-title>Í mat hjá mömmu</series-title>
+        <series-original-title>Friday Night Dinner III</series-original-title>
+        <series-description>
+          <p>Bráðfyndin verðlaunaþáttaröð frá BBC um tvo fullorðna bræður sem venja komur sínar í mat til mömmu og pabba á föstudagskvöldum. Meðal leikenda eru Tamsin Greig, Simon Bird og Paul Ritter.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4901213" serie-id="22025" start-time="2017-08-24 21:00:00" duration="00:53:26" mark="no">
+      <title>Fréttir frá Gallipoli</title>
+      <original-title>Deadline Gallipoli</original-title>
+      <description><![CDATA[Sannsögulegur ástralskur myndaflokkur í tveimur hlutum sem segir frá þremur fréttariturum sem halda til Gallipoli í fyrri heimstyröld. Þaðan er þeim falið að segja stríðsfréttir og skýra frá sannleikanum hvað sem það kostar. Leikarar: Sam Worthington, Hugh Dancy og Joel Jackson.]]></description>
+      <short-description />
+      <rating>16</rating>
+      <episode number="2" number-of-episodes="4" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/22025/</more-info>
+      <reference group="22025" material="022025-0002" title="Fréttir frá Gallipoli" />
+      <details id="22025">
+        <series-title>Fréttir frá Gallipoli</series-title>
+        <series-original-title>Deadline Gallipoli</series-original-title>
+        <series-description>
+          <p>Sannsögulegur ástralskur myndaflokkur í tveimur hlutum sem segir frá þremur fréttariturum sem halda til Gallipoli í fyrri heimstyröld. Þaðan er þeim falið að segja stríðsfréttir og skýra frá sannleikanum hvað sem það kostar. Leikarar: Sam Worthington, Hugh Dancy og Joel Jackson.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4883983" serie-id="23880" start-time="2017-08-24 22:00:00" duration="00:15:00" mark="no">
+      <title>Tíufréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23880" material="023880-0135" title="Tíufréttir" />
+      <credits />
+    </event>
+    <event event-id="4884192" serie-id="23883" start-time="2017-08-24 22:15:00" duration="00:03:00" mark="no">
+      <title>Veðurfréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23883" material="023883-0136" title="Veðurfréttir" />
+      <credits />
+    </event>
+    <event event-id="4899003" serie-id="24208" start-time="2017-08-24 22:20:00" duration="00:49:03" mark="no">
+      <title>Haltu mér, slepptu mér</title>
+      <original-title>Cold Feet II</original-title>
+      <description><![CDATA[Önnur þáttaröð af þessum rómantísku gamanþáttum um þrjú pör sem tengjast innbyrðis í Manchester á Bretlandi. Öll eru þau á mismunandi stað í sambandinu, ýmist nýir elskendur, nýbakaðir foreldrar eða nýgift. Leikarar:  James Nesbitt, John Thomson og Robert Bathurst, Hermione Norris, Helen Baxendale og Fay Ripley. Atriði í þáttunum eru ekki við hæfi ungra barna.]]></description>
+      <short-description />
+      <rating>12</rating>
+      <episode number="3" number-of-episodes="6" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/24208/</more-info>
+      <reference group="24208" material="024208-0003" title="Haltu mér, slepptu mér" />
+      <details id="24208">
+        <series-title>Haltu mér, slepptu mér</series-title>
+        <series-original-title>Cold Feet II</series-original-title>
+        <series-description>
+          <p>Önnur þáttaröð af þessum rómantísku gamanþáttum um þrjú pör sem tengjast innbyrðis í Manchester á Bretlandi. Öll eru þau á mismunandi stað í sambandinu, ýmist nýir elskendur, nýbakaðir foreldrar eða nýgift. Leikarar:  James Nesbitt, John Thomson og Robert Bathurst, Hermione Norris, Helen Baxendale og Fay Ripley. Atriði í þáttunum eru ekki við hæfi ungra barna.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4927381" serie-id="23432" start-time="2017-08-24 23:10:00" duration="00:58:29" mark="no">
+      <title>Svikamylla</title>
+      <original-title>Bedrag</original-title>
+      <description><![CDATA[Ný þáttaröð af þessum dönsku sakamálaþáttum um siðleysi og klækjabrögð í frumskógi fjármálaheimsins. Í síðustu þáttaröð náði lögreglumaðurinn Mads ekki að fangelsa framkvæmdastjóra Energeen en hann hefur engu gleymt og nú beinast spjótin að bönkunum. Leikarar: Thomas Bo Larsen, Natalie Madueño, Esben Smed, og Nikolaj Lie Kaas. Atriði í þáttunum eru ekki við hæfi ungra barna. e.]]></description>
+      <short-description />
+      <rating>12</rating>
+      <episode number="5" number-of-episodes="10" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/23432/</more-info>
+      <reference group="23432" material="023432-0005" title="Svikamylla" />
+      <details id="23432">
+        <series-title>Svikamylla</series-title>
+        <series-original-title>Bedrag II</series-original-title>
+        <series-description>
+          <p>Ný þáttaröð af þessum dönsku sakamálaþáttum um siðleysi og klækjabrögð í frumskógi fjármálaheimsins. Í síðustu þáttaröð náði lögreglumaðurinn Mads ekki að fangelsa framkvæmdastjóra Energeen en hann hefur engu gleymt og nú beinast spjótin að bönkunum. Leikarar: Thomas Bo Larsen, Natalie Madueño, Esben Smed, og Nikolaj Lie Kaas. Atriði í þáttunum eru ekki við hæfi ungra barna.</p>
+        </series-description>
+        <series-short-description>
+          <p>Ný þáttaröð af þessum dönsku sakamálaþáttum um siðleysi og klækjabrögð í frumskógi fjármálaheimsins.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4930547" serie-id="23881" start-time="2017-08-25 00:10:00" duration="00:20:00" mark="no">
+      <title>Kastljós og Menningin</title>
+      <original-title />
+      <description><![CDATA[Frétta- og mannlífsþáttur þar sem ítarlega er fjallað um það sem efst er á baugi. Stærstu fréttamál dagsins eru krufin með viðmælendum um land allt. Þátturinn mun leggja sérstaka áherslu á neytendamál í vetur. Einnig verður menningarumfjöllun á sínnum stað í allan vetur. Umsjónarmenn eru Baldvin Þór Bergsson, Helga Arnardóttir, Bergsteinn Siguðrsson og Guðrún Sóley Gestsdóttir.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="3">Fréttatengt</category>
+      <more-info>http://dagskra.ruv.is/nanar/23881/</more-info>
+      <reference group="23881" material="023881-0081" title="Kastljós" />
+      <details id="23881">
+        <series-title>Kastljós</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Frétta- og mannlífsþáttur þar sem ítarlega er fjallað um það sem efst er á baugi. Stærstu fréttamál dagsins eru krufin með viðmælendum um land allt. Þátturinn mun leggja sérstaka áherslu á neytendamál í vetur. Umsjónarmenn eru Baldvin Þór Bergsson og Helga Arnardóttir.</p>
+        </series-description>
+        <series-short-description>
+          <p>Beittur, fréttatengdur þáttur um málefni líðandi stundar, menningu og dægurmál hvers konar.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4850823" serie-id="" start-time="2017-08-25 00:30:00" duration="00:00:10" mark="no">
+      <title>Dagskrárlok</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="212" number-of-episodes="400" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4850823" title="Dagskrárlok" />
+    </event>
+  </service>
+</schedule>
