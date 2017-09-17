@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-09-17 14:00" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2017-09-15">
+    <event event-id="4934961" serie-id="24238" start-time="2017-09-15 18:20:00" duration="01:50:00" mark="no">
+      <title>Rússland - Serbía</title>
+      <original-title>EM karla í körfubolta</original-title>
+      <description><![CDATA[Bein útsending frá leik Rússlands og Serbíu í undanúrslitum á EM karla í körfubolta.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="24238" material="024238-0033" title="Rússland - Serbía" />
+      <credits />
+    </event>
+  </service>
+</schedule>
