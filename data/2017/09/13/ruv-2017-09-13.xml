@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-09-17 14:00" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="1" service-name="RÚV" date="2017-09-13">
+    <event event-id="4934942" serie-id="24238" start-time="2017-09-13 15:35:00" duration="01:50:00" mark="no">
+      <title>Grikkland - Rússland</title>
+      <original-title>EM í körfubolta: 8-liða úrslit</original-title>
+      <description><![CDATA[Bein útsending frá leik Grikklands og Rússlands í 8-liða úrslitum á EM karla í körfubolta.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="24238" material="024238-0020" title="Grikkland - Rússland" />
+      <credits />
+    </event>
+    <event event-id="4935782" serie-id="1032" start-time="2017-09-13 17:25:00" duration="00:23:32" mark="no">
+      <title>Úr gullkistu RÚV: Út og suður</title>
+      <original-title />
+      <description><![CDATA[Gísli Einarsson flakkar vítt og breitt um landið og bregður upp svipmyndum af áhugaverðu fólki. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="3" number-of-episodes="12" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <more-info>http://dagskra.ruv.is/nanar/1032/</more-info>
+      <reference group="1032" material="001032-0003" title="Út og suður" />
+      <details id="1032">
+        <series-title>Út og suður</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Gísli Einarsson fer um landið og heilsar upp á forvitnilegt fólk. Dagskrárgerð Gísli Einarsson og Freyr Arnarson.</p>
+        </series-description>
+        <series-short-description>
+          <p>Þættirnir hans Gísla Einarssonar, Út og suður, þar sem hann ferðast um landið og spjallar við forvitnilegt fólk, féllu vel í kramið hjá þjóðinni.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4886548" serie-id="23884" start-time="2017-09-13 17:50:00" duration="00:08:00" mark="no">
+      <title>Táknmálsfréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23884" material="023884-0256" title="Táknmálsfréttir" />
+      <credits />
+    </event>
+    <event event-id="4935308" serie-id="" start-time="2017-09-13 18:00:00" duration="00:50:00" mark="no">
+      <title>KrakkaRÚV</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4935308" title="KrakkaRÚV" />
+    </event>
+    <event event-id="4902423" serie-id="20809" start-time="2017-09-13 18:14:00" duration="00:07:48" mark="yes">
+      <title>Klaufabárðarnir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="39" number-of-episodes="69" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/20809/</more-info>
+      <reference group="20809" material="020809-0042" title="Klaufabárðarnir" />
+      <details id="20809">
+        <series-title>Klaufabárðarnir</series-title>
+        <series-original-title />
+        <series-description />
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4902459" serie-id="21814" start-time="2017-09-13 18:22:00" duration="00:22:30" mark="yes">
+      <title>Sanjay og Craig</title>
+      <original-title>Sanjay and Craig</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="7" number-of-episodes="20" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/21814/</more-info>
+      <reference group="21814" material="021814-0009" title="Sanjay og Craig" />
+      <details id="21814">
+        <series-title>Sanjay og Craig</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Sanjay er 12 ára strákur sem á frekar óvenjulegt gæludýr og saman lenda þeir í ýmsum ævintýrum.</p>
+        </series-description>
+        <series-short-description>
+          <p>Sanjay er 12 ára strákur sem á frekar óvenjulegt gæludýr og saman lenda þeir í ýmsum ævintýrum.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4935942" serie-id="19954" start-time="2017-09-13 18:45:00" duration="00:05:00" mark="yes">
+      <title>Lautarferð með köku</title>
+      <original-title>Picnic with Cake</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="13" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="19954" material="019954-0001" title="Lautarferð með köku" />
+      <credits />
+    </event>
+    <event event-id="4892897" serie-id="24081" start-time="2017-09-13 18:50:00" duration="00:04:00" mark="no">
+      <title>Krakkafréttir</title>
+      <original-title>13. september 2017</original-title>
+      <description><![CDATA[Fréttaþáttur fyrir börn á aldrinum 8-12 ára þar sem litið er yfir það helsta í fréttum liðinnar viku. Umsjón: Ísgerður Elfa Gunnarsdóttir og Sævar Helgi Bragason.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/24081/</more-info>
+      <reference group="24081" material="024081-0096" title="Krakkafréttir" />
+      <details id="24081">
+        <series-title>Krakkafréttir</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Fréttaþáttur fyrir börn á aldrinum 8-12 ára. Umsjón: Ísgerður Elfa Gunnarsdóttir og Sævar Helgi Bragason.</p>
+        </series-description>
+        <series-short-description>
+          <p>Fréttaþáttur fyrir börn á aldrinum 8-12 ára.  Umsjón: Ísgerður Elfa Gunnarsdóttir og Sævar Helgi Bragason.</p>
+        </series-short-description>
+        <episode-description>
+          <p>Í þættinum í dag fjöllum við um íslenskan ofurhuga í Norður-Íshafi og aukinn íþróttaáhuga norskra barna. Við fáum líka viðtal við aðalleikarana í þættinum Loforð.</p>
+        </episode-description>
+        <episode-short-description>
+          <p>Í þættinum í dag fjöllum við um íslenskan ofurhuga í Norður-Íshafi og aukinn íþróttaáhuga norskra barna. Við fáum líka viðtal við aðalleikarana í þættinum Loforð.</p>
+        </episode-short-description>
+      </details>
+      <credits />
+    </event>
+    <event event-id="4882581" serie-id="23854" start-time="2017-09-13 18:54:00" duration="00:03:00" mark="no">
+      <title>Víkingalottó</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="37" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23854" material="023854-0037" title="Víkingalottó" />
+      <credits />
+    </event>
+    <event event-id="4882958" serie-id="23879" start-time="2017-09-13 19:00:00" duration="00:19:00" mark="no">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23879" material="023879-0256" title="Fréttir" />
+      <credits />
+    </event>
+    <event event-id="4883719" serie-id="23877" start-time="2017-09-13 19:20:00" duration="00:04:00" mark="no">
+      <title>Íþróttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <reference group="23877" material="023877-0183" title="Íþróttir" />
+      <credits />
+    </event>
+    <event event-id="4884519" serie-id="23882" start-time="2017-09-13 19:25:00" duration="00:03:00" mark="no">
+      <title>Veður</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23882" material="023882-0255" title="Veður" />
+      <credits />
+    </event>
+    <event event-id="4935887" serie-id="25597" start-time="2017-09-13 19:30:00" duration="02:25:00" mark="no">
+      <title>Stefnuræða forsætisráðherra</title>
+      <original-title />
+      <description><![CDATA[Bein útsending frá Alþingi þar sem Bjarni Benediktsson forsætisráðherra flytur stefnuræðu sína og fram fara umræður um hana.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttir og fréttatengt</category>
+      <more-info>http://dagskra.ruv.is/nanar/25597/</more-info>
+      <reference group="25597" material="025597-0001" title="Stefnuræða forsætisráðherra" />
+      <details id="25597">
+        <series-title>Stefnuræða forsætisráðherra</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Bein útsending frá Alþingi þar sem Bjarni Benediktsson forsætisráðherra flytur stefnuræðu sína og fram fara umræður um hana.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4883994" serie-id="23880" start-time="2017-09-13 22:00:00" duration="00:15:00" mark="no">
+      <title>Tíufréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23880" material="023880-0146" title="Tíufréttir" />
+      <credits />
+    </event>
+    <event event-id="4884203" serie-id="23883" start-time="2017-09-13 22:15:00" duration="00:03:00" mark="no">
+      <title>Veðurfréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="23883" material="023883-0147" title="Veðurfréttir" />
+      <credits />
+    </event>
+    <event event-id="4934950" serie-id="25506" start-time="2017-09-13 22:20:00" duration="00:15:00" mark="no">
+      <title>EM í körfubolta 2017: Samantekt</title>
+      <original-title />
+      <description><![CDATA[Samantekt frá leikjum dagsins á EM karla í körfubolta.]]></description>
+      <short-description />
+      <rating />
+      <episode number="6" number-of-episodes="6" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="5">Íþróttir</category>
+      <more-info>http://dagskra.ruv.is/nanar/25506/</more-info>
+      <reference group="25506" material="025506-0006" title="EM í körfubolta 2017: Samantekt" />
+      <details id="25506">
+        <series-title>EM í körfubolta 2017: Samantekt</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Samantekt frá leikjum dagsins á EM karla í körfubolta.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4900294" serie-id="21777" start-time="2017-09-13 22:40:00" duration="01:55:25" mark="no">
+      <title>Vísindakirkjan og fjötrar trúarinnar</title>
+      <original-title>Going Clear: Scientology and The Prison of Belief</original-title>
+      <description><![CDATA[Margverðlaunuð heimildarmynd frá 2015 í leikstjórn Alex Gibney þar sem farið er í saumana á starfi Vísindakirkjunnar í Bandaríkjunum. Stórleikararnir John Travolta og Tom Cruise eru meðal iðkenda sem koma við sögu í myndinni.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="4">Fræðsla</category>
+      <more-info>http://dagskra.ruv.is/nanar/21777/</more-info>
+      <reference group="21777" material="021777-0001" title="Vísindakirkjan og fjötrar trúarinnar" />
+      <details id="21777">
+        <series-title>Vísindakirkjan og fjötrar trúarinnar</series-title>
+        <series-original-title>Going Clear: Scientology and The Prison of Belief</series-original-title>
+        <series-description>
+          <p>Margverðlaunuð heimildarmynd frá 2015 í leikstjórn Alex Gibney þar sem farið er í saumana á starfi Vísindakirkjunnar í Bandaríkjunum. Stórleikararnir John Travolta og Tom Cruise eru meðal iðkenda sem koma við sögu í myndinni.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4850834" serie-id="" start-time="2017-09-14 00:35:00" duration="00:00:10" mark="no">
+      <title>Dagskrárlok</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4850834" title="Dagskrárlok" />
+    </event>
+  </service>
+</schedule>
