@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-09-22 13:43" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2017-09-22">
+    <event event-id="4939414" serie-id="25822" start-time="2017-09-22 12:42:00" duration="03:40:00" mark="no">
+      <title>Á allra vörum - á Rás 2</title>
+      <original-title>Byggjum von um betra líf</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <more-info>http://dagskra.ruv.is/nanar/25822/</more-info>
+      <reference group="25822" material="025822-0001" title="Á allra vörum" />
+      <details id="25822">
+        <series-title>Á allra vörum</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Beint streymi úr Efstaleiti fyrir átakið Á alllra vörum, sem unnið er í samvinnu við RÚV og Sjónvarp Símans. Söfnun fyrir Kvennaathvarfið, en þangað leita konur og börn sem orðið hafa fyrir ofbeldi heima fyrir og hafa ekki í nein hús að venda. Stjórn útsendingar: Egill Eðvarðsson.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+  </service>
+</schedule>
