@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-10-07 13:42" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2017-10-07">
+    <event event-id="4940422" serie-id="25847" start-time="2017-10-07 17:00:00" duration="04:00:00" mark="no">
+      <title>HM í fimleikum</title>
+      <original-title />
+      <description><![CDATA[Bein útsending frá HM í fimleikum sem fram fer i Montreal í Kanada.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="25847" material="025847-0003" title="HM í fimleikum" />
+      <credits />
+    </event>
+  </service>
+</schedule>
