@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-10-08 13:42" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2017-10-08">
+    <event event-id="4940423" serie-id="25847" start-time="2017-10-08 17:00:00" duration="04:05:00" mark="no">
+      <title>HM í fimleikum</title>
+      <original-title />
+      <description><![CDATA[Bein útsending frá HM í fimleikum sem fram fer i Montreal í Kanada.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="25847" material="025847-0004" title="HM í fimleikum" />
+      <credits />
+    </event>
+    <event event-id="4941159" serie-id="25879" start-time="2017-10-08 20:10:00" duration="01:55:00" mark="no">
+      <title>Alþingiskosningar 2017: Leiðtogaumræður</title>
+      <original-title>Táknmál</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="3">Fréttir og fréttatengt</category>
+      <more-info>http://dagskra.ruv.is/nanar/25879/</more-info>
+      <reference group="25879" material="025879-0001" title="Alþingiskosningar 2017: Leiðtogaumræður" />
+      <details id="25879">
+        <series-title>Alþingiskosningar 2017: Leiðtogaumræður</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Kosningaumfjöllun RÚV. Formenn stjórnmálaflokkanna mætast í sjónvarpssal.</p>
+        </series-description>
+        <series-short-description>
+          <p>Kosningaumfjöllun RÚV. Formenn stjórnmálaflokkanna mætast í sjónvarpssal.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+  </service>
+</schedule>
