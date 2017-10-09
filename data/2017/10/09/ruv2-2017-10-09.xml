@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2017-10-09 13:42" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2017-10-09">
+    <event event-id="4941163" serie-id="25886" start-time="2017-10-09 15:00:00" duration="00:10:00" mark="no">
+      <title>Hvað í fjandanum á ég að kjósa?</title>
+      <original-title>Hvað í fjandanum á ég að kjósa? (2017)</original-title>
+      <description><![CDATA[Nýr þáttur fyrir ungt fólk með því markmiði að hvetja til sjálfstæðrar ákvörðunar í Alþingiskosningum 2017. Ingileif Friðriksdóttir fer af stað í vegferð til að finna út hvernig hún ver atkvæði sínu. Ingileif setur skipulega fram hvaða málefni skipta hana máli og hittir fulltrúa stjórnmálaflokkanna til að komast að því hverjir tikka í hennar box.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="6" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <reference group="25886" material="025886-0001" title="Hvað í fjandanum á ég að kjósa?" />
+      <credits />
+    </event>
+    <event event-id="4941170" serie-id="25885" start-time="2017-10-09 21:30:00" duration="02:00:00" mark="no">
+      <title>Ísland - Kosóvó</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <reference group="25885" material="025885-0001" title="Ísland - Kosóvó" />
+      <credits />
+    </event>
+  </service>
+</schedule>
