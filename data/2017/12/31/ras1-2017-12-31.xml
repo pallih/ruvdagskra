@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2018-01-01 22:47" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="2" service-name="Rás 1" date="2017-12-31">
+    <event event-id="4858952" serie-id="23599" start-time="2017-12-31 06:55:00" duration="00:04:57" mark="no">
+      <title>Morgunbæn og orð dagsins</title>
+      <original-title />
+      <description><![CDATA[Séra Fritz Már Berndsen Jörgensson flytur.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="13">Samfélag</category>
+      <more-info>http://dagskra.ruv.is/nanar/23599/</more-info>
+      <reference group="23599" material="023599-0363" title="Morgunbæn og orð dagsins" />
+      <details id="23599">
+        <series-title>Morgunbæn og orð dagsins</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Bæn og hugleiðing að morgni dags.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Séra Fritz Már Berndsen Jörgensson flytur.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4864378" serie-id="23652" start-time="2017-12-31 07:00:00" duration="00:03:00" mark="no">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/23652/</more-info>
+      <reference group="23652" material="023652-0364" title="Fréttir" />
+      <details id="23652">
+        <series-title>Fréttir</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Fréttir.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4946966" serie-id="26215" start-time="2017-12-31 07:03:00" duration="00:52:00" mark="no">
+      <title>Blaðað í jólasálmabókinni</title>
+      <original-title />
+      <description><![CDATA[Tónlistarþáttur um sálma og uppruna þeirra.
+Umsjón: Una Margrét Jónsdóttir. 
+(Frá því á fimmtudag)]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="9">Tónlist</category>
+      <more-info>http://dagskra.ruv.is/nanar/26215/</more-info>
+      <reference group="26215" material="026215-0004" title="Blaðað í jólasálmabókinni" />
+      <details id="26215">
+        <series-title>Blaðað í jólasálmabókinni</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Tónlistarþáttur um sálma og uppruna þeirra.</p>
+          <p>Umsjón: Una Margrét Jónsdóttir.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4865108" serie-id="23660" start-time="2017-12-31 08:00:00" duration="00:05:00" mark="no">
+      <title>Morgunfréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/23660/</more-info>
+      <reference group="23660" material="023660-0365" title="Morgunfréttir" />
+      <details id="23660">
+        <series-title>Morgunfréttir</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Fréttir í útvarpi.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4939047" serie-id="14019" start-time="2017-12-31 08:05:00" duration="00:42:55" mark="no">
+      <title>Skáld í útlegð</title>
+      <original-title>Í útlegð í eigin landi</original-title>
+      <description><![CDATA[Fjórði þáttur fjallar um hlutskipti skálda sem ekki verða landflótta, en eru utan eða innan við mörk þess sem leyfilegt er talið í alræðisríki. Dæmin sem tekin eru fyrir í þættinum koma frá Sovéttímanum.
+Umsjón: Árni Bergmann.
+(Frá 2012)]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="15">Bókmenntir</category>
+      <more-info>http://dagskra.ruv.is/nanar/14019/</more-info>
+      <reference group="14019" material="014019-0004" title="Skáld í útlegð" />
+      <details id="14019">
+        <series-title>Skáld í útlegð</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Árni Bergmann skoðar ýmis dæmi um merkileg skáld sem fyrr og síðar hafa verið rekin í útlegð eða hrakist frá föðurtúnum með öðrum hætti. Fyrsti þáttur fjallar um fræga útlaga hér og þar í heiminum, allt frá Ovid, Dante og Voltaire til íslenskra skálda sem lögðu land undir fót til að leita sér frama. Í seinni tveim þáttunum er athygli beint að rússneskum skáldum, sem bæði á dögum keisara og kommúnistaleiðtoga hafa sætt afdrifaríkum og fjölbreytilegum útlegðardómum. Jafnan er haft í huga hvaða áhrif útlegðin hefur á skáldskaparafrek þeirra sem um er fjallað og að lokum spurt að því hvort ekki rati allir útlagar heim að lokum.</p>
+        </series-description>
+        <series-short-description>
+          <p>Árni Bergmann skoðar ýmis dæmi um merkileg skáld sem fyrr og síðar hafa verið rekin í útlegð eða hrakist frá föðurtúnum með öðrum ætti.</p>
+        </series-short-description>
+        <episode-description>
+          <p>Í þættinum er fjallað um hlutskipti skálda sem ekki verða landflótta en eru utan eða innan við mörk þess sem leyfilegt er talið í alræðisríki. Dæmin sem tekin eru fyrir í þættinum koma  frá Sovéttímanum.</p>
+        </episode-description>
+        <episode-short-description>
+          <p>Í þættinum er fjallað um hlutskipti skálda sem ekki verða landflótta en eru utan eða innan við mörk þess sem leyfilegt er talið í alræðisríki.</p>
+        </episode-short-description>
+      </details>
+      <credits />
+    </event>
+    <event event-id="4867085" serie-id="23664" start-time="2017-12-31 09:00:00" duration="00:05:00" mark="no">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/23664/</more-info>
+      <reference group="23664" material="023664-0105" title="Fréttir" />
+      <details id="23664">
+        <series-title>Fréttir</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Fréttir.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4877827" serie-id="23817" start-time="2017-12-31 09:05:00" duration="00:49:56" mark="no">
+      <title>Samtal</title>
+      <original-title>Árni Bergmann</original-title>
+      <description><![CDATA[um byltingu.
+Rússneska byltingin er einn þeirra stóratburða sem mótuðu 20. öldina. Þótt kommúnistastjórnir hafi hrunið ein af annarri í lok níunda og upphafi tíunda áratugarins, eru áhrif byltingarinnar á pólitíska þróun, samfélagsskilning, menningu og kjarabaráttu varanleg.
+Umsjón: Ævar Kjartansson og Jón Ólafsson.
+(Aftur á miðvikudag)]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="14">Menning</category>
+      <more-info>http://dagskra.ruv.is/nanar/23817/</more-info>
+      <reference group="23817" material="023817-0051" title="Samtal" />
+      <details id="23817">
+        <series-title>Samtal</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Ævar Kjartansson spjallar við sérfræðinga um heima og geima.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>um byltingu.</p>
+          <p>Rússneska byltingin er einn þeirra stóratburða sem mótuðu 20. öldina. Þótt kommúnistastjórnir hafi hrunið ein af annarri í lok níunda og upphafi tíunda áratugarins, eru áhrif byltingarinnar á pólitíska þróun, samfélagsskilning, menningu og kjarabaráttu varanleg. Byltingin setti ekki aðeins mark sitt á þau samfélög sem lutu stjórn kommúnistaflokka um lengri eða skemmri tíma heldur einnig á þróuð samfélög vestur Evrópu. Rætt er um bein og óbein áhrif rússnesku byltingarinnar á samfélagið og um leið á fyrirbærið byltingu almennt, og hvernig hugmyndin um að byltingar séu nauðsynlegar eða óhjákvæmilegar hefur skotið rótum langt út fyrir hugmyndaheim kommúnismans.</p>
+          <p>Umsjón: Ævar Kjartansson og Jón Ólafsson.</p>
+        </episode-description>
+        <episode-short-description>
+          <p>Árni Bergmann var við nám í Sovétríkjunum1954 - 1962. Hann hefur skrifað manna mest um Sovétríkin og Rússland og þýtt bókmenntir úr rússnesku.</p>
+        </episode-short-description>
+      </details>
+      <credits />
+    </event>
+    <event event-id="4868335" serie-id="23669" start-time="2017-12-31 10:00:00" duration="00:05:00" mark="no">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/23669/</more-info>
+      <reference group="23669" material="023669-0105" title="Fréttir" />
+      <details id="23669">
+        <series-title>Fréttir</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Fréttir.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4859790" serie-id="23601" start-time="2017-12-31 10:05:00" duration="00:10:00" mark="no">
+      <title>Veðurfregnir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/23601/</more-info>
+      <reference group="23601" material="023601-0105" title="Veðurfregnir" />
+      <details id="23601">
+        <series-title>Veðurfregnir</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Frá Veðurstofu Íslands.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4877284" serie-id="23805" start-time="2017-12-31 10:15:00" duration="00:38:00" mark="no">
+      <title>Bók vikunnar</title>
+      <original-title>Norrænar goðsagnir</original-title>
+      <description><![CDATA[Bók vikunnar er Norrænar goðsagnir eftir Neil Gaiman í þýðingu Urðar Snædal. Gestir þáttarins eru Emil Hjörvar Pedersen rithöfundur og Kolfinna Jónatansdóttir bókmenntafræðingur. 
+Umsjón: Auður Aðalsteinsdóttir.
+(Aftur á laugardag)]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="15">Bókmenntir</category>
+      <more-info>http://dagskra.ruv.is/nanar/23805/</more-info>
+      <reference group="23805" material="023805-0034" title="Bók vikunnar" />
+      <details id="23805">
+        <series-title>Bók vikunnar</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Rætt við gesti þáttarins um bók vikunnar.</p>
+          <p>Umsjónarmenn eru Auður Aðalsteinsdóttir, Jórunn Sigurðardóttir, Jóhannes Ólafsson og Halla Harðardóttir.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Bók vikunnar er Norrænar goðsagnir eftir Neil Gaiman í þýðingu Urðar Snædal. Gestir þáttarins eru Emil Hjörvar Pedersen rithöfundur og Kolfinna Jónatansdóttir bókmenntafræðingur.</p>
+          <p>Umsjón: Auður Aðalsteinsdóttir.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4947464" serie-id="23670" start-time="2017-12-31 11:00:00" duration="00:03:00" mark="no">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/23670/</more-info>
+      <reference group="23670" material="023670-0104" title="Fréttir" />
+      <details id="23670">
+        <series-title>Fréttir</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Fréttir.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4941476" serie-id="25930" start-time="2017-12-31 11:03:00" duration="00:57:00" mark="no">
+      <title>Nýárskveðjur</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="14">Menning</category>
+      <more-info>http://dagskra.ruv.is/nanar/25930/</more-info>
+      <reference group="25930" material="025930-0001" title="Nýárskveðjur" />
+      <details id="25930">
+        <series-title>Nýárskveðjur</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Nýárskveðjur lesnar.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4859685" serie-id="24778" start-time="2017-12-31 12:00:00" duration="00:18:00" mark="no">
+      <title>Hádegisútvarp</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="8">Dægurmál</category>
+      <more-info>http://dagskra.ruv.is/nanar/24778/</more-info>
+      <reference group="24778" material="024778-0365" title="Hádegisútvarp" />
+      <details id="24778">
+        <series-title>Hádegisútvarp</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Hádegisútvarp í umsjón þular.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4937594" serie-id="23874" start-time="2017-12-31 12:20:00" duration="00:20:00" mark="no">
+      <title>Hádegisfréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/23874/</more-info>
+      <reference group="23874" material="023874-0105" title="Hádegisfréttir" />
+      <details id="23874">
+        <series-title>Hádegisfréttir</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Hádegisfréttir í útvarpi.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4859895" serie-id="23602" start-time="2017-12-31 12:40:00" duration="00:05:00" mark="no">
+      <title>Veðurfregnir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/23602/</more-info>
+      <reference group="23602" material="023602-0105" title="Veðurfregnir" />
+      <details id="23602">
+        <series-title>Veðurfregnir</series-title>
+        <series-original-title />
+        <series-description>
+          <p>frá Veðurstofu Íslands.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4938141" serie-id="23604" start-time="2017-12-31 12:50:00" duration="00:05:00" mark="no">
+      <title>Dánarfregnir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="13">Samfélag</category>
+      <more-info>http://dagskra.ruv.is/nanar/23604/</more-info>
+      <reference group="23604" material="023604-0259" title="Dánarfregnir" />
+      <details id="23604">
+        <series-title>Dánarfregnir</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Dánarfregnir.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4941326" serie-id="26247" start-time="2017-12-31 13:00:00" duration="00:51:55" mark="no">
+      <title>Svona var árið og svona verður framtíðin - nokkurn veginn</title>
+      <original-title />
+      <description><![CDATA[Umsjón: Eiríkur Guðmundsson og Anna Gyða Sigurgísladóttir.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="13">Samfélag</category>
+      <more-info>http://dagskra.ruv.is/nanar/26247/</more-info>
+      <reference group="26247" material="026247-0001" title="Svona var árið - nokkurnvegin" />
+      <details id="26247">
+        <series-title>Svona var árið - nokkurnvegin</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Umsjón: Eiríkur Guðmundsson og Anna Gyða Sigurgísladóttir.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4939076" serie-id="25774" start-time="2017-12-31 14:00:00" duration="01:50:51" mark="no">
+      <title>Stórsveit Reykjavíkur: Ella Fitzgerald 100 ára</title>
+      <original-title />
+      <description><![CDATA[Stórsveit Reykjavíkur ásamt söngkonunum Andreu Gylfadóttur, Önnu Mjöll Ólafsdóttur, Ágústu Evu Erlendsdóttur, Ellen Kristjánsdóttur, Kristjönu Stefánsdóttur, Ragnheiði Gröndal, Sölku Sól Eyfeld, Sigríði Thorlacius og söngvaranum Kristjáni Kristjánssyni, minnast stórsöngkonunnar Ellu Fitzgerald. Sigurður Flosason stjórnar og kynnir.
+Hljóðritun frá tónleikum sem haldnir voru í Hörpu 22. september sl.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="9">Tónlist</category>
+      <more-info>http://dagskra.ruv.is/nanar/25774/</more-info>
+      <reference group="25774" material="025774-0001" title="Stórsveit Reykjavíkur: Ella Fitzgerald 100 ára" />
+      <details id="25774">
+        <series-title>Stórsveit Reykjavíkur: Ella Fitzgerald 100 ára</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Stórsveit Reykjavíkur ásamt söngkonunum Andreu Gylfadóttur, Önnu Mjöll Ólafsdóttur, Ágústu Evu Erlendsdóttur, Ellen Kristjánsdóttuur, Kristjönu Stefánsdóttur, Ragnheiði Gröndal, Sölku Sól Eyfeld, Sigríði Thorlacius og söngvaranum Kristjáni Kristjánssyni minnast stórsöngkonunnar Ellu Fitzgerald. Sigurður Flosason stjórnar og kynnir.</p>
+          <p>Hljóðritun frá tónleikum sem haldnir voru í Hörpu 22. september sl.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4871140" serie-id="23677" start-time="2017-12-31 16:00:00" duration="00:05:00" mark="no">
+      <title>Síðdegisfréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/23677/</more-info>
+      <reference group="23677" material="023677-0365" title="Síðdegisfréttir" />
+      <details id="23677">
+        <series-title>Síðdegisfréttir</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Síðdegisfréttir í útvarpi.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4937678" serie-id="25917" start-time="2017-12-31 16:05:00" duration="01:51:29" mark="no">
+      <title>Hvað gerðist á árinu?</title>
+      <original-title />
+      <description><![CDATA[Fréttamennirnir Arnhildur Hálfdánardóttir og Björn Malmquis rifja upp helstu atburði og fréttir ársins sem er að líða. 
+(Aftur á dagskrá á Rás 2 á morgun)]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/25917/</more-info>
+      <reference group="25917" material="025917-0001" title="Hvað gerðist á árinu" />
+      <details id="25917">
+        <series-title>Hvað gerðist á árinu</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Fréttamenn Ríkisútvarpsins rifja upp helstu atburði ársins sem er að líða.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4939257" serie-id="24228" start-time="2017-12-31 18:00:00" duration="01:00:00" mark="no">
+      <title>Guðsþjónusta í Hallgrímskirkju</title>
+      <original-title />
+      <description><![CDATA[Séra Sigurður Árni Þórðarson predikar.
+Séra Irma Sjöfn Óskarsdóttir þjónar fyrir altari.
+Mótettukór Hallgrímskirkju syngur undir stjórn Harðar Áskelssonar.
+Einsöngvari: Elmar Gilbertsson.
+Organisti: Björn Steinar Sólbergsson.]]></description>
+      <short-description><![CDATA[Séra Sigurður Árni Þórðarson predikar]]></short-description>
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="13">Samfélag</category>
+      <more-info>http://dagskra.ruv.is/nanar/24228/</more-info>
+      <reference group="24228" material="024228-0061" title="Guðsþjónusta" />
+      <details id="24228">
+        <series-title>Guðsþjónusta</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Bein útsending frá guðsþjónustu.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Séra Sigurður Árni Þórðarson predikar.</p>
+          <p>Séra Irma Sjöfn Óskarsdóttir þjónar fyrir altari.</p>
+          <p>Mótettukór Hallgrímskirkju syngur undir stjórn Harðar Áskelssonar.</p>
+          <p>Einsöngvari: Elmar Gilbertsson.</p>
+          <p>Organisti: Björn Steinar Sólbergsson.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4941470" serie-id="26068" start-time="2017-12-31 19:00:00" duration="00:59:06" mark="no">
+      <title>Þjóðlagakvöld</title>
+      <original-title />
+      <description><![CDATA[Íslensk þjóðlög, áramótasöngvar og alþýðulög í flutningi Sinfóníuhljómsveitar Íslands, Tryggva Tryggvasonar og félaga, Kammerkórsins, Einsöngvarakórsins, Kammersveitar Reykjavíkur, Arnar Magnússonar píanóleikara, Hamrahlíðarkórsins, Sönghópsins Grímu og fleiri.
+Kynnir: Sigvaldi Júlíusson.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="9">Tónlist</category>
+      <more-info>http://dagskra.ruv.is/nanar/26068/</more-info>
+      <reference group="26068" material="026068-0001" title="Þjóðlagakvöld" />
+      <details id="26068">
+        <series-title>Þjóðlagakvöld</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Íslensk þjóðlög, áramótasöngvar og alþýðulög í flutningi Sinfóníuhljómsveitar Íslands, Tryggva Tryggvasonar og félaga, Kammerkórsins, Einsöngvarakórsins, Kammersveitar Reykjavíkur, Arnar Magnússonar píanóleikara, Hamrahlíðarkórsins, Sönghópsins Grímu og fleiri.</p>
+          <p>Kynnir: Sigvaldi Júlíusson.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Íslensk þjóðlög, áramótasöngvar og alþýðulög í flutningi Sinfóníuhljómsveitar Íslands, Tryggva Tryggvasonar og félaga, Kammerkórsins, Einsöngvarakórsins, Kammersveitar Reykjavíkur, Arnar Magnússonar píanóleikara, Hamrahlíðarkórsins, Sönghópsins Grímu og fleiri.</p>
+          <p>Kynnir: Sigvaldi Júlíusson.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4941471" serie-id="25916" start-time="2017-12-31 20:00:00" duration="00:15:00" mark="no">
+      <title>Ávarp forsætisráðherra</title>
+      <original-title />
+      <description><![CDATA[Ávarp forsætisráðherra, Katrínar Jakobsdóttur.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="13">Samfélag</category>
+      <more-info>http://dagskra.ruv.is/nanar/25916/</more-info>
+      <reference group="25916" material="025916-0001" title="Ávarp forsætisráðherra" />
+      <details id="25916">
+        <series-title>Ávarp forsætisráðherra</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Ávarp forsætisráðherra, Katrínar Jakobsdóttur.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4943953" serie-id="26192" start-time="2017-12-31 20:15:00" duration="00:50:00" mark="no">
+      <title>Dixielandhljómsveit Árna Ísleifssonar</title>
+      <original-title />
+      <description><![CDATA[Dixielandhljómsveit Árna Ísleifssonar leikur nokkur lög. Hljóðritunin var gerð árið 1974.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="9">Tónlist</category>
+      <more-info>http://dagskra.ruv.is/nanar/26192/</more-info>
+      <reference group="26192" material="026192-0001" title="Dixielandhljómsveit Árna Ísleifssonar" />
+      <details id="26192">
+        <series-title>Dixielandhljómsveit Árna Ísleifssonar</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Dixielandhljómsveit Árna Ísleifssonar leikur nokkur lög. Hljóðritunin var gerð árið 1974.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4944807" serie-id="26151" start-time="2017-12-31 21:05:00" duration="00:51:00" mark="no">
+      <title>Ekki á morgun heldur hinn... eða hann byrjaði á ýmsu</title>
+      <original-title />
+      <description><![CDATA[Blandaður þáttur í tali og tónum fyrir þá sem hyggjast strengja áramótaheit. Lesið úr Ofvitanum eftir Þórberg Þórðarson og saga eftir C. Hyllinger í þýðingu umsjónarmannsins Antons Helga Jónssonar.
+(Frá 1995)]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="15">Bókmenntir</category>
+      <more-info>http://dagskra.ruv.is/nanar/26151/</more-info>
+      <reference group="26151" material="026151-0001" title="Ekki á morgun heldur hinn... eða hann byrjaði á ýmsu" />
+      <details id="26151">
+        <series-title>Ekki á morgun heldur hinn... eða hann byrjaði á ýmsu</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Blandaður þáttur í tali og tónum fyrir þá sem hyggjast strengja áramótaheit. Lesið úr Ofvitanum eftir Þórberg Þórðarson og saga eftir C. Hyllinger í þýðingu umsjónarmannsins Antons Helga Jónssonar.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4861506" serie-id="23613" start-time="2017-12-31 22:00:00" duration="00:05:00" mark="no">
+      <title>Veðurfregnir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/23613/</more-info>
+      <reference group="23613" material="023613-0363" title="Veðurfregnir" />
+      <details id="23613">
+        <series-title>Veðurfregnir</series-title>
+        <series-original-title />
+        <series-description>
+          <p>frá Veðurstofu Íslands.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4941525" serie-id="24143" start-time="2017-12-31 22:05:00" duration="01:49:36" mark="no">
+      <title>Kampavín og kristalsglös</title>
+      <original-title />
+      <description><![CDATA[Umsjón: Ingveldur G. Ólafsdóttir.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="9">Tónlist</category>
+      <more-info>http://dagskra.ruv.is/nanar/24143/</more-info>
+      <reference group="24143" material="024143-0001" title="Kampavín og kristalsglös" />
+      <details id="24143">
+        <series-title>Kampavín og kristalsglös</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Atriði úr glæsilegum veisluhöldum óperubókmenntanna.</p>
+          <p>Umsjón: Ingveldur G. Ólafsdóttir.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4937608" serie-id="17968" start-time="2017-12-31 23:55:00" duration="00:04:19" mark="no">
+      <title>Brennið þið vitar</title>
+      <original-title />
+      <description><![CDATA[Karlakór Óperukórsins og Karlakórinn Fóstbræður syngja með Sinfóníuhljómsveit Íslands; Garðar Cortes stjórnar.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="9">Tónlist</category>
+      <more-info>http://dagskra.ruv.is/nanar/17968/</more-info>
+      <reference group="17968" material="017968-0001" title="Brennið þið vitar" />
+      <details id="17968">
+        <series-title>Brennið þið vitar</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Karlaraddir Óperukórsins og Karlakórinn Fóstbræður syngja með Sinfóníuhljómsveit Íslands; Garðar Cortes stjórnar.</p>
+        </series-description>
+        <series-short-description>
+          <p>Karlaraddir Óperukórsins og Karlakórinn Fóstbræður syngja með Sinfóníuhljómsveit Íslands; Garðar Cortes stjórnar.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4937610" serie-id="26066" start-time="2017-12-31 23:59:30" duration="00:01:29" mark="no">
+      <title>Kveðja frá Ríkisútvarpinu</title>
+      <original-title />
+      <description><![CDATA[Magnús Geir Þórðarson.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="13">Samfélag</category>
+      <more-info>http://dagskra.ruv.is/nanar/26066/</more-info>
+      <reference group="26066" material="026066-0001" title="Kveðja frá Ríkisútvarpinu" />
+      <details id="26066">
+        <series-title>Kveðja frá Ríkisútvarpinu</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Magnús Geir Þórðarson útvarpsstjóri.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4944948" serie-id="26155" start-time="2018-01-01 00:01:00" duration="00:05:31" mark="no">
+      <title>Nú árið er liðið</title>
+      <original-title />
+      <description><![CDATA[Kór Langholtskirkju syngur undir stjórn Jóns Stefánssonar.
+Gústaf Jóhannesson leikur á orgel.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="9">Tónlist</category>
+      <more-info>http://dagskra.ruv.is/nanar/26155/</more-info>
+      <reference group="26155" material="026155-0001" title="Nú árið er liðið" />
+      <details id="26155">
+        <series-title>Nú árið er liðið</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Kór Langholtskirkju syngur undir stjórn Jóns Stefánssonar.</p>
+          <p>Gústaf Jóhannesson leikur á orgel.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4939282" serie-id="26122" start-time="2018-01-01 00:06:30" duration="00:54:57" mark="no">
+      <title>Gleðilegt ár</title>
+      <original-title />
+      <description><![CDATA[Áramótum fagnað með léttum lögum af ýmsu tagi að hætti hússins. 
+Umsjón: Svanhildur Jakobsdóttir.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="9">Tónlist</category>
+      <more-info>http://dagskra.ruv.is/nanar/26122/</more-info>
+      <reference group="26122" material="026122-0001" title="Gleðilegt ár" />
+      <details id="26122">
+        <series-title>Gleðilegt ár</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Umsjón: Svanhildur Jakobsdóttir.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+  </service>
+</schedule>
