@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2018-01-01 23:03" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="1" service-name="RÚV" date="2017-10-24">
+    <event event-id="4939151" serie-id="24515" start-time="2017-10-24 15:15:00" duration="00:13:58" mark="no">
+      <title>Menningin - samantekt</title>
+      <original-title />
+      <description><![CDATA[Brot úr menningarumfjöllun liðinnar viku. Fjallað á snarpan og líflegan hátt um það sem efst er á baugi hverju sinni í menningar- og listalífinu, jafnt með innslögum, fréttaskýringum, gagnrýni, pistlum og umræðu. Umsjón: Bergsteinn Sigurðsson og Guðrún Sóley Gestsdóttir. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>yes</closed>
+      </subtitles>
+      <reference group="23490" material="024515-0006" title="Menningin - samantekt" />
+      <credits />
+    </event>
+    <event event-id="4941217" serie-id="25864" start-time="2017-10-24 15:30:00" duration="02:45:00" mark="no">
+      <title>Tékkland - Ísland</title>
+      <original-title>Undankeppni HM kvenna í fótbolta</original-title>
+      <description><![CDATA[Bein útsending frá leik Tékklands og Íslands í undankeppni HM kvenna í fótbolta.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="5">Íþróttir</category>
+      <more-info>http://dagskra.ruv.is/nanar/25864/</more-info>
+      <reference group="25864" material="025864-0002" title="Tékkland - Ísland" />
+      <details id="25864">
+        <series-title>Tékkland - Ísland</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Bein útsending frá leik Tékklands og Íslands í undankeppni HM kvenna í fótbolta.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Bein útsending frá leik Tékklands og Íslands í undankeppni HM kvenna í fótbolta.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4886589" serie-id="23884" start-time="2017-10-24 18:15:00" duration="00:08:00" mark="no">
+      <title>Táknmálsfréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/23884/</more-info>
+      <reference group="23884" material="023884-0297" title="Táknmálsfréttir" />
+      <details id="23884">
+        <series-title>Táknmálsfréttir</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Táknmálsfréttir sjónvarps.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4935343" serie-id="" start-time="2017-10-24 18:25:00" duration="00:25:00" mark="no">
+      <title>KrakkaRÚV</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4935343" title="KrakkaRÚV" />
+    </event>
+    <event event-id="4900972" serie-id="18930" start-time="2017-10-24 18:26:00" duration="00:21:34" mark="yes">
+      <title>Drekar</title>
+      <original-title>Dragons: Riders of Berk</original-title>
+      <description><![CDATA[Teiknimyndaröð byggð á hinni vinsælu teiknimynd Að temja drekann sinn, eða How to Train Your Dragon. Í þáttunum fylgjumst við með ævintýrum drengsins Hiksta og félaga hans, sem allir eru drekatemjarar.]]></description>
+      <short-description />
+      <rating />
+      <episode number="15" number-of-episodes="20" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/18930/</more-info>
+      <reference group="18930" material="018930-0017" title="Drekar" />
+      <details id="18930">
+        <series-title>Drekar</series-title>
+        <series-original-title>Dragons: Riders of Berk</series-original-title>
+        <series-description>
+          <p>Teiknimyndaröð byggð á hinni vinsælu teiknimynd Að temja drekann sinn, eða How to Train Your Dragon. Í þáttunum fylgjumst við með ævintýrum drengsins Hiksta og félaga hans, sem allir eru drekatemjarar.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4935547" serie-id="22390" start-time="2017-10-24 18:48:00" duration="00:01:00" mark="yes">
+      <title>Skógargengið</title>
+      <original-title>The Jungle Bunch News Beat</original-title>
+      <description><![CDATA[Fjörugir þættir um Marra mörgæs sem heldur að hann sé tígrisdýr. Í þáttunum lendir Marri í ýmsum ævintýrum ásamt vinum sínum í skóginum.]]></description>
+      <short-description />
+      <rating />
+      <episode number="6" number-of-episodes="26" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/22390/</more-info>
+      <reference group="22390" material="022390-0008" title="Skógargengið" />
+      <details id="22390">
+        <series-title>Skógargengið</series-title>
+        <series-original-title>The Jungle Bunch News Beat</series-original-title>
+        <series-description>
+          <p>Fjörugir þættir um Marra mörgæs sem heldur að hann sé tígrisdýr. Í þáttunum lendir Marri í ýmsum ævintýrum ásamt vinum sínum í skóginum.</p>
+        </series-description>
+        <series-short-description>
+          <p>Fjörugir þættir um Marra mörgæs sem heldur að hann sé tígrisdýr.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4937425" serie-id="24081" start-time="2017-10-24 18:50:00" duration="00:05:00" mark="no">
+      <title>Krakkafréttir</title>
+      <original-title>24. oktbóber 2017</original-title>
+      <description><![CDATA[Fréttaþáttur fyrir börn á aldrinum 8-12 ára þar sem litið er yfir það helsta í fréttum liðinnar viku. Umsjón: Ísgerður Elfa Gunnarsdóttir og Sævar Helgi Bragason.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/24081/</more-info>
+      <reference group="24081" material="024081-0119" title="Krakkafréttir" />
+      <details id="24081">
+        <series-title>Krakkafréttir</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Fréttaþáttur fyrir börn á aldrinum 8-12 ára. Umsjón: Ísgerður Elfa Gunnarsdóttir og Sævar Helgi Bragason.</p>
+        </series-description>
+        <series-short-description>
+          <p>Fréttaþáttur fyrir börn á aldrinum 8-12 ára.  Umsjón: Ísgerður Elfa Gunnarsdóttir og Sævar Helgi Bragason.</p>
+        </series-short-description>
+        <episode-description>
+          <p>Í þættinum í kvöld ætlum við að segja frá áhyggjum ungs fólks af umhverfismálum, útskýrum skoðanakannanir, heyrum af mótmælum bænda í Frakklandi og kynnum okkur fálkarannsóknir á Íslandi.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4882999" serie-id="23879" start-time="2017-10-24 19:00:00" duration="00:23:00" mark="no">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/23879/</more-info>
+      <reference group="23879" material="023879-0297" title="Fréttir kl. 19:00" />
+      <details id="23879">
+        <series-title>Fréttir kl. 19:00</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Aðalfréttatími sjónvarps.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4883748" serie-id="23877" start-time="2017-10-24 19:25:00" duration="00:05:00" mark="no">
+      <title>Íþróttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/23877/</more-info>
+      <reference group="23877" material="023877-0212" title="Íþróttir" />
+      <details id="23877">
+        <series-title>Íþróttir</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Íþróttafréttir</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4884560" serie-id="23882" start-time="2017-10-24 19:30:00" duration="00:03:00" mark="no">
+      <title>Veður</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/23882/</more-info>
+      <reference group="23882" material="023882-0296" title="Veðurfréttir kl. 19:30" />
+      <details id="23882">
+        <series-title>Veðurfréttir kl. 19:30</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Veðurfréttir.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4898526" serie-id="23881" start-time="2017-10-24 19:40:00" duration="00:20:00" mark="no">
+      <title>Kastljós og Menningin</title>
+      <original-title />
+      <description><![CDATA[Frétta- og mannlífsþáttur þar sem ítarlega er fjallað um það sem efst er á baugi. Stærstu fréttamál dagsins eru krufin með viðmælendum um land allt. Þátturinn mun leggja sérstaka áherslu á neytendamál í vetur. Einnig verður menningarumfjöllun á sínum stað í allan vetur. Umsjónarmenn eru Baldvin Þór Bergsson, Helga Arnardóttir, Bergsteinn Sigurðsson og Guðrún Sóley Gestsdóttir.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/23881/</more-info>
+      <reference group="23881" material="023881-0108" title="Kastljós" />
+      <details id="23881">
+        <series-title>Kastljós</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Frétta- og mannlífsþáttur þar sem ítarlega er fjallað um það sem efst er á baugi. Stærstu fréttamál dagsins eru krufin með viðmælendum um land allt. Þátturinn mun leggja sérstaka áherslu á neytendamál í vetur. Einnig verður menningarumfjöllun á sínum stað í allan vetur. Umsjónarmenn eru Baldvin Þór Bergsson, Helga Arnardóttir, Bergsteinn Sigurðsson og Guðrún Sóley Gestsdóttir.</p>
+        </series-description>
+        <series-short-description>
+          <p>Beittur, fréttatengdur þáttur um málefni líðandi stundar, menningu og dægurmál hvers konar.</p>
+        </series-short-description>
+        <episode-description>
+          <p>Í Kastljósi var rætt við nýjan formann Öryrkjabandalags Íslands Þuríði Hörpu Sigurðardóttur um stöðu og kjör öryrkja.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4939244" serie-id="25676" start-time="2017-10-24 20:05:00" duration="00:28:21" mark="no">
+      <title>Facebook - Augað alsjáandi</title>
+      <original-title>What Facebook Knows About You</original-title>
+      <description><![CDATA[Heimildarþáttur frá BBC um samfélagsmiðilinn Facebook og það hvernig miðillinn nálgast og varðveitir persónuupplýsingar fólks. Ljósi er varpað á hvernig Facebook hagnast á sölu persónuupplýsinga, þar sem slíkum gögnum er safnað með breiðvirkum reikniforskriftum, sem fyrirtæki og stjórnmálaöfl geta síðan notfært sér til að koma boðskap sínum á framfæri.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="4">Fræðsla</category>
+      <more-info>http://dagskra.ruv.is/nanar/25676/</more-info>
+      <reference group="25676" material="025676-0001" title="Facebook - Augað alsjáandi" />
+      <details id="25676">
+        <series-title>Facebook - Augað alsjáandi</series-title>
+        <series-original-title>What Facebook Knows About You</series-original-title>
+        <series-description>
+          <p>Heimildarþáttur frá BBC um samfélagsmiðilinn Facebook og það hvernig miðillinn nálgast og varðveitir persónuupplýsingar fólks. Ljósi er varpað á hvernig Facebook hagnast á sölu persónuupplýsinga, þar sem slíkum gögnum er safnað með breiðvirkum reikniforskriftum, sem fyrirtæki og stjórnmálaöfl geta síðan notfært sér til að koma boðskap sínum á framfæri.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4931972" serie-id="20672" start-time="2017-10-24 20:40:00" duration="00:28:47" mark="no">
+      <title>Sagan bak við smellinn - Don&apos;t Stop Believin&apos;</title>
+      <original-title>Hitlåtens historia</original-title>
+      <description><![CDATA[Sænsk heimildarþáttaröð um tilurð frægra popplaga. Í þessum þætti er fjallað um tilurð lagsins Don't Stop Believin' með hljómsveitinni Journey.]]></description>
+      <short-description />
+      <rating />
+      <episode number="4" number-of-episodes="8" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="9">Tónlist</category>
+      <more-info>http://dagskra.ruv.is/nanar/20672/</more-info>
+      <reference group="20672" material="020672-0004" title="Sagan bak við smellinn" />
+      <details id="20672">
+        <series-title>Sagan bak við smellinn</series-title>
+        <series-original-title>Hitlåtens historia</series-original-title>
+        <series-description>
+          <p>Sænsk heimildarþáttaröð um tilurð frægra popplaga.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Sænsk heimildarþáttaröð um tilurð frægra popplaga. Í þessum þætti er fjallað um tilurð lagsins Don&apos;t Stop Believin&apos; með hljómsveitinni Journey.</p>
+        </episode-description>
+        <episode-short-description>
+          <p>Sænsk heimildarþáttaröð um tilurð frægra popplaga.</p>
+        </episode-short-description>
+      </details>
+      <credits />
+    </event>
+    <event event-id="4939399" serie-id="25015" start-time="2017-10-24 21:10:00" duration="00:46:08" mark="no">
+      <title>Heilaþvottastöðin</title>
+      <original-title>Brainwashing Stacey</original-title>
+      <description><![CDATA[Stacey Dooley er þekkt fyrir vinsælar heimildarmyndir þar sem hún tæklar umdeild málefni á einstakan máta. Hún skráir sig í þjálfunarbúðir fyrir umdeildustu hugmyndafræði samtímans og ögrar eigin hugmyndaheimi til hins ítrasta. Innra með sér háir hún siðferðislega og tilfinningalega baráttu og skilar því til áhorfenda í áleitinni umfjöllun sem lætur engan ósnortinn.]]></description>
+      <short-description />
+      <rating />
+      <episode number="2" number-of-episodes="2" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="10">Heimildamyndir</category>
+      <more-info>http://dagskra.ruv.is/nanar/25015/</more-info>
+      <reference group="25015" material="025015-0002" title="Heilaþvottastöðin" />
+      <details id="25015">
+        <series-title>Heilaþvottastöðin</series-title>
+        <series-original-title>Brainwashing Stacey</series-original-title>
+        <series-description>
+          <p>Stacey Dooley er þekkt fyrir vinsælar heimildarmyndir þar sem hún tæklar umdeild málefni á einstakan máta. Hún skráir sig í ýmsar þjálfunarbúðir fyrir umdeildustu hugmyndafræði samtímans og ögrar eigin hugmyndaheimi til hins ítrasta. Innra með sér háir hún siðferðislega og tilfinningalega baráttu og skilar því til áhorfenda í áleitinni umfjöllun sem lætur engan ósnortinn.</p>
+        </series-description>
+        <series-short-description>
+          <p>Stacey Dooley er þekkt fyrir vinsælar heimildarmyndir þar sem hún tæklar umdeild málefni á einstakan máta. Hún skráir sig í ýmsar þjálfunarbúðir fyrir umdeildustu hugmyndafræði samtímans og ögrar eigin hugmyndaheimi til hins ítrasta.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4884017" serie-id="23880" start-time="2017-10-24 22:00:00" duration="00:15:00" mark="no">
+      <title>Tíufréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/23880/</more-info>
+      <reference group="23880" material="023880-0169" title="Fréttir kl. 22:00" />
+      <details id="23880">
+        <series-title>Fréttir kl. 22:00</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Kvöldfréttatími sjónvarps.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4884226" serie-id="23883" start-time="2017-10-24 22:15:00" duration="00:03:00" mark="no">
+      <title>Veðurfréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/23883/</more-info>
+      <reference group="23883" material="023883-0170" title="Veðurfréttir kl. 22:15" />
+      <details id="23883">
+        <series-title>Veðurfréttir kl. 22:15</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Veðurfréttir.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4939760" serie-id="25834" start-time="2017-10-24 22:20:00" duration="00:25:00" mark="no">
+      <title>Alþingiskosningar 2017: Forystusætið</title>
+      <original-title>Píratar</original-title>
+      <description><![CDATA[Formenn stjórnmálaflokkanna sitja fyrir svörum um störf sín og stefnumál.]]></description>
+      <short-description />
+      <rating />
+      <episode number="10" number-of-episodes="11" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="13">Samfélag</category>
+      <more-info>http://dagskra.ruv.is/nanar/25834/</more-info>
+      <reference group="25834" material="025834-0010" title="Alþingiskosningar 2017: Forystusætið" />
+      <details id="25834">
+        <series-title>Alþingiskosningar 2017: Forystusætið</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Formenn stjórnmálaflokkanna sitja fyrir svörum um störf sín og stefnumál.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Formenn stjórnmálaflokkanna sitja fyrir svörum um störf sín og stefnumál. Í þessum þætti sitja Píratar fyrir svörum.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4939766" serie-id="25829" start-time="2017-10-24 22:50:00" duration="00:04:00" mark="no">
+      <title>Alþingiskosningar 2017: Kynning á framboði</title>
+      <original-title>Dögun</original-title>
+      <description><![CDATA[Kynningarefni stjórnmálaflokka í framboði til Alþingis.]]></description>
+      <short-description />
+      <rating />
+      <episode number="4" number-of-episodes="11" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/25829/</more-info>
+      <reference group="25829" material="025829-0004" title="Alþingiskosningar 2017: Kynning á framboði" />
+      <details id="25829">
+        <series-title>Alþingiskosningar 2017: Kynning á framboði</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Kynningarefni stjórnmálaflokka í framboði til Alþingis.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4939767" serie-id="25829" start-time="2017-10-24 22:55:00" duration="00:04:00" mark="no">
+      <title>Alþingiskosningar 2017: Kynning á framboði</title>
+      <original-title>Björt framtíð</original-title>
+      <description><![CDATA[Kynningarefni stjórnmálaflokka í framboði til Alþingis.]]></description>
+      <short-description />
+      <rating />
+      <episode number="5" number-of-episodes="11" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/25829/</more-info>
+      <reference group="25829" material="025829-0005" title="Alþingiskosningar 2017: Kynning á framboði" />
+      <details id="25829">
+        <series-title>Alþingiskosningar 2017: Kynning á framboði</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Kynningarefni stjórnmálaflokka í framboði til Alþingis.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4931490" serie-id="21067" start-time="2017-10-24 23:00:00" duration="01:28:41" mark="no">
+      <title>Vera</title>
+      <original-title />
+      <description><![CDATA[Bresk sakamálamynd byggð á sögu eftir Ann Cleeves um Veru Stanhope rannsóknarlögreglukonu á Norðymbralandi. Vera leiðir rannsókn á dauða ungrar konu sem er myrt á hrottafenginn hátt. Meðal leikenda eru Brenda Blethyn og David Leon. Atriði í myndinni eru ekki við hæfi barna.]]></description>
+      <short-description />
+      <rating>12</rating>
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="7">Kvikmyndir</category>
+      <more-info>http://dagskra.ruv.is/nanar/21067/</more-info>
+      <reference group="21067" material="021067-0002" title="Vera" />
+      <details id="21067">
+        <series-title>Vera</series-title>
+        <series-original-title>Vera</series-original-title>
+        <series-description>
+          <p>Bresk sakamálamynd frá árinu 2011 byggð á sögu eftir Ann Cleeves um Veru Stanhope rannsóknarlögreglukonu á Norðymbralandi. Með aðalhlutverk fara Brenda Blethyn og David Leon. Atriði í myndinni eru ekki við hæfi ungra barna.</p>
+        </series-description>
+        <series-short-description>
+          <p>Bresk sakamálamynd frá árinu 2011  byggð á sögu eftir Ann Cleeves um Veru Stanhope rannsóknarlögreglukonu á Norðymbralandi.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4930574" serie-id="23881" start-time="2017-10-25 00:30:00" duration="00:20:00" mark="no">
+      <title>Kastljós og Menningin</title>
+      <original-title />
+      <description><![CDATA[Frétta- og mannlífsþáttur þar sem ítarlega er fjallað um það sem efst er á baugi. Stærstu fréttamál dagsins eru krufin með viðmælendum um land allt. Þátturinn mun leggja sérstaka áherslu á neytendamál í vetur. Einnig verður menningarumfjöllun á sínum stað í allan vetur. Umsjónarmenn eru Baldvin Þór Bergsson, Helga Arnardóttir, Bergsteinn Sigurðsson og Guðrún Sóley Gestsdóttir. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/23881/</more-info>
+      <reference group="23881" material="023881-0108" title="Kastljós" />
+      <details id="23881">
+        <series-title>Kastljós</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Frétta- og mannlífsþáttur þar sem ítarlega er fjallað um það sem efst er á baugi. Stærstu fréttamál dagsins eru krufin með viðmælendum um land allt. Þátturinn mun leggja sérstaka áherslu á neytendamál í vetur. Einnig verður menningarumfjöllun á sínum stað í allan vetur. Umsjónarmenn eru Baldvin Þór Bergsson, Helga Arnardóttir, Bergsteinn Sigurðsson og Guðrún Sóley Gestsdóttir.</p>
+        </series-description>
+        <series-short-description>
+          <p>Beittur, fréttatengdur þáttur um málefni líðandi stundar, menningu og dægurmál hvers konar.</p>
+        </series-short-description>
+        <episode-description>
+          <p>Í Kastljósi var rætt við nýjan formann Öryrkjabandalags Íslands Þuríði Hörpu Sigurðardóttur um stöðu og kjör öryrkja.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4850857" serie-id="" start-time="2017-10-25 00:50:00" duration="00:00:10" mark="no">
+      <title>Dagskrárlok</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4850857" title="Dagskrárlok" />
+    </event>
+  </service>
+</schedule>
