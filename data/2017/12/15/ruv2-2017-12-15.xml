@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2018-01-01 22:50" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2017-12-15">
+    <event event-id="4944627" serie-id="26136" start-time="2017-12-15 15:55:00" duration="01:50:00" mark="no">
+      <title>EM  í sundi 2017</title>
+      <original-title />
+      <description><![CDATA[Bein útsending frá EM í sundi í Kaupmannahöfn. Sex íslenskir sundmenn verða meðal keppenda.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="5">Íþróttir</category>
+      <more-info>http://dagskra.ruv.is/nanar/26136/</more-info>
+      <reference group="26136" material="026136-0005" title="EM í sundi 2017" />
+      <details id="26136">
+        <series-title>EM í sundi 2017</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Útsendingar frá EM 2017 í sundi í Kaupmannahöfn.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Bein útsending frá EM í sundi í Kaupmannahöfn. Sex íslenskir sundmenn verða meðal keppenda.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4939135" serie-id="20435" start-time="2017-12-15 19:35:00" duration="01:45:00" mark="no">
+      <title>Svíþjóð - Frakkland</title>
+      <original-title>HM kvenna í handbolta: Undanúrslit</original-title>
+      <description><![CDATA[Bein útsending frá leik Svíþjóðar og Frakklands í undanúrslitum HM kvenna í handbolta.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="5">Íþróttir</category>
+      <more-info>http://dagskra.ruv.is/nanar/20435/</more-info>
+      <reference group="20435" material="020435-0019" title="HM kvenna í handbolta" />
+      <details id="20435">
+        <series-title>HM kvenna í handbolta</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Útsendingar frá leikjum í Heimsmeistaramóti kvenna í handbolta.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Bein útsending frá leik Svíþjóðar og Frakklands í undanúrslitum HM kvenna í handbolta.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+  </service>
+</schedule>
