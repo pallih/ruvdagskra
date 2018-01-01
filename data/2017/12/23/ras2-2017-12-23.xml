@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2018-01-01 22:48" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="3" service-name="Rás 2" date="2017-12-23">
+    <event event-id="4878355" serie-id="23820" start-time="2017-12-23 06:00:00" duration="00:03:00" mark="no">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/23820/</more-info>
+      <reference group="23820" material="023820-0357" title="Fréttir" />
+      <details id="23820">
+        <series-title>Fréttir</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Fréttir.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4885422" serie-id="23870" start-time="2017-12-23 06:03:00" duration="02:56:59" mark="no">
+      <title>Morguntónar</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="9">Tónlist</category>
+      <more-info>http://dagskra.ruv.is/nanar/23870/</more-info>
+      <reference group="23870" material="023870-0102" title="Morguntónar" />
+      <details id="23870">
+        <series-title>Morguntónar</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Tónlist úr ýmsum áttum.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4864735" serie-id="23652" start-time="2017-12-23 07:00:00" duration="00:03:00" mark="yes">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/23652/</more-info>
+      <reference group="23652" material="023652-0357" title="Fréttir" />
+      <details id="23652">
+        <series-title>Fréttir</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Fréttir.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4865466" serie-id="23660" start-time="2017-12-23 08:00:00" duration="00:05:00" mark="yes">
+      <title>Morgunfréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/23660/</more-info>
+      <reference group="23660" material="023660-0357" title="Morgunfréttir" />
+      <details id="23660">
+        <series-title>Morgunfréttir</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Fréttir í útvarpi.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4867187" serie-id="23664" start-time="2017-12-23 09:00:00" duration="00:03:00" mark="no">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/23664/</more-info>
+      <reference group="23664" material="023664-0102" title="Fréttir" />
+      <details id="23664">
+        <series-title>Fréttir</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Fréttir.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4936841" serie-id="25631" start-time="2017-12-23 09:05:00" duration="03:15:00" mark="no">
+      <title>Óvirkir morgnar</title>
+      <original-title />
+      <description><![CDATA[Umsjón: Guðrún Dís Emilsdóttir og Andri Freyr Viðarsson.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="11">Skemmtun</category>
+      <more-info>http://dagskra.ruv.is/nanar/25631/</more-info>
+      <reference group="25631" material="025631-0012" title="Óvirkir morgnar" />
+      <details id="25631">
+        <series-title>Óvirkir morgnar</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Andri Freyr og Gunna Dís snúa aftur á dagskrá Rásar 2 og fylgja ykkur inn í helgina á laugardagsmorgnum. Þau stilla hlustendur inn á réttu stemmninguna fyrir helgina með réttu tónlistinni samhliða því að fá góða gesti í spjall.</p>
+          <p>Umsjón: Guðrún Dís Emilsdóttir og Andri Freyr Viðarsson.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4868437" serie-id="23669" start-time="2017-12-23 10:00:00" duration="00:05:00" mark="yes">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/23669/</more-info>
+      <reference group="23669" material="023669-0102" title="Fréttir" />
+      <details id="23669">
+        <series-title>Fréttir</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Fréttir.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4868541" serie-id="23670" start-time="2017-12-23 11:00:00" duration="00:02:00" mark="yes">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/23670/</more-info>
+      <reference group="23670" material="023670-0101" title="Fréttir" />
+      <details id="23670">
+        <series-title>Fréttir</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Fréttir.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4886033" serie-id="23874" start-time="2017-12-23 12:20:00" duration="00:20:00" mark="no">
+      <title>Hádegisfréttir</title>
+      <original-title>Hádegisfréttir 23. Desember</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/23874/</more-info>
+      <reference group="23874" material="023874-0102" title="Hádegisfréttir" />
+      <details id="23874">
+        <series-title>Hádegisfréttir</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Hádegisfréttir í útvarpi.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Forstjóri Sjúkrahússins á Akureyri segir fimmtíu milljóna króna aukafjárveitingu til sjúkrahússins ekki duga til þess að taka á skorti á hjúkrunarfræðingum. Breytingartillögur fjárlaganefndar Alþingis á fjárlagafrumvarpi næsta árs voru afgreiddar í gærkvöld.</p>
+          <p>Bæjaryfirvöld í Grindavík fagna áformum um að 200 milljónum króna verði varið til lagfæringa á Grindavíkurvegi á næsta ári. Tvö banaslys hafa orðið á veginum á þessu ári. Forseti bæjarstjórnar í Grindavík segir brýnast að aðskilja akstursstefnur frá Seltjörn að Bláa lóninu.</p>
+          <p>Minnst 133 hafa látið lífið í flóðum og aurskriðum á Filippseyjum. Óttast er að fleiri eigi eftir að finnast látnir en eðjuflóð hafa eytt heilu þorpunum á næst stærstu eyju Filippseyja.</p>
+          <p>Spáð er hvítum jólum, víða um land, en varað við snjókomu og skafrenningi vestan og norðan til í dag.</p>
+          <p>Ferðamálaráðherra ætlar að beita sér fyrir breytingum á lögum og reglum svo að þeir sem séu komnir út í atvinnurekstur með  heimagistingu greiði af því skatta. Margt þurfi að laga svo unnt sé að hafa eftirlit með þessu.</p>
+          <p>Yfirdómari hæstaréttar Póllands segir að ríkisstjórnin þar í landi sé að fremja valdarán. Umdeildar breytingar ríkisstjórnarinnar á lögum um skipun dómara, færir stjórninni enn frekari völd.</p>
+          <p>Fimm karlar og fimm konur eru í efstu tíu sætunum í kjörinu um íþróttamann ársins árið 2017</p>
+          <p>Veðurhorfur: Norðaustan allt að átján norðvestantil í dag, annars talsvert hægari. Snjókoma norðvestanlands og síðar einnig á Norðausturlandi, en</p>
+          <p>úrkomulítið sunnan heiða. Fer að snjóa sunnanlands seint í nótt. Kólnandi, frost yfirleitt eitt til sex stig í kvöld.</p>
+          <p>Hádegisfréttir segir Pálmi Jónasson.</p>
+          <p>Umsjónamaður hádegisfrétta var Ragnhildur Thorlacius. Tæknimaður var Markús Hjaltason. Útsendingu stjórnaði Stefanía Skaftadóttir. Fréttalestri er lokið.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4936773" serie-id="25625" start-time="2017-12-23 12:40:00" duration="03:15:00" mark="no">
+      <title>Sirkus Jóns Gnarr</title>
+      <original-title>Takkaskór og togstreit nr. 2 og Pétur Jóhann</original-title>
+      <description><![CDATA[Umsjón: Jón Gnarr og Þórður Helgi Þórðarson.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="11">Skemmtun</category>
+      <more-info>http://dagskra.ruv.is/nanar/25625/</more-info>
+      <reference group="25625" material="025625-0013" title="Sirkus Jóns Gnarr" />
+      <details id="25625">
+        <series-title>Sirkus Jóns Gnarr</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Góðir gestir mæta í hljóðver til Jóns Gnarr, rabba um lífið og tilveruna og gamlir góðkunningjar eins og smásálir og landsþekktir grillarar verða á línunni.</p>
+          <p>Umsjón: Jón Gnarr</p>
+          <p>Tæknistjórn: Þórður Helgi Þórðarson.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Sirkus Jóns Gnarr 23. desember 2017</p>
+          <p>Umsjón: Jón Gnarr og Þórður Helgi Þórðarson</p>
+          <p>Gestur: Pétur Jóhann Sigfússon</p>
+          <p>Upphaf: Jólin hjá Jóni litla og skötuveislur</p>
+          <p>Smásál: Hjón fá ekki pylsu á veitingastað og Jóla Sveinn hringdi</p>
+          <p>Sagan af Þorláki Guðbrandssyni og Þorláksmessu</p>
+          <p>Gestur þáttarins, Pétur Jóhann - Matarvenjur og jólamyndir, gera jóla Næturvaktina</p>
+          <p>Jólatónleikar og bitur Pétur Jóhann</p>
+          <p>Pétur og Jólakötturinn</p>
+          <p>Sirkus Jón Gnarr -  Takkaskór og togstreita nr2</p>
+          <p>21122017 Skugga Sveinn</p>
+          <p>#Metoo</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4869146" serie-id="23672" start-time="2017-12-23 14:00:00" duration="00:02:00" mark="yes">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/23672/</more-info>
+      <reference group="23672" material="023672-0099" title="Fréttir" />
+      <details id="23672">
+        <series-title>Fréttir</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Fréttir.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4870775" serie-id="23676" start-time="2017-12-23 15:00:00" duration="00:02:00" mark="yes">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/23676/</more-info>
+      <reference group="23676" material="023676-0100" title="Fréttir" />
+      <details id="23676">
+        <series-title>Fréttir</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Fréttir.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4871497" serie-id="23677" start-time="2017-12-23 16:00:00" duration="00:05:00" mark="no">
+      <title>Síðdegisfréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/23677/</more-info>
+      <reference group="23677" material="023677-0357" title="Síðdegisfréttir" />
+      <details id="23677">
+        <series-title>Síðdegisfréttir</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Síðdegisfréttir í útvarpi.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4885039" serie-id="23858" start-time="2017-12-23 16:05:00" duration="00:48:35" mark="no">
+      <title>Vinsældalisti Rásar 2</title>
+      <original-title />
+      <description><![CDATA[Vinsælustu lögin á Íslandi.
+Umsjón: Anna Rakel Róbertsdóttir.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="9">Tónlist</category>
+      <more-info>http://dagskra.ruv.is/nanar/23858/</more-info>
+      <reference group="23858" material="023858-0048" title="Vinsældalisti Rásar 2" />
+      <details id="23858">
+        <series-title>Vinsældalisti Rásar 2</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Anna Rakel Róbertsdóttir færir okkur Vinsældalista Rásar 2, dustar rykið af eldri vinsældalistum og segir okkur líka hvað er vinsælt úti í heimi.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4871604" serie-id="23678" start-time="2017-12-23 17:00:00" duration="00:02:00" mark="yes">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/23678/</more-info>
+      <reference group="23678" material="023678-0099" title="Fréttir" />
+      <details id="23678">
+        <series-title>Fréttir</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Fréttir.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4940408" serie-id="23681" start-time="2017-12-23 18:00:00" duration="00:10:00" mark="yes">
+      <title>Kvöldfréttir</title>
+      <original-title>Kvöldfréttir 23.desember 2017</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/23681/</more-info>
+      <reference group="23681" material="023681-0145" title="Kvöldfréttir" />
+      <details id="23681">
+        <series-title>Kvöldfréttir</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Kvöldfréttir í útvarpi.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Fyrrverandi forseti Katalóníu, sem hefur hefur verið í útlegð í Brussel síðustu vikur, krefst þess að fá að snúa aftur heim. Forsvarsmenn aðskilnaðarsinna, sem unnu sigur í kosningunum á fimmtudag, ræddu samstarf í dag.</p>
+          <p>Það verða haldin allsnægtar alþjóðleg jól í Kvennaathvarfinu, segir framkvæmdastýra þess. Tíu börn og tíu konur verða þar. Allir fá jólagjöf og nóg að borða, þökk sé gjöfum frá hópi fólks.</p>
+          <p>Fisksali á Ísafirði gerir ráð fyrir að selja um tvö tonn af vestfirskri skötu um jól og áramót. Hann sendir skötu út um allt land sem og víðar og segir að eina sanna skatan sé tindabikkjan að vestan.</p>
+          <p>Snjókoma og skafrenningur verður á norðanverðu landinu í kvöld og nótt. Viðbúið er að blint verði á fjallvegum, og því varhugavert ferðaveður.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4885792" serie-id="23871" start-time="2017-12-23 19:00:00" duration="00:23:00" mark="no">
+      <title>Sjónvarpsfréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/23871/</more-info>
+      <reference group="23871" material="023871-0357" title="Sjónvarpsfréttir" />
+      <details id="23871">
+        <series-title>Sjónvarpsfréttir</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Sjónvarpsfréttir.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4941657" serie-id="25954" start-time="2017-12-23 19:23:00" duration="02:35:00" mark="no">
+      <title>Bráðum koma blessuð jólin</title>
+      <original-title />
+      <description><![CDATA[Heiða Ólafsdóttir fylgir hlustendum á Þorláksmessukvöldi á léttu nótunum og fær til sín góða gesti. Hjónin Björgvin Franz og Berglind Ólafsdóttir kíkja í heimsókn og líka söngkonan Regína Ósk, en þessi þrjú eiga það sameiginlegt að vera öll orðin fertug nýlega. Síðan lítur læknirinn í eldhúsinu, Ragnar Freyr Ingvarsson, líka við. Svo verður auðvitað jólatónlist í fyrirrúmi þetta síðasta kvöld fyrir jól.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="9">Tónlist</category>
+      <more-info>http://dagskra.ruv.is/nanar/25954/</more-info>
+      <reference group="25954" material="025954-0001" title="Bráðum koma blessuð jólin" />
+      <details id="25954">
+        <series-title>Bráðum koma blessuð jólin</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Umsjón: Heiða Ólafsdóttir.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Heiða Ólafsdóttir fylgir hlustendum á Þorláksmessukvöldi á léttu nótunum og fær til sín góða gesti. Hjónin Björgvin Franz og Berglind Ólafsdóttir kíkja í heimsókn og líka söngkonan Regína Ósk, en þessi þrjú eiga það sameiginlegt að vera öll orðin fertug nýlega. Síðan lítur læknirinn í eldhúsinu, Ragnar Freyr Ingvarsson, líka við. Svo verður auðvitað jólatónlist í fyrirrúmi þetta síðasta kvöld fyrir jól.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4873556" serie-id="23682" start-time="2017-12-23 22:00:00" duration="00:05:00" mark="no">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/23682/</more-info>
+      <reference group="23682" material="023682-0357" title="Fréttir" />
+      <details id="23682">
+        <series-title>Fréttir</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Fréttir.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4939108" serie-id="26063" start-time="2017-12-23 22:05:00" duration="01:55:00" mark="no">
+      <title>Þorláksmessutónleikar Rásar 2</title>
+      <original-title />
+      <description><![CDATA[Bein útsending frá tónleikum Jónasar Sig og Ritvéla framtíðarinnar sem fram fara á Hard Rock Café í Reykjavík.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="9">Tónlist</category>
+      <more-info>http://dagskra.ruv.is/nanar/26063/</more-info>
+      <reference group="26063" material="026063-0001" title="Þorláksmessutónleikar Rásar 2" />
+      <details id="26063">
+        <series-title>Þorláksmessutónleikar Rásar 2</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Bein útsending frá tónleikum Jónasar Sig og Ritvéla framtíðarinnar sem fram fara á Hard Rock Café í Reykjavík.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4874286" serie-id="23683" start-time="2017-12-24 00:00:00" duration="00:05:00" mark="yes">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/23683/</more-info>
+      <reference group="23683" material="023683-0357" title="Fréttir" />
+      <details id="23683">
+        <series-title>Fréttir</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Fréttir.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4900464" serie-id="23848" start-time="2017-12-24 00:05:00" duration="01:55:00" mark="no">
+      <title>Næturvaktin</title>
+      <original-title />
+      <description><![CDATA[Umsjón: Guðni Már Henningsson.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="9">Tónlist</category>
+      <more-info>http://dagskra.ruv.is/nanar/23848/</more-info>
+      <reference group="23848" material="023848-0053" title="Næturvaktin" />
+      <details id="23848">
+        <series-title>Næturvaktin</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Guðni Már spjallar við landann og spilar tónlist úr öllum áttum á laugardagskvöldum. Ljúfir tónar, brjálað rokk og óskalög úr öllum landshornum.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4874651" serie-id="23684" start-time="2017-12-24 01:00:00" duration="00:03:00" mark="yes">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/23684/</more-info>
+      <reference group="23684" material="023684-0357" title="Fréttir" />
+      <details id="23684">
+        <series-title>Fréttir</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Fréttir.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4875016" serie-id="23685" start-time="2017-12-24 02:00:00" duration="00:03:00" mark="no">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/23685/</more-info>
+      <reference group="23685" material="023685-0357" title="Fréttir" />
+      <details id="23685">
+        <series-title>Fréttir</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Fréttir.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4882543" serie-id="23827" start-time="2017-12-24 02:03:00" duration="02:26:00" mark="no">
+      <title>Næturtónar</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="9">Tónlist</category>
+      <more-info>http://dagskra.ruv.is/nanar/23827/</more-info>
+      <reference group="23827" material="023827-0051" title="Næturtónar" />
+      <details id="23827">
+        <series-title>Næturtónar</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Tónlist af ýmsu tagi.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4875746" serie-id="23687" start-time="2017-12-24 04:30:00" duration="00:05:00" mark="no">
+      <title>Veðurfregnir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/23687/</more-info>
+      <reference group="23687" material="023687-0357" title="Veðurfregnir" />
+      <details id="23687">
+        <series-title>Veðurfregnir</series-title>
+        <series-original-title />
+        <series-description>
+          <p>frá Veðurstofu Íslands.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4880771" serie-id="23829" start-time="2017-12-24 04:37:00" duration="00:22:59" mark="no">
+      <title>Næturtónar</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="9">Tónlist</category>
+      <more-info>http://dagskra.ruv.is/nanar/23829/</more-info>
+      <reference group="23829" material="023829-0356" title="Næturtónar" />
+      <details id="23829">
+        <series-title>Næturtónar</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Tónlist af ýmsu tagi.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4875381" serie-id="23686" start-time="2017-12-24 05:00:00" duration="00:03:00" mark="no">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/23686/</more-info>
+      <reference group="23686" material="023686-0357" title="Fréttir" />
+      <details id="23686">
+        <series-title>Fréttir</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Fréttir frá fréttastofu.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4881137" serie-id="23830" start-time="2017-12-24 05:03:00" duration="00:57:00" mark="no">
+      <title>Næturtónar</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="9">Tónlist</category>
+      <more-info>http://dagskra.ruv.is/nanar/23830/</more-info>
+      <reference group="23830" material="023830-0357" title="Næturtónar" />
+      <details id="23830">
+        <series-title>Næturtónar</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Blönduð tónlist</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+  </service>
+</schedule>
