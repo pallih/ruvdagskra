@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2018-01-01 22:57" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2017-11-15">
+    <event event-id="4942485" serie-id="25480" start-time="2017-11-15 16:55:00" duration="01:55:00" mark="no">
+      <title>Slóvakía - Ísland</title>
+      <original-title>Undankeppni EM kvenna í körfubolta</original-title>
+      <description><![CDATA[Bein útsending frá leik Slóvakíu og Íslands í undankeppni EM kvenna í körfubolta.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="5">Íþróttir</category>
+      <more-info>http://dagskra.ruv.is/nanar/25480/</more-info>
+      <reference group="25480" material="025480-0002" title="Undankeppni EM kvenna í körfubolta 2019" />
+      <details id="25480">
+        <series-title>Undankeppni EM kvenna í körfubolta 2019</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Útsendingar undankeppni EM kvenna í körfubolta.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Bein útsending frá leik Slóvakíu og Íslands í undankeppni EM kvenna í körfubolta.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+  </service>
+</schedule>
