@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2018-01-01 23:02" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2017-10-28">
+    <event event-id="4941558" serie-id="25923" start-time="2017-10-28 15:25:00" duration="05:05:00" mark="no">
+      <title>Deilt með tveimur</title>
+      <original-title />
+      <description><![CDATA[Bein útsending frá Deilt með tveimur, tónlistarhátíð Rásar 1, sem fer fram í Hafnarhúsi.]]></description>
+      <short-description><![CDATA[Bein útsending frá Deilt með tveimur, tónlistarhátíð Rásar 1, sem]]></short-description>
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="14">Menning</category>
+      <more-info>http://dagskra.ruv.is/nanar/25923/</more-info>
+      <reference group="25923" material="025923-0001" title="Deilt með tveimur" />
+      <details id="25923">
+        <series-title>Deilt með tveimur</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Bein útsending frá Deilt með tveimur, tónlistarhátíð Rásar 1, sem fer fram í Hafnarhúsi.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4941458" serie-id="25913" start-time="2017-10-28 20:30:00" duration="04:30:00" mark="no">
+      <title>Vakan 2017</title>
+      <original-title />
+      <description><![CDATA[Bein útsending frá kosningavöku ungs fólks sem haldin er í Valsheimilinu.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="11">Skemmtun</category>
+      <more-info>http://dagskra.ruv.is/nanar/25913/</more-info>
+      <reference group="25913" material="025913-0001" title="Vakan 2017" />
+      <details id="25913">
+        <series-title>Vakan 2017</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Bein útsending frá kosningavöku ungs fólks sem haldin er í Valsheimilinu.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+  </service>
+</schedule>
