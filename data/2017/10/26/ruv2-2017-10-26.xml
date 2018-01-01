@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2018-01-01 23:03" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2017-10-26">
+    <event event-id="4939028" serie-id="25482" start-time="2017-10-26 19:15:00" duration="02:20:00" mark="no">
+      <title>Ísland - Svíþjóð</title>
+      <original-title>Landsleikur í handbolta</original-title>
+      <description><![CDATA[Bein útsending frá landsleik Íslands og Svíþjóðar í handbolta.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="5">Íþróttir</category>
+      <more-info>http://dagskra.ruv.is/nanar/25482/</more-info>
+      <reference group="25482" material="025482-0001" title="Landsleikir í handbolta" />
+      <details id="25482">
+        <series-title>Landsleikir í handbolta</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Útsendingar frá landsleikjum kvenna og karla í handbolta.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Bein útsending frá landsleik Íslands og Svíþjóðar í handbolta.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+  </service>
+</schedule>
