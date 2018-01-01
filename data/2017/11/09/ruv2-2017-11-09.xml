@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2018-01-01 22:59" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2017-11-09">
+    <event event-id="4941656" serie-id="25481" start-time="2017-11-09 19:20:00" duration="02:00:00" mark="no">
+      <title>ÍR - Stjarnan</title>
+      <original-title>Bikarkeppni karla í handbolta</original-title>
+      <description><![CDATA[Bein útsending frá leik ÍR og Stjörnunnar í bikarkeppni karla í handbolta.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="5">Íþróttir</category>
+      <more-info>http://dagskra.ruv.is/nanar/25481/</more-info>
+      <reference group="25481" material="025481-0002" title="Bikarkeppni kvenna í handbolta" />
+      <details id="25481">
+        <series-title>Bikarkeppni kvenna í handbolta</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Útsendingar frá bikarkeppni kvenna og karla í handbolta.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Bein útsending frá leik ÍR og Stjörnunnar í bikarkeppni karla í handbolta.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+  </service>
+</schedule>
