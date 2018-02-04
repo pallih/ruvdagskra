@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2018-02-04 14:20" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2018-01-14">
+    <event event-id="4949018" serie-id="26267" start-time="2018-01-14 11:50:00" duration="02:05:00" mark="no">
+      <title>Indónesía - Ísland</title>
+      <original-title>Landsleikur karla í fótbolta</original-title>
+      <description><![CDATA[Bein útsending frá landsleik Indónesíu og Íslands í fótbolta. Leikurinn er liður í undirbúningi Íslands fyrir HM 2018 í Rússlandi.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="5">Íþróttir</category>
+      <more-info>http://dagskra.ruv.is/nanar/26267/</more-info>
+      <reference group="26267" material="026267-0002" title="Landsleikir karla í fótbolta" />
+      <details id="26267">
+        <series-title>Landsleikir karla í fótbolta</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Útsendingar frá landsleikjum karla í fótbolta. Leikirnir eru liður í undirbúningi Íslands fyrir HM 2018 í Rússlandi.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Bein útsending frá landsleik Indónesíu og Íslands í fótbolta. Leikurinn er liður í undirbúningi Íslands fyrir HM 2018 í Rússlandi.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4941806" serie-id="18378" start-time="2018-01-14 17:05:00" duration="01:50:00" mark="no">
+      <title>Serbía - Svíþjóð</title>
+      <original-title>EM karla í handbolta</original-title>
+      <description><![CDATA[Bein útsending frá leik Serbíu og Svíþjóðar á EM karla í handbolta.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="5">Íþróttir</category>
+      <more-info>http://dagskra.ruv.is/nanar/18378/</more-info>
+      <reference group="18378" material="018378-0009" title="EM karla í handbolta 2018" />
+      <details id="18378">
+        <series-title>EM karla í handbolta 2018</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Evrópumót karla í handbolta 2018 í Króatíu.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Bein útsending frá leik Serbíu og Svíþjóðar á EM karla í handbolta.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+  </service>
+</schedule>
