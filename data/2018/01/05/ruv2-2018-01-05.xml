@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2018-02-04 14:22" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2018-01-05">
+    <event event-id="4943724" serie-id="" start-time="2018-01-05 18:00:00" duration="00:00:00" mark="no">
+      <title>KrakkaRÚV</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4943724" title="KrakkaRÚV" />
+    </event>
+    <event event-id="4943725" serie-id="23582" start-time="2018-01-05 18:01:00" duration="00:07:00" mark="yes">
+      <title>Froskur og vinir hans</title>
+      <original-title>Frog and Friends</original-title>
+      <description><![CDATA[Teiknimyndaþættir byggðir á samnefndum bókum eftir hollenska verðlaunahöfundinn Max Velthuijs. Aðalpersónan, Froskur, býr í litríkri sveit með vinum sínum Svíni, Héra, Önd og Rottu. Persónurnar takast á við tilfinningar á borð við ást, ótta, sorg, óöryggi og hamingju og er efnið sett fram í einföldum og aðgengilegum sögum sem börnin geta speglað sig í.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/23582/</more-info>
+      <reference group="23582" material="023582-0015" title="Froskur og vinir hans" />
+      <details id="23582">
+        <series-title>Froskur og vinir hans</series-title>
+        <series-original-title>Frog and Friends</series-original-title>
+        <series-description>
+          <p>Teiknimyndaþættir byggðir á samnefndum bókum eftir hollenska verðlaunahöfundinn Max Velthuijs. Aðalpersónan, Froskur, býr í litríkri sveit með vinum sínum Svíni, Héra, Önd og Rottu. Persónurnar takast á við tilfinningar á borð við ást, ótta, sorg, óöryggi og hamingju og er efnið sett fram í einföldum og aðgengilegum sögum sem börnin geta speglað sig í.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+  </service>
+</schedule>
