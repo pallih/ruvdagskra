@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2018-02-16 13:36" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2018-02-10">
+    <event event-id="4947673" serie-id="26243" start-time="2018-02-10 07:15:00" duration="01:00:00" mark="no">
+      <title>ÓL 2018:15 km skíðaganga kvenna</title>
+      <original-title />
+      <description><![CDATA[Bein útsending frá keppni í 15 km skíðagöngu kvenna á Vetrarólympíuleikunum í PyeongChang í Suður-Kóreu.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="5">Íþróttir</category>
+      <more-info>http://dagskra.ruv.is/nanar/26243/</more-info>
+      <reference group="26243" material="026243-0018" title="ÓL 2018" />
+      <details id="26243">
+        <series-title>ÓL 2018</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Vetrarólympíuleikar í PyeongChang í Suður-Kóreu.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Útsending frá keppni í 15 km skíðagöngu kvenna á Vetrarólympíuleikunum í PyeongChang í Suður-Kóreu.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+  </service>
+</schedule>
