@@ -14,7 +14,7 @@ GITHUB_REPO = "ruvdagskra"
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 
 
-CHANNELS = ["ruv", "ruv2", "ruvhd", "ras1", "ras2"]
+CHANNELS = ["ruv", "ruv2", "ras1", "ras2"]
 FILETYPE = "xml"
 BASEURL = "http://muninn.ruv.is/files/{}/{}/{}-{}-{}/"
 DATA_FOLDER = "data"
@@ -68,4 +68,4 @@ if __name__ == '__main__':
         saved = download_and_save(missing_files)
         if len(saved) is not 0:
             message = "Added: {}".format(", ".join(saved))
-            
+
