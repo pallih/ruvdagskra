@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2018-01-01 22:50" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2017-12-16">
+    <event event-id="4941603" serie-id="22346" start-time="2017-12-16 16:50:00" duration="02:30:00" mark="no">
+      <title>Real Madrid - Gremio</title>
+      <original-title>HM félagsliða:Úrslit</original-title>
+      <description><![CDATA[Bein útsending frá úrslitaleik Real Madrid og Gremio á HM félagsliða í fótbolta.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="5">Íþróttir</category>
+      <more-info>http://dagskra.ruv.is/nanar/22346/</more-info>
+      <reference group="22346" material="022346-0007" title="HM félagsliða í fótbolta" />
+      <details id="22346">
+        <series-title>HM félagsliða í fótbolta</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Útsendingar frá heimsmeistarakeppni félagsliða þar sem álfumeistarar allra heimsálfa FIFA mætast.  Leikið er í Japan.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Bein útsending frá úrslitaleik Real Madrid og Gremio á HM félagsliða í fótbolta.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+  </service>
+</schedule>

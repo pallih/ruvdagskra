@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2018-01-01 22:52" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2017-12-07">
+    <event event-id="4939125" serie-id="20435" start-time="2017-12-07 16:50:00" duration="01:45:00" mark="no">
+      <title>Rúmenía - Angóla</title>
+      <original-title>HM kvenna í handbolta</original-title>
+      <description><![CDATA[Bein útsending frá leik Rúmeníu og Angóla á HM kvenna í handbolta.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="5">Íþróttir</category>
+      <more-info>http://dagskra.ruv.is/nanar/20435/</more-info>
+      <reference group="20435" material="020435-0009" title="HM kvenna í handbolta" />
+      <details id="20435">
+        <series-title>HM kvenna í handbolta</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Útsendingar frá leikjum í Heimsmeistaramóti kvenna í handbolta.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Bein útsending frá leik Rúmeníu og Angóla á HM kvenna í handbolta.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4939126" serie-id="20435" start-time="2017-12-07 19:20:00" duration="01:45:00" mark="no">
+      <title>Tékkland - Noregur</title>
+      <original-title>HM kvenna í handbolta</original-title>
+      <description><![CDATA[Bein útsending frá leik Tékklands og Noregs á HM kvenna í handbolta.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="5">Íþróttir</category>
+      <more-info>http://dagskra.ruv.is/nanar/20435/</more-info>
+      <reference group="20435" material="020435-0010" title="HM kvenna í handbolta" />
+      <details id="20435">
+        <series-title>HM kvenna í handbolta</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Útsendingar frá leikjum í Heimsmeistaramóti kvenna í handbolta.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Bein útsending frá leik Tékklands og Noregs á HM kvenna í handbolta.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+  </service>
+</schedule>

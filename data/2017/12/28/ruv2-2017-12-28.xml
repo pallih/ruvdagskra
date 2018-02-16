@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2018-01-01 22:47" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2017-12-28">
+    <event event-id="4943965" serie-id="4711" start-time="2017-12-28 18:00:00" duration="01:00:00" mark="no">
+      <title>Íþróttamaður ársins 2017</title>
+      <original-title />
+      <description><![CDATA[Bein útsending frá vali á íþróttamanni ársins 2017 auk þess sem farið er yfir eftirminnilegustu íþróttaatvik ársins.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="5">Íþróttir</category>
+      <more-info>http://dagskra.ruv.is/nanar/4711/</more-info>
+      <reference group="4711" material="004711-0009" title="Íþróttamaður ársins 2017" />
+      <details id="4711">
+        <series-title>Íþróttamaður ársins 2017</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Bein útsending frá vali á íþróttamanni ársins 2017 auk þess sem farið er yfir eftirminnilegustu íþróttaatvik ársins. Umsjón: Kristjana Arnarsdóttir og Einar Örn Jónsson. Stjórn útsendingar: Óskar Þór Nikulásson.</p>
+        </series-description>
+        <series-short-description>
+          <p>Bein útsending frá vali íþróttamanns ársins 2016 auk þess sem farið eru yfir eftirminnilegustu íþróttaatvik ársins.</p>
+        </series-short-description>
+        <episode-description>
+          <p>Bein útsending frá vali á íþróttamanni ársins 2017 auk þess sem farið er yfir eftirminnilegustu íþróttaatvik ársins.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+  </service>
+</schedule>

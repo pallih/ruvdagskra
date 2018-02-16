@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2018-01-01 22:57" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2017-11-17">
+    <event event-id="4943673" serie-id="26092" start-time="2017-11-17 20:00:00" duration="02:00:00" mark="no">
+      <title>Rímnaflæði 2017</title>
+      <original-title />
+      <description><![CDATA[Rímnaflæði, rappkeppni félagsmiðstöðva á Íslandi, fer fram í átjánda sinn í Fellaskóla. Fjölmargir tónlistarmenn hafa stigið sín fyrstu spor í keppninni og má þar t.d. nefna Emmsjé Gauta, sem var valinn efnilegasti rapparinn árið 2003. Dómnefndina skipa Sölvi Blöndal, Árni Matthíasson og Sigga Ey, sem vann keppnina 2014.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="11">Skemmtun</category>
+      <more-info>http://dagskra.ruv.is/nanar/26092/</more-info>
+      <reference group="26092" material="026092-0001" title="Rímnaflæði 2017" />
+      <details id="26092">
+        <series-title>Rímnaflæði 2017</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Rímnaflæði, rappkeppni félagsmiðstöðva á Íslandi, fer fram í átjánda sinn í Fellaskóla. Fjölmargir tónlistarmenn hafa stigið sín fyrstu spor í keppninni og má þar t.d. nefna Emmsjé Gauta, sem var valinn efnilegasti rapparinn árið 2003. Dómnefndina skipa Sölvi Blöndal, Árni Matthíasson og Sigga Ey, sem vann keppnina 2014.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+  </service>
+</schedule>

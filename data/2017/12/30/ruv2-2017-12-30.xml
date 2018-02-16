@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2018-01-01 22:47" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2017-12-30">
+    <event event-id="4943967" serie-id="22564" start-time="2017-12-30 10:30:00" duration="01:24:07" mark="no">
+      <title>Ísöld: Heimsálfuhopp</title>
+      <original-title>Ice Age: Continental Drift</original-title>
+      <description><![CDATA[Sprengihlægileg teiknimynd í Ísaldar-röðinni. Manny Diego og Sid snúa aftur þegar heimsálfa þeirra fer á flot. Þeir ferðast um á ísjaka og kanna nýjan heim þar sem þeir hitta fyrir sjávardýr og berjast við sjóræningja. Leikstjóri: Steve Martino og Mike Thurmeier. Myndin er með ensku tali, en sýnd á RÚV með íslensku tali á sama tíma. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="7">Kvikmyndir</category>
+      <more-info>http://dagskra.ruv.is/nanar/22564/</more-info>
+      <reference group="22564" material="022564-0001" title="Ísöld: Heimsálfuhopp" />
+      <details id="22564">
+        <series-title>Ísöld: Heimsálfuhopp</series-title>
+        <series-original-title>Ice Age: Continental Drift</series-original-title>
+        <series-description>
+          <p>Sprengihlægileg teiknimynd í Ísaldar-röðinni. Manny Diego og Sid snúa aftur þegar heimsálfa þeirra fer á flot. Þeir ferðast um á ísjaka og kanna nýjan heim þar sem þeir hitta fyrir sjávardýr og berjast við sjóræningja. Leikstjóri: Steve Martino og Mike Thurmeier. Myndin er með ensku tali.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+  </service>
+</schedule>

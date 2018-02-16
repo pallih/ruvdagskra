@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2018-02-04 14:16" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2018-01-28">
+    <event event-id="4952942" serie-id="7506" start-time="2018-01-28 10:00:00" duration="04:00:00" mark="no">
+      <title>Reykjavíkurleikarnir 2018</title>
+      <original-title>Badminton</original-title>
+      <description><![CDATA[Útsending frá keppni í badminton á árlegu alþjóðlegu íþróttamóti í Reykjavík.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="5">Íþróttir</category>
+      <more-info>http://dagskra.ruv.is/nanar/7506/</more-info>
+      <reference group="7506" material="007506-0066" title="Reykjavíkurleikarnir 2018" />
+      <details id="7506">
+        <series-title>Reykjavíkurleikarnir 2018</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Frá árlegu alþjóðlegu íþróttamóti í Reykjavík.</p>
+        </series-description>
+        <series-short-description>
+          <p>Frá árlegu alþjóðlegu íþróttamóti í Reykjavík.</p>
+        </series-short-description>
+        <episode-description>
+          <p>Útsending frá keppni í badminton á árlegu alþjóðlegu íþróttamóti í Reykjavík.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4941827" serie-id="18378" start-time="2018-01-28 16:50:00" duration="01:50:00" mark="no">
+      <title>Frakkland - Danmörk</title>
+      <original-title>EM karla í handbolta</original-title>
+      <description><![CDATA[Bein útsending frá bronsleik Frakklands og Danmerkur á EM karla í handbolta.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="5">Íþróttir</category>
+      <more-info>http://dagskra.ruv.is/nanar/18378/</more-info>
+      <reference group="18378" material="018378-0030" title="EM karla í handbolta 2018" />
+      <details id="18378">
+        <series-title>EM karla í handbolta 2018</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Evrópumót karla í handbolta 2018 í Króatíu.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Bein útsending frá bronsleik Frakklands og Danmerkur á EM karla í handbolta.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4941828" serie-id="18378" start-time="2018-01-28 19:20:00" duration="02:15:00" mark="no">
+      <title>Spánn - Svíþjóð</title>
+      <original-title>EM karla í handbolta</original-title>
+      <description><![CDATA[Bein útsending frá úrslitaleik Spánar og Svíþjóðar á EM karla í handbolta.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="5">Íþróttir</category>
+      <more-info>http://dagskra.ruv.is/nanar/18378/</more-info>
+      <reference group="18378" material="018378-0031" title="EM karla í handbolta 2018" />
+      <details id="18378">
+        <series-title>EM karla í handbolta 2018</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Evrópumót karla í handbolta 2018 í Króatíu.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Bein útsending frá úrslitaleik Spánar og Svíþjóðar á EM karla í handbolta.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+  </service>
+</schedule>

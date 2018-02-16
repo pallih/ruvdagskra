@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2018-01-01 22:51" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2017-12-12">
+    <event event-id="4941601" serie-id="22346" start-time="2017-12-12 16:50:00" duration="02:10:00" mark="no">
+      <title>Gremio - Pachuca</title>
+      <original-title>HM félagsliða: Undanúrslit</original-title>
+      <description><![CDATA[Bein útsending frá leik Gremio og Pachuca í undanúrslitum HM félagsliða í fótbolta.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="5">Íþróttir</category>
+      <more-info>http://dagskra.ruv.is/nanar/22346/</more-info>
+      <reference group="22346" material="022346-0005" title="HM félagsliða í fótbolta" />
+      <details id="22346">
+        <series-title>HM félagsliða í fótbolta</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Útsendingar frá heimsmeistarakeppni félagsliða þar sem álfumeistarar allra heimsálfa FIFA mætast.  Leikið er í Japan.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Bein útsending frá leik Gremio og Pachuca í undanúrslitum HM félagsliða í fótbolta.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4939133" serie-id="20435" start-time="2017-12-12 19:35:00" duration="01:45:00" mark="no">
+      <title>Frakkland - Svartfjallaland</title>
+      <original-title>HM kvenna í handbolta:8-liða úrslit</original-title>
+      <description><![CDATA[Bein útsending frá leik Frakklands og Svartfjallalands í 8-liða úrslitum á HM kvenna í handbolta.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="5">Íþróttir</category>
+      <more-info>http://dagskra.ruv.is/nanar/20435/</more-info>
+      <reference group="20435" material="020435-0017" title="HM kvenna í handbolta" />
+      <details id="20435">
+        <series-title>HM kvenna í handbolta</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Útsendingar frá leikjum í Heimsmeistaramóti kvenna í handbolta.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Bein útsending frá leik Frakklands og Svartfjallalands í 8-liða úrslitum á HM kvenna í handbolta.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+  </service>
+</schedule>
