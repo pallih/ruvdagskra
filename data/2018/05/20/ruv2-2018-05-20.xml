@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2018-07-15 22:44" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2018-05-20">
+    <event event-id="4960613" serie-id="26926" start-time="2018-05-20 18:00:00" duration="03:00:00" mark="no">
+      <title>Svíþjóð - Sviss</title>
+      <original-title>HM karla í íshokkí</original-title>
+      <description><![CDATA[Bein útsending frá úrslitaleik Svíþjóðar og Sviss á HM karla í íshokkí.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="5">Íþróttir</category>
+      <more-info>http://dagskra.ruv.is/nanar/26926/</more-info>
+      <reference group="26926" material="026926-0003" title="HM karla í íshokkí" />
+      <details id="26926">
+        <series-title>HM karla í íshokkí</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Bein útsending frá úrslitaleik Svíþjóðar og Sviss á HM karla í íshokkí.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Bein útsending frá úrslitaleik Svíþjóðar og Sviss á HM karla í íshokkí.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+  </service>
+</schedule>
