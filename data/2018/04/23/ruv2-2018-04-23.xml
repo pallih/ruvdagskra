@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2018-07-17 20:57" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2018-04-23">
+    <event event-id="4957202" serie-id="26826" start-time="2018-04-23 20:00:00" duration="00:50:00" mark="no">
+      <title>Hafið, bláa hafið</title>
+      <original-title>Blue Planet II</original-title>
+      <description><![CDATA[Heimildarmyndaflokkur frá BBC þar sem David Attenborough fjallar um náttúrufræði hafdjúpanna, hættur þeirra, fegurð og leyndardóma. Í þáttunum er dreginn saman mikill fróðleikur um lífríki hafsins, furðuskepnur sem þar leynast, hafstrauma og veðurfarsleg áhrif þeirra um allan heim.]]></description>
+      <short-description />
+      <rating />
+      <episode number="5" number-of-episodes="7" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="17">Heimildarþættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/26826/</more-info>
+      <reference group="26826" material="026826-0005" title="Hafið, bláa hafið" />
+      <details id="26826">
+        <series-title>Hafið, bláa hafið</series-title>
+        <series-original-title>Blue Planet II</series-original-title>
+        <series-description>
+          <p>Heimildarmyndaflokkur frá BBC þar sem David Attenborough fjallar um náttúrufræði hafdjúpanna, hættur þeirra, fegurð og leyndardóma. Í þáttunum er dreginn saman mikill fróðleikur um lífríki hafsins, furðuskepnur sem þar leynast, hafstrauma og veðurfarsleg áhrif þeirra um allan heim. Ótalsett.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4957209" serie-id="26827" start-time="2018-04-23 20:55:00" duration="00:10:00" mark="no">
+      <title>Hafið, bláa hafið: Á tökustað</title>
+      <original-title>Blue Planet II: Making Of</original-title>
+      <description><![CDATA[Skyggnst bakvið tjöldin við gerð BBC-þáttanna Hafið, bláa hafið, þar sem fjallað er um lífríki hafsins og furðuskepnurnar sem þar leynast.]]></description>
+      <short-description />
+      <rating />
+      <episode number="5" number-of-episodes="6" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="4">Fræðsla</category>
+      <more-info>http://dagskra.ruv.is/nanar/26827/</more-info>
+      <reference group="26827" material="026827-0005" title="Hafið, bláa hafið: Á tökustað" />
+      <details id="26827">
+        <series-title>Hafið, bláa hafið: Á tökustað</series-title>
+        <series-original-title>Blue Planet II: Making Of</series-original-title>
+        <series-description>
+          <p>Skyggnst bakvið tjöldin við gerð BBC-þáttanna Hafið, bláa hafið, þar sem fjallað er um lífríki hafsins og furðuskepnurnar sem þar leynast. Ótalsett.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+  </service>
+</schedule>
