@@ -1,0 +1,1420 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2018-07-17 20:54" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="1" service-name="RÚV" date="2018-05-06">
+    <event event-id="4785414" serie-id="" start-time="2018-05-06 07:00:00" duration="03:10:00" mark="no">
+      <title>KrakkaRÚV</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4785414" title="KrakkaRÚV" />
+    </event>
+    <event event-id="4936196" serie-id="20548" start-time="2018-05-06 07:01:00" duration="00:07:12" mark="yes">
+      <title>Nellý og Nóra</title>
+      <original-title>Nelly &amp; Nora</original-title>
+      <description><![CDATA[Litríkir þættir um ævintýri systranna Nellýjar og Nóru.]]></description>
+      <short-description />
+      <rating />
+      <episode number="24" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/20548/</more-info>
+      <reference group="20548" material="020548-0024" title="Nellý og Nóra" />
+      <details id="20548">
+        <series-title>Nellý og Nóra</series-title>
+        <series-original-title>Nelly &amp; Nora</series-original-title>
+        <series-description>
+          <p>Litríkir þættir um ævintýri systranna Nellýjar og Nóru.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4936311" serie-id="20561" start-time="2018-05-06 07:08:00" duration="00:07:08" mark="yes">
+      <title>Sara og önd</title>
+      <original-title>Sarah &amp; Duck</original-title>
+      <description><![CDATA[Hressir þættir um Söru sem er sjö ára og bestu vinkonu hennar sem er önd. Saman lenda þær í ýmsum ævintýrum og læra nýja hluti.]]></description>
+      <short-description />
+      <rating />
+      <episode number="21" number-of-episodes="40" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/20561/</more-info>
+      <reference group="20561" material="020561-0021" title="Sara og önd" />
+      <details id="20561">
+        <series-title>Sara og önd</series-title>
+        <series-original-title>Sarah &amp; Duck</series-original-title>
+        <series-description>
+          <p>Hressir þættir um Söru sem er sjö ára og bestu vinkonu hennar sem er önd. Saman lenda þær í ýmsum ævintýrum og læra nýja hluti.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4958382" serie-id="24510" start-time="2018-05-06 07:15:00" duration="00:11:00" mark="yes">
+      <title>Klingjur</title>
+      <original-title>Clangers</original-title>
+      <description><![CDATA[Ævintýralegir þættir um músafjölskyldu sem býr á lítilli plánetu.]]></description>
+      <short-description />
+      <rating />
+      <episode number="4" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/24510/</more-info>
+      <reference group="24510" material="024510-0004" title="Klingjur" />
+      <details id="24510">
+        <series-title>Klingjur</series-title>
+        <series-original-title>Clangers</series-original-title>
+        <series-description>
+          <p>Ævintýralegir þættir um músafjölskyldu sem býr á lítilli plánetu.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4936146" serie-id="20527" start-time="2018-05-06 07:26:00" duration="00:07:07" mark="yes">
+      <title>Hæ Sámur</title>
+      <original-title>Hey Duggee</original-title>
+      <description><![CDATA[Vinalegi hundurinn Sámur hvetur börn til þess að kanna umhverfi sitt og takast á við verkefni í sameiningu.]]></description>
+      <short-description />
+      <rating />
+      <episode number="26" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/20527/</more-info>
+      <reference group="20527" material="020527-0026" title="Hæ Sámur" />
+      <details id="20527">
+        <series-title>Hæ Sámur</series-title>
+        <series-original-title>Hey Duggee</series-original-title>
+        <series-description>
+          <p>Vinalegi hundurinn Sámur hvetur börn til þess að kanna umhverfi sitt og takast á við verkefni í sameiningu.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4936351" serie-id="23461" start-time="2018-05-06 07:33:00" duration="00:12:52" mark="yes">
+      <title>Begga og fress</title>
+      <original-title>Peg + Cat</original-title>
+      <description><![CDATA[Vinirnir Begga og Fress leika sér að tölum og leysa saman ýmsar þrautir og gátur.]]></description>
+      <short-description />
+      <rating />
+      <episode number="21" number-of-episodes="40" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/23461/</more-info>
+      <reference group="23461" material="023461-0021" title="Begga og Fress" />
+      <details id="23461">
+        <series-title>Begga og Fress</series-title>
+        <series-original-title>Peg + Cat</series-original-title>
+        <series-description>
+          <p>Vinirnir Begga og Fress leika sér að tölum og leysa saman ýmsar þrautir og gátur.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4955631" serie-id="25488" start-time="2018-05-06 07:46:00" duration="00:24:01" mark="yes">
+      <title>Húrra fyrir Kela</title>
+      <original-title>Hurray for Huckle</original-title>
+      <description><![CDATA[Keli kennir krökkum að nálgast verkefni með vísindalegri aðferð. Margir íslenskir krakkar ættu að kannast við ævintýraheiminn Erilborg, en þættirnir eru byggðir á klassískum barnabókum eftir Richard Scarry.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/25488/</more-info>
+      <reference group="25488" material="025488-0007" title="Húrra fyrir Kela" />
+      <details id="25488">
+        <series-title>Húrra fyrir Kela</series-title>
+        <series-original-title>Hurray for Huckle</series-original-title>
+        <series-description>
+          <p>Keli kennir krökkum að nálgast verkefni með vísindalegri aðferð. Margir íslenskir krakkar ættu að kannast við ævintýraheiminn Erilborg, en þættirnir eru byggðir á klassískum barnabókum eftir Richard Scarry.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4955604" serie-id="24839" start-time="2018-05-06 08:10:00" duration="00:23:10" mark="yes">
+      <title>Kúlugúbbarnir</title>
+      <original-title>Bubble Guppies</original-title>
+      <description><![CDATA[Krúttlegir teiknimyndaþættir um litla hafbúa sem eru saman í bekk og elska að syngja og dansa. Kennarinn þeirra er hress gullfiskur sem kennir þeim ýmislegt um lífið og tilveruna.]]></description>
+      <short-description />
+      <rating />
+      <episode number="8" number-of-episodes="20" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/24839/</more-info>
+      <reference group="24839" material="024839-0008" title="Kúlugúbbarnir" />
+      <details id="24839">
+        <series-title>Kúlugúbbarnir</series-title>
+        <series-original-title>Bubble Guppies, Season I</series-original-title>
+        <series-description>
+          <p>Krúttlegir teiknimyndaþættir um litla hafbúa sem eru saman í bekk og elska að syngja og dansa. Kennarinn þeirra er hress gullfiskur sem kennir þeim ýmislegt um lífið og tilveruna.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4956050" serie-id="23083" start-time="2018-05-06 08:33:00" duration="00:12:35" mark="yes">
+      <title>Ernest og Célestine</title>
+      <original-title>Ernest and Célestine</original-title>
+      <description><![CDATA[Fallegir teiknimyndaþættir um óvenjulega vináttu bjarnarins Ernests og músarinnar Célestine.]]></description>
+      <short-description />
+      <rating />
+      <episode number="5" number-of-episodes="22" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/23083/</more-info>
+      <reference group="23083" material="023083-0009" title="Ernes og Celestine" />
+      <details id="23083">
+        <series-title>Ernes og Celestine</series-title>
+        <series-original-title>Ernest and Célestine</series-original-title>
+        <series-description>
+          <p>Fallegir teiknimyndaþættir um óvenjulega vináttu bjarnarins Ernests og músarinnar Célestine.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4954741" serie-id="25486" start-time="2018-05-06 08:45:00" duration="00:11:45" mark="yes">
+      <title>Með afa í vasanum</title>
+      <original-title>Grandpa in My Pocket</original-title>
+      <description><![CDATA[Janus á skemmtilegan afa sem á töfrahúfu. Þegar afi setur húfuna á sig verður hann pínulítill, getur hlaupið á ofurhraða og saman lenda þeir ótrúlegustu ævintýrum.]]></description>
+      <short-description />
+      <rating />
+      <episode number="11" number-of-episodes="26" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/25486/</more-info>
+      <reference group="25486" material="025486-0011" title="Með afa í vasanum" />
+      <details id="25486">
+        <series-title>Með afa í vasanum</series-title>
+        <series-original-title>Grandpa in My Pocket</series-original-title>
+        <series-description>
+          <p>Janus á skemmtilegan afa sem á töfrahúfu. Þegar afi setur húfuna á sig verður hann pínulítill, getur hlaupið á ofurhraða og saman lenda þeir ótrúlegustu ævintýrum.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4955370" serie-id="16230" start-time="2018-05-06 08:57:00" duration="00:23:38" mark="yes">
+      <title>Litli prinsinn</title>
+      <original-title>Little Prince, Ser. III</original-title>
+      <description><![CDATA[Frönsk teiknimyndaröð um lítinn prins sem býr á smástirni og ferðast um geiminn með talandi ref, sem er hans eini vinur. Þættirnir eru byggðir á samnefndri sögu eftir franska skáldið Antoine de Saint-Exupéry. Litli prinsinn er ein mest selda bók allra tíma og var valin besta bók 20. aldarinnar í Frakklandi.]]></description>
+      <short-description />
+      <rating />
+      <episode number="3" number-of-episodes="20" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/16230/</more-info>
+      <reference group="16230" material="016230-0009" title="Litli prinsinn" />
+      <details id="16230">
+        <series-title>Litli prinsinn</series-title>
+        <series-original-title>Little Prince</series-original-title>
+        <series-description>
+          <p>Frönsk teiknimyndaröð um lítinn prins sem býr á smástirni og ferðast um geiminn með talandi ref, sem er hans eini vinur. Þættirnir eru byggðir á samnefndri sögu eftir franska skáldið Antoine de Saint-Exupéry. Litli prinsinn er ein mest selda bók allra tíma og var valin besta bók 20. aldarinnar í Frakklandi.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4949565" serie-id="25504" start-time="2018-05-06 09:20:00" duration="00:11:14" mark="yes">
+      <title>Bréfabær</title>
+      <original-title>Paper Port</original-title>
+      <description><![CDATA[Matthildur er 12 ára stelpa sem býr yfir sérstöku leyndarmáli. Á hverjum degi þegar hún vaknar býr hún yfir nýjum ofurkrafti sem hún þarf að læra að stjórna. Aðeins besti vinur hennar veit af þessu og saman lenda þau í alls kyns ævintýrum.]]></description>
+      <short-description />
+      <rating />
+      <episode number="15" number-of-episodes="26" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/25504/</more-info>
+      <reference group="25504" material="025504-0015" title="Bréfabær" />
+      <details id="25504">
+        <series-title>Bréfabær</series-title>
+        <series-original-title>Paper Port</series-original-title>
+        <series-description>
+          <p>Matthildur er 12 ára stelpa sem býr yfir sérstöku leyndarmáli. Á hverjum degi þegar hún vaknar býr hún yfir nýjum ofurkrafti sem hún þarf að læra að stjórna. Aðeins besti vinur hennar veit af þessu og saman lenda þau í alls kyns ævintýrum.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4949498" serie-id="22392" start-time="2018-05-06 09:31:00" duration="00:12:01" mark="yes">
+      <title>Hrói höttur</title>
+      <original-title>Robin Hood</original-title>
+      <description><![CDATA[Teiknimyndaþættir um ævintýri unglingsstráksins Hróa Hattar og vina hans.]]></description>
+      <short-description />
+      <rating />
+      <episode number="41" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/22392/</more-info>
+      <reference group="22392" material="022392-0041" title="Hrói höttur" />
+      <details id="22392">
+        <series-title>Hrói höttur</series-title>
+        <series-original-title>Robin Hood</series-original-title>
+        <series-description>
+          <p>Teiknimyndaþættir um ævintýri unglingsstráksins Hróa Hattar og vina hans.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4949525" serie-id="22391" start-time="2018-05-06 09:43:00" duration="00:11:02" mark="yes">
+      <title>Skógargengið</title>
+      <original-title>The Jungle Bunch</original-title>
+      <description><![CDATA[Fjörugir þættir um Marra mörgæs sem heldur að hann sé tígrisdýr. Í þáttunum lendir Marri í ýmsum ævintýrum ásamt vinum sínum í skóginum.]]></description>
+      <short-description />
+      <rating />
+      <episode number="48" number-of-episodes="52" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/22391/</more-info>
+      <reference group="22391" material="022391-0048" title="Skógargengið" />
+      <details id="22391">
+        <series-title>Skógargengið</series-title>
+        <series-original-title>The Jungle Bunch</series-original-title>
+        <series-description>
+          <p>Fjörugir þættir um Marra mörgæs sem heldur að hann sé tígrisdýr. Í þáttunum lendir Marri í ýmsum ævintýrum ásamt vinum sínum í skóginum.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4960263" serie-id="15337" start-time="2018-05-06 09:54:00" duration="00:13:00" mark="yes">
+      <title>Undraveröld Gúnda</title>
+      <original-title>The Amazing World of Gumball</original-title>
+      <description><![CDATA[Bresk-amerísk teiknimyndaröð frá Cartoon Network sem segir frá hinum 12 ára gamla Gúnda, sem er blár köttur, og besta vini hans og bróður, gullfiskinum Darwin. Þættirnir eru þekktir fyrir flippaðan húmor og eru fyrirtaks skemmtun fyrir börn og fullorðna.]]></description>
+      <short-description />
+      <rating />
+      <episode number="40" number-of-episodes="41" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/15337/</more-info>
+      <reference group="15337" material="015337-0030" title="Undraveröld Gúnda" />
+      <details id="15337">
+        <series-title>Undraveröld Gúnda</series-title>
+        <series-original-title>The Amazing World of Gumball</series-original-title>
+        <series-description>
+          <p>Bresk-amerísk teiknimyndaröð frá Cartoon Network sem segir frá hinum 12 ára gamla Gúnda, sem er blár köttur, og besta vini hans og bróður, gullfiskinum Darwin. Þættirnir eru þekktir fyrir flippaðan húmor og eru fyrirtaks skemmtun fyrir börn og fullorðna.</p>
+        </series-description>
+        <series-short-description>
+          <p>Bresk-amerísk teiknimyndaröð frá Cartoon Network sem segir frá hinum 12 ára gamla Gúnda, sem er blár köttur, og besta vini hans og bróður, gullfiskinum Darwin. Þættirnir eru þekktir fyrir flippaðan húmor og eru fyrirtaks skemmtun fyrir börn og fullorðna.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4961061" serie-id="24519" start-time="2018-05-06 10:06:00" duration="00:03:00" mark="yes">
+      <title>Flink</title>
+      <original-title />
+      <description><![CDATA[Í Flink sýna flottir krakkar um allt land hæfileika sína.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <more-info>http://dagskra.ruv.is/nanar/24519/</more-info>
+      <reference group="24519" material="024519-0004" title="Flink" />
+      <details id="24519">
+        <series-title>Flink</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Í Flink sýna flottir krakkar um allt land hæfileika sína.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4944689" serie-id="26152" start-time="2018-05-06 10:10:00" duration="00:15:00" mark="no">
+      <title>Krakkafréttir vikunnar</title>
+      <original-title>5. maí 2018</original-title>
+      <description><![CDATA[Fréttaþáttur fyrir börn á aldrinum 8-12 ára þar sem litið er yfir það helsta í fréttum liðinnar viku. Umsjón: Ísgerður Elfa Gunnarsdóttir, Sævar Helgi Bragason og Jóhannes Ólafsson. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/24699/</more-info>
+      <reference group="24699" material="026152-0018" title="Krakkafréttir vikunnar" />
+      <details id="24699">
+        <series-title>Krakkafréttir vikunnar</series-title>
+        <series-original-title />
+        <sub-series-title>Krakkafréttir vikunnar</sub-series-title>
+        <series-description>
+          <p>Fréttaþáttur fyrir börn á aldrinum 8-12 ára þar sem litið er yfir það helsta í fréttum liðinnar viku.Umsjón: Ísgerður Elfa Gunnarsdóttir, Sævar Helgi Bragason og Jóhannes Ólafsson.</p>
+        </series-description>
+        <series-short-description>
+          <p>Fréttaþáttur fyrir börn á aldrinum 8-12 ára þar sem litið er yfir það helsta í fréttum liðinnar viku. Umsjón: Ísgerður Elfa Gunnarsdóttir og Jóhannes Ólafsson.</p>
+        </series-short-description>
+        <episode-description>
+          <p>Fréttaþáttur fyrir börn á aldrinum 8-12 ára þar sem litið er yfir það helsta í fréttum liðinnar viku. Umsjón: Ísgerður Elfa Gunnarsdóttir og Sævar Helgi Bragason.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4962006" serie-id="20617" start-time="2018-05-06 10:25:00" duration="00:03:30" mark="no">
+      <title>Vísindahorn Ævars</title>
+      <original-title />
+      <description><![CDATA[Þáttarbrot með Ævari vísindamanni fyrir krakka á öllum aldri. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/20617/</more-info>
+      <reference group="20617" material="020617-0024" title="Vísindahorn Ævars" />
+      <details id="20617">
+        <series-title>Vísindahorn Ævars</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Þáttarbrot með Ævari vísindamanni fyrir krakka á öllum aldri.</p>
+        </series-description>
+        <series-short-description>
+          <p>Þáttarbrot með Ævari vísindamanni fyrir krakka á öllum aldri.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4954250" serie-id="21245" start-time="2018-05-06 10:30:00" duration="00:27:38" mark="no">
+      <title>Ævar vísindamaður</title>
+      <original-title>Dýr</original-title>
+      <description><![CDATA[Í þessari þáttaröð leggur Ævar allt undir. Laufblásara-knúin svifbretti, segulskór og skordýrahamborgari eru bara nokkrar af þeim æsispennandi tilraunum sem koma fyrir. Dagskrárgerð: Ævar Þór Benediktsson og Eggert Gunnarsson. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="4" number-of-episodes="9" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://www.ruv.is/aevar</more-info>
+      <reference group="18703" material="021245-0004" title="Ævar vísindamaður" />
+      <details id="18703">
+        <series-title>Ævar vísindamaður</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Þáttaröð fyrir krakka á öllum aldri, stútfull af æsispennandi tilraunum og fróðleik.</p>
+        </series-description>
+        <series-short-description>
+          <p>Þáttaröð fyrir krakka á öllum aldri, stútfull af æsispennandi tilraunum og fróðleik.</p>
+        </series-short-description>
+        <episode-description>
+          <p>Í þætti kvöldins skoðar Ævar dýr. Jane Goodall er vísindamaður dagsins, við rannsökum Mantis-rækjuna og syngjum liti sem enginn sér nema hún. Við smökkum orkustangir úr krybbum, skoðum Vitsugu-vespur, setjum rykmaura undir smásjánna og svo ætlar Ævar að heimsækja hest sem kann bæði að telja og mála.</p>
+        </episode-description>
+        <episode-short-description>
+          <p>Í þætti kvöldins skoðar Ævar dýr.</p>
+        </episode-short-description>
+      </details>
+      <credits />
+    </event>
+    <event event-id="4943108" serie-id="25791" start-time="2018-05-06 11:00:00" duration="01:00:00" mark="no">
+      <title>Silfrið</title>
+      <original-title />
+      <description><![CDATA[Egill Helgason og Fanney Birna Jónsdóttir fá til sín góða gesti til að kryfja með sér atburði liðinnar viku og pólitískt landslag hverju sinni. Stjórn útsendingar: Elín Sveinsdóttir.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/24092/</more-info>
+      <reference group="24092" material="025791-0016" title="Silfrið" />
+      <details id="24092">
+        <series-title>Silfrið</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Egill Helgason og Fanney Birna Jónsdóttir fá til sín góða gesti til að kryfja með sér atburði liðinnar viku og pólitískt landslag hverju sinni. Stjórn útsendingar: Elín Sveinsdóttir.</p>
+        </series-description>
+        <series-short-description>
+          <p>Umræðuþátturinn Silfrið snýr aftur á skjáinn en að þessu sinni með Agli Helgasyni og Fanneyju Birnu Jónsdóttur.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4954547" serie-id="26559" start-time="2018-05-06 12:10:00" duration="00:23:00" mark="no">
+      <title>Menningin - samantekt</title>
+      <original-title />
+      <description><![CDATA[Brot úr menningarumfjöllun liðinnar viku. Fjallað á snarpan og líflegan hátt um það sem efst er á baugi hverju sinni í menningar- og listalífinu, jafnt með innslögum, fréttaskýringum, gagnrýni, pistlum og umræðu. Umsjón: Bergsteinn Sigurðsson og Guðrún Sóley Gestsdóttir.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="14">Menning</category>
+      <more-info>http://dagskra.ruv.is/nanar/24515/</more-info>
+      <reference group="24515" material="026559-0012" title="Menningin - samantekt" />
+      <details id="24515">
+        <series-title>Menningin - samantekt</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Brot úr menningarumfjöllun liðinnar viku. Fjallað á snarpan og líflegan hátt um það sem efst er á baugi hverju sinni í menningar- og listalífinu, jafnt með innslögum, fréttaskýringum, gagnrýni, pistlum og umræðu. Umsjón: Bergsteinn Sigurðsson og Guðrún Sóley Gestsdóttir.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4949353" serie-id="22143" start-time="2018-05-06 12:35:00" duration="00:10:30" mark="no">
+      <title>Ahmed og Team Physix</title>
+      <original-title />
+      <description><![CDATA[Norskir heimildarþættir þar sem fylgst er með Ahmed, sem tókst með þrotlausum æfingum og einbeitingu að koma lífi sínu í jákvæðan farveg. Í kjölfarið einsetur Ahmed sér að hjálpa eins mörgum ungmennum og hann getur að finna tilgang með tilverunni. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="6" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/22143/</more-info>
+      <reference group="22143" material="022143-0001" title="Ahmed og Team Physix" />
+      <details id="22143">
+        <series-title>Ahmed og Team Physix</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Norskir heimildarþættir þar sem fylgst er með Ahmed, sem tókst með þrotlausum æfingum og einbeitingu að koma lífi sínu í jákvæðan farveg. Í kjölfarið einsetur Ahmed sér að hjálpa eins mörgum ungmennum og hann getur að finna tilgang með tilverunni.</p>
+        </series-description>
+        <series-short-description>
+          <p>Norskir heimildarþættir þar sem fylgst er með Ahmed, sem tókst með þrotlausum æfingum og einbeitingu að koma lífi sínu í jákvæðan farveg.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4954285" serie-id="23261" start-time="2018-05-06 12:45:00" duration="00:28:30" mark="no">
+      <title>Baðstofuballettinn</title>
+      <original-title>Bastuballetten</original-title>
+      <description><![CDATA[Fjórir félagar frá Norður-Svíþjóð hittast reglulega í gufubaði og ræða málin. Nú hefur hins vegar danshöfundur gengið til liðs við þá og fær þá til að æfa dansverk saman. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="3" number-of-episodes="4" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="10">Heimildamyndir</category>
+      <more-info>http://dagskra.ruv.is/nanar/23261/</more-info>
+      <reference group="23261" material="023261-0003" title="Baðstofuballettinn" />
+      <details id="23261">
+        <series-title>Baðstofuballettinn</series-title>
+        <series-original-title>Bastuballetten</series-original-title>
+        <series-description>
+          <p>Fjórir félagar frá Norður-Svíþjóð hittast reglulega í gufubaði og ræða málin. Nú hefur hins vegar danshöfundur gengið til liðs við þá og fær þá til að æfa dansverk saman.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4958155" serie-id="15981" start-time="2018-05-06 13:15:00" duration="00:17:59" mark="no">
+      <title>Hið ljúfa líf</title>
+      <original-title>Det søde liv</original-title>
+      <description><![CDATA[Danskir þættir um kökubakstur og eftirréttagerð. Mette Blomsterberg útbýr kræsingar. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="11">Skemmtun</category>
+      <more-info>http://dagskra.ruv.is/nanar/15981/</more-info>
+      <reference group="15981" material="015981-0004" title="Hið ljúfa líf" />
+      <details id="15981">
+        <series-title>Hið ljúfa líf</series-title>
+        <series-original-title>Det søde liv</series-original-title>
+        <series-description>
+          <p>Danskir þættir um kökubakstur og eftirréttagerð. Mette Blomsterberg útbýr kræsingar.</p>
+        </series-description>
+        <series-short-description>
+          <p>Danskir þættir um kökubakstur og eftirréttagerð. Mette Blomsterberg útbýr kræsingar.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4952950" serie-id="20880" start-time="2018-05-06 13:35:00" duration="00:28:12" mark="no">
+      <title>Drengjaskólinn</title>
+      <original-title>Drengeakademiet</original-title>
+      <description><![CDATA[Dönsk heimildaþáttaröð um stöðu danskra 14-16 ára drengja í námi. Fjöldi danskra unglingsdrengja sem getur ekki lesið sér til gagns eykst ár frá ári og fjórðungur þeirra drengja sem kláruðu miðstig skólagöngu fyrir 10 árum með einkunnir undir meðaltali eru á bótum frá danska ríkinu. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="4" number-of-episodes="4" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="4">Fræðsla</category>
+      <more-info>http://dagskra.ruv.is/nanar/20880/</more-info>
+      <reference group="20880" material="020880-0004" title="Drengjaskólinn" />
+      <details id="20880">
+        <series-title>Drengjaskólinn</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Dönsk heimildaþáttaröð um stöðu danskra 14-16 ára drengja í námi. Fjöldi danskra unglingsdrengja sem getur ekki lesið sér til gagns eykst ár frá ári og fjórðungur þeirra drengja sem kláruðu miðstig skólagöngu fyrir 10 árum með einkunnir undir meðaltali eru á bótum frá danska ríkinu.</p>
+        </series-description>
+        <series-short-description>
+          <p>Dönsk heimildarmynd um stöðu danskra 14-16 ára drengja í námi.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4954974" serie-id="17564" start-time="2018-05-06 14:05:00" duration="00:47:00" mark="no">
+      <title>Rússneski blaðamaðurinn</title>
+      <original-title />
+      <description><![CDATA[Íslensk heimildarmynd um úkraínsk-rússneska blaðamanninn og fyrrum samviskufangann Grigorí Pasko, sem hefur um árabil látið sig stjórnarfar og umhverfismál í Rússlandi varða. Myndin fylgir honum eftir á tíu ára tímabili, eftir að hann hefur að rannsaka byggingu mikillar gasleiðslu frá Norður-Rússlandi um Eystrasalt til Vestur-Evrópu. Með óháðri og gagnrýninni blaðamennsku setur hann sig í andstöðu við yfirvöld í Rússlandi og afhjúpar margar af verstu hliðum valdstjórnarinnar í landinu. Leikstjóri: Helga Brekkan. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="10">Heimildamyndir</category>
+      <more-info>http://dagskra.ruv.is/nanar/17564/</more-info>
+      <reference group="17564" material="017564-0001" title="Rússneski blaðamaðurinn" />
+      <details id="17564">
+        <series-title>Rússneski blaðamaðurinn</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Íslensk heimildarmynd um úkraínsk-rússneska blaðamanninn og fyrrum samviskufangann Grigorí Pasko, sem hefur um árabil látið sig stjórnarfar og umhverfismál í Rússlandi varða. Myndin fylgir honum eftir á tíu ára tímabili, eftir að hann hefur að rannsaka byggingu mikillar gasleiðslu frá Norður-Rússlandi um Eystrasalt til Vestur-Evrópu. Með óháðri og gagnrýninni blaðamennsku setur hann sig í andstöðu við yfirvöld í Rússlandi og afhjúpar margar af verstu hliðum valdstjórnarinnar í landinu. Leikstjóri: Helga Brekkan.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4954261" serie-id="23411" start-time="2018-05-06 14:50:00" duration="00:42:42" mark="no">
+      <title>Tímamótauppgötvanir</title>
+      <original-title>Breakthrough</original-title>
+      <description><![CDATA[Heimildarmyndaflokkur sem fjallar um helstu framfarir og nýjungar í heimi vísindanna og skoðar hvaða áhrif þær munu hafa á líf okkar allra. Í þáttunum er lögð sérstök áhersla á fólkið og tæknina að baki stærstu tímamótauppgötvunum okkar tíma. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="4">Fræðsla</category>
+      <more-info>http://dagskra.ruv.is/nanar/23411/</more-info>
+      <reference group="23411" material="023411-0005" title="Tímamótauppgötvanir" />
+      <details id="23411">
+        <series-title>Tímamótauppgötvanir</series-title>
+        <series-original-title>Breakthrough</series-original-title>
+        <series-description>
+          <p>Heimildarmyndaflokkur sem fjallar um helstu framfarir og nýjungar í heimi vísindanna og skoðar hvaða áhrif þær munu hafa á líf okkar allra. Í þáttunum er lögð sérstök áhersla á fólkið og tæknina að baki stærstu tímamótauppgötvunum okkar tíma.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4956010" serie-id="26637" start-time="2018-05-06 15:35:00" duration="00:27:00" mark="no">
+      <title>Leiðin til Lissabon</title>
+      <original-title />
+      <description><![CDATA[Skyggnst verður inn í líf Ara Ólafssonar, fulltrúa Íslands í Eurovision 2018. Við fáum að vera fluga á vegg við undirbúning hans fyrir stóru stundina, en þann 8. mars koma yfir 200 milljónir manna til með að horfa á þennan unga Íslending flytja lagið „Our choice“ á stóra sviðinu í Lissabon. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="11">Skemmtun</category>
+      <more-info>http://dagskra.ruv.is/nanar/26637/</more-info>
+      <reference group="26637" material="026637-0001" title="Leiðin til Lissabon" />
+      <details id="26637">
+        <series-title>Leiðin til Lissabon</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Skyggnst verður inn í líf Ara Ólafssonar, fulltrúa Íslands í Eurovision 2018. Við fáum að vera fluga á vegg við undirbúning hans fyrir stóru stundina, en þann 8. maí koma yfir 200 milljónir manna til með að horfa á þennan unga Íslending flytja lagið „Our choice“ á stóra sviðinu í Lissabon í fyrri undankeppni Eurovision. Umsjónarmaður er Sigmar Guðmundsson. Dagskrárgerð: Jakob Halldórsson.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4956009" serie-id="26201" start-time="2018-05-06 16:05:00" duration="01:38:35" mark="no">
+      <title>Saga HM: Bandaríkin 1994</title>
+      <original-title>FIFA World Cup Official Film collection</original-title>
+      <description><![CDATA[Í tilefni HM karla í knattspyrnu í Rússlandi í sumar sýnir RÚV röð heimildarmynda um sögu HM. Árið 1994 var heimsmeistaramótið haldið í Bandaríkjunum í fyrsta sinn og varð það til þess að áhugi á knattspyrnu jókst til muna á einum stærsta markaði heims. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="5">Íþróttir</category>
+      <more-info>http://dagskra.ruv.is/nanar/26201/</more-info>
+      <reference group="26201" material="026201-0012" title="Saga HM" />
+      <details id="26201">
+        <series-title>Saga HM</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Í tilefni HM karla í knattspyrnu í Rússlandi í sumar sýnir RÚV röð heimildarmynda um sögu HM.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Í tilefni HM karla í knattspyrnu í Rússlandi í sumar sýnir RÚV röð heimildarmynda um sögu HM. Árið 1994 var heimsmeistaramótið haldið í Bandaríkjunum í fyrsta sinn og varð það til þess að áhugi á knattspyrnu jókst til muna á einum stærsta markaði heims.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4947986" serie-id="25209" start-time="2018-05-06 17:45:00" duration="00:08:00" mark="no">
+      <title>Táknmálsfréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/23884/</more-info>
+      <reference group="23884" material="025209-0126" title="Táknmálsfréttir" />
+      <details id="23884">
+        <series-title>Táknmálsfréttir</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Táknmálsfréttir sjónvarps.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4946111" serie-id="" start-time="2018-05-06 17:55:00" duration="00:30:00" mark="no">
+      <title>KrakkaRÚV</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4946111" title="KrakkaRÚV" />
+    </event>
+    <event event-id="4954685" serie-id="26579" start-time="2018-05-06 17:56:00" duration="00:30:00" mark="yes">
+      <title>Sögur</title>
+      <original-title>númer fimm</original-title>
+      <description><![CDATA[Skemmtilegir þættir þar sem við fáum sagnasérfræðinga til að skrifa með okkur sögur, sjáum stuttmyndir skrifaðar af krökkum, fylgjumst með því hvernig þær verða til og heyrum af uppáhalds barnabókum þekktra einstaklinga. Ingvar Wu og Birta Hall sjá svo um æsispennandi spurningakeppni þars sem allt getur gerst. Þættirnir eru unnir í samstarfi við Menntamálastofnun.]]></description>
+      <short-description />
+      <rating />
+      <episode number="5" number-of-episodes="5" multiple-episodes="yes" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/26579/</more-info>
+      <reference group="26579" material="026579-0005" title="Sögur" />
+      <details id="26579">
+        <series-title>Sögur</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Skemmtilegir þættir þar sem við fáum sagnasérfræðinga til að skrifa með okkur sögur, sjáum stuttmyndir skrifaðar af krökkum, fylgjumst með því hvernig þær verða til og heyrum af uppáhalds barnabókum þekktra einstaklinga. Ingvar Wu og Birta Hall sjá svo um æsispennandi spurningakeppni þars sem allt getur gerst. Þættirnir eru unnir í samstarfi við Menntamálastofnun.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Í þættinum fáum við góð ráð frá rithöfundunum sem hafa verið með okkur í fyrri þáttum. Kristín Helga Gunnarsdóttir, Gunnar Theodór Eggertsson, Markús Már Efraím og Ísold Uggadóttir hafa öll skrifað með okkur sögur og nú fáum við góð ráð frá þeim í lokin. Núna ættum við að vera tilbúin að prófa að skrifa. Salka Sól Eyfeld tónlistarkona og Katrín Jakobsdóttir forsætisráðherra koma í sófann til Ingvars og Birtu og Sævar Helgi og Unnsteinn Manuel taka þátt í spurningakeppninni Ertu klár?</p>
+          <p>Hrafnhildur Oddgeirsdóttir les fyrir okkur söguna sína Hvörfin miklu og Þorgrímur Þráinsson segir okkur hvernig hann stelur alls konar skemmtilegum hlutum úr umhverfinu inn í sögurnar sínar. Bókaormurinn Kolfinna Traustadóttir segir okkur frá því sem hún er að lesa þessa dagana.</p>
+          <p>Umsjón:</p>
+          <p>Birta Hall</p>
+          <p>Ingvar Wu Skarphéðinsson</p>
+          <p>Sigyn Blöndal</p>
+          <p>Handrit og dagskrárgerð:</p>
+          <p>Sigyn Blöndal og Sindri Bergmann Þórarinsson</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4955003" serie-id="25895" start-time="2018-05-06 18:25:00" duration="00:29:00" mark="no">
+      <title>Innlit til arkitekta</title>
+      <original-title>Arkitektens hjem</original-title>
+      <description><![CDATA[Arkitektinn Charlotte Thiis-Evensen heimsækir starfssystkini sín og sýnir áhorfendum hvernig þau búa.]]></description>
+      <short-description />
+      <rating />
+      <episode number="4" number-of-episodes="6" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="10">Heimildamyndir</category>
+      <more-info>http://dagskra.ruv.is/nanar/25895/</more-info>
+      <reference group="25895" material="025895-0004" title="Innlit til arkitekta" />
+      <details id="25895">
+        <series-title>Innlit til arkitekta</series-title>
+        <series-original-title>Arkitektens hjem</series-original-title>
+        <series-description>
+          <p>Arkitektinn Charlotte Thiis-Evensen heimsækir starfssystkini sín og sýnir áhorfendum hvernig þau búa.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4942683" serie-id="25205" start-time="2018-05-06 19:00:00" duration="00:23:00" mark="no">
+      <title>Fréttir</title>
+      <original-title />
+      <description><![CDATA[Helstu fréttir dagsins af innlendum og erlendum vettvangi. Beinar innkomur frá vettvangi og viðtöl í myndveri þar sem kafað er ofan í hin ýmsu fréttamál. Allt frá efnahagsmálum til dægurmála, tölulegar staðreyndir og mannlegar hliðar. Alla daga, allt árið um kring.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/23879/</more-info>
+      <reference group="23879" material="025205-0126" title="Fréttir kl. 19:00" />
+      <details id="23879">
+        <series-title>Fréttir kl. 19:00</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Beinar innkomur frá vettvangi og viðtöl í myndveri þar sem kafað er ofan í hin ýmsu fréttamál. Allt frá efnahagsmálum til dægurmála, tölulegar staðreyndir og mannlegar hliðar. Alla daga, allt árið um kring.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4942243" serie-id="25993" start-time="2018-05-06 19:25:00" duration="00:10:00" mark="no">
+      <title>Íþróttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="5">Íþróttir</category>
+      <more-info>http://dagskra.ruv.is/nanar/25993/</more-info>
+      <reference group="25993" material="025993-0036" title="Íþróttir" />
+      <details id="25993">
+        <series-title>Íþróttir</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Íþróttafréttir.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4933944" serie-id="25215" start-time="2018-05-06 19:35:00" duration="00:03:00" mark="no">
+      <title>Veður</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/23882/</more-info>
+      <reference group="23882" material="025215-0126" title="Veðurfréttir kl. 19:30" />
+      <details id="23882">
+        <series-title>Veðurfréttir kl. 19:30</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Veðurfréttir.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4943171" serie-id="25783" start-time="2018-05-06 19:45:00" duration="00:27:00" mark="no">
+      <title>Landinn</title>
+      <original-title />
+      <description><![CDATA[Þáttur um lífið í landinu. Landinn fer um landið og hittir fólk sem er að gera áhugaverða og skemmtilega hluti. Umsjónarmenn eru Gísli Einarsson, Birna Pétursdóttir, Edda Sif Pálsdóttir og Halla Ólafsdóttir. Dagskrárgerð: Karl Sigtryggsson, Einar Rafnsson, Jóhannes Jónsson og Gunnlaugur Starri Gylfason.]]></description>
+      <short-description />
+      <rating />
+      <episode number="27" number-of-episodes="28" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="11">Skemmtun</category>
+      <more-info>http://dagskra.ruv.is/nanar/24084/</more-info>
+      <reference group="24084" material="025783-0014" title="Landinn" />
+      <details id="24084">
+        <series-title>Landinn</series-title>
+        <series-original-title />
+        <sub-series-title>Landinn</sub-series-title>
+        <series-description>
+          <p>Þáttur um lífið í landinu. Landinn fer um landið og hittir fólk sem er að gera áhugaverða og skemmtilega hluti. Umsjónarmenn eru Gísli Einarsson, Birna Pétursdóttir, Edda Sif Pálsdóttir og Halla Ólafsdóttir. Dagskrárgerð: Karl Sigtryggsson, Einar Rafnsson, Jóhannes Jónsson og Gunnlaugur Starri Gylfason.</p>
+        </series-description>
+        <series-short-description>
+          <p>Þáttur um lífið í landinu. Landinn fer um landið og hittir venjulegt fólk sem er að gera áhugaverða og skemmtilega hluti. Umsjónarmenn eru Gísli Einarsson, Þórgunnur Oddssdóttir og Edda Sif Pálsdóttir. Dagskrárgerð: Karl Sigtryggsson.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4945433" serie-id="25501" start-time="2018-05-06 20:15:00" duration="00:25:00" mark="no">
+      <title>Úti</title>
+      <original-title>Kirkjufell og Nauthólsvík</original-title>
+      <description><![CDATA[Ferðaþættir þar sem leiðsögumennirnir Brynhildur Ólafsdóttir og Róbert Marshall fara með Íslendinga í margs konar útivistarævintýri í náttúru Íslands. Ýmsir þjóðþekktir einstaklingar fara út fyrir þægindarammann í þáttunum og með fylgja ýmsir fróðleiksmolar og góð ráð um búnað og hegðun úti í náttúrunni. Meðal gesta í þáttunum eru Guðni Th. Jóhannesson, Brynhildur Guðjónsdóttir, Bjarni Benediktsson, Saga Garðarsdóttir, Helgi Seljan, Andri Snær Magnason og Baltasar Kormákur.]]></description>
+      <short-description />
+      <rating />
+      <episode number="6" number-of-episodes="6" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="4">Fræðsla</category>
+      <more-info>http://dagskra.ruv.is/nanar/25501/</more-info>
+      <reference group="25501" material="025501-0006" title="Úti" />
+      <details id="25501">
+        <series-title>Úti</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Ferðaþættir í umsjá Brynhildar Ólafsdóttur og Róberts Marshall þar sem þau fara með landsþekkta Íslendinga í svaðilför um ósnortna náttúru Íslands.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Hér fara þau Róbert og Brynhildur með leikstjórann Baltasar Kormák í alvöru fjallaklifur í vetraraðstæðum á Kirkjufell í Grundarfirði, en Baltasar hefur dreymt fjallið ótal sinnum síðan í barnæsku. Einnig fara þau með samfélagsmiðlastjörnum í hrollkalt sjóbað í Nauthólsvík.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4949251" serie-id="23393" start-time="2018-05-06 20:45:00" duration="00:39:51" mark="no">
+      <title>Sjóræningjarokk</title>
+      <original-title>Mercur</original-title>
+      <description><![CDATA[Leikin dönsk þáttaröð byggð á sannsögulegum atburðum um stofnun fyrstu ólöglegu útvarpsstöðvarinnar í Danmörku, Radio Mercur, árið 1958. Á tíma einokunar ríkisútvarpsins fann hópur tónlistaráhugamanna smugu í dönskum lögum sem gerði það að verkum að leyfilegt var að senda útvarpsbylgjur af hafi úti. Í kjölfarið stofnaði hópurinn sína eigin útvarpsstöð og segja þættirnir frá upphafi, risi og falli hennar. Leikstjórn: Charlotte Sachs Bostrup og Mogens Hagedorn. Meðal leikenda eru: Andreas Jessen, Jon Lange, Neel Ronholt, Stephania Potalivo og Rasmus Botoft.]]></description>
+      <short-description />
+      <rating />
+      <episode number="2" number-of-episodes="10" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Leiknir þættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/23393/</more-info>
+      <reference group="23393" material="023393-0002" title="Sjóræningjarokk" />
+      <details id="23393">
+        <series-title>Sjóræningjarokk</series-title>
+        <series-original-title>Mercur</series-original-title>
+        <series-description>
+          <p>Leikin dönsk þáttaröð byggð á sannsögulegum atburðum um stofnun fyrstu ólöglegu útvarpsstöðvarinnar í Danmörku, Radio Mercur, árið 1958. Á tíma einokunar ríkisútvarpsins fann hópur tónlistaráhugamanna smugu í dönskum lögum sem gerði það að verkum að leyfilegt var að senda útvarpsbylgjur af hafi úti. Í kjölfarið stofnaði hópurinn sína eigin útvarpsstöð og segja þættirnir frá upphafi, risi og falli hennar. Leikstjórn: Charlotte Sachs Bostrup og Mogens Hagedorn. Meðal leikenda eru: Andreas Jessen, Jon Lange, Neel Ronholt, Stephania Potalivo og Rasmus Botoft.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4943198" serie-id="21162" start-time="2018-05-06 21:25:00" duration="00:42:26" mark="no">
+      <title>Bjólfur</title>
+      <original-title>Beowulf: Return to the Shieldlands</original-title>
+      <description><![CDATA[Breskir þættir byggðir á Bjólfskviðu með Gísla Erni Garðarssyni í stóru hlutverki. Þættirnir segja frá stríðsmanninum Beowulf sem snýr aftur til heimalands síns til þess að gera upp fortíð sína. Aðalhlutverk: Kieran Bew, Joanne Whalley, Ed Speleers, Laura Donnelly og Gísli Örn Garðarsson. Atriði í þáttunum eru ekki við hæfi ungra barna.]]></description>
+      <short-description />
+      <rating>12</rating>
+      <episode number="12" number-of-episodes="13" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Leiknir þættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/21162/</more-info>
+      <reference group="21162" material="021162-0012" title="Bjólfur" />
+      <details id="21162">
+        <series-title>Bjólfur</series-title>
+        <series-original-title>Beowulf: Return to the Shieldlands</series-original-title>
+        <series-description>
+          <p>Breskir þættir byggðir á Bjólfskviðu með Gísla Erni Garðarssyni í stóru hlutverki. Þættirnir segja frá stríðsmanninum Beowulf sem snýr aftur til heimalands síns til þess að gera upp fortíð sína. Aðalhlutverk: Kieran Bew, Joanne Whalley, Ed Speleers, Laura Donnelly og Gísli Örn Garðarsson. Atriði í þáttunum eru ekki við hæfi ungra barna.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4944967" serie-id="22534" start-time="2018-05-06 22:10:00" duration="02:12:15" mark="no">
+      <title>Þúsund og ein nótt: 2. hluti</title>
+      <original-title>As Mil e Uma Noites: Volume 2, O Desolado</original-title>
+      <description><![CDATA[Önnur myndin í margverðlaunuðum þríleik portúgalska leikstjórans Miguels Gomes. Myndirnar eru lauslega byggðar á sagnasafninu Þúsund og einni nótt en eiga sér stað í Portúgal nútímans. Leikstjóri: Miguel Gomes. Aðalhlutverk: Crista Alfaiate, Chico Chapas og Luísa Cruz. Atriði í myndinni eru ekki við hæfi ungra barna.]]></description>
+      <short-description />
+      <rating>12</rating>
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="7">Kvikmyndir</category>
+      <more-info>http://dagskra.ruv.is/nanar/22534/</more-info>
+      <reference group="22534" material="022534-0001" title="Þúsund og ein nótt: 2. hluti" />
+      <details id="22534">
+        <series-title>Þúsund og ein nótt: 2. hluti</series-title>
+        <series-original-title>As Mil e Uma Noites: Volume 2, O Desolado</series-original-title>
+        <series-description>
+          <p>Önnur myndin í margverðlaunuðum þríleik portúgalska leikstjórans Miguels Gomes. Myndirnar eru lauslega byggðar á sagnasafninu Þúsund og einni nótt en eiga sér stað í Portúgal nútímans. Leikstjóri: Miguel Gomes. Aðalhlutverk: Crista Alfaiate, Chico Chapas og Luísa Cruz. Atriði í myndinni eru ekki við hæfi ungra barna.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4931563" serie-id="" start-time="2018-05-07 00:20:00" duration="00:03:00" mark="no">
+      <title>Útvarpsfréttir í dagskrárlok</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4931563" title="Útvarpsfréttir í dagskrárlok" />
+    </event>
+  </service>
+</schedule>
