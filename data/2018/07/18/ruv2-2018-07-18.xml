@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2018-07-25 18:58" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2018-07-18">
+    <event event-id="4974434" serie-id="27475" start-time="2018-07-18 12:45:00" duration="03:25:00" mark="no">
+      <title>Þingfundur á Þingvöllum með táknmálstúlkun</title>
+      <original-title />
+      <description><![CDATA[Bein útsending frá hátíðarþingfundi Alþingis í tilefni 100 ára fullveldisafmælis Íslands. Þann 18. júlí 1918 var samningum um fullveldi Íslands lokið með undirritun sambandslaganna sem tóku gildi 1. desember sama ár. Þingfundurinn er hugsaður eins og fundir á Þingvöllum hafa verið á hátíðar- og minningarstundum í sögu þjóðarinnar og er ætlunin að samþykkja ályktun sem full samstaða er um. Áður en þingfundurinn hefst verður rætt við fólk úr ýmsum áttum um fullveldið og hvaða merkingu það hefur í huga þjóðarinnar. Sýnt með táknmálstúlkun.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/27475/</more-info>
+      <reference group="27475" material="027475-0001" title="Þingfundur á Þingvöllum með táknmálstúlkun" />
+      <details id="27475">
+        <series-title>Þingfundur á Þingvöllum með táknmálstúlkun</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Bein útsending frá hátíðarþingfundi Alþingis í tilefni 100 ára fullveldisafmælis Íslands. Þann 18. júlí 1918 var samningum um fullveldi Íslands lokið með undirritun sambandslaganna sem tóku gildi 1. desember sama ár. Þingfundurinn er hugsaður eins og fundir á Þingvöllum hafa verið á hátíðar- og minningarstundum í sögu þjóðarinnar og er ætlunin að samþykkja ályktun sem full samstaða er um. Áður en þingfundurinn hefst verður rætt við fólk úr ýmsum áttum um fullveldið og hvaða merkingu það hefur í huga þjóðarinnar. Sýnt með táknmálstúlkun.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+  </service>
+</schedule>
