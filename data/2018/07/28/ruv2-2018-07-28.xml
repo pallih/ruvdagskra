@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2018-08-10 10:04" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2018-07-28">
+    <event event-id="4974032" serie-id="27444" start-time="2018-07-28 19:30:00" duration="05:00:00" mark="no">
+      <title>Bræðslan 2018</title>
+      <original-title />
+      <description><![CDATA[Bein útsending frá tónlistarhátíðinni Bræðslunni sem fer fram á Borgarfirði eystri laugardaginn 28. júlí. Meðal þeirra sem fram koma eru Stjórnin, Agent Fresco og Emmsjé Gauti. Stjórn upptöku: Helgi Jóhannesson.]]></description>
+      <short-description><![CDATA[Bein útsending frá tónlistarhátíðinni Bræðslunni.]]></short-description>
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="11">Skemmtun</category>
+      <more-info>http://dagskra.ruv.is/nanar/27444/</more-info>
+      <reference group="27444" material="027444-0001" title="Bræðslan 2018" />
+      <details id="27444">
+        <series-title>Bræðslan 2018</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Bein útsending frá tónlistarhátíðinni Bræðslunni sem fer fram á Borgarfirði eystri laugardaginn 28. júlí. Meðal þeirra sem fram koma eru Stjórnin, Agent Fresco og Emmsjé Gauti. Stjórn upptöku: Helgi Jóhannesson.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+  </service>
+</schedule>
