@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2018-08-11 19:38" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2018-08-11">
+    <event event-id="4974382" serie-id="22716" start-time="2018-08-11 12:10:00" duration="04:50:00" mark="no">
+      <title>Golf</title>
+      <original-title>Meistaramót Evrópu</original-title>
+      <description><![CDATA[Bein útsending frá keppni í golfi á Meistaramóti Evrópu.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="5">Íþróttir</category>
+      <more-info>http://dagskra.ruv.is/nanar/22716/</more-info>
+      <reference group="22716" material="022716-0029" title="Meistaramót Evrópu" />
+      <details id="22716">
+        <series-title>Meistaramót Evrópu</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Meistaramót Evrópu fer nú fram í fyrsta skipti. Keppt er í sjö íþróttagreinum í Berlín og Glasgow. Ísland sendir keppendur í sundi, fimleikum og frjálsum íþróttum. Aðrar keppnisgreinar eru róður, golf, hjólreiðar og þríþraut.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Bein útsending frá keppni í golfi á Meistaramóti Evrópu.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4974386" serie-id="22716" start-time="2018-08-11 18:00:00" duration="02:10:00" mark="no">
+      <title>Frjálsar íþróttir</title>
+      <original-title>Meistaramót Evrópu</original-title>
+      <description><![CDATA[Bein útsending frá keppni í frjálsum íþróttum á Meistaramóti Evrópu.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="5">Íþróttir</category>
+      <more-info>http://dagskra.ruv.is/nanar/22716/</more-info>
+      <reference group="22716" material="022716-0033" title="Meistaramót Evrópu" />
+      <details id="22716">
+        <series-title>Meistaramót Evrópu</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Meistaramót Evrópu fer nú fram í fyrsta skipti. Keppt er í sjö íþróttagreinum í Berlín og Glasgow. Ísland sendir keppendur í sundi, fimleikum og frjálsum íþróttum. Aðrar keppnisgreinar eru róður, golf, hjólreiðar og þríþraut.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Bein útsending frá keppni í frjálsum íþróttum á Meistaramóti Evrópu.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+  </service>
+</schedule>
