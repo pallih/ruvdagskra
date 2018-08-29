@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2018-08-29 00:01" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2018-08-19">
+    <event event-id="4975109" serie-id="27534" start-time="2018-08-19 17:50:00" duration="02:30:00" mark="no">
+      <title>Ísland - Moldóva</title>
+      <original-title>Undankeppni EM í blaki</original-title>
+      <description><![CDATA[Bein útsending frá leik Íslands og Moldóvu í undankeppni EM karla í blaki.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="5">Íþróttir</category>
+      <more-info>http://dagskra.ruv.is/nanar/27534/</more-info>
+      <reference group="27534" material="027534-0002" title="Undankeppni EM í blaki" />
+      <details id="27534">
+        <series-title>Undankeppni EM í blaki</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Útsendingar frá leikjum í undankeppni EM kvenna í blaki.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Bein útsending frá leik Íslands og Moldóvu í undankeppni EM karla í blaki.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+  </service>
+</schedule>
