@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2018-11-10 23:13" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2018-10-31">
+    <event event-id="5012491" serie-id="28052" start-time="2018-10-31 15:00:00" duration="02:00:00" mark="no">
+      <title>Næst á dagskrá: Málþing</title>
+      <original-title>Börn, ungt fólk og miðlun til framtíðar</original-title>
+      <description><![CDATA[Bein útsending frá ráðstefnunni Næst á dagskrá í aðalmyndveri RÚV þar sem fjallað verður um börn, ungt fólk og miðlun til framtíðar.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/28052/</more-info>
+      <reference group="28052" material="028052-0001" title="Næst á dagskrá: Málþing" />
+      <details id="28052">
+        <series-title>Næst á dagskrá: Málþing</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Bein útsending frá ráðstefnunni Næst á dagskrá í aðalmyndveri RÚV þar sem fjallað verður um börn, ungt fólk og miðlun til framtíðar.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+  </service>
+</schedule>
