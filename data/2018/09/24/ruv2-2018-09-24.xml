@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2018-11-10 23:20" saved-by="Kringla 3.1" xml-version="2.7.0">
+  <service service-id="10" service-name="RÚV 2" date="2018-09-24">
+    <event event-id="4997881" serie-id="24532" start-time="2018-09-24 18:30:00" duration="01:30:00" mark="no">
+      <title>Verðlaunahátíð FIFA 2018</title>
+      <original-title>The Best FIFA Football Awards 2018</original-title>
+      <description><![CDATA[Bein útsending frá verðlaunahátið FIFA. Tilkynnt er um val á besta knattspyrnufólki heims.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="5">Íþróttir</category>
+      <more-info>http://dagskra.ruv.is/nanar/24532/</more-info>
+      <reference group="24532" material="024532-0003" title="Verðlaunahátið FIFA" />
+      <details id="24532">
+        <series-title>Verðlaunahátið FIFA</series-title>
+        <series-original-title>The Best FIFA Football Awards</series-original-title>
+        <series-description>
+          <p>Bein útsending frá verðlaunahátið FIFA. Tilkynnt er um val á besta knattspyrnufólki heims.</p>
+        </series-description>
+        <series-short-description>
+          <p>Bein útsending frá verðlaunahátið FIFA. Tilkynnt er um val á besta knattspyrnufólki heims auk þess sem íslenskir stuðningsmenn eru tilnefndir sem stuðningsmenn ársins.</p>
+        </series-short-description>
+        <episode-description>
+          <p>Bein útsending frá verðlaunahátið FIFA. Tilkynnt er um val á besta knattspyrnufólki heims.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+  </service>
+</schedule>
