@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2019-01-14 15:25" saved-by="Kringla 3.1" xml-version="2.8.0">
+  <service service-id="10" service-name="RÚV 2" date="2018-12-24">
+    <event event-id="5008445" serie-id="27010" start-time="2018-12-24 16:20:00" duration="01:37:55" mark="no">
+      <title>Frozen</title>
+      <original-title>Frosinn</original-title>
+      <description><![CDATA[Óskarsverðlaunateiknimynd frá Disney sem fjallar um konungsdæmi þar sem eilífur vetur ríkir vegna álaga sem nýkrýnda drottningin Elsa lagði á landið. Anna, systir hennar, er haldin óbilandi bjartsýni og ákveður að leggja í ferðalag til að finna Elsu og fá hana til að aflétta álögunum. Henni til aðstoðar eru ísflutningamaðurinn Kristján, hreindýrið Sveinn og hressi snjókarlinn Ólafur. Myndin er með ensku tali en er sýnd á sama tíma á RÚV með íslensku tali.]]></description>
+      <short-description><![CDATA[Óskarsverðlaunateiknimynd frá Disney. Með ensku tali.]]></short-description>
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <offair>no</offair>
+      <header>no</header>
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="7">Kvikmyndir</category>
+      <more-info>http://dagskra.ruv.is/nanar/27010/</more-info>
+      <reference group="27010" material="027010-0001" title="Frozen" />
+      <details id="27010">
+        <series-title>Frozen</series-title>
+        <series-original-title>Frosinn</series-original-title>
+        <series-description>
+          <p>Óskarsverðlaunateiknimynd frá Disney sem fjallar um konungsdæmi þar sem eilífur vetur ríkir vegna álaga sem nýkrýnda drottningin Elsa lagði á landið. Anna, systir hennar, er haldin óbilandi bjartsýni og ákveður að leggja í ferðalag til að finna Elsu og fá hana til að aflétta álögunum. Henni til aðstoðar eru ísflutningamaðurinn Kristján, hreindýrið Sveinn og hressi snjókarlinn Ólafur. Myndin er með ensku tali en er sýnd á sama tíma á RÚV með íslensku tali.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="5013749" serie-id="28200" start-time="2018-12-24 22:00:00" duration="00:58:30" mark="no">
+      <title>Aftansöngur jóla 2018 - með táknmálstúlkun</title>
+      <original-title />
+      <description><![CDATA[Aftansöngur jóla í Dómkirkjunni. Biskup Íslands, frú Agnes M. Sigurðardóttir, predikar og þjónar fyrir altari ásamt sr. Elínborgu Sturludóttur. Organisti og kórstjóri er Kári Þormar. Flautuleikari er Karen Erla Karólínudóttir og einsöngvari er Guðbjörg Hilmarsdóttir. Umsjón: Björn Emilsson.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <offair>no</offair>
+      <header>no</header>
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="14">Menning</category>
+      <more-info>http://dagskra.ruv.is/nanar/28200/</more-info>
+      <reference group="28200" material="028200-0001" title="Aftansöngur jóla 2018 - með táknmálstúlkun" />
+      <details id="28200">
+        <series-title>Aftansöngur jóla 2018 - með táknmálstúlkun</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Aftansöngur jóla í Dómkirkjunni. Biskup Íslands, frú Agnes M. Sigurðardóttir, predikar og þjónar fyrir altari ásamt sr. Elínborgu Sturludóttur. Organisti og kórstjóri er Kári Þormar. Flautuleikari er Karen Erla Karólínudóttir og einsöngvari er Guðbjörg Hilmarsdóttir. Umsjón: Björn Emilsson.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+  </service>
+</schedule>
