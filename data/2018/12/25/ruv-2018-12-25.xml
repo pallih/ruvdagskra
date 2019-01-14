@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2019-01-14 15:25" saved-by="Kringla 3.1" xml-version="2.8.0">
+  <service service-id="1" service-name="RÚV" date="2018-12-25">
+    <event event-id="4971254" serie-id="" start-time="2018-12-25 08:00:00" duration="01:55:00" mark="no">
+      <title>KrakkaRÚV</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <offair>no</offair>
+      <header>yes</header>
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4971254" title="KrakkaRÚV" />
+    </event>
+    <event event-id="5012770" serie-id="27001" start-time="2018-12-25 08:01:00" duration="00:22:50" mark="yes">
+      <title>Snædrottningin</title>
+      <original-title>Snow Queen</original-title>
+      <description><![CDATA[Vinirnir Kári og Gerða leika sér saman á hverjum degi þar til Snædrottningin rænir Kára á sleðanum sínum. Gerða leggst þá í ævintýraför til að bjarga vini sínum.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <offair>no</offair>
+      <header>no</header>
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/27001/</more-info>
+      <reference group="27001" material="027001-0001" title="Snædrottningin" />
+      <details id="27001">
+        <series-title>Snædrottningin</series-title>
+        <series-original-title>The Snow Queen</series-original-title>
+        <series-description>
+          <p>Vinirnir Kári og Gerða leika sér saman á hverjum degi þar til Snædrottningin rænir Kára á sleðanum sínum. Gerða leggst þá í ævintýraför til að bjarga vini sínum.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="5012771" serie-id="24839" start-time="2018-12-25 08:23:00" duration="00:23:11" mark="yes">
+      <title>Kúlugúbbarnir</title>
+      <original-title>Bubble Guppies</original-title>
+      <description><![CDATA[Krúttlegir teiknimyndaþættir um litla hafbúa sem eru saman í bekk og elska að syngja og dansa. Kennarinn þeirra er hress gullfiskur sem kennir þeim ýmislegt um lífið og tilveruna.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <offair>no</offair>
+      <header>no</header>
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/24839/</more-info>
+      <reference group="24839" material="024839-0001" title="Kúlugúbbarnir" />
+      <details id="24839">
+        <series-title>Kúlugúbbarnir</series-title>
+        <series-original-title>Bubble Guppies, Season I</series-original-title>
+        <series-description>
+          <p>Krúttlegir teiknimyndaþættir um litla hafbúa sem eru saman í bekk og elska að syngja og dansa. Kennarinn þeirra er hress gullfiskur sem kennir þeim ýmislegt um lífið og tilveruna.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="5012801" serie-id="23976" start-time="2018-12-25 08:46:00" duration="00:03:30" mark="yes">
+      <title>Molang</title>
+      <original-title>Molang</original-title>
+      <description><![CDATA[Krúttlegir og vinalegir þættir fyrir þau allra yngstu. Molang er búttaður lítill „kanínugrís“. Hún er sérvitur, glaðvær og áhugasöm. Besti vinur hennar er litli hænuunginn Piu Piu. Molang er kóresk teiknimyndapersóna og afskaplega vinsæl í heimalandinu.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <offair>no</offair>
+      <header>no</header>
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/23976/</more-info>
+      <reference group="23976" material="023976-0001" title="Molang" />
+      <details id="23976">
+        <series-title>Molang</series-title>
+        <series-original-title>Molang</series-original-title>
+        <series-description>
+          <p>Krúttlegir og vinalegir þættir fyrir þau allra yngstu. Molang er búttaður lítill „kanínugrís“. Hún er sérvitur, glaðvær og áhugasöm. Besti vinur hennar er litli hænuunginn Piu Piu. Molang er kóresk teiknimyndapersóna og afskaplega vinsæl í heimalandinu.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="5013589" serie-id="23582" start-time="2018-12-25 08:49:00" duration="00:07:05" mark="yes">
+      <title>Froskur og vinir hans</title>
+      <original-title>Frog and Friends</original-title>
+      <description><![CDATA[Teiknimyndaþættir byggðir á samnefndum bókum eftir hollenska verðlaunahöfundinn Max Velthuijs. Aðalpersónan, Froskur, býr í litríkri sveit með vinum sínum Svíni, Héra, Önd og Rottu. Persónurnar takast á við tilfinningar á borð við ást, ótta, sorg, óöryggi og hamingju og er efnið sett fram í einföldum og aðgengilegum sögum sem börnin geta speglað sig í.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <offair>no</offair>
+      <header>no</header>
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/23582/</more-info>
+      <reference group="23582" material="023582-0007" title="Froskur og vinir hans" />
+      <details id="23582">
+        <series-title>Froskur og vinir hans</series-title>
+        <series-original-title>Frog and Friends</series-original-title>
+        <series-description>
+          <p>Teiknimyndaþættir byggðir á samnefndum bókum eftir hollenska verðlaunahöfundinn Max Velthuijs. Aðalpersónan, Froskur, býr í litríkri sveit með vinum sínum Svíni, Héra, Önd og Rottu. Persónurnar takast á við tilfinningar á borð við ást, ótta, sorg, óöryggi og hamingju og er efnið sett fram í einföldum og aðgengilegum sögum sem börnin geta speglað sig í.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="5012789" serie-id="14087" start-time="2018-12-25 08:56:00" duration="00:07:05" mark="yes">
+      <title>Millý spyr</title>
+      <original-title>Miss Questions</original-title>
+      <description><![CDATA[Heimspekilegar vangaveltur fyrir krakka á aldrinum 6-12 ára.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <offair>no</offair>
+      <header>no</header>
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/14087/</more-info>
+      <reference group="14087" material="014087-0070" title="Millý spyr" />
+      <details id="14087">
+        <series-title>Millý spyr</series-title>
+        <series-original-title>Miss Questions</series-original-title>
+        <series-description>
+          <p>Heimspekilegar vangaveltur fyrir krakka á aldrinum 6-12 ára.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="5013594" serie-id="24578" start-time="2018-12-25 09:03:00" duration="00:06:59" mark="yes">
+      <title>Letibjörn og læmingjarnir</title>
+      <original-title>Grizzy &amp; The Lemmings</original-title>
+      <description><![CDATA[Teiknimyndaþættir um björn sem býr í þjóðgarði í Kanada og heldur að hús skógarvarðarins sé yfirráðasvæði hans þegar skógarvörðurinn bregður sér frá. Vandmálið er að hópur læmingja hefst einnig við í húsinu og sambúð bjarnarins og læmingjanna gengur ekki sérstaklega vel.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <offair>no</offair>
+      <header>no</header>
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/24578/</more-info>
+      <reference group="24578" material="024578-0033" title="Letibjörn og læmingjarnir" />
+      <details id="24578">
+        <series-title>Letibjörn og læmingjarnir</series-title>
+        <series-original-title>Grizzy &amp; the Lemmings</series-original-title>
+        <series-description>
+          <p>Teiknimyndaþættir um björn sem býr í þjóðgarði í Kanada og heldur að hús skógarvarðarins sé yfirráðasvæði hans þegar skógarvörðurinn bregður sér frá. Vandmálið er að hópur læmingja hefst einnig við í húsinu og sambúð bjarnarins og læmingjanna gengur ekki sérstaklega vel.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="5012798" serie-id="19850" start-time="2018-12-25 09:10:00" duration="00:28:47" mark="yes">
+      <title>Ruddalegar rímur - Seinni hluti</title>
+      <original-title>Revolting Rhymes</original-title>
+      <description><![CDATA[Talsett teiknimynd í tveimur hlutum byggð á vinsælli barnabók Roalds Dahls. Í myndinni er sögunum um Rauðhettu, Mjallhvíti, grísina þrjá, Jóa og baunagrasið og Öskubusku blandað saman á skemmtilegan og óvæntan hátt.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <offair>no</offair>
+      <header>no</header>
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/19850/</more-info>
+      <reference group="19850" material="019850-0002" title="Ruddalegar rímur" />
+      <details id="19850">
+        <series-title>Ruddalegar rímur</series-title>
+        <series-original-title>Revolting Rhymes</series-original-title>
+        <series-description>
+          <p>Talsett teiknimynd í tveimur hlutum byggð á vinsælli barnabók Roalds Dahls. Í myndinni er sögunum um Rauðhettu, Mjallhvíti, grísina þrjá, Jóa og baunagrasið og Öskubusku blandað saman á skemmtilegan og óvæntan hátt.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="5012800" serie-id="23024" start-time="2018-12-25 09:39:00" duration="00:06:46" mark="yes">
+      <title>Jóladagatalið: Hvar er Völundur?</title>
+      <original-title>23. desember</original-title>
+      <description><![CDATA[Þeir Felix og Gunni þurfa að leita að smiðnum Völundi en hann er sá sem smíðar jólagjafirnar. Leitin er ævintýri líkust því þeir félagar fara inn í hvert völundarhúsið á fætur öðru og hitta fyrir margvíslegustu þorpara. En þeir halda ótrauðir áfram og yfirvinna hræðslu og aðrar hindranir. Handrit gerði Þorvaldur Þorsteinsson, en leikstjórn og aðalhlutverk voru í höndum þeirra Gunnars Helgasonar og Felix Bergssonar.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <offair>no</offair>
+      <header>no</header>
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/23024/</more-info>
+      <reference group="23024" material="023024-0023" title="Jóladagatalið: Hvar er Völundur?" />
+      <details id="23024">
+        <series-title>Jóladagatalið: Hvar er Völundur?</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Þeir Felix og Gunni þurfa að leita að smiðnum Völundi en hann er sá sem smíðar jólagjafirnar. Leitin er ævintýri líkust því þeir félagar fara inn í hvert völundarhúsið á fætur öðru og hitta fyrir margvíslegustu þorpara. En þeir halda ótrauðir áfram og yfirvinna hræðslu og aðrar hindranir. Handrit gerði Þorvaldur Þorsteinsson, en leikstjórn og aðalhlutverk voru í höndum þeirra Gunnars Helgasonar og Felix Bergssonar.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Gunni og Felix eru komnir aftur heim í herbergið hans Gunna og vona að Völundur bíði eftir þeim þar en þar finna þeir bara búálfinn Bóthildi.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="5012799" serie-id="23024" start-time="2018-12-25 09:46:00" duration="00:08:45" mark="yes">
+      <title>Jóladagatalið: Hvar er Völundur?</title>
+      <original-title>24. desember</original-title>
+      <description><![CDATA[Þeir Felix og Gunni þurfa að leita að smiðnum Völundi en hann er sá sem smíðar jólagjafirnar. Leitin er ævintýri líkust því þeir félagar fara inn í hvert völundarhúsið á fætur öðru og hitta fyrir margvíslegustu þorpara. En þeir halda ótrauðir áfram og yfirvinna hræðslu og aðrar hindranir. Handrit gerði Þorvaldur Þorsteinsson, en leikstjórn og aðalhlutverk voru í höndum þeirra Gunnars Helgasonar og Felix Bergssonar.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <offair>no</offair>
+      <header>no</header>
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/23024/</more-info>
+      <reference group="23024" material="023024-0024" title="Jóladagatalið: Hvar er Völundur?" />
+      <details id="23024">
+        <series-title>Jóladagatalið: Hvar er Völundur?</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Þeir Felix og Gunni þurfa að leita að smiðnum Völundi en hann er sá sem smíðar jólagjafirnar. Leitin er ævintýri líkust því þeir félagar fara inn í hvert völundarhúsið á fætur öðru og hitta fyrir margvíslegustu þorpara. En þeir halda ótrauðir áfram og yfirvinna hræðslu og aðrar hindranir. Handrit gerði Þorvaldur Þorsteinsson, en leikstjórn og aðalhlutverk voru í höndum þeirra Gunnars Helgasonar og Felix Bergssonar.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Gunni og Felix og búálfurinn Bóthildur eru ennþá í kærleiksleiknum en þá opnast hurðin á skápnum í herberginu hans Gunna. Er Völundur fundinn?</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="5013467" serie-id="27708" start-time="2018-12-25 09:55:00" duration="01:22:06" mark="no">
+      <title>Hneturánið</title>
+      <original-title>The Nut Job</original-title>
+      <description><![CDATA[Talsett teiknimynd um íkorna og rottu sem skipuleggja stórfellt og áhættusamt rán í hnetuverslun í þeim tilgangi að sjá sér og sínum farborða yfir veturinn. Þeir vita þó ekki að hópur glæpamanna skipuleggur rán á sama stað, á sama tíma og þeim er meinilla við að láta trufla sig.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <offair>no</offair>
+      <header>no</header>
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/27708/</more-info>
+      <reference group="27708" material="027708-0001" title="Hneturánið" />
+      <details id="27708">
+        <series-title>Hneturánið</series-title>
+        <series-original-title>The Nut Job</series-original-title>
+        <series-description>
+          <p>Talsett teiknimynd um íkorna og rottu sem skipuleggja stórfellt og áhættusamt rán í hnetuverslun í þeim tilgangi að sjá sér og sínum farborða yfir veturinn. Þeir vita þó ekki að hópur glæpamanna skipuleggur rán á sama stað, á sama tíma og þeim er meinilla við að láta trufla sig.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="5008989" serie-id="27714" start-time="2018-12-25 11:20:00" duration="00:31:58" mark="no">
+      <title>Annar heimur</title>
+      <original-title>Den anden verden</original-title>
+      <description><![CDATA[Danskt jóladagatal fyrir alla fjölskylduna um tvíburasysturnar Önnu og Söru sem stíga óvænt inn í töfraheim sem byggður er á ævintýrum Grimms-bræðra. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="24" number-of-episodes="24" multiple-episodes="yes" />
+      <offair>no</offair>
+      <header>no</header>
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Leiknir þættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/27714/</more-info>
+      <reference group="27714" material="027714-0024" title="Annar heimur" />
+      <details id="27714">
+        <series-title>Annar heimur</series-title>
+        <series-original-title>Den anden verden</series-original-title>
+        <series-description>
+          <p>Danskt jóladagatal fyrir alla fjölskylduna um tvíburasysturnar Önnu og Söru sem stíga óvænt inn í töfraheim sem byggður er á ævintýrum Grimms-bræðra.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="5008458" serie-id="23635" start-time="2018-12-25 11:55:00" duration="01:17:08" mark="no">
+      <title>Jólasaga</title>
+      <original-title>Joulutarina</original-title>
+      <description><![CDATA[Finnsk kvikmynd sem fjallar um tilurð jólasveinsins. Drengur sem býr í litlu þorpi í Lapplandi verður munaðarlaus þegar hann missir báða foreldra sína í slysi. Þorpsbúar ákveða að taka höndum saman um að sjá um drenginn og hann flytur á milli fjölskyldna einu sinni á ári, á jólunum. Til að sýna þakklæti sitt býr hann til gjafir fyrir börnin á þeim heimilum sem hann hefur búið á. Leikstjóri: Juha Wuolijoki. Aðalhlutverk: Hannu-Pekka Björkman, Otto Gustavsson og Jonas Rinne. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <offair>no</offair>
+      <header>no</header>
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="7">Kvikmyndir</category>
+      <more-info>http://dagskra.ruv.is/nanar/23635/</more-info>
+      <reference group="23635" material="023635-0001" title="Jólasaga" />
+      <details id="23635">
+        <series-title>Jólasaga</series-title>
+        <series-original-title>Joulutarina</series-original-title>
+        <series-description>
+          <p>Finnsk kvikmynd sem fjallar um tilurð jólasveinsins. Drengur sem býr í litlu þorpi í Lapplandi verður munaðarlaus þegar hann missir báða foreldra sína í slysi. Þorpsbúar ákveða að taka höndum saman um að sjá um drenginn og hann flytur á milli fjölskyldna einu sinni á ári, á jólunum. Til að sýna þakklæti sitt býr hann til gjafir fyrir börnin á þeim heimilum sem hann hefur búið á. Leikstjóri: Juha Wuolijoki. Aðalhlutverk: Hannu-Pekka Björkman, Otto Gustavsson og Jonas Rinne.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="5008459" serie-id="25854" start-time="2018-12-25 13:15:00" duration="01:28:04" mark="no">
+      <title>Norræn jólaveisla</title>
+      <original-title>Det store nordiske juleshow</original-title>
+      <description><![CDATA[Árleg jólatónlistarveisla danska ríkisútvarpsins. Flutningur er í höndum sinfóníuhljómsveitar DR auk þess sem ýmsir norrænir listamenn stíga á svið, þeirra á meðal íslenski tónlistarmaðurinn Júníus Meyvant. e.]]></description>
+      <short-description><![CDATA[Árleg jólatónlistarveisla danska ríkisútvarpsins.]]></short-description>
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <offair>no</offair>
+      <header>no</header>
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="11">Skemmtun</category>
+      <more-info>http://dagskra.ruv.is/nanar/25854/</more-info>
+      <reference group="25854" material="025854-0001" title="Norræn jólaveisla" />
+      <details id="25854">
+        <series-title>Norræn jólaveisla</series-title>
+        <series-original-title>Det store nordiske juleshow</series-original-title>
+        <series-description>
+          <p>Árleg jólatónlistarveisla danska ríkisútvarpsins. Flutningur er í höndum sinfóníuhljómsveitar DR auk þess sem ýmsir norrænir listamenn stíga á svið, þeirra á meðal íslenski tónlistarmaðurinn Júníus Meyvant.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="5006472" serie-id="27264" start-time="2018-12-25 14:45:00" duration="03:01:14" mark="no">
+      <title>Fanný og Alexander</title>
+      <original-title>Fanny och Alexander</original-title>
+      <description><![CDATA[Sígild Óskarsverðlaunamynd frá 1982 í leikstjórn Ingmars Bergmans. Fanný og Alexander eru börn í hinni hamingjusömu og litríku Ekdahl-fjölskyldu snemma á tuttugustu öldinni. En þegar faðir þeirra fellur skyndilega frá giftist móðir þeirra ströngum biskupi og börnin reyna að venjast aðstæðum á nýju heimili þar sem siðavendni ræður ríkjum. Myndin hlaut fern Óskarsverðlaun. Aðalhlutverk: Bertil Guve, Pernilla Allwin og Kristina Adolphson.]]></description>
+      <short-description><![CDATA[Sígild Óskarsverðlaunamynd frá 1982.]]></short-description>
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <offair>no</offair>
+      <header>no</header>
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="7">Kvikmyndir</category>
+      <more-info>http://dagskra.ruv.is/nanar/27264/</more-info>
+      <reference group="27264" material="027264-0001" title="Fanný og Alexander" />
+      <details id="27264">
+        <series-title>Fanný og Alexander</series-title>
+        <series-original-title>Fanny och Alexander</series-original-title>
+        <series-description>
+          <p>Sígild Óskarsverðlaunamynd frá 1982 í leikstjórn Ingmars Bergmans. Fanný og Alexander eru börn í hinni hamingjusömu og litríku Ekdahl-fjölskyldu snemma á tuttugustu öldinni. En þegar faðir þeirra fellur skyndilega frá giftist móðir þeirra ströngum biskupi og börnin reyna að venjast aðstæðum á nýju heimili þar sem siðavendni ræður ríkjum. Myndin hlaut fern Óskarsverðlaun. Aðalhlutverk: Bertil Guve, Pernilla Allwin og Kristina Adolphson.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4948219" serie-id="25209" start-time="2018-12-25 17:50:00" duration="00:04:50" mark="no">
+      <title>Táknmálsfréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <offair>no</offair>
+      <header>no</header>
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/23884/</more-info>
+      <reference group="23884" material="025209-0359" title="Táknmálsfréttir" />
+      <details id="23884">
+        <series-title>Táknmálsfréttir</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Táknmálsfréttir sjónvarps.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="5012756" serie-id="" start-time="2018-12-25 18:00:00" duration="00:50:00" mark="no">
+      <title>KrakkaRÚV</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <offair>no</offair>
+      <header>yes</header>
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="5012756" title="KrakkaRÚV" />
+    </event>
+    <event event-id="4960356" serie-id="26047" start-time="2018-12-25 18:01:00" duration="00:52:59" mark="yes">
+      <title>Jólastundin okkar</title>
+      <original-title>þessi þegar krakkarnir stjórna öllu. Jólastundin 2018</original-title>
+      <description><![CDATA[Í Jólastundinni okkar taka krakkarnir völdin. Tekst Erlen og Gabríel að leysa ógurlega vandann sem kominn er upp á RÚV? Daði Freyr mætir á svæðið með glænýtt jólalag, heiðursgesturinn okkar bjó til jólaísinn úti í snjóskafli þegar hún var lítil og svo sjáum við hvernig jólaævintýri Þorra og Þuru endar í  lokaþættinum af Týndu jólunum. Umsjón: Sigyn Blöndal.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <offair>no</offair>
+      <header>no</header>
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/24096/</more-info>
+      <reference group="24096" material="026047-0024" title="Stundin okkar" />
+      <details id="24096">
+        <series-title>Stundin okkar</series-title>
+        <series-original-title />
+        <sub-series-title>Stundin okkar</sub-series-title>
+        <series-description>
+          <p>Í Stundinni okkar hittir Sigyn Blöndal skemmtilega krakka um allt land. Stórhættuleg spurningakeppni, grænar slímgusur, furðuverur og ævintýri, stórfurðulegar íþróttagreinar, skapandi þrautir og sögur eftir krakka sem lifna við. Það getur allt í gerst í Stundinni okkar! Dagskrárgerð: Sindri Bergmann Þórarinsson og Sigyn Blöndal.</p>
+        </series-description>
+        <series-short-description>
+          <p>Í Stundinni okkar hittir Sigyn Blöndal skemmtilega krakka um allt land. Stórhættuleg spurningakeppni, grænar slímgusur, furðuverur og ævintýri, stórfurðulegar íþróttagreinar, skapandi þrautir og sögur eftir krakka sem lifna við. Það getur allt í gerst í Stundinni okkar! Dagskrárgerð: Sindri Bergmann Þórarinsson og Sigyn Blöndal</p>
+          <p>Dagskrárgerð: Sindri Bergmann Þórarinsson og Sigyn Blöndal</p>
+        </series-short-description>
+        <episode-description>
+          <p>Í Jólastundinni okkar taka krakkarnir völdin. Tekst Erlen og Gabríel að leysa ógurlega vandann sem kominn er upp á RÚV? Daði Freyr mætir á svæðið með glænýtt jólalag, heiðursgesturinn okkar bjó til jólaísinn úti í snjóskafli þegar hún var lítil og svo sjáum við hvernig jólaævintýri Þorra og Þuru endar í  lokaþættinum af Týndu jólunum.</p>
+          <p>Framleiðsla, dagskrárgerð og handrit:</p>
+          <p>Sindri Bergmann Þórarinsson</p>
+          <p>Sigyn Blöndal</p>
+          <p>Stjórn upptöku:</p>
+          <p>Sindri Bergmann Þórarinsson</p>
+          <p>Fram koma:</p>
+          <p>Erlen Ísabella Einarsdóttir</p>
+          <p>Gabríel Máni Kristjánsson</p>
+          <p>Sigyn Blöndal</p>
+          <p>RÚV-röddin:</p>
+          <p>Jóhanna Vigdís Arnardóttir</p>
+          <p>Fréttir:</p>
+          <p>Bogi Ágústsson</p>
+          <p>Útsvar:</p>
+          <p>Aðalheiður Helga Kristjánsdóttir</p>
+          <p>Matthías Sólmundarson</p>
+          <p>Ylfa Blöndal Egilsdóttir</p>
+          <p>Ísabella Waage Davíðsdóttir Castillo</p>
+          <p>Hákon Árni Heiðarsson</p>
+          <p>Edda Guðnadóttir</p>
+          <p>Hilmar Máni Magnússon</p>
+          <p>Hlynur Atli Harðarson</p>
+          <p>Vikan</p>
+          <p>Birta Hall</p>
+          <p>Elíza Gígja Ómarsdóttir</p>
+          <p>Daði Freyr Pétursson</p>
+          <p>Kveikur</p>
+          <p>Ísabel Dís Sheehan</p>
+          <p>Patrik Nökkvi Pétursson</p>
+          <p>Landinn</p>
+          <p>Arnaldur Halldórsson</p>
+          <p>Ylfa Blöndal Egilsdóttir</p>
+          <p>Jón Arnór Pétursson</p>
+          <p>Erna Tómasdóttir</p>
+          <p />
+          <p>Veðurfréttir</p>
+          <p>Emil Björn Kárason</p>
+          <p>Baldur Björn Arason</p>
+          <p />
+          <p>Jólastundin</p>
+          <p>Ingvar Wu Skarphéðinsson</p>
+          <p>Heiðursgestur:</p>
+          <p>Vigdís Finnbogadóttir</p>
+          <p>Týndu jólin - Þorri og Þura 4. þáttur.</p>
+          <p>Agnes Wild</p>
+          <p>Sigrún Harðardóttir</p>
+          <p>Framleiðsla, dagskrárgerð og handrit:</p>
+          <p>Sindri Bergmann Þórarinsson</p>
+          <p>Sigyn Blöndal</p>
+          <p />
+          <p>Stjórn upptöku:</p>
+          <p>Sindri Bergmann Þórarinsson</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="5013354" serie-id="27477" start-time="2018-12-25 18:50:00" duration="00:03:26" mark="no">
+      <title>Landakort</title>
+      <original-title>Kafarajól</original-title>
+      <description><![CDATA[Valin myndskeið úr Landanum þar sem áhugaverðir staðir eru skoðaðir og merkilegir Íslendingar heimsóttir. Hér fylgjumst við með jólaballi Sportkafarafélags Íslands í Davíðsgjá á Þingvöllum. Dagskrárgerð: Gísli Einarsson og Karl Sigtryggsson.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <offair>no</offair>
+      <header>no</header>
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="10">Heimildamyndir</category>
+      <more-info>http://dagskra.ruv.is/nanar/25417/</more-info>
+      <reference group="25417" material="027477-0019" title="Landakort" />
+      <details id="25417">
+        <series-title>Landakort</series-title>
+        <series-original-title />
+        <sub-series-title>Landakort</sub-series-title>
+        <series-description>
+          <p>Valin myndskeið úr Landanum þar sem áhugaverðir staðir eru skoðaðir og merkilegir Íslendingar heimsóttir. Dagskrárgerð: Gísli Einarsson og Karl Sigtryggsson.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Jólaball Sportkafarafélags Íslands í Davíðsgjá á Þingvöllum.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4942916" serie-id="25205" start-time="2018-12-25 19:00:00" duration="00:20:00" mark="no">
+      <title>Fréttir</title>
+      <original-title />
+      <description><![CDATA[Helstu fréttir dagsins af innlendum og erlendum vettvangi. Beinar innkomur frá vettvangi og viðtöl í myndveri þar sem kafað er ofan í hin ýmsu fréttamál. Allt frá efnahagsmálum til dægurmála, tölulegar staðreyndir og mannlegar hliðar. Alla daga, allt árið um kring.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <offair>no</offair>
+      <header>no</header>
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/23879/</more-info>
+      <reference group="23879" material="025205-0359" title="Fréttir kl. 19:00" />
+      <details id="23879">
+        <series-title>Fréttir kl. 19:00</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Helstu fréttir dagsins af innlendum og erlendum vettvangi. Beinar innkomur frá vettvangi og viðtöl í myndveri þar sem kafað er ofan í hin ýmsu fréttamál. Allt frá efnahagsmálum til dægurmála, tölulegar staðreyndir og mannlegar hliðar. Alla daga, allt árið um kring.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4934177" serie-id="25215" start-time="2018-12-25 19:20:00" duration="00:04:12" mark="no">
+      <title>Veður</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <offair>no</offair>
+      <header>no</header>
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/23882/</more-info>
+      <reference group="23882" material="025215-0359" title="Veðurfréttir kl. 19:30" />
+      <details id="23882">
+        <series-title>Veðurfréttir kl. 19:30</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Veðurfréttir.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="5008923" serie-id="23406" start-time="2018-12-25 19:30:00" duration="01:19:14" mark="no">
+      <title>Lói - þú flýgur aldrei einn</title>
+      <original-title />
+      <description><![CDATA[Íslensk teiknimynd um fuglsungann Lóa sem er enn ófleygur þegar hausta tekur og hinir farfuglarnir fljúga suður á bóginn. Hann verður því að lifa harðan veturinn af og kljást við grimma óvini upp á eigin spýtur. Leikstjórn: Árni Ólafur Ásgeirsson.]]></description>
+      <short-description><![CDATA[Íslensk teiknimynd um fuglsungann Lóa.]]></short-description>
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <offair>no</offair>
+      <header>no</header>
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/23406/</more-info>
+      <reference group="23406" material="023406-0001" title="Lói - þú flýgur aldrei einn" />
+      <details id="23406">
+        <series-title>Lói - þú flýgur aldrei einn</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Íslensk teiknimynd um fuglsungann Lóa sem er enn ófleygur þegar hausta tekur og hinir farfuglarnir fljúga suður á bóginn. Hann verður því að lifa harðan veturinn af og kljást við grimma óvini upp á eigin spýtur. Leikstjórn: Árni Ólafur Ásgeirsson.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="5009483" serie-id="27314" start-time="2018-12-25 20:55:00" duration="00:53:41" mark="no">
+      <title>Framúrskarandi vinkona</title>
+      <original-title>My Brilliant Friend</original-title>
+      <description><![CDATA[Ný, ítölsk þáttaröð byggð á Napólí-sögum rithöfundarins Elenu Ferrante sem farið hafa sigurför um heiminn. Þegar Elena Greco fær símtal um að æskuvinkona hennar, Lila, hafi horfið sporlaust hefst hún handa við að rekja sögu flókinnar vináttu þeirra sem hefst í alþýðuhverfi í Napólí á sjötta áratugnum. Leikstjórn: Saverio Costanzo. Aðalhlutverk: Elisa del Genio, Ludovica Nasti, Margherita Mazzucco og Gaia Girace.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="8" multiple-episodes="yes" />
+      <offair>no</offair>
+      <header>no</header>
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Leiknir þættir</category>
+      <more-info>http://dagskra.ruv.is/nanar/27314/</more-info>
+      <reference group="27314" material="027314-0001" title="Framúrskarandi vinkona" />
+      <details id="27314">
+        <series-title>Framúrskarandi vinkona</series-title>
+        <series-original-title>My Brilliant Friend</series-original-title>
+        <series-description>
+          <p>Ný, ítölsk þáttaröð byggð á Napólí-sögum rithöfundarins Elenu Ferrante sem farið hafa sigurför um heiminn. Þegar Elena Greco fær símtal um að æskuvinkona hennar, Lila, hafi horfið sporlaust hefst hún handa við að rekja sögu flókinnar vináttu þeirra sem hefst í alþýðuhverfi í Napólí á sjötta áratugnum. Leikstjórn: Saverio Costanzo. Aðalhlutverk: Elisa del Genio, Ludovica Nasti, Margherita Mazzucco og Gaia Girace.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="5009482" serie-id="27118" start-time="2018-12-25 21:55:00" duration="01:58:21" mark="no">
+      <title>The Theory of Everything</title>
+      <original-title>Allsherjarkenningin</original-title>
+      <description><![CDATA[Ævisöguleg kvikmynd um samband vísindamannsins Stephens Hawkings og eiginkonu hans Jane. Stephen og Jane kynnast í Cambridge háskóla, þar sem þau eru bæði við nám, og fella hugi saman. Þegar Stephen er aðeins 21 árs gamall greinist hann með hrörnunarsjúkdóm og læknar áætla að hann eigi tvö ár eftir ólifuð. Með Jane sér við hlið ákveður hann að leggja fyrir sig rannsóknir á tímanum, sem honum er sagt að hann eigi svo lítið eftir af.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <offair>no</offair>
+      <header>no</header>
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="7">Kvikmyndir</category>
+      <more-info>http://dagskra.ruv.is/nanar/27118/</more-info>
+      <reference group="27118" material="027118-0001" title="The Theory of Everything" />
+      <details id="27118">
+        <series-title>The Theory of Everything</series-title>
+        <series-original-title>Allsherjarkenningin</series-original-title>
+        <series-description>
+          <p>Ævisöguleg kvikmynd um samband vísindamannsins Stephens Hawkings og eiginkonu hans Jane. Stephen og Jane kynnast í Cambridge háskóla, þar sem þau eru bæði við nám, og fella hugi saman. Þegar Stephen er aðeins 21 árs gamall greinist hann með hrörnunarsjúkdóm og læknar áætla að hann eigi tvö ár eftir ólifuð. Með Jane sér við hlið ákveður hann að leggja fyrir sig rannsóknir á tímanum, sem honum er sagt að hann eigi svo lítið eftir af.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="5013469" serie-id="14044" start-time="2018-12-25 23:55:00" duration="01:38:20" mark="no">
+      <title>Eldfjall</title>
+      <original-title />
+      <description><![CDATA[Eftirlaunamaðurinn Hannes hjúkrar Önnu konu sinni eftir að hún fær heilablóðfall. Um leið fær hann sjálfur nægan tíma til að skoða sjálfan sig og eigið líf og kemst að því að það er aldrei of seint að taka út þroska og laga það sem aflaga hefur farið. Leikstjóri er Rúnar Rúnarsson og aðalhlutverk leika Theódór Júlíusson og Margrét Helga Jóhannsdóttir. Myndin var framlag Íslendinga til Óskarsverðlauna og hefur unnið til fjölda verðlauna á kvikmyndahátíðum um allan heim. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <offair>no</offair>
+      <header>no</header>
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="7">Kvikmyndir</category>
+      <more-info>http://dagskra.ruv.is/nanar/14044/</more-info>
+      <reference group="14044" material="014044-0001" title="Eldfjall" />
+      <details id="14044">
+        <series-title>Eldfjall</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Eftirlaunamaðurinn Hannes hjúkrar Önnu konu sinni eftir að hún fær heilablóðfall. Um leið fær hann sjálfur nægan tíma til að skoða sjálfan sig og eigið líf og kemst að því að það er aldrei of seint að taka út þroska og laga það sem aflaga hefur farið. Leikstjóri er Rúnar Rúnarsson og aðalhlutverk leika Theódór Júlíusson og Margrét Helga Jóhannsdóttir. Myndin var framlag Íslendinga til Óskarsverðlauna og hefur unnið til fjölda verðlauna á kvikmyndahátíðum um allan heim. e.</p>
+        </series-description>
+        <series-short-description>
+          <p>Bíómyndin Eldfjall hefur unnið til fjölda verðlauna á kvikmyndahátíðum um allan heim.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="4962703" serie-id="" start-time="2018-12-26 01:35:00" duration="00:00:10" mark="no">
+      <title>Dagskrárlok</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <offair>yes</offair>
+      <header>no</header>
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="4962703" title="Dagskrárlok" />
+    </event>
+  </service>
+</schedule>
