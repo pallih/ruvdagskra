@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2019-01-14 15:30" saved-by="Kringla 3.1" xml-version="2.8.0">
+  <service service-id="10" service-name="RÚV 2" date="2018-12-03">
+    <event event-id="5006647" serie-id="18379" start-time="2018-12-03 16:50:00" duration="01:50:00" mark="no">
+      <title>Þýskaland - Rúmenía</title>
+      <original-title>EM kvenna í handbolta</original-title>
+      <description><![CDATA[Bein útsending frá leik Þýskalands og Rúmeníu á EM kvenna í handbolta.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <offair>no</offair>
+      <header>no</header>
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="5">Íþróttir</category>
+      <more-info>http://dagskra.ruv.is/nanar/18379/</more-info>
+      <reference group="18379" material="018379-0007" title="EM kvenna í handbolta 2018" />
+      <details id="18379">
+        <series-title>EM kvenna í handbolta 2018</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Beinar útsendingar frá leikjum á EM kvenna í handbolta.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Bein útsending frá leik Þýskalands og Rúmeníu á EM kvenna í handbolta.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="5006648" serie-id="18379" start-time="2018-12-03 19:50:00" duration="01:50:00" mark="no">
+      <title>Tékkland - Noregur</title>
+      <original-title>EM kvenna í handbolta</original-title>
+      <description><![CDATA[Bein útsending frá leik Tékklands og Noregs á EM kvenna í handbolta.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <offair>no</offair>
+      <header>no</header>
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="5">Íþróttir</category>
+      <more-info>http://dagskra.ruv.is/nanar/18379/</more-info>
+      <reference group="18379" material="018379-0008" title="EM kvenna í handbolta 2018" />
+      <details id="18379">
+        <series-title>EM kvenna í handbolta 2018</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Beinar útsendingar frá leikjum á EM kvenna í handbolta.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Bein útsending frá leik Tékklands og Noregs á EM kvenna í handbolta.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+  </service>
+</schedule>
