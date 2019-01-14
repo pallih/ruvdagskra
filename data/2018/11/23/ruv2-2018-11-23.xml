@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2019-01-14 15:32" saved-by="Kringla 3.1" xml-version="2.8.0">
+  <service service-id="10" service-name="RÚV 2" date="2018-11-23">
+    <event event-id="5013927" serie-id="28117" start-time="2018-11-23 17:03:00" duration="00:50:00" mark="no">
+      <title>Lestarklefinn</title>
+      <original-title>Venjulegt fólk, Dísablót og Fantastic Beasts</original-title>
+      <description><![CDATA[Umræðuþáttur um menningu og listir. Umsjónarmenn eru Guðni Tómasson, Guðrún Sóley Gestsdóttir, Bergsteinn Sigurðsson og Anna Gyða Sigurgísladóttir.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <offair>no</offair>
+      <header>no</header>
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="14">Menning</category>
+      <more-info>http://dagskra.ruv.is/nanar/28117/</more-info>
+      <reference group="28117" material="028117-0005" title="Lestarklefinn" />
+      <details id="28117">
+        <series-title>Lestarklefinn</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Umræðuþáttur um menningu og listir. Umsjónarmenn eru Guðni Tómasson, Guðrún Sóley Gestsdóttir, Bergsteinn Sigurðsson og Anna Gyða Sigurgísladóttir.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Agnar Jón Egilsson leikari og leikstjóri, Bryndís Björgvinsdóttir rithöfundur og þjóðfræðingur og Aðalheiður Halldórsdóttir dansari fá sér sæti í Lestarklefanum. Rætt verður um sjónvarpsþáttinn Venjulegt fólk, danssýninguna Dísablót og kvikmyndina Fantastic Beasts. Stjórnandi þáttarins er Bergsteinn Sigurðsson.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+  </service>
+</schedule>
