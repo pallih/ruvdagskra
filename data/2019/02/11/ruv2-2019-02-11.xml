@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2019-02-14 23:33" saved-by="Kringla 3.1" xml-version="2.8.0">
+  <service service-id="10" service-name="RÚV 2" date="2019-02-11">
+    <event event-id="5023975" serie-id="28611" start-time="2019-02-11 19:00:00" duration="00:23:00" mark="no">
+      <title>Táknmálstúlkaðar fréttir</title>
+      <original-title />
+      <description><![CDATA[Táknmálstúlkaðar kvöldfréttir í tilefni af degi táknmálsins.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <offair>no</offair>
+      <header>no</header>
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/28611/</more-info>
+      <reference group="28611" material="028611-0001" title="Táknmálstúlkaðar fréttir" />
+      <details id="28611">
+        <series-title>Táknmálstúlkaðar fréttir</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Táknmálstúlkaðar kvöldfréttir í tilefni af degi táknmálsins.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+  </service>
+</schedule>
