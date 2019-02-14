@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2019-02-14 23:39" saved-by="Kringla 3.1" xml-version="2.8.0">
+  <service service-id="10" service-name="RÚV 2" date="2019-01-18">
+    <event event-id="5013935" serie-id="28117" start-time="2019-01-18 17:03:00" duration="00:50:00" mark="no">
+      <title>Lestarklefinn</title>
+      <original-title>Ó hve hljótt, Mið Ísland og tónleikar Sinfóníuhljómsveitar Íslands og</original-title>
+      <description><![CDATA[Umræðuþáttur um menningu og listir. Umsjónarmenn eru Guðni Tómasson, Guðrún Sóley Gestsdóttir, Bergsteinn Sigurðsson og Anna Gyða Sigurgísladóttir.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <offair>no</offair>
+      <header>no</header>
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>4:3</size>
+        <anamorphic>no</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="14">Menning</category>
+      <more-info>http://dagskra.ruv.is/nanar/28117/</more-info>
+      <reference group="28117" material="028117-0013" title="Lestarklefinn" />
+      <details id="28117">
+        <series-title>Lestarklefinn</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Umræðuþáttur um menningu og listir. Umsjónarmenn eru Guðni Tómasson, Guðrún Sóley Gestsdóttir, Bergsteinn Sigurðsson og Anna Gyða Sigurgísladóttir.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Rætt verður um myndlistarsýninguna Ó, hve hljótt sem nú er uppi Gerðarsafni, uppistandssýningu Mið-Íslands í Þjóðleikhúskjallaranum og tónleika Sinfóníuhljómsveitar Íslands og ungra einleikara.</p>
+          <p>Gestir Lestarklefans eru Fjóla Dögg Sverrisdóttir framkvæmdastjóri Listahátíðar í Reykjavík, Hekla Dögg Jónsdóttir myndlistarkona og Kristinn Schram dósent í þjóðfræði við Háskóla Íslands.</p>
+          <p>Umsjón: Guðni Tómasson.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+  </service>
+</schedule>
