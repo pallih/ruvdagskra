@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2019-02-14 23:39" saved-by="Kringla 3.1" xml-version="2.8.0">
+  <service service-id="10" service-name="RÚV 2" date="2019-01-19">
+    <event event-id="5013446" serie-id="28061" start-time="2019-01-19 16:50:00" duration="01:45:00" mark="no">
+      <title>Túnis - Svíþjóð</title>
+      <original-title>HM í handbolta</original-title>
+      <description><![CDATA[Bein útsending frá leik Túnis og Svíþjóðar í milliriðli á HM karla í handbolta.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <offair>no</offair>
+      <header>no</header>
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="5">Íþróttir</category>
+      <more-info>http://dagskra.ruv.is/nanar/28061/</more-info>
+      <reference group="28061" material="028061-0030" title="HM í handbolta" />
+      <details id="28061">
+        <series-title>HM í handbolta</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Beinar útsendingar frá HM karla í handbolta.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Bein útsending frá leik Túnis og Svíþjóðar í milliriðli á HM karla í handbolta.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+  </service>
+</schedule>
