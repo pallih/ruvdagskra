@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2019-02-14 23:39" saved-by="Kringla 3.1" xml-version="2.8.0">
+  <service service-id="10" service-name="RÚV 2" date="2019-01-17">
+    <event event-id="5017968" serie-id="27721" start-time="2019-01-17 17:50:00" duration="00:08:13" mark="no">
+      <title>Táknmálsfréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <offair>no</offair>
+      <header>no</header>
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttaefni</category>
+      <more-info>http://dagskra.ruv.is/nanar/23884/</more-info>
+      <reference group="23884" material="027721-0017" title="Táknmálsfréttir" />
+      <details id="23884">
+        <series-title>Táknmálsfréttir</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Táknmálsfréttir sjónvarps.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="5012856" serie-id="" start-time="2019-01-17 18:00:00" duration="00:50:00" mark="no">
+      <title>KrakkaRÚV</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="no" />
+      <offair>no</offair>
+      <header>yes</header>
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <reference group="" material="5012856" title="KrakkaRÚV" />
+    </event>
+    <event event-id="5012857" serie-id="26172" start-time="2019-01-17 18:01:00" duration="00:22:05" mark="yes">
+      <title>Anna og vélmennin</title>
+      <original-title>Annedroids</original-title>
+      <description><![CDATA[Anna er 11 ára uppfinningastelpa sem býr til alls konar vélmenni og gerir skemmtilegar tilraunir. Hún lendir í mörgum ævintýrum með vinum sínum þegar þau reyna að halda vélmennunum hennar leyndum.]]></description>
+      <short-description />
+      <rating />
+      <episode number="20" number-of-episodes="26" multiple-episodes="yes" />
+      <offair>no</offair>
+      <header>no</header>
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/26172/</more-info>
+      <reference group="26172" material="026172-0020" title="Anna og vélmennin" />
+      <details id="26172">
+        <series-title>Anna og vélmennin</series-title>
+        <series-original-title>Annedroids</series-original-title>
+        <series-description>
+          <p>Anna er 11 ára uppfinningastelpa sem býr til alls konar vélmenni og gerir skemmtilegar tilraunir. Hún lendir í mörgum ævintýrum með vinum sínum þegar þau reyna að halda vélmennunum hennar leyndum.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="5012858" serie-id="27299" start-time="2019-01-17 18:23:00" duration="00:15:28" mark="yes">
+      <title>Bitið, brennt og stungið</title>
+      <original-title>Bidt, brændt og stukket II</original-title>
+      <description><![CDATA[Hvað ætli gerist þegar hin og þessi skordýr bíta fólk og stinga? Sebastian Klein ferðast um sveitir Danmerkur og lætur bíta sig, brenna og stinga til að komast að því.]]></description>
+      <short-description />
+      <rating />
+      <episode number="4" number-of-episodes="10" multiple-episodes="yes" />
+      <offair>no</offair>
+      <header>no</header>
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/27299/</more-info>
+      <reference group="27299" material="027299-0004" title="Bitið, brennt og stungið" />
+      <details id="27299">
+        <series-title>Bitið, brennt og stungið</series-title>
+        <series-original-title>Bidt, brændt og stukket II</series-original-title>
+        <series-description>
+          <p>Hvað ætli gerist þegar hin og þessi skordýr bíta fólk og stinga? Sebastian Klein ferðast um sveitir Danmerkur og lætur bíta sig, brenna og stinga til að komast að því.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="5016833" serie-id="27303" start-time="2019-01-17 18:38:00" duration="00:11:58" mark="yes">
+      <title>Strandverðirnir II</title>
+      <original-title>Livredderne Sería 2</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="2" number-of-episodes="15" multiple-episodes="yes" />
+      <offair>no</offair>
+      <header>no</header>
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/27303/</more-info>
+      <reference group="27303" material="027303-0002" title="Strandverðirnir" />
+      <details id="27303">
+        <series-title>Strandverðirnir</series-title>
+        <series-original-title>Livredderne II</series-original-title>
+        <series-description>
+          <p>Önnur sería af þessari skemmtilegu keppni þar sem danskir krakkar reyna á hæfileika sína á ströndinni og í vatninu í æsispennandi keppni um besta strandvörðinn.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="5016900" serie-id="23307" start-time="2019-01-17 18:48:00" duration="00:04:05" mark="yes">
+      <title>Tords garasj</title>
+      <original-title>Tords garasj</original-title>
+      <description><![CDATA[Tord rannsakar allt milli himins og jarðar og það kennir ýmissa grasa í bílskúrnum hans.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <offair>no</offair>
+      <header>no</header>
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/23307/</more-info>
+      <reference group="23307" material="023307-0005" title="Bílskúrsbras" />
+      <details id="23307">
+        <series-title>Bílskúrsbras</series-title>
+        <series-original-title>Tords garasj</series-original-title>
+        <series-description>
+          <p>Tord rannsakar allt milli himins og jarðar og það kennir ýmissa grasa í bílskúrnum hans.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="5013281" serie-id="27815" start-time="2019-01-17 18:50:00" duration="00:05:44" mark="no">
+      <title>Krakkafréttir</title>
+      <original-title>17. janúar 2019</original-title>
+      <description><![CDATA[Fréttaþáttur fyrir börn á aldrinum 8-12 ára. Umsjón: Ísgerður Elfa Gunnarsdóttir og Sævar Helgi Bragason.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <offair>no</offair>
+      <header>no</header>
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <more-info>http://dagskra.ruv.is/nanar/24081/</more-info>
+      <reference group="24081" material="027815-0010" title="Krakkafréttir" />
+      <details id="24081">
+        <series-title>Krakkafréttir</series-title>
+        <series-original-title />
+        <sub-series-title>Krakkafréttir</sub-series-title>
+        <series-description>
+          <p>Fréttaþáttur fyrir börn á aldrinum 8-12 ára. Umsjón: Ísgerður Elfa Gunnarsdóttir og Sævar Helgi Bragason.</p>
+        </series-description>
+        <series-short-description>
+          <p>Fréttaþáttur fyrir börn á aldrinum 8-12 ára.  Umsjón: Ísgerður Elfa Gunnarsdóttir og Sævar Helgi Bragason.</p>
+        </series-short-description>
+        <episode-description>
+          <p>Sérstakur umræðuþáttur um HM karla í handbolta sem fram fer í Þýskalandi og Danmörku. Rætt er við fróða handboltakrakka um gengi Íslands á mótinu, næstu leiki og hvaða þjóð verður heimsmeistari í ár.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+    <event event-id="5013445" serie-id="28061" start-time="2019-01-17 19:05:00" duration="01:45:00" mark="no">
+      <title>Danmörk - Noregur</title>
+      <original-title>HM í handbolta</original-title>
+      <description><![CDATA[Bein útsending frá leik Danmerkur og Noregs á HM karla í handbolta.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" multiple-episodes="yes" />
+      <offair>no</offair>
+      <header>no</header>
+      <subevent>no</subevent>
+      <live>yes</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="5">Íþróttir</category>
+      <more-info>http://dagskra.ruv.is/nanar/28061/</more-info>
+      <reference group="28061" material="028061-0029" title="HM í handbolta" />
+      <details id="28061">
+        <series-title>HM í handbolta</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Beinar útsendingar frá HM karla í handbolta.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description>
+          <p>Bein útsending frá leik Danmerkur og Noregs á HM karla í handbolta.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <credits />
+    </event>
+  </service>
+</schedule>
